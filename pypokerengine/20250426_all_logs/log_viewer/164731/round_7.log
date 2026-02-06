@@ -1,0 +1,1812 @@
+🎲 Texas Hold'em Poker Game Log 7 🎲
+==================================================
+
+📊 Detailed Game Log:
+==================================================
+
+🔄 Round 1
+----------------------------------------
+Initial State:
+👤 Zheng           | [♣️ 3] [♦️ A]        | 💰  1000
+👤 RaphaelPlayer   | [♥️ 5] [♦️ 2]        | 💰   995
+👤 EvanPlayer      | [♥️ K] [♣️ 2]        | 💰   990
+👤 ZheyuX          | [♦️ 8] [♣️ 9]        | 💰  1000
+👤 KLChen2PokerPlayer | [♠️ T] [♥️ 9]        | 💰  1000
+
+🎴 PREFLOP
+Board: [  ]
+  ZheyuX          | [♦️ 8] [♣️ 9] |   19.00% | ✅ call:$10
+  KLChen2PokerPlayer | [♠️ T] [♥️ 9] |   26.50% | ✅ call:$10
+  Zheng           | [♣️ 3] [♦️ A] |   27.10% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 5] [♦️ 2] |   11.20% | ❌ fold
+  EvanPlayer      | [♥️ K] [♣️ 2] |   19.90% | ❌ fold:$10
+
+🎴 FLOP
+Board: [ [♠️ 5] [♠️ Q] [♣️ T] ]
+  ZheyuX          | [♦️ 8] [♣️ 9] |   15.70% | ✅ call
+  KLChen2PokerPlayer | [♠️ T] [♥️ 9] |   72.30% | ⬆️ raise:$39
+  Zheng           | [♣️ 3] [♦️ A] |   12.80% | ❌ fold
+  ZheyuX          | [♦️ 8] [♣️ 9] |   17.40% | ✅ call:$39
+
+🎴 TURN
+Board: [ [♠️ 5] [♠️ Q] [♣️ T] [♥️ J] ]
+  ZheyuX          | [♦️ 8] [♣️ 9] |  100.00% | ⬆️ raise:$10
+  KLChen2PokerPlayer | [♠️ T] [♥️ 9] |   16.90% | ✅ call:$10
+
+🎴 RIVER
+Board: [ [♠️ 5] [♠️ Q] [♣️ T] [♥️ J] [♦️ 5] ]
+  ZheyuX          | [♦️ 8] [♣️ 9] |  100.00% | ⬆️ raise:$10
+  KLChen2PokerPlayer | [♠️ T] [♥️ 9] |    0.00% | ✅ call:$10
+
+🏆 Winner: ZheyuX
+Final Stacks:
+  Zheng          : $   990 📉 (-10)
+  RaphaelPlayer  : $   995 ➡️ (+0)
+  EvanPlayer     : $   990 ➡️ (+0)
+  ZheyuX         : $  1094 📈 (+94)
+  KLChen2PokerPlayer: $   931 📉 (-69)
+----------------------------------------
+
+🔄 Round 2
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ 6] [♣️ 8]        | 💰   990
+👤 RaphaelPlayer   | [♥️ 9] [♠️ 8]        | 💰   995
+👤 EvanPlayer      | [♠️ A] [♦️ T]        | 💰   985
+👤 ZheyuX          | [♥️ A] [♣️ 4]        | 💰  1084
+👤 KLChen2PokerPlayer | [♥️ 7] [♠️ T]        | 💰   931
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♥️ 7] [♠️ T] |   15.20% | ✅ call:$10
+  Zheng           | [♥️ 6] [♣️ 8] |   18.90% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 9] [♠️ 8] |   25.70% | ❌ fold
+  EvanPlayer      | [♠️ A] [♦️ T] |   35.60% | ❌ fold:$10
+  ZheyuX          | [♥️ A] [♣️ 4] |   40.90% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 4] [♠️ 2] [♥️ 5] ]
+  ZheyuX          | [♥️ A] [♣️ 4] |   43.90% | ⬆️ raise:$10
+  KLChen2PokerPlayer | [♥️ 7] [♠️ T] |   17.80% | ❌ fold
+  Zheng           | [♥️ 6] [♣️ 8] |   48.50% | ✅ call:$10
+
+🎴 TURN
+Board: [ [♠️ 4] [♠️ 2] [♥️ 5] [♣️ 3] ]
+  ZheyuX          | [♥️ A] [♣️ 4] |    7.30% | ⬆️ raise:$10
+  Zheng           | [♥️ 6] [♣️ 8] |  100.00% | ⬆️ raise:$970
+  ZheyuX          | [♥️ A] [♣️ 4] |    7.30% | ✅ call:$970
+
+🎴 RIVER
+Board: [ [♠️ 4] [♠️ 2] [♥️ 5] [♣️ 3] [♥️ 8] ]
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  1995 📈 (+1005)
+  RaphaelPlayer  : $   995 ➡️ (+0)
+  EvanPlayer     : $   985 ➡️ (+0)
+  ZheyuX         : $   104 📉 (-980)
+  KLChen2PokerPlayer: $   921 📉 (-10)
+----------------------------------------
+
+🔄 Round 3
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ T] [♠️ 6]        | 💰  1995
+👤 RaphaelPlayer   | [♠️ 2] [♦️ K]        | 💰   995
+👤 EvanPlayer      | [♥️ Q] [♥️ 7]        | 💰   985
+👤 ZheyuX          | [♠️ 8] [♠️ K]        | 💰    99
+👤 KLChen2PokerPlayer | [♥️ 9] [♦️ Q]        | 💰   911
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♦️ T] [♠️ 6] |   23.90% | ✅ call:$10
+  RaphaelPlayer   | [♠️ 2] [♦️ K] |   12.40% | ❌ fold
+  EvanPlayer      | [♥️ Q] [♥️ 7] |   17.90% | ❌ fold:$10
+  ZheyuX          | [♠️ 8] [♠️ K] |   42.10% | ✅ call:$10
+  KLChen2PokerPlayer | [♥️ 9] [♦️ Q] |   36.80% | ⬆️ raise:$19
+  Zheng           | [♦️ T] [♠️ 6] |   22.10% | ❌ fold
+  ZheyuX          | [♠️ 8] [♠️ K] |   60.80% | ⬆️ raise:$28
+  KLChen2PokerPlayer | [♥️ 9] [♦️ Q] |   39.60% | ❌ fold
+
+🏆 Winner: ZheyuX
+Final Stacks:
+  Zheng          : $  1985 📉 (-10)
+  RaphaelPlayer  : $   995 ➡️ (+0)
+  EvanPlayer     : $   985 ➡️ (+0)
+  ZheyuX         : $   133 📈 (+34)
+  KLChen2PokerPlayer: $   902 📉 (-9)
+----------------------------------------
+
+🔄 Round 4
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ J] [♦️ K]        | 💰  1975
+👤 RaphaelPlayer   | [♦️ 8] [♥️ 6]        | 💰   995
+👤 EvanPlayer      | [♠️ 7] [♣️ T]        | 💰   985
+👤 ZheyuX          | [♥️ 9] [♣️ 3]        | 💰   133
+👤 KLChen2PokerPlayer | [♣️ J] [♦️ 6]        | 💰   897
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♦️ 8] [♥️ 6] |   15.40% | ❌ fold
+  EvanPlayer      | [♠️ 7] [♣️ T] |   25.20% | ❌ fold:$10
+  ZheyuX          | [♥️ 9] [♣️ 3] |   28.80% | ✅ call:$10
+  KLChen2PokerPlayer | [♣️ J] [♦️ 6] |   20.20% | ⬆️ raise:$15
+  Zheng           | [♦️ J] [♦️ K] |   54.60% | ✅ call:$15
+  ZheyuX          | [♥️ 9] [♣️ 3] |   28.80% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♣️ A] [♥️ 5] [♠️ 5] ]
+  KLChen2PokerPlayer | [♣️ J] [♦️ 6] |   23.60% | ✅ call
+  Zheng           | [♦️ J] [♦️ K] |   67.00% | ✅ call
+  ZheyuX          | [♥️ 9] [♣️ 3] |   26.60% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ A] [♥️ 5] [♠️ 5] [♣️ 6] ]
+  KLChen2PokerPlayer | [♣️ J] [♦️ 6] |   85.10% | ✅ call
+  Zheng           | [♦️ J] [♦️ K] |    7.20% | ✅ call
+  ZheyuX          | [♥️ 9] [♣️ 3] |    7.70% | ❌ fold
+
+🎴 RIVER
+Board: [ [♣️ A] [♥️ 5] [♠️ 5] [♣️ 6] [♦️ 4] ]
+  KLChen2PokerPlayer | [♣️ J] [♦️ 6] |  100.00% | ⬆️ raise:$191
+  Zheng           | [♦️ J] [♦️ K] |    0.00% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  1970 📉 (-5)
+  RaphaelPlayer  : $   995 ➡️ (+0)
+  EvanPlayer     : $   985 ➡️ (+0)
+  ZheyuX         : $   118 📉 (-15)
+  KLChen2PokerPlayer: $   932 📈 (+35)
+----------------------------------------
+
+🔄 Round 5
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ K] [♠️ T]        | 💰  1965
+👤 RaphaelPlayer   | [♥️ 8] [♣️ 6]        | 💰   985
+👤 EvanPlayer      | [♠️ 7] [♠️ 9]        | 💰   985
+👤 ZheyuX          | [♣️ 5] [♠️ 6]        | 💰   118
+👤 KLChen2PokerPlayer | [♦️ 8] [♦️ 7]        | 💰   932
+
+🎴 PREFLOP
+Board: [  ]
+  EvanPlayer      | [♠️ 7] [♠️ 9] |   19.20% | ❌ fold:$10
+  ZheyuX          | [♣️ 5] [♠️ 6] |   18.00% | ✅ call:$10
+  KLChen2PokerPlayer | [♦️ 8] [♦️ 7] |   29.50% | ⬆️ raise:$15
+  Zheng           | [♥️ K] [♠️ T] |   45.60% | ✅ call:$15
+  RaphaelPlayer   | [♥️ 8] [♣️ 6] |   15.30% | ❌ fold
+  ZheyuX          | [♣️ 5] [♠️ 6] |   21.80% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♣️ Q] [♠️ 8] [♣️ 7] ]
+  Zheng           | [♥️ K] [♠️ T] |    6.20% | ✅ call
+  ZheyuX          | [♣️ 5] [♠️ 6] |   31.70% | ✅ call
+  KLChen2PokerPlayer | [♦️ 8] [♦️ 7] |   62.10% | ⬆️ raise:$35
+  Zheng           | [♥️ K] [♠️ T] |    6.20% | ❌ fold
+  ZheyuX          | [♣️ 5] [♠️ 6] |   32.10% | ⬆️ raise:$70
+  KLChen2PokerPlayer | [♦️ 8] [♦️ 7] |   67.90% | ✅ call:$70
+
+🎴 TURN
+Board: [ [♣️ Q] [♠️ 8] [♣️ 7] [♥️ 4] ]
+  ZheyuX          | [♣️ 5] [♠️ 6] |   92.00% | ⬆️ raise:$10
+  KLChen2PokerPlayer | [♦️ 8] [♦️ 7] |    8.00% | ⬆️ raise:$325
+  ZheyuX          | [♣️ 5] [♠️ 6] |   92.00% | ✅ call:$325
+
+🎴 RIVER
+Board: [ [♣️ Q] [♠️ 8] [♣️ 7] [♥️ 4] [♦️ K] ]
+
+🏆 Winner: ZheyuX
+Final Stacks:
+  Zheng          : $  1955 📉 (-10)
+  RaphaelPlayer  : $   985 ➡️ (+0)
+  EvanPlayer     : $   985 ➡️ (+0)
+  ZheyuX         : $   261 📈 (+143)
+  KLChen2PokerPlayer: $   814 📉 (-118)
+----------------------------------------
+
+🔄 Round 6
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ 9] [♥️ 5]        | 💰  1955
+👤 RaphaelPlayer   | [♠️ 9] [♥️ A]        | 💰   980
+👤 EvanPlayer      | [♥️ 2] [♥️ T]        | 💰   975
+👤 ZheyuX          | [♥️ Q] [♦️ J]        | 💰   261
+👤 KLChen2PokerPlayer | [♥️ 4] [♣️ J]        | 💰   814
+
+🎴 PREFLOP
+Board: [  ]
+  ZheyuX          | [♥️ Q] [♦️ J] |   28.70% | ✅ call:$10
+  KLChen2PokerPlayer | [♥️ 4] [♣️ J] |   11.60% | ❌ fold
+  Zheng           | [♦️ 9] [♥️ 5] |   13.90% | ✅ call:$10
+  RaphaelPlayer   | [♠️ 9] [♥️ A] |   30.30% | ⬆️ raise:$30
+  EvanPlayer      | [♥️ 2] [♥️ T] |   20.80% | ❌ fold:$30
+  ZheyuX          | [♥️ Q] [♦️ J] |   40.10% | ✅ call:$30
+  Zheng           | [♦️ 9] [♥️ 5] |   18.40% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ Q] [♠️ K] [♦️ 5] ]
+  RaphaelPlayer   | [♠️ 9] [♥️ A] |   11.00% | ✅ call
+  ZheyuX          | [♥️ Q] [♦️ J] |   89.00% | ⬆️ raise:$10
+  RaphaelPlayer   | [♠️ 9] [♥️ A] |   11.00% | ✅ call:$10
+
+🎴 TURN
+Board: [ [♣️ Q] [♠️ K] [♦️ 5] [♣️ T] ]
+  RaphaelPlayer   | [♠️ 9] [♥️ A] |    6.20% | ⬆️ raise:$110
+  ZheyuX          | [♥️ Q] [♦️ J] |   93.80% | ⬆️ raise:$220
+  RaphaelPlayer   | [♠️ 9] [♥️ A] |    6.20% | ❌ fold
+
+🏆 Winner: ZheyuX
+Final Stacks:
+  Zheng          : $  1945 📉 (-10)
+  RaphaelPlayer  : $   835 📉 (-145)
+  EvanPlayer     : $   975 ➡️ (+0)
+  ZheyuX         : $   431 📈 (+170)
+  KLChen2PokerPlayer: $   814 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 7
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ 6] [♥️ 3]        | 💰  1945
+👤 RaphaelPlayer   | [♦️ 3] [♥️ Q]        | 💰   835
+👤 EvanPlayer      | [♠️ A] [♠️ T]        | 💰   970
+👤 ZheyuX          | [♣️ A] [♥️ A]        | 💰   421
+👤 KLChen2PokerPlayer | [♥️ 5] [♣️ 9]        | 💰   814
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♥️ 5] [♣️ 9] |   11.20% | ⬆️ raise:$18
+  Zheng           | [♦️ 6] [♥️ 3] |   10.70% | ❌ fold
+  RaphaelPlayer   | [♦️ 3] [♥️ Q] |   12.10% | ❌ fold
+  EvanPlayer      | [♠️ A] [♠️ T] |   13.70% | ⬆️ raise:$975
+  ZheyuX          | [♣️ A] [♥️ A] |   75.20% | ✅ call:$975
+  KLChen2PokerPlayer | [♥️ 5] [♣️ 9] |   12.60% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ T] [♠️ Q] [♠️ J] ]
+
+🎴 TURN
+Board: [ [♥️ T] [♠️ Q] [♠️ J] [♥️ K] ]
+
+🎴 RIVER
+Board: [ [♥️ T] [♠️ Q] [♠️ J] [♥️ K] [♣️ 3] ]
+
+🏆 Winner: EvanPlayer', 'ZheyuX
+Final Stacks:
+  Zheng          : $  1945 ➡️ (+0)
+  RaphaelPlayer  : $   835 ➡️ (+0)
+  EvanPlayer     : $   984 📈 (+14)
+  ZheyuX         : $   440 📈 (+19)
+  KLChen2PokerPlayer: $   796 📉 (-18)
+----------------------------------------
+
+🔄 Round 8
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ 6] [♣️ 3]        | 💰  1945
+👤 RaphaelPlayer   | [♣️ T] [♣️ 6]        | 💰   835
+👤 EvanPlayer      | [♥️ J] [♥️ Q]        | 💰   984
+👤 ZheyuX          | [♣️ A] [♦️ 4]        | 💰   435
+👤 KLChen2PokerPlayer | [♥️ 6] [♦️ T]        | 💰   786
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♦️ 6] [♣️ 3] |   13.40% | ✅ call:$10
+  RaphaelPlayer   | [♣️ T] [♣️ 6] |   15.30% | ✅ call:$10
+  EvanPlayer      | [♥️ J] [♥️ Q] |   40.30% | ❌ fold:$10
+  ZheyuX          | [♣️ A] [♦️ 4] |   57.50% | ✅ call:$10
+  KLChen2PokerPlayer | [♥️ 6] [♦️ T] |   25.90% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 9] [♣️ J] [♦️ A] ]
+  ZheyuX          | [♣️ A] [♦️ 4] |   88.80% | ⬆️ raise:$10
+  KLChen2PokerPlayer | [♥️ 6] [♦️ T] |    6.20% | ❌ fold
+  Zheng           | [♦️ 6] [♣️ 3] |    1.10% | ✅ call:$10
+  RaphaelPlayer   | [♣️ T] [♣️ 6] |   10.00% | ❌ fold
+
+🎴 TURN
+Board: [ [♠️ 9] [♣️ J] [♦️ A] [♦️ Q] ]
+  ZheyuX          | [♣️ A] [♦️ 4] |  100.00% | ⬆️ raise:$10
+  Zheng           | [♦️ 6] [♣️ 3] |    0.00% | ✅ call:$10
+
+🎴 RIVER
+Board: [ [♠️ 9] [♣️ J] [♦️ A] [♦️ Q] [♣️ 8] ]
+  ZheyuX          | [♣️ A] [♦️ 4] |  100.00% | ⬆️ raise:$10
+  Zheng           | [♦️ 6] [♣️ 3] |    0.00% | ✅ call:$10
+
+🏆 Winner: ZheyuX
+Final Stacks:
+  Zheng          : $  1905 📉 (-40)
+  RaphaelPlayer  : $   825 📉 (-10)
+  EvanPlayer     : $   984 ➡️ (+0)
+  ZheyuX         : $   500 📈 (+65)
+  KLChen2PokerPlayer: $   786 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 9
+----------------------------------------
+Initial State:
+👤 Zheng           | [♠️ K] [♠️ 5]        | 💰  1895
+👤 RaphaelPlayer   | [♥️ 5] [♦️ 4]        | 💰   825
+👤 EvanPlayer      | [♣️ 7] [♦️ K]        | 💰   984
+👤 ZheyuX          | [♦️ 8] [♦️ 2]        | 💰   500
+👤 KLChen2PokerPlayer | [♥️ T] [♣️ 2]        | 💰   781
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♥️ 5] [♦️ 4] |   16.90% | ❌ fold
+  EvanPlayer      | [♣️ 7] [♦️ K] |   34.40% | ⬆️ raise:$984
+  ZheyuX          | [♦️ 8] [♦️ 2] |   23.90% | ❌ fold
+  KLChen2PokerPlayer | [♥️ T] [♣️ 2] |   31.70% | ❌ fold
+  Zheng           | [♠️ K] [♠️ 5] |   54.20% | ❌ fold
+
+🏆 Winner: EvanPlayer
+Final Stacks:
+  Zheng          : $  1895 ➡️ (+0)
+  RaphaelPlayer  : $   825 ➡️ (+0)
+  EvanPlayer     : $   999 📈 (+15)
+  ZheyuX         : $   500 ➡️ (+0)
+  KLChen2PokerPlayer: $   781 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 10
+----------------------------------------
+Initial State:
+👤 Zheng           | [♣️ 5] [♥️ T]        | 💰  1890
+👤 RaphaelPlayer   | [♠️ 3] [♦️ 3]        | 💰   815
+👤 EvanPlayer      | [♠️ 7] [♥️ A]        | 💰   999
+👤 ZheyuX          | [♠️ 6] [♦️ 4]        | 💰   500
+👤 KLChen2PokerPlayer | [♠️ A] [♣️ K]        | 💰   781
+
+🎴 PREFLOP
+Board: [  ]
+  EvanPlayer      | [♠️ 7] [♥️ A] |   14.10% | ❌ fold:$10
+  ZheyuX          | [♠️ 6] [♦️ 4] |   22.90% | ✅ call:$10
+  KLChen2PokerPlayer | [♠️ A] [♣️ K] |   34.40% | ⬆️ raise:$16
+  Zheng           | [♣️ 5] [♥️ T] |   22.10% | ❌ fold
+  RaphaelPlayer   | [♠️ 3] [♦️ 3] |   26.90% | ✅ call:$16
+  ZheyuX          | [♠️ 6] [♦️ 4] |   30.80% | ✅ call:$16
+
+🎴 FLOP
+Board: [ [♠️ 8] [♥️ 6] [♣️ Q] ]
+  RaphaelPlayer   | [♠️ 3] [♦️ 3] |   10.40% | ✅ call
+  ZheyuX          | [♠️ 6] [♦️ 4] |   66.40% | ✅ call
+  KLChen2PokerPlayer | [♠️ A] [♣️ K] |   23.20% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 8] [♥️ 6] [♣️ Q] [♠️ 4] ]
+  RaphaelPlayer   | [♠️ 3] [♦️ 3] |    5.80% | ✅ call
+  ZheyuX          | [♠️ 6] [♦️ 4] |   94.20% | ⬆️ raise:$10
+  KLChen2PokerPlayer | [♠️ A] [♣️ K] |    0.00% | ❌ fold
+  RaphaelPlayer   | [♠️ 3] [♦️ 3] |    5.60% | ✅ call:$10
+
+🎴 RIVER
+Board: [ [♠️ 8] [♥️ 6] [♣️ Q] [♠️ 4] [♦️ 6] ]
+  RaphaelPlayer   | [♠️ 3] [♦️ 3] |    0.00% | ✅ call
+  ZheyuX          | [♠️ 6] [♦️ 4] |  100.00% | ⬆️ raise:$10
+  RaphaelPlayer   | [♠️ 3] [♦️ 3] |    0.00% | ✅ call:$10
+
+🏆 Winner: ZheyuX
+Final Stacks:
+  Zheng          : $  1890 ➡️ (+0)
+  RaphaelPlayer  : $   789 📉 (-26)
+  EvanPlayer     : $   999 ➡️ (+0)
+  ZheyuX         : $   557 📈 (+57)
+  KLChen2PokerPlayer: $   765 📉 (-16)
+----------------------------------------
+
+🔄 Round 11
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ 7] [♥️ 3]        | 💰  1890
+👤 RaphaelPlayer   | [♣️ K] [♠️ 2]        | 💰   784
+👤 EvanPlayer      | [♠️ T] [♦️ J]        | 💰   989
+👤 ZheyuX          | [♦️ 7] [♠️ 6]        | 💰   557
+👤 KLChen2PokerPlayer | [♠️ A] [♦️ 5]        | 💰   765
+
+🎴 PREFLOP
+Board: [  ]
+  ZheyuX          | [♦️ 7] [♠️ 6] |   16.40% | ❌ fold
+  KLChen2PokerPlayer | [♠️ A] [♦️ 5] |   26.20% | ⬆️ raise:$18
+  Zheng           | [♥️ 7] [♥️ 3] |   25.60% | ❌ fold
+  RaphaelPlayer   | [♣️ K] [♠️ 2] |   26.50% | ❌ fold
+  EvanPlayer      | [♠️ T] [♦️ J] |   43.70% | ❌ fold:$18
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  1890 ➡️ (+0)
+  RaphaelPlayer  : $   784 ➡️ (+0)
+  EvanPlayer     : $   989 ➡️ (+0)
+  ZheyuX         : $   557 ➡️ (+0)
+  KLChen2PokerPlayer: $   780 📈 (+15)
+----------------------------------------
+
+🔄 Round 12
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ 2] [♠️ 5]        | 💰  1890
+👤 RaphaelPlayer   | [♣️ 7] [♥️ T]        | 💰   784
+👤 EvanPlayer      | [♣️ 8] [♠️ Q]        | 💰   984
+👤 ZheyuX          | [♦️ J] [♠️ J]        | 💰   547
+👤 KLChen2PokerPlayer | [♣️ Q] [♠️ T]        | 💰   780
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♣️ Q] [♠️ T] |   16.80% | ⬆️ raise:$15
+  Zheng           | [♥️ 2] [♠️ 5] |   15.50% | ✅ call:$15
+  RaphaelPlayer   | [♣️ 7] [♥️ T] |   11.80% | ❌ fold
+  EvanPlayer      | [♣️ 8] [♠️ Q] |   12.20% | ❌ fold:$15
+  ZheyuX          | [♦️ J] [♠️ J] |   56.20% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♥️ J] [♣️ A] [♥️ 4] ]
+  ZheyuX          | [♦️ J] [♠️ J] |   69.80% | ⬆️ raise:$10
+  KLChen2PokerPlayer | [♣️ Q] [♠️ T] |   15.00% | ⬆️ raise:$20
+  Zheng           | [♥️ 2] [♠️ 5] |   15.20% | ❌ fold
+  ZheyuX          | [♦️ J] [♠️ J] |   85.80% | ⬆️ raise:$30
+  KLChen2PokerPlayer | [♣️ Q] [♠️ T] |   14.20% | ❌ fold
+
+🏆 Winner: ZheyuX
+Final Stacks:
+  Zheng          : $  1875 📉 (-15)
+  RaphaelPlayer  : $   784 ➡️ (+0)
+  EvanPlayer     : $   984 ➡️ (+0)
+  ZheyuX         : $   612 📈 (+65)
+  KLChen2PokerPlayer: $   745 📉 (-35)
+----------------------------------------
+
+🔄 Round 13
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ A] [♠️ 7]        | 💰  1875
+👤 RaphaelPlayer   | [♥️ 4] [♣️ 4]        | 💰   784
+👤 EvanPlayer      | [♥️ 5] [♥️ 8]        | 💰   984
+👤 ZheyuX          | [♥️ 2] [♣️ Q]        | 💰   607
+👤 KLChen2PokerPlayer | [♠️ A] [♦️ J]        | 💰   735
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♥️ A] [♠️ 7] |   10.30% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 4] [♣️ 4] |   22.60% | ✅ call:$10
+  EvanPlayer      | [♥️ 5] [♥️ 8] |   23.60% | ❌ fold:$10
+  ZheyuX          | [♥️ 2] [♣️ Q] |   20.40% | ✅ call:$10
+  KLChen2PokerPlayer | [♠️ A] [♦️ J] |   33.10% | ⬆️ raise:$17
+  Zheng           | [♥️ A] [♠️ 7] |   19.50% | ❌ fold
+  RaphaelPlayer   | [♥️ 4] [♣️ 4] |   43.70% | ✅ call:$17
+  ZheyuX          | [♥️ 2] [♣️ Q] |   19.40% | ✅ call:$17
+
+🎴 FLOP
+Board: [ [♣️ 8] [♥️ 7] [♠️ T] ]
+  ZheyuX          | [♥️ 2] [♣️ Q] |   11.20% | ✅ call
+  KLChen2PokerPlayer | [♠️ A] [♦️ J] |   42.30% | ⬆️ raise:$12
+  RaphaelPlayer   | [♥️ 4] [♣️ 4] |   46.50% | ✅ call:$12
+  ZheyuX          | [♥️ 2] [♣️ Q] |   11.20% | ✅ call:$12
+
+🎴 TURN
+Board: [ [♣️ 8] [♥️ 7] [♠️ T] [♦️ 9] ]
+  ZheyuX          | [♥️ 2] [♣️ Q] |    6.90% | ✅ call
+  KLChen2PokerPlayer | [♠️ A] [♦️ J] |   93.10% | ⬆️ raise:$254
+  RaphaelPlayer   | [♥️ 4] [♣️ 4] |    0.00% | ❌ fold
+  ZheyuX          | [♥️ 2] [♣️ Q] |    7.30% | ✅ call:$254
+
+🎴 RIVER
+Board: [ [♣️ 8] [♥️ 7] [♠️ T] [♦️ 9] [♠️ 4] ]
+  ZheyuX          | [♥️ 2] [♣️ Q] |    0.00% | ✅ call
+  KLChen2PokerPlayer | [♠️ A] [♦️ J] |  100.00% | ⬆️ raise:$143
+  ZheyuX          | [♥️ 2] [♣️ Q] |    0.00% | ✅ call:$143
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  1865 📉 (-10)
+  RaphaelPlayer  : $   755 📉 (-29)
+  EvanPlayer     : $   984 ➡️ (+0)
+  ZheyuX         : $   186 📉 (-421)
+  KLChen2PokerPlayer: $  1210 📈 (+475)
+----------------------------------------
+
+🔄 Round 14
+----------------------------------------
+Initial State:
+👤 Zheng           | [♣️ 7] [♦️ 5]        | 💰  1855
+👤 RaphaelPlayer   | [♦️ 2] [♣️ K]        | 💰   755
+👤 EvanPlayer      | [♠️ 2] [♦️ 3]        | 💰   984
+👤 ZheyuX          | [♥️ T] [♦️ 8]        | 💰   186
+👤 KLChen2PokerPlayer | [♠️ 6] [♣️ Q]        | 💰  1205
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♦️ 2] [♣️ K] |   22.00% | ❌ fold
+  EvanPlayer      | [♠️ 2] [♦️ 3] |   15.50% | ❌ fold:$10
+  ZheyuX          | [♥️ T] [♦️ 8] |   39.90% | ✅ call:$10
+  KLChen2PokerPlayer | [♠️ 6] [♣️ Q] |   40.00% | ⬆️ raise:$15
+  Zheng           | [♣️ 7] [♦️ 5] |   21.30% | ✅ call:$15
+  ZheyuX          | [♥️ T] [♦️ 8] |   39.90% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♥️ 6] [♦️ Q] [♥️ Q] ]
+  KLChen2PokerPlayer | [♠️ 6] [♣️ Q] |  100.00% | ⬆️ raise:$23
+  Zheng           | [♣️ 7] [♦️ 5] |    0.00% | ❌ fold
+  ZheyuX          | [♥️ T] [♦️ 8] |    0.00% | ✅ call:$23
+
+🎴 TURN
+Board: [ [♥️ 6] [♦️ Q] [♥️ Q] [♦️ T] ]
+  KLChen2PokerPlayer | [♠️ 6] [♣️ Q] |  100.00% | ⬆️ raise:$567
+  ZheyuX          | [♥️ T] [♦️ 8] |    0.00% | ✅ call:$567
+
+🎴 RIVER
+Board: [ [♥️ 6] [♦️ Q] [♥️ Q] [♦️ T] [♣️ 2] ]
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  1850 📉 (-5)
+  RaphaelPlayer  : $   755 ➡️ (+0)
+  EvanPlayer     : $   984 ➡️ (+0)
+  ZheyuX         : $     0 📉 (-186)
+  KLChen2PokerPlayer: $  1411 📈 (+206)
+----------------------------------------
+
+🔄 Round 15
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ 5] [♣️ 9]        | 💰  1845
+👤 RaphaelPlayer   | [♦️ J] [♣️ 3]        | 💰   745
+👤 EvanPlayer      | [♥️ J] [♣️ 4]        | 💰   984
+👤 KLChen2PokerPlayer | [♦️ 5] [♣️ K]        | 💰  1411
+
+🎴 PREFLOP
+Board: [  ]
+  EvanPlayer      | [♥️ J] [♣️ 4] |   26.20% | ❌ fold:$10
+  KLChen2PokerPlayer | [♦️ 5] [♣️ K] |   49.60% | ✅ call:$10
+  Zheng           | [♥️ 5] [♣️ 9] |   25.70% | ✅ call:$10
+  RaphaelPlayer   | [♦️ J] [♣️ 3] |   30.40% | ❌ fold
+
+🎴 FLOP
+Board: [ [♠️ J] [♦️ Q] [♣️ 7] ]
+  Zheng           | [♥️ 5] [♣️ 9] |   16.00% | ✅ call
+  KLChen2PokerPlayer | [♦️ 5] [♣️ K] |   84.00% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ J] [♦️ Q] [♣️ 7] [♥️ 8] ]
+  Zheng           | [♥️ 5] [♣️ 9] |   24.30% | ✅ call
+  KLChen2PokerPlayer | [♦️ 5] [♣️ K] |   75.70% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ J] [♦️ Q] [♣️ 7] [♥️ 8] [♣️ 2] ]
+  Zheng           | [♥️ 5] [♣️ 9] |    0.00% | ✅ call
+  KLChen2PokerPlayer | [♦️ 5] [♣️ K] |  100.00% | ✅ call
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  1840 📉 (-5)
+  RaphaelPlayer  : $   745 ➡️ (+0)
+  EvanPlayer     : $   984 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1431 📈 (+20)
+----------------------------------------
+
+🔄 Round 16
+----------------------------------------
+Initial State:
+👤 Zheng           | [♠️ 4] [♦️ 7]        | 💰  1840
+👤 RaphaelPlayer   | [♥️ 8] [♦️ 3]        | 💰   740
+👤 EvanPlayer      | [♠️ 7] [♥️ 6]        | 💰   974
+👤 KLChen2PokerPlayer | [♣️ 2] [♣️ 8]        | 💰  1431
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♣️ 2] [♣️ 8] |   37.20% | ❌ fold
+  Zheng           | [♠️ 4] [♦️ 7] |   30.80% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 8] [♦️ 3] |   47.40% | ❌ fold
+  EvanPlayer      | [♠️ 7] [♥️ 6] |   79.40% | ❌ fold:$10
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  1855 📈 (+15)
+  RaphaelPlayer  : $   740 ➡️ (+0)
+  EvanPlayer     : $   974 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1431 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 17
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ 5] [♥️ K]        | 💰  1855
+👤 RaphaelPlayer   | [♥️ J] [♦️ Q]        | 💰   740
+👤 EvanPlayer      | [♣️ 4] [♣️ 9]        | 💰   969
+👤 KLChen2PokerPlayer | [♥️ 3] [♣️ 8]        | 💰  1421
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♦️ 5] [♥️ K] |   25.20% | ✅ call:$10
+  RaphaelPlayer   | [♥️ J] [♦️ Q] |   33.30% | ✅ call:$10
+  EvanPlayer      | [♣️ 4] [♣️ 9] |   25.70% | ⬆️ raise:$974
+  KLChen2PokerPlayer | [♥️ 3] [♣️ 8] |   16.40% | ❌ fold
+  Zheng           | [♦️ 5] [♥️ K] |   36.50% | ❌ fold
+  RaphaelPlayer   | [♥️ J] [♦️ Q] |   62.40% | ❌ fold
+
+🏆 Winner: EvanPlayer
+Final Stacks:
+  Zheng          : $  1845 📉 (-10)
+  RaphaelPlayer  : $   730 📉 (-10)
+  EvanPlayer     : $  1004 📈 (+35)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1421 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 18
+----------------------------------------
+Initial State:
+👤 Zheng           | [♣️ 4] [♦️ 7]        | 💰  1835
+👤 RaphaelPlayer   | [♣️ K] [♥️ 8]        | 💰   730
+👤 EvanPlayer      | [♠️ T] [♠️ 5]        | 💰  1004
+👤 KLChen2PokerPlayer | [♣️ 9] [♦️ J]        | 💰  1416
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♣️ K] [♥️ 8] |   30.60% | ✅ call:$10
+  EvanPlayer      | [♠️ T] [♠️ 5] |   26.80% | ❌ fold:$10
+  KLChen2PokerPlayer | [♣️ 9] [♦️ J] |   37.20% | ⬆️ raise:$15
+  Zheng           | [♣️ 4] [♦️ 7] |   26.00% | ✅ call:$15
+  RaphaelPlayer   | [♣️ K] [♥️ 8] |   38.80% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♦️ 5] [♦️ 4] [♥️ J] ]
+  KLChen2PokerPlayer | [♣️ 9] [♦️ J] |   66.60% | ⬆️ raise:$22
+  Zheng           | [♣️ 4] [♦️ 7] |   22.50% | ❌ fold
+  RaphaelPlayer   | [♣️ K] [♥️ 8] |   13.10% | ✅ call:$22
+
+🎴 TURN
+Board: [ [♦️ 5] [♦️ 4] [♥️ J] [♣️ 8] ]
+  KLChen2PokerPlayer | [♣️ 9] [♦️ J] |   85.90% | ⬆️ raise:$274
+  RaphaelPlayer   | [♣️ K] [♥️ 8] |   14.10% | ✅ call:$274
+
+🎴 RIVER
+Board: [ [♦️ 5] [♦️ 4] [♥️ J] [♣️ 8] [♦️ 2] ]
+  KLChen2PokerPlayer | [♣️ 9] [♦️ J] |  100.00% | ⬆️ raise:$269
+  RaphaelPlayer   | [♣️ K] [♥️ 8] |    0.00% | ✅ call:$269
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  1830 📉 (-5)
+  RaphaelPlayer  : $   150 📉 (-580)
+  EvanPlayer     : $  1004 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  2016 📈 (+600)
+----------------------------------------
+
+🔄 Round 19
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ A] [♥️ 9]        | 💰  1825
+👤 RaphaelPlayer   | [♠️ Q] [♥️ 4]        | 💰   140
+👤 EvanPlayer      | [♠️ 4] [♣️ 2]        | 💰  1004
+👤 KLChen2PokerPlayer | [♥️ 6] [♣️ 9]        | 💰  2016
+
+🎴 PREFLOP
+Board: [  ]
+  EvanPlayer      | [♠️ 4] [♣️ 2] |   15.50% | ❌ fold:$10
+  KLChen2PokerPlayer | [♥️ 6] [♣️ 9] |   22.40% | ❌ fold
+  Zheng           | [♦️ A] [♥️ 9] |   66.80% | ✅ call:$10
+  RaphaelPlayer   | [♠️ Q] [♥️ 4] |   33.30% | ❌ fold
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  1840 📈 (+15)
+  RaphaelPlayer  : $   140 ➡️ (+0)
+  EvanPlayer     : $  1004 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  2016 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 20
+----------------------------------------
+Initial State:
+👤 Zheng           | [♣️ 4] [♥️ 8]        | 💰  1840
+👤 RaphaelPlayer   | [♣️ 2] [♠️ K]        | 💰   135
+👤 EvanPlayer      | [♣️ 6] [♣️ 8]        | 💰   994
+👤 KLChen2PokerPlayer | [♠️ 3] [♦️ K]        | 💰  2016
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♠️ 3] [♦️ K] |   30.50% | ⬆️ raise:$15
+  Zheng           | [♣️ 4] [♥️ 8] |   25.90% | ✅ call:$15
+  RaphaelPlayer   | [♣️ 2] [♠️ K] |   27.10% | ❌ fold
+  EvanPlayer      | [♣️ 6] [♣️ 8] |   38.20% | ❌ fold:$15
+
+🎴 FLOP
+Board: [ [♦️ A] [♥️ 7] [♣️ Q] ]
+  KLChen2PokerPlayer | [♠️ 3] [♦️ K] |   74.80% | ✅ call
+  Zheng           | [♣️ 4] [♥️ 8] |   26.40% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ A] [♥️ 7] [♣️ Q] [♦️ 6] ]
+  KLChen2PokerPlayer | [♠️ 3] [♦️ K] |   76.60% | ✅ call
+  Zheng           | [♣️ 4] [♥️ 8] |   23.40% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ A] [♥️ 7] [♣️ Q] [♦️ 6] [♦️ Q] ]
+  KLChen2PokerPlayer | [♠️ 3] [♦️ K] |  100.00% | ✅ call
+  Zheng           | [♣️ 4] [♥️ 8] |    0.00% | ✅ call
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  1825 📉 (-15)
+  RaphaelPlayer  : $   135 ➡️ (+0)
+  EvanPlayer     : $   994 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  2046 📈 (+30)
+----------------------------------------
+
+🔄 Round 21
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ 5] [♥️ 8]        | 💰  1825
+👤 RaphaelPlayer   | [♥️ K] [♣️ Q]        | 💰   135
+👤 EvanPlayer      | [♥️ T] [♣️ 5]        | 💰   989
+👤 KLChen2PokerPlayer | [♣️ 8] [♦️ A]        | 💰  2036
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♥️ 5] [♥️ 8] |   15.70% | ✅ call:$10
+  RaphaelPlayer   | [♥️ K] [♣️ Q] |   37.00% | ✅ call:$10
+  EvanPlayer      | [♥️ T] [♣️ 5] |   17.30% | ❌ fold:$10
+  KLChen2PokerPlayer | [♣️ 8] [♦️ A] |   40.00% | ⬆️ raise:$16
+  Zheng           | [♥️ 5] [♥️ 8] |   21.30% | ✅ call:$16
+  RaphaelPlayer   | [♥️ K] [♣️ Q] |   40.80% | ✅ call:$16
+
+🎴 FLOP
+Board: [ [♣️ T] [♦️ 3] [♦️ Q] ]
+  KLChen2PokerPlayer | [♣️ 8] [♦️ A] |   15.20% | ✅ call
+  Zheng           | [♥️ 5] [♥️ 8] |    0.90% | ✅ call
+  RaphaelPlayer   | [♥️ K] [♣️ Q] |   83.90% | ⬆️ raise:$63
+  KLChen2PokerPlayer | [♣️ 8] [♦️ A] |   15.20% | ❌ fold
+  Zheng           | [♥️ 5] [♥️ 8] |    1.80% | ✅ call:$63
+
+🎴 TURN
+Board: [ [♣️ T] [♦️ 3] [♦️ Q] [♠️ A] ]
+  Zheng           | [♥️ 5] [♥️ 8] |    0.00% | ✅ call
+  RaphaelPlayer   | [♥️ K] [♣️ Q] |  100.00% | ⬆️ raise:$56
+  Zheng           | [♥️ 5] [♥️ 8] |    0.00% | ✅ call:$56
+
+🎴 RIVER
+Board: [ [♣️ T] [♦️ 3] [♦️ Q] [♠️ A] [♠️ 7] ]
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $  1690 📉 (-135)
+  RaphaelPlayer  : $   291 📈 (+156)
+  EvanPlayer     : $   989 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  2030 📉 (-6)
+----------------------------------------
+
+🔄 Round 22
+----------------------------------------
+Initial State:
+👤 Zheng           | [♣️ T] [♦️ 6]        | 💰  1680
+👤 RaphaelPlayer   | [♦️ 3] [♦️ T]        | 💰   291
+👤 EvanPlayer      | [♦️ 8] [♠️ A]        | 💰   989
+👤 KLChen2PokerPlayer | [♥️ 9] [♣️ 5]        | 💰  2025
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♦️ 3] [♦️ T] |   19.40% | ❌ fold
+  EvanPlayer      | [♦️ 8] [♠️ A] |   42.80% | ❌ fold:$10
+  KLChen2PokerPlayer | [♥️ 9] [♣️ 5] |   36.10% | ✅ call:$10
+  Zheng           | [♣️ T] [♦️ 6] |   66.20% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♥️ 8] [♣️ 9] [♥️ 5] ]
+  KLChen2PokerPlayer | [♥️ 9] [♣️ 5] |   85.50% | ⬆️ raise:$25
+  Zheng           | [♣️ T] [♦️ 6] |   14.50% | ✅ call:$25
+
+🎴 TURN
+Board: [ [♥️ 8] [♣️ 9] [♥️ 5] [♠️ 7] ]
+  KLChen2PokerPlayer | [♥️ 9] [♣️ 5] |    8.90% | ⬆️ raise:$470
+  Zheng           | [♣️ T] [♦️ 6] |   91.10% | ⬆️ raise:$1655
+  KLChen2PokerPlayer | [♥️ 9] [♣️ 5] |    8.90% | ❌ fold
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  2195 📈 (+515)
+  RaphaelPlayer  : $   291 ➡️ (+0)
+  EvanPlayer     : $   989 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1525 📉 (-500)
+----------------------------------------
+
+🔄 Round 23
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ A] [♦️ 9]        | 💰  2190
+👤 RaphaelPlayer   | [♣️ 4] [♠️ T]        | 💰   281
+👤 EvanPlayer      | [♥️ 4] [♠️ 9]        | 💰   989
+👤 KLChen2PokerPlayer | [♥️ Q] [♣️ J]        | 💰  1525
+
+🎴 PREFLOP
+Board: [  ]
+  EvanPlayer      | [♥️ 4] [♠️ 9] |    5.90% | ❌ fold:$10
+  KLChen2PokerPlayer | [♥️ Q] [♣️ J] |   40.20% | ⬆️ raise:$19
+  Zheng           | [♦️ A] [♦️ 9] |   41.20% | ✅ call:$19
+  RaphaelPlayer   | [♣️ 4] [♠️ T] |   19.20% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ 6] [♥️ 2] [♣️ Q] ]
+  Zheng           | [♦️ A] [♦️ 9] |   12.50% | ✅ call
+  KLChen2PokerPlayer | [♥️ Q] [♣️ J] |   87.50% | ⬆️ raise:$33
+  Zheng           | [♦️ A] [♦️ 9] |   12.50% | ✅ call:$33
+
+🎴 TURN
+Board: [ [♣️ 6] [♥️ 2] [♣️ Q] [♣️ 9] ]
+  Zheng           | [♦️ A] [♦️ 9] |    9.80% | ✅ call
+  KLChen2PokerPlayer | [♥️ Q] [♣️ J] |   90.20% | ⬆️ raise:$420
+  Zheng           | [♦️ A] [♦️ 9] |    9.80% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  2143 📉 (-47)
+  RaphaelPlayer  : $   281 ➡️ (+0)
+  EvanPlayer     : $   989 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1587 📈 (+62)
+----------------------------------------
+
+🔄 Round 24
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ Q] [♥️ 7]        | 💰  2143
+👤 RaphaelPlayer   | [♥️ 9] [♣️ 3]        | 💰   276
+👤 EvanPlayer      | [♥️ K] [♦️ 9]        | 💰   979
+👤 KLChen2PokerPlayer | [♥️ 5] [♦️ 5]        | 💰  1587
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♥️ 5] [♦️ 5] |   31.90% | ⬆️ raise:$19
+  Zheng           | [♥️ Q] [♥️ 7] |   29.90% | ✅ call:$19
+  RaphaelPlayer   | [♥️ 9] [♣️ 3] |   10.00% | ❌ fold
+  EvanPlayer      | [♥️ K] [♦️ 9] |   36.00% | ❌ fold:$19
+
+🎴 FLOP
+Board: [ [♣️ J] [♥️ A] [♥️ T] ]
+  KLChen2PokerPlayer | [♥️ 5] [♦️ 5] |   37.60% | ⬆️ raise:$10
+  Zheng           | [♥️ Q] [♥️ 7] |   64.50% | ✅ call:$10
+
+🎴 TURN
+Board: [ [♣️ J] [♥️ A] [♥️ T] [♠️ 9] ]
+  KLChen2PokerPlayer | [♥️ 5] [♦️ 5] |   53.00% | ✅ call
+  Zheng           | [♥️ Q] [♥️ 7] |   47.00% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ J] [♥️ A] [♥️ T] [♠️ 9] [♥️ 8] ]
+  KLChen2PokerPlayer | [♥️ 5] [♦️ 5] |    0.00% | ✅ call
+  Zheng           | [♥️ Q] [♥️ 7] |  100.00% | ⬆️ raise:$2114
+  KLChen2PokerPlayer | [♥️ 5] [♦️ 5] |    0.00% | ❌ fold
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  2187 📈 (+44)
+  RaphaelPlayer  : $   276 ➡️ (+0)
+  EvanPlayer     : $   979 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1558 📉 (-29)
+----------------------------------------
+
+🔄 Round 25
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ 4] [♥️ 5]        | 💰  2187
+👤 RaphaelPlayer   | [♦️ 9] [♣️ Q]        | 💰   276
+👤 EvanPlayer      | [♣️ 5] [♦️ 8]        | 💰   974
+👤 KLChen2PokerPlayer | [♦️ 7] [♣️ 4]        | 💰  1548
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♦️ 4] [♥️ 5] |   19.00% | ✅ call:$10
+  RaphaelPlayer   | [♦️ 9] [♣️ Q] |   50.60% | ✅ call:$10
+  EvanPlayer      | [♣️ 5] [♦️ 8] |   21.10% | ❌ fold:$10
+  KLChen2PokerPlayer | [♦️ 7] [♣️ 4] |   23.10% | ❌ fold
+
+🎴 FLOP
+Board: [ [♠️ K] [♣️ J] [♠️ 6] ]
+  Zheng           | [♦️ 4] [♥️ 5] |   22.90% | ✅ call
+  RaphaelPlayer   | [♦️ 9] [♣️ Q] |   78.30% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ K] [♣️ J] [♠️ 6] [♠️ 2] ]
+  Zheng           | [♦️ 4] [♥️ 5] |   23.60% | ✅ call
+  RaphaelPlayer   | [♦️ 9] [♣️ Q] |   76.40% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ K] [♣️ J] [♠️ 6] [♠️ 2] [♣️ 8] ]
+  Zheng           | [♦️ 4] [♥️ 5] |    0.00% | ✅ call
+  RaphaelPlayer   | [♦️ 9] [♣️ Q] |  100.00% | ✅ call
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $  2177 📉 (-10)
+  RaphaelPlayer  : $   301 📈 (+25)
+  EvanPlayer     : $   974 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1548 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 26
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ K] [♣️ Q]        | 💰  2167
+👤 RaphaelPlayer   | [♥️ 4] [♥️ A]        | 💰   301
+👤 EvanPlayer      | [♠️ A] [♠️ Q]        | 💰   974
+👤 KLChen2PokerPlayer | [♥️ 3] [♦️ K]        | 💰  1543
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♥️ 4] [♥️ A] |   24.90% | ✅ call:$10
+  EvanPlayer      | [♠️ A] [♠️ Q] |   50.30% | ✅ call:$10
+  KLChen2PokerPlayer | [♥️ 3] [♦️ K] |   13.70% | ✅ call:$10
+  Zheng           | [♥️ K] [♣️ Q] |   17.20% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ 4] [♣️ 6] [♠️ K] ]
+  KLChen2PokerPlayer | [♥️ 3] [♦️ K] |   14.20% | ⬆️ raise:$30
+  Zheng           | [♥️ K] [♣️ Q] |   61.60% | ✅ call:$30
+  RaphaelPlayer   | [♥️ 4] [♥️ A] |   16.40% | ❌ fold
+  EvanPlayer      | [♠️ A] [♠️ Q] |   19.40% | ❌ fold:$30
+
+🎴 TURN
+Board: [ [♦️ 4] [♣️ 6] [♠️ K] [♦️ 2] ]
+  KLChen2PokerPlayer | [♥️ 3] [♦️ K] |   16.20% | ⬆️ raise:$727
+  Zheng           | [♥️ K] [♣️ Q] |   83.80% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  2137 📉 (-30)
+  RaphaelPlayer  : $   291 📉 (-10)
+  EvanPlayer     : $   964 📉 (-10)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1608 📈 (+65)
+----------------------------------------
+
+🔄 Round 27
+----------------------------------------
+Initial State:
+👤 Zheng           | [♠️ 9] [♠️ 7]        | 💰  2132
+👤 RaphaelPlayer   | [♠️ 5] [♣️ 4]        | 💰   281
+👤 EvanPlayer      | [♠️ 2] [♥️ 6]        | 💰   964
+👤 KLChen2PokerPlayer | [♠️ K] [♥️ T]        | 💰  1608
+
+🎴 PREFLOP
+Board: [  ]
+  EvanPlayer      | [♠️ 2] [♥️ 6] |   12.50% | ❌ fold:$10
+  KLChen2PokerPlayer | [♠️ K] [♥️ T] |   46.60% | ⬆️ raise:$19
+  Zheng           | [♠️ 9] [♠️ 7] |   30.20% | ✅ call:$19
+  RaphaelPlayer   | [♠️ 5] [♣️ 4] |   24.20% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ 3] [♦️ 9] [♥️ J] ]
+  Zheng           | [♠️ 9] [♠️ 7] |   62.50% | ✅ call
+  KLChen2PokerPlayer | [♠️ K] [♥️ T] |   37.50% | ⬆️ raise:$11
+  Zheng           | [♠️ 9] [♠️ 7] |   62.50% | ✅ call:$11
+
+🎴 TURN
+Board: [ [♣️ 3] [♦️ 9] [♥️ J] [♠️ T] ]
+  Zheng           | [♠️ 9] [♠️ 7] |   21.80% | ✅ call
+  KLChen2PokerPlayer | [♠️ K] [♥️ T] |   78.20% | ⬆️ raise:$201
+  Zheng           | [♠️ 9] [♠️ 7] |   21.80% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  2107 📉 (-25)
+  RaphaelPlayer  : $   281 ➡️ (+0)
+  EvanPlayer     : $   964 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1648 📈 (+40)
+----------------------------------------
+
+🔄 Round 28
+----------------------------------------
+Initial State:
+👤 Zheng           | [♠️ 5] [♦️ Q]        | 💰  2107
+👤 RaphaelPlayer   | [♦️ J] [♥️ 4]        | 💰   276
+👤 EvanPlayer      | [♣️ A] [♠️ 6]        | 💰   954
+👤 KLChen2PokerPlayer | [♣️ Q] [♠️ 2]        | 💰  1648
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♣️ Q] [♠️ 2] |   15.40% | ❌ fold
+  Zheng           | [♠️ 5] [♦️ Q] |   30.50% | ✅ call:$10
+  RaphaelPlayer   | [♦️ J] [♥️ 4] |   25.40% | ❌ fold
+  EvanPlayer      | [♣️ A] [♠️ 6] |   64.70% | ❌ fold:$10
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  2122 📈 (+15)
+  RaphaelPlayer  : $   276 ➡️ (+0)
+  EvanPlayer     : $   954 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1648 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 29
+----------------------------------------
+Initial State:
+👤 Zheng           | [♣️ Q] [♥️ 3]        | 💰  2122
+👤 RaphaelPlayer   | [♠️ 7] [♣️ 4]        | 💰   276
+👤 EvanPlayer      | [♣️ 9] [♦️ 3]        | 💰   949
+👤 KLChen2PokerPlayer | [♦️ J] [♦️ 4]        | 💰  1638
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♣️ Q] [♥️ 3] |   35.60% | ✅ call:$10
+  RaphaelPlayer   | [♠️ 7] [♣️ 4] |   20.70% | ❌ fold
+  EvanPlayer      | [♣️ 9] [♦️ 3] |   20.30% | ⬆️ raise:$954
+  KLChen2PokerPlayer | [♦️ J] [♦️ 4] |   41.30% | ❌ fold
+  Zheng           | [♣️ Q] [♥️ 3] |   77.50% | ❌ fold
+
+🏆 Winner: EvanPlayer
+Final Stacks:
+  Zheng          : $  2112 📉 (-10)
+  RaphaelPlayer  : $   276 ➡️ (+0)
+  EvanPlayer     : $   974 📈 (+25)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1638 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 30
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ 2] [♠️ A]        | 💰  2102
+👤 RaphaelPlayer   | [♦️ 2] [♠️ J]        | 💰   276
+👤 EvanPlayer      | [♦️ K] [♠️ Q]        | 💰   974
+👤 KLChen2PokerPlayer | [♣️ T] [♦️ 9]        | 💰  1633
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♦️ 2] [♠️ J] |   12.60% | ❌ fold
+  EvanPlayer      | [♦️ K] [♠️ Q] |   33.80% | ❌ fold:$10
+  KLChen2PokerPlayer | [♣️ T] [♦️ 9] |   44.30% | ⬆️ raise:$16
+  Zheng           | [♥️ 2] [♠️ A] |   56.10% | ✅ call:$16
+
+🎴 FLOP
+Board: [ [♣️ 3] [♥️ 3] [♥️ 6] ]
+  KLChen2PokerPlayer | [♣️ T] [♦️ 9] |   24.10% | ✅ call
+  Zheng           | [♥️ 2] [♠️ A] |   76.70% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 3] [♥️ 3] [♥️ 6] [♥️ K] ]
+  KLChen2PokerPlayer | [♣️ T] [♦️ 9] |    8.70% | ✅ call
+  Zheng           | [♥️ 2] [♠️ A] |   91.30% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 3] [♥️ 3] [♥️ 6] [♥️ K] [♥️ J] ]
+  KLChen2PokerPlayer | [♣️ T] [♦️ 9] |    0.00% | ✅ call
+  Zheng           | [♥️ 2] [♠️ A] |  100.00% | ✅ call
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  2128 📈 (+26)
+  RaphaelPlayer  : $   276 ➡️ (+0)
+  EvanPlayer     : $   974 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1622 📉 (-11)
+----------------------------------------
+
+🔄 Round 31
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ 4] [♦️ K]        | 💰  2123
+👤 RaphaelPlayer   | [♥️ 5] [♠️ J]        | 💰   266
+👤 EvanPlayer      | [♥️ K] [♦️ Q]        | 💰   974
+👤 KLChen2PokerPlayer | [♠️ 2] [♠️ K]        | 💰  1622
+
+🎴 PREFLOP
+Board: [  ]
+  EvanPlayer      | [♥️ K] [♦️ Q] |   38.70% | ❌ fold:$10
+  KLChen2PokerPlayer | [♠️ 2] [♠️ K] |   43.70% | ⬆️ raise:$21
+  Zheng           | [♥️ 4] [♦️ K] |   41.90% | ✅ call:$21
+  RaphaelPlayer   | [♥️ 5] [♠️ J] |   39.00% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ Q] [♣️ 7] [♠️ T] ]
+  Zheng           | [♥️ 4] [♦️ K] |   83.40% | ✅ call
+  KLChen2PokerPlayer | [♠️ 2] [♠️ K] |   87.50% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ Q] [♣️ 7] [♠️ T] [♠️ 4] ]
+  Zheng           | [♥️ 4] [♦️ K] |   76.80% | ✅ call
+  KLChen2PokerPlayer | [♠️ 2] [♠️ K] |   23.20% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ Q] [♣️ 7] [♠️ T] [♠️ 4] [♣️ A] ]
+  Zheng           | [♥️ 4] [♦️ K] |  100.00% | ✅ call
+  KLChen2PokerPlayer | [♠️ 2] [♠️ K] |    0.00% | ✅ call
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  2159 📈 (+36)
+  RaphaelPlayer  : $   266 ➡️ (+0)
+  EvanPlayer     : $   974 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1601 📉 (-21)
+----------------------------------------
+
+🔄 Round 32
+----------------------------------------
+Initial State:
+👤 Zheng           | [♣️ 2] [♣️ A]        | 💰  2159
+👤 RaphaelPlayer   | [♦️ T] [♦️ 6]        | 💰   261
+👤 EvanPlayer      | [♥️ 9] [♦️ 8]        | 💰   964
+👤 KLChen2PokerPlayer | [♦️ 2] [♣️ 6]        | 💰  1601
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♦️ 2] [♣️ 6] |    7.50% | ✅ call:$10
+  Zheng           | [♣️ 2] [♣️ A] |   39.60% | ✅ call:$10
+  RaphaelPlayer   | [♦️ T] [♦️ 6] |   27.40% | ❌ fold
+  EvanPlayer      | [♥️ 9] [♦️ 8] |   42.10% | ❌ fold:$10
+
+🎴 FLOP
+Board: [ [♠️ 3] [♠️ 5] [♥️ 6] ]
+  KLChen2PokerPlayer | [♦️ 2] [♣️ 6] |   89.00% | ⬆️ raise:$25
+  Zheng           | [♣️ 2] [♣️ A] |   26.80% | ✅ call:$25
+
+🎴 TURN
+Board: [ [♠️ 3] [♠️ 5] [♥️ 6] [♦️ K] ]
+  KLChen2PokerPlayer | [♦️ 2] [♣️ 6] |   94.10% | ⬆️ raise:$141
+  Zheng           | [♣️ 2] [♣️ A] |   16.30% | ✅ call:$141
+
+🎴 RIVER
+Board: [ [♠️ 3] [♠️ 5] [♥️ 6] [♦️ K] [♠️ 8] ]
+  KLChen2PokerPlayer | [♦️ 2] [♣️ 6] |  100.00% | ✅ call
+  Zheng           | [♣️ 2] [♣️ A] |    0.00% | ✅ call
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  1983 📉 (-176)
+  RaphaelPlayer  : $   261 ➡️ (+0)
+  EvanPlayer     : $   964 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1792 📈 (+191)
+----------------------------------------
+
+🔄 Round 33
+----------------------------------------
+Initial State:
+👤 Zheng           | [♣️ 9] [♦️ 7]        | 💰  1983
+👤 RaphaelPlayer   | [♥️ Q] [♣️ T]        | 💰   261
+👤 EvanPlayer      | [♣️ 7] [♥️ A]        | 💰   959
+👤 KLChen2PokerPlayer | [♠️ Q] [♣️ 2]        | 💰  1782
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♣️ 9] [♦️ 7] |   23.10% | ✅ call:$10
+  RaphaelPlayer   | [♥️ Q] [♣️ T] |   31.60% | ✅ call:$10
+  EvanPlayer      | [♣️ 7] [♥️ A] |   36.00% | ❌ fold:$10
+  KLChen2PokerPlayer | [♠️ Q] [♣️ 2] |   24.60% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ 5] [♠️ A] [♠️ 5] ]
+  Zheng           | [♣️ 9] [♦️ 7] |   31.30% | ✅ call
+  RaphaelPlayer   | [♥️ Q] [♣️ T] |   75.60% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 5] [♠️ A] [♠️ 5] [♦️ K] ]
+  Zheng           | [♣️ 9] [♦️ 7] |   34.40% | ✅ call
+  RaphaelPlayer   | [♥️ Q] [♣️ T] |   86.40% | ⬆️ raise:$45
+  Zheng           | [♣️ 9] [♦️ 7] |   34.40% | ✅ call:$45
+
+🎴 RIVER
+Board: [ [♦️ 5] [♠️ A] [♠️ 5] [♦️ K] [♠️ 6] ]
+  Zheng           | [♣️ 9] [♦️ 7] |    0.00% | ✅ call
+  RaphaelPlayer   | [♥️ Q] [♣️ T] |  100.00% | ✅ call
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $  1928 📉 (-55)
+  RaphaelPlayer  : $   331 📈 (+70)
+  EvanPlayer     : $   959 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1782 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 34
+----------------------------------------
+Initial State:
+👤 Zheng           | [♠️ J] [♦️ 8]        | 💰  1918
+👤 RaphaelPlayer   | [♠️ 8] [♥️ 4]        | 💰   331
+👤 EvanPlayer      | [♥️ J] [♥️ Q]        | 💰   959
+👤 KLChen2PokerPlayer | [♣️ 3] [♥️ A]        | 💰  1777
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♠️ 8] [♥️ 4] |   15.60% | ❌ fold
+  EvanPlayer      | [♥️ J] [♥️ Q] |   37.80% | ❌ fold:$10
+  KLChen2PokerPlayer | [♣️ 3] [♥️ A] |   56.50% | ⬆️ raise:$15
+  Zheng           | [♠️ J] [♦️ 8] |   43.90% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♠️ 4] [♥️ 8] [♥️ 3] ]
+  KLChen2PokerPlayer | [♣️ 3] [♥️ A] |   26.90% | ⬆️ raise:$10
+  Zheng           | [♠️ J] [♦️ 8] |   73.10% | ✅ call:$10
+
+🎴 TURN
+Board: [ [♠️ 4] [♥️ 8] [♥️ 3] [♣️ 4] ]
+  KLChen2PokerPlayer | [♣️ 3] [♥️ A] |   11.70% | ⬆️ raise:$113
+  Zheng           | [♠️ J] [♦️ 8] |   88.30% | ✅ call:$113
+
+🎴 RIVER
+Board: [ [♠️ 4] [♥️ 8] [♥️ 3] [♣️ 4] [♣️ A] ]
+  KLChen2PokerPlayer | [♣️ 3] [♥️ A] |  100.00% | ⬆️ raise:$372
+  Zheng           | [♠️ J] [♦️ 8] |    0.00% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  1790 📉 (-128)
+  RaphaelPlayer  : $   331 ➡️ (+0)
+  EvanPlayer     : $   959 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1920 📈 (+143)
+----------------------------------------
+
+🔄 Round 35
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ 5] [♥️ J]        | 💰  1785
+👤 RaphaelPlayer   | [♥️ K] [♠️ K]        | 💰   321
+👤 EvanPlayer      | [♦️ 2] [♥️ 7]        | 💰   959
+👤 KLChen2PokerPlayer | [♠️ 8] [♣️ 6]        | 💰  1920
+
+🎴 PREFLOP
+Board: [  ]
+  EvanPlayer      | [♦️ 2] [♥️ 7] |   11.10% | ❌ fold:$10
+  KLChen2PokerPlayer | [♠️ 8] [♣️ 6] |   15.00% | ✅ call:$10
+  Zheng           | [♥️ 5] [♥️ J] |   16.30% | ✅ call:$10
+  RaphaelPlayer   | [♥️ K] [♠️ K] |   69.10% | ⬆️ raise:$40
+  KLChen2PokerPlayer | [♠️ 8] [♣️ 6] |   15.00% | ❌ fold
+  Zheng           | [♥️ 5] [♥️ J] |   16.30% | ✅ call:$40
+
+🎴 FLOP
+Board: [ [♣️ 9] [♣️ T] [♥️ 4] ]
+  Zheng           | [♥️ 5] [♥️ J] |    8.30% | ✅ call
+  RaphaelPlayer   | [♥️ K] [♠️ K] |   91.70% | ⬆️ raise:$100
+  Zheng           | [♥️ 5] [♥️ J] |    8.30% | ✅ call:$100
+
+🎴 TURN
+Board: [ [♣️ 9] [♣️ T] [♥️ 4] [♦️ 4] ]
+  Zheng           | [♥️ 5] [♥️ J] |    0.00% | ✅ call
+  RaphaelPlayer   | [♥️ K] [♠️ K] |  100.00% | ⬆️ raise:$191
+  Zheng           | [♥️ 5] [♥️ J] |    0.00% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $  1650 📉 (-135)
+  RaphaelPlayer  : $   481 📈 (+160)
+  EvanPlayer     : $   959 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1910 📉 (-10)
+----------------------------------------
+
+🔄 Round 36
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ T] [♥️ 8]        | 💰  1650
+👤 RaphaelPlayer   | [♥️ Q] [♣️ 4]        | 💰   476
+👤 EvanPlayer      | [♦️ 8] [♣️ 2]        | 💰   949
+👤 KLChen2PokerPlayer | [♠️ 3] [♠️ T]        | 💰  1910
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♠️ 3] [♠️ T] |   29.90% | ✅ call:$10
+  Zheng           | [♦️ T] [♥️ 8] |   26.70% | ✅ call:$10
+  RaphaelPlayer   | [♥️ Q] [♣️ 4] |   39.70% | ❌ fold
+  EvanPlayer      | [♦️ 8] [♣️ 2] |   22.50% | ⬆️ raise:$959
+  KLChen2PokerPlayer | [♠️ 3] [♠️ T] |   45.80% | ❌ fold
+  Zheng           | [♦️ T] [♥️ 8] |   79.30% | ❌ fold
+
+🏆 Winner: EvanPlayer
+Final Stacks:
+  Zheng          : $  1640 📉 (-10)
+  RaphaelPlayer  : $   476 ➡️ (+0)
+  EvanPlayer     : $   984 📈 (+35)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1900 📉 (-10)
+----------------------------------------
+
+🔄 Round 37
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ 2] [♠️ 9]        | 💰  1640
+👤 RaphaelPlayer   | [♦️ 8] [♥️ 6]        | 💰   476
+👤 EvanPlayer      | [♣️ T] [♣️ 2]        | 💰   979
+👤 KLChen2PokerPlayer | [♥️ 9] [♥️ T]        | 💰  1890
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♥️ 2] [♠️ 9] |   11.90% | ✅ call:$10
+  RaphaelPlayer   | [♦️ 8] [♥️ 6] |   33.60% | ❌ fold
+  EvanPlayer      | [♣️ T] [♣️ 2] |   40.60% | ❌ fold:$10
+  KLChen2PokerPlayer | [♥️ 9] [♥️ T] |   80.30% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♣️ 5] [♠️ A] [♦️ T] ]
+  KLChen2PokerPlayer | [♥️ 9] [♥️ T] |   98.60% | ⬆️ raise:$34
+  Zheng           | [♥️ 2] [♠️ 9] |    1.40% | ✅ call:$34
+
+🎴 TURN
+Board: [ [♣️ 5] [♠️ A] [♦️ T] [♠️ 2] ]
+  KLChen2PokerPlayer | [♥️ 9] [♥️ T] |   95.70% | ⬆️ raise:$194
+  Zheng           | [♥️ 2] [♠️ 9] |    4.30% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  1596 📉 (-44)
+  RaphaelPlayer  : $   476 ➡️ (+0)
+  EvanPlayer     : $   979 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1949 📈 (+59)
+----------------------------------------
+
+🔄 Round 38
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ A] [♣️ A]        | 💰  1586
+👤 RaphaelPlayer   | [♥️ T] [♠️ A]        | 💰   476
+👤 EvanPlayer      | [♣️ 9] [♥️ 4]        | 💰   979
+👤 KLChen2PokerPlayer | [♠️ T] [♣️ 6]        | 💰  1944
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♥️ T] [♠️ A] |    7.60% | ⬆️ raise:$30
+  EvanPlayer      | [♣️ 9] [♥️ 4] |   11.90% | ❌ fold:$30
+  KLChen2PokerPlayer | [♠️ T] [♣️ 6] |   11.80% | ❌ fold
+  Zheng           | [♥️ A] [♣️ A] |   92.70% | ⬆️ raise:$823
+  RaphaelPlayer   | [♥️ T] [♠️ A] |    8.80% | ❌ fold
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  1631 📈 (+45)
+  RaphaelPlayer  : $   446 📉 (-30)
+  EvanPlayer     : $   979 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1944 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 39
+----------------------------------------
+Initial State:
+👤 Zheng           | [♠️ A] [♠️ 6]        | 💰  1626
+👤 RaphaelPlayer   | [♣️ 4] [♣️ 8]        | 💰   436
+👤 EvanPlayer      | [♥️ 2] [♠️ 2]        | 💰   979
+👤 KLChen2PokerPlayer | [♠️ K] [♦️ J]        | 💰  1944
+
+🎴 PREFLOP
+Board: [  ]
+  EvanPlayer      | [♥️ 2] [♠️ 2] |   21.10% | ❌ fold:$10
+  KLChen2PokerPlayer | [♠️ K] [♦️ J] |   32.00% | ⬆️ raise:$15
+  Zheng           | [♠️ A] [♠️ 6] |   39.60% | ✅ call:$15
+  RaphaelPlayer   | [♣️ 4] [♣️ 8] |   28.60% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ 9] [♠️ 3] [♦️ 3] ]
+  Zheng           | [♠️ A] [♠️ 6] |   75.40% | ✅ call
+  KLChen2PokerPlayer | [♠️ K] [♦️ J] |   25.60% | ⬆️ raise:$15
+  Zheng           | [♠️ A] [♠️ 6] |   75.40% | ✅ call:$15
+
+🎴 TURN
+Board: [ [♥️ 9] [♠️ 3] [♦️ 3] [♠️ T] ]
+  Zheng           | [♠️ A] [♠️ 6] |   82.40% | ✅ call
+  KLChen2PokerPlayer | [♠️ K] [♦️ J] |   17.60% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ 9] [♠️ 3] [♦️ 3] [♠️ T] [♥️ 3] ]
+  Zheng           | [♠️ A] [♠️ 6] |  100.00% | ✅ call
+  KLChen2PokerPlayer | [♠️ K] [♦️ J] |    0.00% | ✅ call
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  1671 📈 (+45)
+  RaphaelPlayer  : $   436 ➡️ (+0)
+  EvanPlayer     : $   979 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1914 📉 (-30)
+----------------------------------------
+
+🔄 Round 40
+----------------------------------------
+Initial State:
+👤 Zheng           | [♠️ 4] [♣️ 6]        | 💰  1671
+👤 RaphaelPlayer   | [♦️ 6] [♣️ 9]        | 💰   431
+👤 EvanPlayer      | [♠️ 3] [♠️ 6]        | 💰   969
+👤 KLChen2PokerPlayer | [♦️ 3] [♣️ 4]        | 💰  1914
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♦️ 3] [♣️ 4] |   29.60% | ❌ fold
+  Zheng           | [♠️ 4] [♣️ 6] |   27.00% | ✅ call:$10
+  RaphaelPlayer   | [♦️ 6] [♣️ 9] |   58.90% | ❌ fold
+  EvanPlayer      | [♠️ 3] [♠️ 6] |   71.30% | ❌ fold:$10
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  1686 📈 (+15)
+  RaphaelPlayer  : $   431 ➡️ (+0)
+  EvanPlayer     : $   969 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1914 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 41
+----------------------------------------
+Initial State:
+👤 Zheng           | [♣️ 7] [♦️ A]        | 💰  1686
+👤 RaphaelPlayer   | [♠️ Q] [♦️ 8]        | 💰   431
+👤 EvanPlayer      | [♠️ A] [♦️ 3]        | 💰   964
+👤 KLChen2PokerPlayer | [♣️ T] [♥️ 7]        | 💰  1904
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♣️ 7] [♦️ A] |   28.50% | ✅ call:$10
+  RaphaelPlayer   | [♠️ Q] [♦️ 8] |   35.50% | ✅ call:$10
+  EvanPlayer      | [♠️ A] [♦️ 3] |   25.10% | ❌ fold:$10
+  KLChen2PokerPlayer | [♣️ T] [♥️ 7] |   22.50% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♣️ 4] [♠️ 3] [♦️ 9] ]
+  KLChen2PokerPlayer | [♣️ T] [♥️ 7] |   16.10% | ✅ call
+  Zheng           | [♣️ 7] [♦️ A] |   65.60% | ✅ call
+  RaphaelPlayer   | [♠️ Q] [♦️ 8] |   19.90% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 4] [♠️ 3] [♦️ 9] [♥️ J] ]
+  KLChen2PokerPlayer | [♣️ T] [♥️ 7] |    7.30% | ✅ call
+  Zheng           | [♣️ 7] [♦️ A] |   77.30% | ✅ call
+  RaphaelPlayer   | [♠️ Q] [♦️ 8] |   15.40% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 4] [♠️ 3] [♦️ 9] [♥️ J] [♠️ 8] ]
+  KLChen2PokerPlayer | [♣️ T] [♥️ 7] |  100.00% | ⬆️ raise:$714
+  Zheng           | [♣️ 7] [♦️ A] |    0.00% | ❌ fold
+  RaphaelPlayer   | [♠️ Q] [♦️ 8] |    0.00% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  1676 📉 (-10)
+  RaphaelPlayer  : $   421 📉 (-10)
+  EvanPlayer     : $   964 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1939 📈 (+35)
+----------------------------------------
+
+🔄 Round 42
+----------------------------------------
+Initial State:
+👤 Zheng           | [♣️ A] [♦️ A]        | 💰  1666
+👤 RaphaelPlayer   | [♥️ 9] [♠️ Q]        | 💰   421
+👤 EvanPlayer      | [♠️ A] [♣️ 9]        | 💰   964
+👤 KLChen2PokerPlayer | [♦️ 7] [♥️ 4]        | 💰  1934
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♥️ 9] [♠️ Q] |   14.10% | ✅ call:$10
+  EvanPlayer      | [♠️ A] [♣️ 9] |    4.10% | ❌ fold:$10
+  KLChen2PokerPlayer | [♦️ 7] [♥️ 4] |   14.70% | ❌ fold
+  Zheng           | [♣️ A] [♦️ A] |   85.70% | ⬆️ raise:$845
+  RaphaelPlayer   | [♥️ 9] [♠️ Q] |   14.60% | ❌ fold
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  1691 📈 (+25)
+  RaphaelPlayer  : $   411 📉 (-10)
+  EvanPlayer     : $   964 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1934 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 43
+----------------------------------------
+Initial State:
+👤 Zheng           | [♠️ 5] [♠️ 7]        | 💰  1686
+👤 RaphaelPlayer   | [♠️ 3] [♦️ 8]        | 💰   401
+👤 EvanPlayer      | [♥️ A] [♦️ T]        | 💰   964
+👤 KLChen2PokerPlayer | [♣️ 2] [♣️ 3]        | 💰  1934
+
+🎴 PREFLOP
+Board: [  ]
+  EvanPlayer      | [♥️ A] [♦️ T] |   38.70% | ❌ fold:$10
+  KLChen2PokerPlayer | [♣️ 2] [♣️ 3] |   31.30% | ❌ fold
+  Zheng           | [♠️ 5] [♠️ 7] |   49.70% | ✅ call:$10
+  RaphaelPlayer   | [♠️ 3] [♦️ 8] |   54.40% | ❌ fold
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  1701 📈 (+15)
+  RaphaelPlayer  : $   401 ➡️ (+0)
+  EvanPlayer     : $   964 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1934 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 44
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ T] [♣️ T]        | 💰  1701
+👤 RaphaelPlayer   | [♠️ 4] [♣️ 8]        | 💰   396
+👤 EvanPlayer      | [♥️ J] [♣️ A]        | 💰   954
+👤 KLChen2PokerPlayer | [♣️ K] [♥️ 8]        | 💰  1934
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♣️ K] [♥️ 8] |   21.20% | ⬆️ raise:$15
+  Zheng           | [♥️ T] [♣️ T] |   34.80% | ✅ call:$15
+  RaphaelPlayer   | [♠️ 4] [♣️ 8] |   11.70% | ❌ fold
+  EvanPlayer      | [♥️ J] [♣️ A] |   37.00% | ❌ fold:$15
+
+🎴 FLOP
+Board: [ [♥️ A] [♣️ 2] [♣️ 5] ]
+  KLChen2PokerPlayer | [♣️ K] [♥️ 8] |   16.20% | ✅ call
+  Zheng           | [♥️ T] [♣️ T] |   85.80% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ A] [♣️ 2] [♣️ 5] [♦️ 6] ]
+  KLChen2PokerPlayer | [♣️ K] [♥️ 8] |    8.00% | ✅ call
+  Zheng           | [♥️ T] [♣️ T] |   92.00% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ A] [♣️ 2] [♣️ 5] [♦️ 6] [♣️ 6] ]
+  KLChen2PokerPlayer | [♣️ K] [♥️ 8] |    0.00% | ✅ call
+  Zheng           | [♥️ T] [♣️ T] |  100.00% | ✅ call
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  1731 📈 (+30)
+  RaphaelPlayer  : $   396 ➡️ (+0)
+  EvanPlayer     : $   954 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1919 📉 (-15)
+----------------------------------------
+
+🔄 Round 45
+----------------------------------------
+Initial State:
+👤 Zheng           | [♣️ K] [♣️ 3]        | 💰  1731
+👤 RaphaelPlayer   | [♣️ 7] [♣️ Q]        | 💰   396
+👤 EvanPlayer      | [♣️ A] [♦️ 8]        | 💰   949
+👤 KLChen2PokerPlayer | [♠️ 2] [♣️ 6]        | 💰  1909
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♣️ K] [♣️ 3] |   22.10% | ✅ call:$10
+  RaphaelPlayer   | [♣️ 7] [♣️ Q] |   24.50% | ✅ call:$10
+  EvanPlayer      | [♣️ A] [♦️ 8] |   35.30% | ❌ fold:$10
+  KLChen2PokerPlayer | [♠️ 2] [♣️ 6] |   25.30% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ 3] [♦️ 7] [♣️ 5] ]
+  Zheng           | [♣️ K] [♣️ 3] |   25.50% | ✅ call
+  RaphaelPlayer   | [♣️ 7] [♣️ Q] |   76.10% | ⬆️ raise:$45
+  Zheng           | [♣️ K] [♣️ 3] |   25.50% | ✅ call:$45
+
+🎴 TURN
+Board: [ [♥️ 3] [♦️ 7] [♣️ 5] [♠️ Q] ]
+  Zheng           | [♣️ K] [♣️ 3] |   10.10% | ✅ call
+  RaphaelPlayer   | [♣️ 7] [♣️ Q] |   89.90% | ⬆️ raise:$135
+  Zheng           | [♣️ K] [♣️ 3] |   10.10% | ✅ call:$135
+
+🎴 RIVER
+Board: [ [♥️ 3] [♦️ 7] [♣️ 5] [♠️ Q] [♠️ J] ]
+  Zheng           | [♣️ K] [♣️ 3] |    0.00% | ✅ call
+  RaphaelPlayer   | [♣️ 7] [♣️ Q] |  100.00% | ⬆️ raise:$206
+  Zheng           | [♣️ K] [♣️ 3] |    0.00% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $  1541 📉 (-190)
+  RaphaelPlayer  : $   601 📈 (+205)
+  EvanPlayer     : $   949 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1909 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 46
+----------------------------------------
+Initial State:
+👤 Zheng           | [♠️ 7] [♣️ 4]        | 💰  1531
+👤 RaphaelPlayer   | [♦️ 9] [♠️ 4]        | 💰   601
+👤 EvanPlayer      | [♥️ 7] [♣️ K]        | 💰   949
+👤 KLChen2PokerPlayer | [♦️ 2] [♣️ 8]        | 💰  1904
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♦️ 9] [♠️ 4] |   27.70% | ❌ fold
+  EvanPlayer      | [♥️ 7] [♣️ K] |   50.40% | ❌ fold:$10
+  KLChen2PokerPlayer | [♦️ 2] [♣️ 8] |   60.10% | ✅ call:$10
+  Zheng           | [♠️ 7] [♣️ 4] |   45.00% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♥️ 5] [♥️ T] [♣️ 3] ]
+  KLChen2PokerPlayer | [♦️ 2] [♣️ 8] |   60.30% | ✅ call
+  Zheng           | [♠️ 7] [♣️ 4] |   40.70% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 5] [♥️ T] [♣️ 3] [♣️ 6] ]
+  KLChen2PokerPlayer | [♦️ 2] [♣️ 8] |    0.00% | ✅ call
+  Zheng           | [♠️ 7] [♣️ 4] |  100.00% | ⬆️ raise:$1531
+  KLChen2PokerPlayer | [♦️ 2] [♣️ 8] |    0.00% | ❌ fold
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  1551 📈 (+20)
+  RaphaelPlayer  : $   601 ➡️ (+0)
+  EvanPlayer     : $   949 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1899 📉 (-5)
+----------------------------------------
+
+🔄 Round 47
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ K] [♥️ 8]        | 💰  1546
+👤 RaphaelPlayer   | [♥️ A] [♠️ 4]        | 💰   591
+👤 EvanPlayer      | [♣️ 3] [♥️ 6]        | 💰   949
+👤 KLChen2PokerPlayer | [♣️ K] [♦️ 6]        | 💰  1899
+
+🎴 PREFLOP
+Board: [  ]
+  EvanPlayer      | [♣️ 3] [♥️ 6] |   16.70% | ❌ fold:$10
+  KLChen2PokerPlayer | [♣️ K] [♦️ 6] |   24.10% | ⬆️ raise:$15
+  Zheng           | [♦️ K] [♥️ 8] |   30.30% | ✅ call:$15
+  RaphaelPlayer   | [♥️ A] [♠️ 4] |   51.90% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♥️ 5] [♣️ 9] [♠️ 7] ]
+  Zheng           | [♦️ K] [♥️ 8] |   21.50% | ✅ call
+  RaphaelPlayer   | [♥️ A] [♠️ 4] |   64.30% | ✅ call
+  KLChen2PokerPlayer | [♣️ K] [♦️ 6] |   17.60% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 5] [♣️ 9] [♠️ 7] [♥️ 2] ]
+  Zheng           | [♦️ K] [♥️ 8] |   13.90% | ✅ call
+  RaphaelPlayer   | [♥️ A] [♠️ 4] |   79.00% | ✅ call
+  KLChen2PokerPlayer | [♣️ K] [♦️ 6] |    7.10% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ 5] [♣️ 9] [♠️ 7] [♥️ 2] [♦️ T] ]
+  Zheng           | [♦️ K] [♥️ 8] |    0.00% | ✅ call
+  RaphaelPlayer   | [♥️ A] [♠️ 4] |  100.00% | ✅ call
+  KLChen2PokerPlayer | [♣️ K] [♦️ 6] |    0.00% | ✅ call
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $  1536 📉 (-10)
+  RaphaelPlayer  : $   631 📈 (+40)
+  EvanPlayer     : $   949 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1884 📉 (-15)
+----------------------------------------
+
+🔄 Round 48
+----------------------------------------
+Initial State:
+👤 Zheng           | [♥️ 8] [♦️ J]        | 💰  1536
+👤 RaphaelPlayer   | [♦️ 6] [♣️ Q]        | 💰   626
+👤 EvanPlayer      | [♦️ 8] [♥️ 3]        | 💰   939
+👤 KLChen2PokerPlayer | [♥️ 7] [♣️ 4]        | 💰  1884
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♥️ 7] [♣️ 4] |   22.30% | ❌ fold
+  Zheng           | [♥️ 8] [♦️ J] |   38.00% | ✅ call:$10
+  RaphaelPlayer   | [♦️ 6] [♣️ Q] |   50.60% | ✅ call:$10
+  EvanPlayer      | [♦️ 8] [♥️ 3] |   17.00% | ❌ fold:$10
+
+🎴 FLOP
+Board: [ [♣️ 6] [♣️ K] [♣️ 8] ]
+  RaphaelPlayer   | [♦️ 6] [♣️ Q] |   53.70% | ⬆️ raise:$40
+  Zheng           | [♥️ 8] [♦️ J] |   46.30% | ✅ call:$40
+
+🎴 TURN
+Board: [ [♣️ 6] [♣️ K] [♣️ 8] [♥️ 4] ]
+  RaphaelPlayer   | [♦️ 6] [♣️ Q] |   30.60% | ⬆️ raise:$120
+  Zheng           | [♥️ 8] [♦️ J] |   69.40% | ✅ call:$120
+
+🎴 RIVER
+Board: [ [♣️ 6] [♣️ K] [♣️ 8] [♥️ 4] [♦️ Q] ]
+  RaphaelPlayer   | [♦️ 6] [♣️ Q] |  100.00% | ⬆️ raise:$360
+  Zheng           | [♥️ 8] [♦️ J] |    0.00% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $  1366 📉 (-170)
+  RaphaelPlayer  : $   811 📈 (+185)
+  EvanPlayer     : $   939 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1884 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 49
+----------------------------------------
+Initial State:
+👤 Zheng           | [♣️ 8] [♦️ 3]        | 💰  1366
+👤 RaphaelPlayer   | [♦️ Q] [♥️ T]        | 💰   811
+👤 EvanPlayer      | [♣️ Q] [♣️ 4]        | 💰   934
+👤 KLChen2PokerPlayer | [♠️ Q] [♣️ J]        | 💰  1874
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♣️ 8] [♦️ 3] |   24.70% | ✅ call:$10
+  RaphaelPlayer   | [♦️ Q] [♥️ T] |   25.20% | ✅ call:$10
+  EvanPlayer      | [♣️ Q] [♣️ 4] |   24.50% | ❌ fold:$10
+  KLChen2PokerPlayer | [♠️ Q] [♣️ J] |   52.60% | ⬆️ raise:$17
+  Zheng           | [♣️ 8] [♦️ 3] |   26.40% | ✅ call:$17
+  RaphaelPlayer   | [♦️ Q] [♥️ T] |   27.50% | ✅ call:$17
+
+🎴 FLOP
+Board: [ [♥️ K] [♠️ 7] [♠️ 6] ]
+  KLChen2PokerPlayer | [♠️ Q] [♣️ J] |   65.60% | ✅ call
+  Zheng           | [♣️ 8] [♦️ 3] |   22.30% | ✅ call
+  RaphaelPlayer   | [♦️ Q] [♥️ T] |   19.60% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ K] [♠️ 7] [♠️ 6] [♠️ J] ]
+  KLChen2PokerPlayer | [♠️ Q] [♣️ J] |   84.70% | ⬆️ raise:$188
+  Zheng           | [♣️ 8] [♦️ 3] |    0.00% | ❌ fold
+  RaphaelPlayer   | [♦️ Q] [♥️ T] |   13.40% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  1349 📉 (-17)
+  RaphaelPlayer  : $   794 📉 (-17)
+  EvanPlayer     : $   934 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1923 📈 (+49)
+----------------------------------------
+
+🔄 Round 50
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ J] [♠️ T]        | 💰  1339
+👤 RaphaelPlayer   | [♦️ 7] [♠️ J]        | 💰   794
+👤 EvanPlayer      | [♦️ 2] [♦️ Q]        | 💰   934
+👤 KLChen2PokerPlayer | [♣️ 9] [♥️ 9]        | 💰  1918
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♦️ 7] [♠️ J] |   12.90% | ✅ call:$10
+  EvanPlayer      | [♦️ 2] [♦️ Q] |   24.10% | ❌ fold:$10
+  KLChen2PokerPlayer | [♣️ 9] [♥️ 9] |   56.60% | ⬆️ raise:$19
+  Zheng           | [♦️ J] [♠️ T] |   35.70% | ✅ call:$19
+  RaphaelPlayer   | [♦️ 7] [♠️ J] |   12.60% | ✅ call:$19
+
+🎴 FLOP
+Board: [ [♦️ 8] [♣️ 2] [♣️ 4] ]
+  KLChen2PokerPlayer | [♣️ 9] [♥️ 9] |   77.30% | ⬆️ raise:$27
+  Zheng           | [♦️ J] [♠️ T] |   19.90% | ✅ call:$27
+  RaphaelPlayer   | [♦️ 7] [♠️ J] |    2.80% | ❌ fold
+
+🎴 TURN
+Board: [ [♦️ 8] [♣️ 2] [♣️ 4] [♥️ J] ]
+  KLChen2PokerPlayer | [♣️ 9] [♥️ 9] |    3.90% | ⬆️ raise:$394
+  Zheng           | [♦️ J] [♠️ T] |   96.10% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  Zheng          : $  1303 📉 (-36)
+  RaphaelPlayer  : $   775 📉 (-19)
+  EvanPlayer     : $   934 ➡️ (+0)
+  ZheyuX         : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1988 📈 (+70)
+----------------------------------------
+
+🏁 Final Rankings:
+--------------------------------------------------
+
+🎮 Active Players:
+1. 🏆 KLChen2PokerPlayer | Stack:       1988 | Status: active
+2. 👥 Zheng           | Stack:       1303 | Status: active
+3. 👥 EvanPlayer      | Stack:        934 | Status: active
+4. 👥 RaphaelPlayer   | Stack:        775 | Status: active
+
+💀 Eliminated Players:
+5. 💀 ZheyuX          | Stack: 0 (Max: 1084) | Status: eliminated (Round 14)

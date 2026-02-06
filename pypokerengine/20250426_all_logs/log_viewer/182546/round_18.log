@@ -1,0 +1,2149 @@
+🎲 Texas Hold'em Poker Game Log 18 🎲
+==================================================
+
+📊 Detailed Game Log:
+==================================================
+
+🔄 Round 1
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ J] [♠️ K]        | 💰  1000
+👤 Ethan           | [♠️ 6] [♦️ 9]        | 💰   995
+👤 HakulaPlayer    | [♣️ 3] [♠️ 4]        | 💰   990
+👤 SichengZuo      | [♠️ 2] [♠️ J]        | 💰  1000
+👤 KLChen2PokerPlayer | [♠️ 5] [♥️ 7]        | 💰  1000
+👤 Jinkun          | [♦️ 3] [♥️ K]        | 💰  1000
+👤 NitWinWin       | [♠️ 7] [♣️ K]        | 💰  1000
+👤 ZPlayer         | [♦️ 4] [♠️ A]        | 💰  1000
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♠️ 2] [♠️ J] |   11.60% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 5] [♥️ 7] |   11.10% | ❌ fold
+  Jinkun          | [♦️ 3] [♥️ K] |    7.70% | ❌ fold:$10
+  NitWinWin       | [♠️ 7] [♣️ K] |   12.90% | ❌ fold
+  ZPlayer         | [♦️ 4] [♠️ A] |   25.70% | ⬆️ raise:$15
+  YangZ           | [♣️ J] [♠️ K] |   38.00% | ❌ fold
+  Ethan           | [♠️ 6] [♦️ 9] |   39.80% | ❌ fold
+  HakulaPlayer    | [♣️ 3] [♠️ 4] |   26.20% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♣️ 4] [♥️ 2] [♦️ 5] ]
+  HakulaPlayer    | [♣️ 3] [♠️ 4] |   28.60% | ✅ call
+  ZPlayer         | [♦️ 4] [♠️ A] |   74.60% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 4] [♥️ 2] [♦️ 5] [♣️ A] ]
+  HakulaPlayer    | [♣️ 3] [♠️ 4] |   94.10% | ⬆️ raise:$45
+  ZPlayer         | [♦️ 4] [♠️ A] |   12.80% | ✅ call:$45
+
+🎴 RIVER
+Board: [ [♣️ 4] [♥️ 2] [♦️ 5] [♣️ A] [♥️ 6] ]
+  HakulaPlayer    | [♣️ 3] [♠️ 4] |  100.00% | ⬆️ raise:$171
+  ZPlayer         | [♦️ 4] [♠️ A] |    0.00% | ✅ call:$171
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YangZ          : $  1000 ➡️ (+0)
+  Ethan          : $   995 ➡️ (+0)
+  HakulaPlayer   : $  1236 📈 (+246)
+  SichengZuo     : $  1000 ➡️ (+0)
+  KLChen2PokerPlayer: $  1000 ➡️ (+0)
+  Jinkun         : $  1000 ➡️ (+0)
+  NitWinWin      : $  1000 ➡️ (+0)
+  ZPlayer        : $   769 📉 (-231)
+----------------------------------------
+
+🔄 Round 2
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ 3] [♥️ 2]        | 💰  1000
+👤 Ethan           | [♥️ J] [♣️ 6]        | 💰   995
+👤 HakulaPlayer    | [♣️ T] [♥️ Q]        | 💰  1231
+👤 SichengZuo      | [♣️ J] [♦️ A]        | 💰   990
+👤 KLChen2PokerPlayer | [♠️ 2] [♥️ 5]        | 💰  1000
+👤 Jinkun          | [♥️ A] [♦️ 5]        | 💰  1000
+👤 NitWinWin       | [♦️ 9] [♣️ A]        | 💰  1000
+👤 ZPlayer         | [♥️ 3] [♠️ T]        | 💰   769
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♠️ 2] [♥️ 5] |    7.10% | ❌ fold
+  Jinkun          | [♥️ A] [♦️ 5] |    9.70% | ❌ fold:$10
+  NitWinWin       | [♦️ 9] [♣️ A] |   18.50% | ❌ fold
+  ZPlayer         | [♥️ 3] [♠️ T] |   12.00% | ✅ call:$10
+  YangZ           | [♣️ 3] [♥️ 2] |   16.60% | ❌ fold
+  Ethan           | [♥️ J] [♣️ 6] |   17.00% | ❌ fold
+  HakulaPlayer    | [♣️ T] [♥️ Q] |   34.00% | ✅ call:$10
+  SichengZuo      | [♣️ J] [♦️ A] |   52.10% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ 8] [♦️ J] [♦️ T] ]
+  HakulaPlayer    | [♣️ T] [♥️ Q] |   92.30% | ⬆️ raise:$31
+  ZPlayer         | [♥️ 3] [♠️ T] |   15.10% | ✅ call:$31
+
+🎴 TURN
+Board: [ [♥️ 8] [♦️ J] [♦️ T] [♠️ 5] ]
+  HakulaPlayer    | [♣️ T] [♥️ Q] |   94.30% | ⬆️ raise:$101
+  ZPlayer         | [♥️ 3] [♠️ T] |    5.70% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YangZ          : $  1000 ➡️ (+0)
+  Ethan          : $   995 ➡️ (+0)
+  HakulaPlayer   : $  1287 📈 (+56)
+  SichengZuo     : $   990 ➡️ (+0)
+  KLChen2PokerPlayer: $  1000 ➡️ (+0)
+  Jinkun         : $  1000 ➡️ (+0)
+  NitWinWin      : $  1000 ➡️ (+0)
+  ZPlayer        : $   728 📉 (-41)
+----------------------------------------
+
+🔄 Round 3
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ 7] [♠️ J]        | 💰  1000
+👤 Ethan           | [♣️ 3] [♥️ 9]        | 💰   995
+👤 HakulaPlayer    | [♠️ 2] [♦️ A]        | 💰  1287
+👤 SichengZuo      | [♠️ 4] [♣️ Q]        | 💰   985
+👤 KLChen2PokerPlayer | [♠️ 9] [♣️ A]        | 💰   990
+👤 Jinkun          | [♦️ 4] [♦️ Q]        | 💰  1000
+👤 NitWinWin       | [♣️ 8] [♠️ 5]        | 💰  1000
+👤 ZPlayer         | [♠️ 3] [♦️ 5]        | 💰   728
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♦️ 4] [♦️ Q] |   20.30% | ❌ fold:$10
+  NitWinWin       | [♣️ 8] [♠️ 5] |   15.60% | ❌ fold
+  ZPlayer         | [♠️ 3] [♦️ 5] |   14.70% | ✅ call:$10
+  YangZ           | [♣️ 7] [♠️ J] |   27.50% | ❌ fold
+  Ethan           | [♣️ 3] [♥️ 9] |   13.60% | ❌ fold
+  HakulaPlayer    | [♠️ 2] [♦️ A] |   17.10% | ✅ call:$10
+  SichengZuo      | [♠️ 4] [♣️ Q] |   31.20% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 9] [♣️ A] |   53.50% | ⬆️ raise:$18
+  ZPlayer         | [♠️ 3] [♦️ 5] |   34.00% | ❌ fold
+  HakulaPlayer    | [♠️ 2] [♦️ A] |   42.20% | ✅ call:$18
+
+🎴 FLOP
+Board: [ [♠️ Q] [♣️ J] [♥️ Q] ]
+  KLChen2PokerPlayer | [♠️ 9] [♣️ A] |   89.70% | ⬆️ raise:$13
+  HakulaPlayer    | [♠️ 2] [♦️ A] |   62.70% | ✅ call:$13
+
+🎴 TURN
+Board: [ [♠️ Q] [♣️ J] [♥️ Q] [♦️ 8] ]
+  KLChen2PokerPlayer | [♠️ 9] [♣️ A] |   92.90% | ⬆️ raise:$86
+  HakulaPlayer    | [♠️ 2] [♦️ A] |   39.70% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $  1000 ➡️ (+0)
+  Ethan          : $   995 ➡️ (+0)
+  HakulaPlayer   : $  1256 📉 (-31)
+  SichengZuo     : $   985 ➡️ (+0)
+  KLChen2PokerPlayer: $  1046 📈 (+56)
+  Jinkun         : $  1000 ➡️ (+0)
+  NitWinWin      : $  1000 ➡️ (+0)
+  ZPlayer        : $   718 📉 (-10)
+----------------------------------------
+
+🔄 Round 4
+----------------------------------------
+Initial State:
+👤 YangZ           | [♦️ 5] [♦️ 4]        | 💰  1000
+👤 Ethan           | [♦️ 7] [♥️ 6]        | 💰   995
+👤 HakulaPlayer    | [♦️ Q] [♥️ T]        | 💰  1256
+👤 SichengZuo      | [♣️ A] [♣️ 5]        | 💰   985
+👤 KLChen2PokerPlayer | [♥️ 7] [♥️ J]        | 💰  1041
+👤 Jinkun          | [♣️ 4] [♠️ K]        | 💰   990
+👤 NitWinWin       | [♦️ 8] [♥️ 5]        | 💰  1000
+👤 ZPlayer         | [♥️ 8] [♠️ 7]        | 💰   718
+
+🎴 PREFLOP
+Board: [  ]
+  NitWinWin       | [♦️ 8] [♥️ 5] |    3.60% | ❌ fold
+  ZPlayer         | [♥️ 8] [♠️ 7] |    9.60% | ✅ call:$10
+  YangZ           | [♦️ 5] [♦️ 4] |   12.00% | ❌ fold
+  Ethan           | [♦️ 7] [♥️ 6] |    7.60% | ❌ fold
+  HakulaPlayer    | [♦️ Q] [♥️ T] |   23.80% | ✅ call:$10
+  SichengZuo      | [♣️ A] [♣️ 5] |   31.40% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 7] [♥️ J] |   22.70% | ⬆️ raise:$16
+  Jinkun          | [♣️ 4] [♠️ K] |   31.10% | ❌ fold:$16
+  ZPlayer         | [♥️ 8] [♠️ 7] |   23.90% | ✅ call:$16
+  HakulaPlayer    | [♦️ Q] [♥️ T] |   51.40% | ⬆️ raise:$51
+  KLChen2PokerPlayer | [♥️ 7] [♥️ J] |   28.60% | ❌ fold
+  ZPlayer         | [♥️ 8] [♠️ 7] |   36.40% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YangZ          : $  1000 ➡️ (+0)
+  Ethan          : $   995 ➡️ (+0)
+  HakulaPlayer   : $  1298 📈 (+42)
+  SichengZuo     : $   985 ➡️ (+0)
+  KLChen2PokerPlayer: $  1030 📉 (-11)
+  Jinkun         : $   990 ➡️ (+0)
+  NitWinWin      : $  1000 ➡️ (+0)
+  ZPlayer        : $   702 📉 (-16)
+----------------------------------------
+
+🔄 Round 5
+----------------------------------------
+Initial State:
+👤 YangZ           | [♥️ 4] [♦️ 9]        | 💰  1000
+👤 Ethan           | [♦️ 8] [♥️ T]        | 💰   995
+👤 HakulaPlayer    | [♦️ 2] [♠️ J]        | 💰  1298
+👤 SichengZuo      | [♦️ Q] [♥️ K]        | 💰   985
+👤 KLChen2PokerPlayer | [♦️ K] [♣️ 5]        | 💰  1030
+👤 Jinkun          | [♣️ 8] [♦️ A]        | 💰   985
+👤 NitWinWin       | [♦️ 5] [♣️ J]        | 💰   990
+👤 ZPlayer         | [♦️ 4] [♣️ K]        | 💰   702
+
+🎴 PREFLOP
+Board: [  ]
+  ZPlayer         | [♦️ 4] [♣️ K] |    6.60% | ✅ call:$10
+  YangZ           | [♥️ 4] [♦️ 9] |    9.70% | ❌ fold
+  Ethan           | [♦️ 8] [♥️ T] |   21.60% | ❌ fold
+  HakulaPlayer    | [♦️ 2] [♠️ J] |   16.00% | ✅ call:$10
+  SichengZuo      | [♦️ Q] [♥️ K] |   24.80% | ❌ fold
+  KLChen2PokerPlayer | [♦️ K] [♣️ 5] |   18.20% | ✅ call:$10
+  Jinkun          | [♣️ 8] [♦️ A] |   45.50% | ✅ call:$10
+  NitWinWin       | [♦️ 5] [♣️ J] |   14.10% | ❌ fold
+
+🎴 FLOP
+Board: [ [♠️ T] [♦️ 3] [♣️ 4] ]
+  Jinkun          | [♣️ 8] [♦️ A] |   23.40% | ✅ call
+  ZPlayer         | [♦️ 4] [♣️ K] |   49.30% | ⬆️ raise:$10
+  HakulaPlayer    | [♦️ 2] [♠️ J] |   14.10% | ❌ fold
+  KLChen2PokerPlayer | [♦️ K] [♣️ 5] |   17.40% | ❌ fold
+  Jinkun          | [♣️ 8] [♦️ A] |   25.50% | ✅ call:$10
+
+🎴 TURN
+Board: [ [♠️ T] [♦️ 3] [♣️ 4] [♠️ 2] ]
+  Jinkun          | [♣️ 8] [♦️ A] |   22.60% | ⬆️ raise:$140
+  ZPlayer         | [♦️ 4] [♣️ K] |   77.40% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YangZ          : $  1000 ➡️ (+0)
+  Ethan          : $   995 ➡️ (+0)
+  HakulaPlayer   : $  1288 📉 (-10)
+  SichengZuo     : $   985 ➡️ (+0)
+  KLChen2PokerPlayer: $  1020 📉 (-10)
+  Jinkun         : $  1040 📈 (+55)
+  NitWinWin      : $   990 ➡️ (+0)
+  ZPlayer        : $   682 📉 (-20)
+----------------------------------------
+
+🔄 Round 6
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ 8] [♠️ 9]        | 💰  1000
+👤 Ethan           | [♥️ A] [♥️ 2]        | 💰   995
+👤 HakulaPlayer    | [♣️ 6] [♦️ T]        | 💰  1288
+👤 SichengZuo      | [♦️ 3] [♠️ K]        | 💰   985
+👤 KLChen2PokerPlayer | [♣️ 7] [♠️ T]        | 💰  1020
+👤 Jinkun          | [♦️ K] [♥️ 5]        | 💰  1040
+👤 NitWinWin       | [♥️ K] [♥️ 4]        | 💰   985
+👤 ZPlayer         | [♦️ J] [♦️ 8]        | 💰   672
+
+🎴 PREFLOP
+Board: [  ]
+  YangZ           | [♠️ 8] [♠️ 9] |   18.60% | ❌ fold
+  Ethan           | [♥️ A] [♥️ 2] |   24.50% | ❌ fold
+  HakulaPlayer    | [♣️ 6] [♦️ T] |   14.80% | ❌ fold
+  SichengZuo      | [♦️ 3] [♠️ K] |   13.60% | ❌ fold
+  KLChen2PokerPlayer | [♣️ 7] [♠️ T] |   26.10% | ⬆️ raise:$16
+  Jinkun          | [♦️ K] [♥️ 5] |   23.30% | ❌ fold:$16
+  NitWinWin       | [♥️ K] [♥️ 4] |   38.50% | ❌ fold
+  ZPlayer         | [♦️ J] [♦️ 8] |   65.80% | ✅ call:$16
+
+🎴 FLOP
+Board: [ [♠️ 7] [♠️ A] [♣️ 5] ]
+  ZPlayer         | [♦️ J] [♦️ 8] |   24.40% | ✅ call
+  KLChen2PokerPlayer | [♣️ 7] [♠️ T] |   75.60% | ⬆️ raise:$29
+  ZPlayer         | [♦️ J] [♦️ 8] |   24.40% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $  1000 ➡️ (+0)
+  Ethan          : $   995 ➡️ (+0)
+  HakulaPlayer   : $  1288 ➡️ (+0)
+  SichengZuo     : $   985 ➡️ (+0)
+  KLChen2PokerPlayer: $  1041 📈 (+21)
+  Jinkun         : $  1040 ➡️ (+0)
+  NitWinWin      : $   985 ➡️ (+0)
+  ZPlayer        : $   666 📉 (-6)
+----------------------------------------
+
+🔄 Round 7
+----------------------------------------
+Initial State:
+👤 YangZ           | [♥️ 9] [♥️ J]        | 💰   990
+👤 Ethan           | [♦️ T] [♦️ 7]        | 💰   995
+👤 HakulaPlayer    | [♠️ A] [♦️ 9]        | 💰  1288
+👤 SichengZuo      | [♥️ 2] [♣️ Q]        | 💰   985
+👤 KLChen2PokerPlayer | [♦️ K] [♥️ 6]        | 💰  1041
+👤 Jinkun          | [♣️ J] [♣️ 8]        | 💰  1040
+👤 NitWinWin       | [♠️ 8] [♥️ K]        | 💰   985
+👤 ZPlayer         | [♠️ Q] [♥️ 5]        | 💰   661
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♦️ T] [♦️ 7] |   23.70% | ❌ fold
+  HakulaPlayer    | [♠️ A] [♦️ 9] |   24.30% | ❌ fold
+  SichengZuo      | [♥️ 2] [♣️ Q] |   14.90% | ❌ fold
+  KLChen2PokerPlayer | [♦️ K] [♥️ 6] |   19.00% | ✅ call:$10
+  Jinkun          | [♣️ J] [♣️ 8] |   18.30% | ❌ fold:$10
+  NitWinWin       | [♠️ 8] [♥️ K] |   27.00% | ❌ fold
+  ZPlayer         | [♠️ Q] [♥️ 5] |   27.10% | ⬆️ raise:$15
+  YangZ           | [♥️ 9] [♥️ J] |   36.40% | ❌ fold
+  KLChen2PokerPlayer | [♦️ K] [♥️ 6] |   60.90% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  YangZ          : $   990 ➡️ (+0)
+  Ethan          : $   995 ➡️ (+0)
+  HakulaPlayer   : $  1288 ➡️ (+0)
+  SichengZuo     : $   985 ➡️ (+0)
+  KLChen2PokerPlayer: $  1031 📉 (-10)
+  Jinkun         : $  1040 ➡️ (+0)
+  NitWinWin      : $   985 ➡️ (+0)
+  ZPlayer        : $   686 📈 (+25)
+----------------------------------------
+
+🔄 Round 8
+----------------------------------------
+Initial State:
+👤 YangZ           | [♥️ 7] [♥️ 5]        | 💰   985
+👤 Ethan           | [♣️ 3] [♥️ 6]        | 💰   985
+👤 HakulaPlayer    | [♣️ J] [♠️ J]        | 💰  1288
+👤 SichengZuo      | [♠️ 9] [♦️ J]        | 💰   985
+👤 KLChen2PokerPlayer | [♣️ K] [♠️ T]        | 💰  1031
+👤 Jinkun          | [♥️ T] [♦️ T]        | 💰  1040
+👤 NitWinWin       | [♥️ 8] [♣️ 5]        | 💰   985
+👤 ZPlayer         | [♦️ 3] [♦️ K]        | 💰   686
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♣️ J] [♠️ J] |   30.20% | ⬆️ raise:$34
+  SichengZuo      | [♠️ 9] [♦️ J] |    6.60% | ❌ fold
+  KLChen2PokerPlayer | [♣️ K] [♠️ T] |   14.80% | ❌ fold
+  Jinkun          | [♥️ T] [♦️ T] |   16.70% | ❌ fold:$34
+  NitWinWin       | [♥️ 8] [♣️ 5] |    9.30% | ❌ fold
+  ZPlayer         | [♦️ 3] [♦️ K] |   26.00% | ❌ fold
+  YangZ           | [♥️ 7] [♥️ 5] |   18.70% | ❌ fold
+  Ethan           | [♣️ 3] [♥️ 6] |   15.70% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YangZ          : $   985 ➡️ (+0)
+  Ethan          : $   985 ➡️ (+0)
+  HakulaPlayer   : $  1303 📈 (+15)
+  SichengZuo     : $   985 ➡️ (+0)
+  KLChen2PokerPlayer: $  1031 ➡️ (+0)
+  Jinkun         : $  1040 ➡️ (+0)
+  NitWinWin      : $   985 ➡️ (+0)
+  ZPlayer        : $   686 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 9
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ 4] [♣️ 5]        | 💰   985
+👤 Ethan           | [♠️ T] [♥️ 9]        | 💰   980
+👤 HakulaPlayer    | [♦️ 5] [♥️ J]        | 💰  1293
+👤 SichengZuo      | [♥️ A] [♦️ 8]        | 💰   985
+👤 KLChen2PokerPlayer | [♣️ 9] [♣️ 3]        | 💰  1031
+👤 Jinkun          | [♣️ 8] [♦️ 9]        | 💰  1040
+👤 NitWinWin       | [♥️ 2] [♦️ 7]        | 💰   985
+👤 ZPlayer         | [♣️ K] [♥️ 5]        | 💰   686
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♥️ A] [♦️ 8] |   21.00% | ❌ fold
+  KLChen2PokerPlayer | [♣️ 9] [♣️ 3] |   11.30% | ❌ fold
+  Jinkun          | [♣️ 8] [♦️ 9] |   18.30% | ❌ fold:$10
+  NitWinWin       | [♥️ 2] [♦️ 7] |   14.80% | ❌ fold
+  ZPlayer         | [♣️ K] [♥️ 5] |   30.70% | ⬆️ raise:$15
+  YangZ           | [♠️ 4] [♣️ 5] |   19.20% | ❌ fold
+  Ethan           | [♠️ T] [♥️ 9] |   37.30% | ✅ call:$15
+  HakulaPlayer    | [♦️ 5] [♥️ J] |   21.70% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♥️ Q] [♣️ T] [♣️ 4] ]
+  Ethan           | [♠️ T] [♥️ 9] |   69.40% | ✅ call
+  HakulaPlayer    | [♦️ 5] [♥️ J] |   12.50% | ✅ call
+  ZPlayer         | [♣️ K] [♥️ 5] |   18.10% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ Q] [♣️ T] [♣️ 4] [♦️ A] ]
+  Ethan           | [♠️ T] [♥️ 9] |   85.70% | ✅ call
+  HakulaPlayer    | [♦️ 5] [♥️ J] |    7.00% | ✅ call
+  ZPlayer         | [♣️ K] [♥️ 5] |    7.30% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ Q] [♣️ T] [♣️ 4] [♦️ A] [♦️ J] ]
+  Ethan           | [♠️ T] [♥️ 9] |    0.00% | ✅ call
+  HakulaPlayer    | [♦️ 5] [♥️ J] |    0.00% | ✅ call
+  ZPlayer         | [♣️ K] [♥️ 5] |  100.00% | ⬆️ raise:$302
+  Ethan           | [♠️ T] [♥️ 9] |    0.00% | ❌ fold
+  HakulaPlayer    | [♦️ 5] [♥️ J] |    0.00% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  YangZ          : $   985 ➡️ (+0)
+  Ethan          : $   970 📉 (-10)
+  HakulaPlayer   : $  1288 📉 (-5)
+  SichengZuo     : $   985 ➡️ (+0)
+  KLChen2PokerPlayer: $  1031 ➡️ (+0)
+  Jinkun         : $  1040 ➡️ (+0)
+  NitWinWin      : $   985 ➡️ (+0)
+  ZPlayer        : $   716 📈 (+30)
+----------------------------------------
+
+🔄 Round 10
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ A] [♠️ 7]        | 💰   985
+👤 Ethan           | [♦️ 5] [♣️ 4]        | 💰   970
+👤 HakulaPlayer    | [♥️ K] [♦️ 3]        | 💰  1283
+👤 SichengZuo      | [♠️ 4] [♦️ 6]        | 💰   975
+👤 KLChen2PokerPlayer | [♣️ 7] [♦️ J]        | 💰  1031
+👤 Jinkun          | [♥️ J] [♦️ K]        | 💰  1040
+👤 NitWinWin       | [♣️ 6] [♣️ 2]        | 💰   985
+👤 ZPlayer         | [♦️ 9] [♣️ Q]        | 💰   716
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♣️ 7] [♦️ J] |    6.00% | ⬆️ raise:$17
+  Jinkun          | [♥️ J] [♦️ K] |   14.20% | ❌ fold:$17
+  NitWinWin       | [♣️ 6] [♣️ 2] |   11.40% | ❌ fold
+  ZPlayer         | [♦️ 9] [♣️ Q] |   23.40% | ✅ call:$17
+  YangZ           | [♠️ A] [♠️ 7] |   26.30% | ❌ fold
+  Ethan           | [♦️ 5] [♣️ 4] |   15.60% | ❌ fold
+  HakulaPlayer    | [♥️ K] [♦️ 3] |   26.50% | ✅ call:$17
+  SichengZuo      | [♠️ 4] [♦️ 6] |   21.50% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ A] [♥️ 4] [♦️ Q] ]
+  HakulaPlayer    | [♥️ K] [♦️ 3] |   12.80% | ✅ call
+  KLChen2PokerPlayer | [♣️ 7] [♦️ J] |    5.50% | ✅ call
+  ZPlayer         | [♦️ 9] [♣️ Q] |   81.70% | ⬆️ raise:$30
+  HakulaPlayer    | [♥️ K] [♦️ 3] |   12.80% | ❌ fold
+  KLChen2PokerPlayer | [♣️ 7] [♦️ J] |    6.60% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  YangZ          : $   985 ➡️ (+0)
+  Ethan          : $   970 ➡️ (+0)
+  HakulaPlayer   : $  1271 📉 (-12)
+  SichengZuo     : $   975 ➡️ (+0)
+  KLChen2PokerPlayer: $  1014 📉 (-17)
+  Jinkun         : $  1040 ➡️ (+0)
+  NitWinWin      : $   985 ➡️ (+0)
+  ZPlayer        : $   760 📈 (+44)
+----------------------------------------
+
+🔄 Round 11
+----------------------------------------
+Initial State:
+👤 YangZ           | [♦️ T] [♥️ 7]        | 💰   985
+👤 Ethan           | [♠️ 9] [♣️ 7]        | 💰   970
+👤 HakulaPlayer    | [♠️ K] [♠️ 8]        | 💰  1271
+👤 SichengZuo      | [♥️ 4] [♥️ J]        | 💰   970
+👤 KLChen2PokerPlayer | [♦️ 4] [♦️ 9]        | 💰  1004
+👤 Jinkun          | [♠️ T] [♠️ 6]        | 💰  1040
+👤 NitWinWin       | [♠️ 3] [♣️ 5]        | 💰   985
+👤 ZPlayer         | [♦️ 6] [♠️ 5]        | 💰   760
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♠️ T] [♠️ 6] |    8.10% | ❌ fold:$10
+  NitWinWin       | [♠️ 3] [♣️ 5] |    8.20% | ❌ fold
+  ZPlayer         | [♦️ 6] [♠️ 5] |   14.30% | ✅ call:$10
+  YangZ           | [♦️ T] [♥️ 7] |   15.20% | ❌ fold
+  Ethan           | [♠️ 9] [♣️ 7] |   18.80% | ❌ fold
+  HakulaPlayer    | [♠️ K] [♠️ 8] |   35.60% | ⬆️ raise:$30
+  SichengZuo      | [♥️ 4] [♥️ J] |   28.60% | ❌ fold
+  KLChen2PokerPlayer | [♦️ 4] [♦️ 9] |   27.10% | ❌ fold
+  ZPlayer         | [♦️ 6] [♠️ 5] |   34.90% | ✅ call:$30
+
+🎴 FLOP
+Board: [ [♣️ 8] [♣️ T] [♦️ 8] ]
+  ZPlayer         | [♦️ 6] [♠️ 5] |    2.90% | ✅ call
+  HakulaPlayer    | [♠️ K] [♠️ 8] |   97.40% | ⬆️ raise:$93
+  ZPlayer         | [♦️ 6] [♠️ 5] |    2.90% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YangZ          : $   985 ➡️ (+0)
+  Ethan          : $   970 ➡️ (+0)
+  HakulaPlayer   : $  1316 📈 (+45)
+  SichengZuo     : $   970 ➡️ (+0)
+  KLChen2PokerPlayer: $  1004 ➡️ (+0)
+  Jinkun         : $  1040 ➡️ (+0)
+  NitWinWin      : $   985 ➡️ (+0)
+  ZPlayer        : $   730 📉 (-30)
+----------------------------------------
+
+🔄 Round 12
+----------------------------------------
+Initial State:
+👤 YangZ           | [♥️ 2] [♠️ 5]        | 💰   985
+👤 Ethan           | [♦️ 8] [♣️ 7]        | 💰   970
+👤 HakulaPlayer    | [♣️ Q] [♠️ K]        | 💰  1316
+👤 SichengZuo      | [♠️ 9] [♦️ 2]        | 💰   970
+👤 KLChen2PokerPlayer | [♥️ 7] [♣️ 8]        | 💰   999
+👤 Jinkun          | [♦️ 3] [♦️ 7]        | 💰  1030
+👤 NitWinWin       | [♥️ 3] [♦️ Q]        | 💰   985
+👤 ZPlayer         | [♥️ K] [♥️ Q]        | 💰   730
+
+🎴 PREFLOP
+Board: [  ]
+  NitWinWin       | [♥️ 3] [♦️ Q] |    8.50% | ❌ fold
+  ZPlayer         | [♥️ K] [♥️ Q] |   41.50% | ⬆️ raise:$15
+  YangZ           | [♥️ 2] [♠️ 5] |   16.30% | ❌ fold
+  Ethan           | [♦️ 8] [♣️ 7] |   19.10% | ❌ fold
+  HakulaPlayer    | [♣️ Q] [♠️ K] |   32.70% | ✅ call:$15
+  SichengZuo      | [♠️ 9] [♦️ 2] |   17.70% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 7] [♣️ 8] |   30.20% | ❌ fold
+  Jinkun          | [♦️ 3] [♦️ 7] |   43.50% | ❌ fold:$15
+
+🎴 FLOP
+Board: [ [♦️ 4] [♣️ 9] [♣️ 4] ]
+  ZPlayer         | [♥️ K] [♥️ Q] |   95.20% | ✅ call
+  HakulaPlayer    | [♣️ Q] [♠️ K] |  100.00% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 4] [♣️ 9] [♣️ 4] [♥️ T] ]
+  ZPlayer         | [♥️ K] [♥️ Q] |  100.00% | ✅ call
+  HakulaPlayer    | [♣️ Q] [♠️ K] |  100.00% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ 4] [♣️ 9] [♣️ 4] [♥️ T] [♦️ T] ]
+  ZPlayer         | [♥️ K] [♥️ Q] |  100.00% | ✅ call
+  HakulaPlayer    | [♣️ Q] [♠️ K] |  100.00% | ✅ call
+
+🏆 Winner: HakulaPlayer', 'ZPlayer
+Final Stacks:
+  YangZ          : $   985 ➡️ (+0)
+  Ethan          : $   970 ➡️ (+0)
+  HakulaPlayer   : $  1323 📈 (+7)
+  SichengZuo     : $   970 ➡️ (+0)
+  KLChen2PokerPlayer: $   999 ➡️ (+0)
+  Jinkun         : $  1030 ➡️ (+0)
+  NitWinWin      : $   985 ➡️ (+0)
+  ZPlayer        : $   737 📈 (+7)
+----------------------------------------
+
+🔄 Round 13
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ K] [♠️ T]        | 💰   985
+👤 Ethan           | [♥️ A] [♥️ T]        | 💰   970
+👤 HakulaPlayer    | [♣️ 6] [♠️ 7]        | 💰  1323
+👤 SichengZuo      | [♦️ 6] [♦️ 9]        | 💰   970
+👤 KLChen2PokerPlayer | [♣️ Q] [♥️ 6]        | 💰   999
+👤 Jinkun          | [♣️ 7] [♣️ 4]        | 💰  1025
+👤 NitWinWin       | [♦️ A] [♥️ 7]        | 💰   975
+👤 ZPlayer         | [♣️ T] [♣️ 5]        | 💰   737
+
+🎴 PREFLOP
+Board: [  ]
+  ZPlayer         | [♣️ T] [♣️ 5] |    9.30% | ✅ call:$10
+  YangZ           | [♣️ K] [♠️ T] |   20.80% | ❌ fold
+  Ethan           | [♥️ A] [♥️ T] |   33.50% | ✅ call:$10
+  HakulaPlayer    | [♣️ 6] [♠️ 7] |   10.90% | ✅ call:$10
+  SichengZuo      | [♦️ 6] [♦️ 9] |   20.90% | ❌ fold
+  KLChen2PokerPlayer | [♣️ Q] [♥️ 6] |   25.90% | ✅ call:$10
+  Jinkun          | [♣️ 7] [♣️ 4] |   11.20% | ✅ call:$10
+  NitWinWin       | [♦️ A] [♥️ 7] |   12.90% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ 2] [♠️ 9] [♦️ 3] ]
+  Jinkun          | [♣️ 7] [♣️ 4] |   12.10% | ✅ call
+  ZPlayer         | [♣️ T] [♣️ 5] |   12.50% | ✅ call
+  Ethan           | [♥️ A] [♥️ T] |   47.50% | ✅ call
+  HakulaPlayer    | [♣️ 6] [♠️ 7] |    8.80% | ✅ call
+  KLChen2PokerPlayer | [♣️ Q] [♥️ 6] |   19.90% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 2] [♠️ 9] [♦️ 3] [♥️ 8] ]
+  Jinkun          | [♣️ 7] [♣️ 4] |    8.10% | ✅ call
+  ZPlayer         | [♣️ T] [♣️ 5] |    0.00% | ✅ call
+  Ethan           | [♥️ A] [♥️ T] |   60.50% | ✅ call
+  HakulaPlayer    | [♣️ 6] [♠️ 7] |   17.80% | ✅ call
+  KLChen2PokerPlayer | [♣️ Q] [♥️ 6] |   13.60% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 2] [♠️ 9] [♦️ 3] [♥️ 8] [♥️ 5] ]
+  Jinkun          | [♣️ 7] [♣️ 4] |    0.00% | ✅ call
+  ZPlayer         | [♣️ T] [♣️ 5] |    0.00% | ✅ call
+  Ethan           | [♥️ A] [♥️ T] |    0.00% | ✅ call
+  HakulaPlayer    | [♣️ 6] [♠️ 7] |  100.00% | ⬆️ raise:$80
+  KLChen2PokerPlayer | [♣️ Q] [♥️ 6] |    0.00% | ❌ fold
+  Jinkun          | [♣️ 7] [♣️ 4] |    0.00% | ❌ fold:$80
+  ZPlayer         | [♣️ T] [♣️ 5] |    0.00% | ❌ fold
+  Ethan           | [♥️ A] [♥️ T] |    0.00% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YangZ          : $   985 ➡️ (+0)
+  Ethan          : $   960 📉 (-10)
+  HakulaPlayer   : $  1373 📈 (+50)
+  SichengZuo     : $   970 ➡️ (+0)
+  KLChen2PokerPlayer: $   989 📉 (-10)
+  Jinkun         : $  1020 📉 (-5)
+  NitWinWin      : $   975 ➡️ (+0)
+  ZPlayer        : $   727 📉 (-10)
+----------------------------------------
+
+🔄 Round 14
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ 8] [♦️ Q]        | 💰   985
+👤 Ethan           | [♦️ 7] [♦️ 3]        | 💰   960
+👤 HakulaPlayer    | [♣️ 4] [♥️ J]        | 💰  1373
+👤 SichengZuo      | [♥️ Q] [♥️ 8]        | 💰   970
+👤 KLChen2PokerPlayer | [♥️ 6] [♣️ 8]        | 💰   989
+👤 Jinkun          | [♠️ 4] [♠️ Q]        | 💰  1020
+👤 NitWinWin       | [♥️ A] [♠️ T]        | 💰   970
+👤 ZPlayer         | [♦️ 6] [♦️ 9]        | 💰   717
+
+🎴 PREFLOP
+Board: [  ]
+  YangZ           | [♠️ 8] [♦️ Q] |    7.70% | ❌ fold
+  Ethan           | [♦️ 7] [♦️ 3] |   11.60% | ❌ fold
+  HakulaPlayer    | [♣️ 4] [♥️ J] |   13.90% | ❌ fold
+  SichengZuo      | [♥️ Q] [♥️ 8] |   17.00% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 6] [♣️ 8] |   17.60% | ❌ fold
+  Jinkun          | [♠️ 4] [♠️ Q] |   28.80% | ✅ call:$10
+  NitWinWin       | [♥️ A] [♠️ T] |   42.40% | ❌ fold
+  ZPlayer         | [♦️ 6] [♦️ 9] |   46.50% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♥️ T] [♣️ 6] [♠️ 6] ]
+  ZPlayer         | [♦️ 6] [♦️ 9] |   96.60% | ⬆️ raise:$586
+  Jinkun          | [♠️ 4] [♠️ Q] |    3.80% | ❌ fold:$586
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  YangZ          : $   985 ➡️ (+0)
+  Ethan          : $   960 ➡️ (+0)
+  HakulaPlayer   : $  1373 ➡️ (+0)
+  SichengZuo     : $   970 ➡️ (+0)
+  KLChen2PokerPlayer: $   989 ➡️ (+0)
+  Jinkun         : $  1010 📉 (-10)
+  NitWinWin      : $   970 ➡️ (+0)
+  ZPlayer        : $   742 📈 (+25)
+----------------------------------------
+
+🔄 Round 15
+----------------------------------------
+Initial State:
+👤 YangZ           | [♥️ 9] [♣️ 9]        | 💰   975
+👤 Ethan           | [♥️ 3] [♥️ K]        | 💰   960
+👤 HakulaPlayer    | [♣️ 4] [♥️ J]        | 💰  1373
+👤 SichengZuo      | [♦️ 3] [♣️ 2]        | 💰   970
+👤 KLChen2PokerPlayer | [♦️ 9] [♠️ 3]        | 💰   989
+👤 Jinkun          | [♠️ A] [♣️ 3]        | 💰  1010
+👤 NitWinWin       | [♠️ 2] [♠️ 8]        | 💰   970
+👤 ZPlayer         | [♠️ T] [♥️ A]        | 💰   737
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♥️ 3] [♥️ K] |   18.00% | ❌ fold
+  HakulaPlayer    | [♣️ 4] [♥️ J] |   20.50% | ❌ fold
+  SichengZuo      | [♦️ 3] [♣️ 2] |    7.30% | ❌ fold
+  KLChen2PokerPlayer | [♦️ 9] [♠️ 3] |    4.80% | ❌ fold
+  Jinkun          | [♠️ A] [♣️ 3] |   12.00% | ✅ call:$10
+  NitWinWin       | [♠️ 2] [♠️ 8] |   13.40% | ❌ fold
+  ZPlayer         | [♠️ T] [♥️ A] |   34.90% | ⬆️ raise:$15
+  YangZ           | [♥️ 9] [♣️ 9] |   56.00% | ❌ fold
+  Jinkun          | [♠️ A] [♣️ 3] |   32.60% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♥️ 6] [♥️ 8] [♦️ 5] ]
+  ZPlayer         | [♠️ T] [♥️ A] |   87.30% | ✅ call
+  Jinkun          | [♠️ A] [♣️ 3] |   16.50% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 6] [♥️ 8] [♦️ 5] [♠️ 4] ]
+  ZPlayer         | [♠️ T] [♥️ A] |   84.20% | ✅ call
+  Jinkun          | [♠️ A] [♣️ 3] |   26.20% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ 6] [♥️ 8] [♦️ 5] [♠️ 4] [♥️ 5] ]
+  ZPlayer         | [♠️ T] [♥️ A] |  100.00% | ✅ call
+  Jinkun          | [♠️ A] [♣️ 3] |    0.00% | ✅ call
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  YangZ          : $   975 ➡️ (+0)
+  Ethan          : $   960 ➡️ (+0)
+  HakulaPlayer   : $  1373 ➡️ (+0)
+  SichengZuo     : $   970 ➡️ (+0)
+  KLChen2PokerPlayer: $   989 ➡️ (+0)
+  Jinkun         : $   995 📉 (-15)
+  NitWinWin      : $   970 ➡️ (+0)
+  ZPlayer        : $   767 📈 (+30)
+----------------------------------------
+
+🔄 Round 16
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ T] [♦️ 7]        | 💰   970
+👤 Ethan           | [♥️ K] [♦️ K]        | 💰   950
+👤 HakulaPlayer    | [♣️ 8] [♦️ J]        | 💰  1373
+👤 SichengZuo      | [♣️ 3] [♠️ 4]        | 💰   970
+👤 KLChen2PokerPlayer | [♠️ 9] [♥️ 9]        | 💰   989
+👤 Jinkun          | [♣️ 5] [♦️ 5]        | 💰   995
+👤 NitWinWin       | [♣️ 2] [♠️ 6]        | 💰   970
+👤 ZPlayer         | [♦️ 2] [♠️ K]        | 💰   767
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♣️ 8] [♦️ J] |   12.70% | ❌ fold
+  SichengZuo      | [♣️ 3] [♠️ 4] |    8.80% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 9] [♥️ 9] |   17.20% | ⬆️ raise:$29
+  Jinkun          | [♣️ 5] [♦️ 5] |   16.10% | ❌ fold:$29
+  NitWinWin       | [♣️ 2] [♠️ 6] |   12.20% | ❌ fold
+  ZPlayer         | [♦️ 2] [♠️ K] |    4.60% | ✅ call:$29
+  YangZ           | [♠️ T] [♦️ 7] |   12.90% | ❌ fold
+  Ethan           | [♥️ K] [♦️ K] |   74.30% | ⬆️ raise:$288
+  KLChen2PokerPlayer | [♠️ 9] [♥️ 9] |   21.40% | ❌ fold
+  ZPlayer         | [♦️ 2] [♠️ K] |    6.10% | ✅ call:$288
+
+🎴 FLOP
+Board: [ [♥️ 8] [♥️ 2] [♣️ 6] ]
+  Ethan           | [♥️ K] [♦️ K] |   91.60% | ✅ call
+  ZPlayer         | [♦️ 2] [♠️ K] |    8.40% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 8] [♥️ 2] [♣️ 6] [♣️ 7] ]
+  Ethan           | [♥️ K] [♦️ K] |   95.50% | ✅ call
+  ZPlayer         | [♦️ 2] [♠️ K] |    4.50% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ 8] [♥️ 2] [♣️ 6] [♣️ 7] [♠️ A] ]
+  Ethan           | [♥️ K] [♦️ K] |  100.00% | ⬆️ raise:$610
+  ZPlayer         | [♦️ 2] [♠️ K] |    0.00% | ❌ fold
+
+🏆 Winner: Ethan
+Final Stacks:
+  YangZ          : $   970 ➡️ (+0)
+  Ethan          : $  1282 📈 (+332)
+  HakulaPlayer   : $  1373 ➡️ (+0)
+  SichengZuo     : $   970 ➡️ (+0)
+  KLChen2PokerPlayer: $   960 📉 (-29)
+  Jinkun         : $   995 ➡️ (+0)
+  NitWinWin      : $   970 ➡️ (+0)
+  ZPlayer        : $   479 📉 (-288)
+----------------------------------------
+
+🔄 Round 17
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ 6] [♠️ Q]        | 💰   970
+👤 Ethan           | [♥️ 6] [♣️ K]        | 💰  1277
+👤 HakulaPlayer    | [♥️ A] [♣️ 2]        | 💰  1363
+👤 SichengZuo      | [♦️ 4] [♦️ 2]        | 💰   970
+👤 KLChen2PokerPlayer | [♥️ 5] [♣️ Q]        | 💰   960
+👤 Jinkun          | [♠️ 7] [♠️ A]        | 💰   995
+👤 NitWinWin       | [♣️ A] [♣️ 3]        | 💰   970
+👤 ZPlayer         | [♦️ 5] [♠️ J]        | 💰   479
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♦️ 4] [♦️ 2] |   17.30% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 5] [♣️ Q] |   12.90% | ❌ fold
+  Jinkun          | [♠️ 7] [♠️ A] |   18.80% | ❌ fold:$10
+  NitWinWin       | [♣️ A] [♣️ 3] |   24.30% | ❌ fold
+  ZPlayer         | [♦️ 5] [♠️ J] |   22.20% | ✅ call:$10
+  YangZ           | [♣️ 6] [♠️ Q] |   19.70% | ❌ fold
+  Ethan           | [♥️ 6] [♣️ K] |   32.30% | ❌ fold
+  HakulaPlayer    | [♥️ A] [♣️ 2] |   60.00% | ⬆️ raise:$32
+  ZPlayer         | [♦️ 5] [♠️ J] |   40.30% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YangZ          : $   970 ➡️ (+0)
+  Ethan          : $  1277 ➡️ (+0)
+  HakulaPlayer   : $  1388 📈 (+25)
+  SichengZuo     : $   970 ➡️ (+0)
+  KLChen2PokerPlayer: $   960 ➡️ (+0)
+  Jinkun         : $   995 ➡️ (+0)
+  NitWinWin      : $   970 ➡️ (+0)
+  ZPlayer        : $   469 📉 (-10)
+----------------------------------------
+
+🔄 Round 18
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ 5] [♦️ 4]        | 💰   970
+👤 Ethan           | [♦️ 6] [♥️ 8]        | 💰  1277
+👤 HakulaPlayer    | [♦️ 8] [♥️ 6]        | 💰  1383
+👤 SichengZuo      | [♠️ 9] [♦️ 2]        | 💰   960
+👤 KLChen2PokerPlayer | [♣️ 5] [♦️ 9]        | 💰   960
+👤 Jinkun          | [♥️ 4] [♠️ 8]        | 💰   995
+👤 NitWinWin       | [♣️ A] [♠️ 6]        | 💰   970
+👤 ZPlayer         | [♠️ 7] [♦️ A]        | 💰   469
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♣️ 5] [♦️ 9] |   17.60% | ❌ fold
+  Jinkun          | [♥️ 4] [♠️ 8] |   10.60% | ❌ fold:$10
+  NitWinWin       | [♣️ A] [♠️ 6] |   19.40% | ❌ fold
+  ZPlayer         | [♠️ 7] [♦️ A] |   34.70% | ⬆️ raise:$15
+  YangZ           | [♠️ 5] [♦️ 4] |   20.40% | ❌ fold
+  Ethan           | [♦️ 6] [♥️ 8] |   24.80% | ❌ fold
+  HakulaPlayer    | [♦️ 8] [♥️ 6] |   30.90% | ❌ fold
+  SichengZuo      | [♠️ 9] [♦️ 2] |   38.90% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  YangZ          : $   970 ➡️ (+0)
+  Ethan          : $  1277 ➡️ (+0)
+  HakulaPlayer   : $  1383 ➡️ (+0)
+  SichengZuo     : $   960 ➡️ (+0)
+  KLChen2PokerPlayer: $   960 ➡️ (+0)
+  Jinkun         : $   995 ➡️ (+0)
+  NitWinWin      : $   970 ➡️ (+0)
+  ZPlayer        : $   484 📈 (+15)
+----------------------------------------
+
+🔄 Round 19
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ 2] [♦️ 6]        | 💰   970
+👤 Ethan           | [♣️ 9] [♥️ Q]        | 💰  1277
+👤 HakulaPlayer    | [♣️ 3] [♣️ 8]        | 💰  1383
+👤 SichengZuo      | [♣️ 4] [♥️ J]        | 💰   955
+👤 KLChen2PokerPlayer | [♦️ Q] [♠️ T]        | 💰   950
+👤 Jinkun          | [♦️ 7] [♦️ 2]        | 💰   995
+👤 NitWinWin       | [♣️ J] [♠️ A]        | 💰   970
+👤 ZPlayer         | [♦️ 8] [♣️ A]        | 💰   484
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♦️ 7] [♦️ 2] |   14.70% | ❌ fold:$10
+  NitWinWin       | [♣️ J] [♠️ A] |   20.50% | ❌ fold
+  ZPlayer         | [♦️ 8] [♣️ A] |   21.80% | ⬆️ raise:$15
+  YangZ           | [♣️ 2] [♦️ 6] |   13.90% | ❌ fold
+  Ethan           | [♣️ 9] [♥️ Q] |   17.80% | ❌ fold
+  HakulaPlayer    | [♣️ 3] [♣️ 8] |   15.00% | ❌ fold
+  SichengZuo      | [♣️ 4] [♥️ J] |   24.20% | ❌ fold
+  KLChen2PokerPlayer | [♦️ Q] [♠️ T] |   43.60% | ⬆️ raise:$20
+  ZPlayer         | [♦️ 8] [♣️ A] |   56.70% | ✅ call:$20
+
+🎴 FLOP
+Board: [ [♠️ Q] [♠️ 6] [♠️ 4] ]
+  KLChen2PokerPlayer | [♦️ Q] [♠️ T] |   93.00% | ⬆️ raise:$38
+  ZPlayer         | [♦️ 8] [♣️ A] |    7.00% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $   970 ➡️ (+0)
+  Ethan          : $  1277 ➡️ (+0)
+  HakulaPlayer   : $  1383 ➡️ (+0)
+  SichengZuo     : $   955 ➡️ (+0)
+  KLChen2PokerPlayer: $   985 📈 (+35)
+  Jinkun         : $   995 ➡️ (+0)
+  NitWinWin      : $   970 ➡️ (+0)
+  ZPlayer        : $   464 📉 (-20)
+----------------------------------------
+
+🔄 Round 20
+----------------------------------------
+Initial State:
+👤 YangZ           | [♥️ 3] [♥️ 2]        | 💰   970
+👤 Ethan           | [♦️ 5] [♣️ Q]        | 💰  1277
+👤 HakulaPlayer    | [♠️ 7] [♠️ 9]        | 💰  1383
+👤 SichengZuo      | [♥️ Q] [♥️ K]        | 💰   955
+👤 KLChen2PokerPlayer | [♠️ 2] [♣️ 7]        | 💰   980
+👤 Jinkun          | [♠️ A] [♦️ 2]        | 💰   985
+👤 NitWinWin       | [♥️ A] [♠️ 6]        | 💰   970
+👤 ZPlayer         | [♥️ J] [♣️ K]        | 💰   464
+
+🎴 PREFLOP
+Board: [  ]
+  NitWinWin       | [♥️ A] [♠️ 6] |   17.10% | ❌ fold
+  ZPlayer         | [♥️ J] [♣️ K] |   12.00% | ⬆️ raise:$15
+  YangZ           | [♥️ 3] [♥️ 2] |    8.70% | ❌ fold
+  Ethan           | [♦️ 5] [♣️ Q] |    8.80% | ❌ fold
+  HakulaPlayer    | [♠️ 7] [♠️ 9] |   24.40% | ❌ fold
+  SichengZuo      | [♥️ Q] [♥️ K] |   36.90% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 2] [♣️ 7] |   15.80% | ❌ fold
+  Jinkun          | [♠️ A] [♦️ 2] |   59.40% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♣️ T] [♦️ 6] [♣️ J] ]
+  Jinkun          | [♠️ A] [♦️ 2] |   11.80% | ✅ call
+  ZPlayer         | [♥️ J] [♣️ K] |   88.20% | ⬆️ raise:$10
+  Jinkun          | [♠️ A] [♦️ 2] |   11.80% | ✅ call:$10
+
+🎴 TURN
+Board: [ [♣️ T] [♦️ 6] [♣️ J] [♦️ 4] ]
+  Jinkun          | [♠️ A] [♦️ 2] |    7.30% | ✅ call
+  ZPlayer         | [♥️ J] [♣️ K] |   92.70% | ⬆️ raise:$10
+  Jinkun          | [♠️ A] [♦️ 2] |    7.30% | ✅ call:$10
+
+🎴 RIVER
+Board: [ [♣️ T] [♦️ 6] [♣️ J] [♦️ 4] [♦️ Q] ]
+  Jinkun          | [♠️ A] [♦️ 2] |    0.00% | ✅ call
+  ZPlayer         | [♥️ J] [♣️ K] |  100.00% | ⬆️ raise:$10
+  Jinkun          | [♠️ A] [♦️ 2] |    0.00% | ✅ call:$10
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  YangZ          : $   970 ➡️ (+0)
+  Ethan          : $  1277 ➡️ (+0)
+  HakulaPlayer   : $  1383 ➡️ (+0)
+  SichengZuo     : $   955 ➡️ (+0)
+  KLChen2PokerPlayer: $   980 ➡️ (+0)
+  Jinkun         : $   950 📉 (-35)
+  NitWinWin      : $   970 ➡️ (+0)
+  ZPlayer        : $   514 📈 (+50)
+----------------------------------------
+
+🔄 Round 21
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ 4] [♠️ 3]        | 💰   970
+👤 Ethan           | [♦️ Q] [♥️ 7]        | 💰  1277
+👤 HakulaPlayer    | [♠️ 2] [♥️ Q]        | 💰  1383
+👤 SichengZuo      | [♠️ 8] [♣️ 2]        | 💰   955
+👤 KLChen2PokerPlayer | [♠️ 5] [♥️ K]        | 💰   980
+👤 Jinkun          | [♣️ 6] [♠️ 7]        | 💰   945
+👤 NitWinWin       | [♦️ 9] [♣️ Q]        | 💰   960
+👤 ZPlayer         | [♦️ 6] [♠️ Q]        | 💰   514
+
+🎴 PREFLOP
+Board: [  ]
+  ZPlayer         | [♦️ 6] [♠️ Q] |    8.40% | ✅ call:$10
+  YangZ           | [♣️ 4] [♠️ 3] |   15.50% | ❌ fold
+  Ethan           | [♦️ Q] [♥️ 7] |    9.40% | ❌ fold
+  HakulaPlayer    | [♠️ 2] [♥️ Q] |    6.80% | ✅ call:$10
+  SichengZuo      | [♠️ 8] [♣️ 2] |   13.40% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 5] [♥️ K] |   34.00% | ⬆️ raise:$15
+  Jinkun          | [♣️ 6] [♠️ 7] |   24.70% | ❌ fold:$15
+  NitWinWin       | [♦️ 9] [♣️ Q] |   31.30% | ❌ fold
+  ZPlayer         | [♦️ 6] [♠️ Q] |   37.80% | ✅ call:$15
+  HakulaPlayer    | [♠️ 2] [♥️ Q] |   22.90% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♦️ J] [♣️ 3] [♣️ 5] ]
+  ZPlayer         | [♦️ 6] [♠️ Q] |   19.70% | ✅ call
+  HakulaPlayer    | [♠️ 2] [♥️ Q] |    3.20% | ⬆️ raise:$27
+  KLChen2PokerPlayer | [♠️ 5] [♥️ K] |   77.70% | ❌ fold
+  ZPlayer         | [♦️ 6] [♠️ Q] |   86.00% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YangZ          : $   970 ➡️ (+0)
+  Ethan          : $  1277 ➡️ (+0)
+  HakulaPlayer   : $  1428 📈 (+45)
+  SichengZuo     : $   955 ➡️ (+0)
+  KLChen2PokerPlayer: $   965 📉 (-15)
+  Jinkun         : $   945 ➡️ (+0)
+  NitWinWin      : $   960 ➡️ (+0)
+  ZPlayer        : $   499 📉 (-15)
+----------------------------------------
+
+🔄 Round 22
+----------------------------------------
+Initial State:
+👤 YangZ           | [♦️ 9] [♥️ 6]        | 💰   970
+👤 Ethan           | [♣️ 9] [♦️ K]        | 💰  1277
+👤 HakulaPlayer    | [♥️ 4] [♠️ 4]        | 💰  1428
+👤 SichengZuo      | [♣️ Q] [♠️ 5]        | 💰   955
+👤 KLChen2PokerPlayer | [♥️ 8] [♠️ Q]        | 💰   965
+👤 Jinkun          | [♠️ 9] [♠️ 8]        | 💰   945
+👤 NitWinWin       | [♣️ K] [♥️ K]        | 💰   955
+👤 ZPlayer         | [♥️ 7] [♦️ 4]        | 💰   489
+
+🎴 PREFLOP
+Board: [  ]
+  YangZ           | [♦️ 9] [♥️ 6] |    7.60% | ❌ fold
+  Ethan           | [♣️ 9] [♦️ K] |    6.30% | ❌ fold
+  HakulaPlayer    | [♥️ 4] [♠️ 4] |    8.40% | ✅ call:$10
+  SichengZuo      | [♣️ Q] [♠️ 5] |    6.60% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 8] [♠️ Q] |    7.20% | ⬆️ raise:$15
+  Jinkun          | [♠️ 9] [♠️ 8] |   17.30% | ❌ fold:$15
+  NitWinWin       | [♣️ K] [♥️ K] |   70.00% | ⬆️ raise:$960
+  ZPlayer         | [♥️ 7] [♦️ 4] |    9.70% | ❌ fold
+  HakulaPlayer    | [♥️ 4] [♠️ 4] |   17.60% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 8] [♠️ Q] |   15.60% | ❌ fold
+
+🏆 Winner: NitWinWin
+Final Stacks:
+  YangZ          : $   970 ➡️ (+0)
+  Ethan          : $  1277 ➡️ (+0)
+  HakulaPlayer   : $  1418 📉 (-10)
+  SichengZuo     : $   955 ➡️ (+0)
+  KLChen2PokerPlayer: $   950 📉 (-15)
+  Jinkun         : $   945 ➡️ (+0)
+  NitWinWin      : $   995 📈 (+40)
+  ZPlayer        : $   489 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 23
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ Q] [♣️ 3]        | 💰   960
+👤 Ethan           | [♠️ T] [♥️ Q]        | 💰  1277
+👤 HakulaPlayer    | [♥️ K] [♠️ 9]        | 💰  1418
+👤 SichengZuo      | [♥️ 7] [♣️ 5]        | 💰   955
+👤 KLChen2PokerPlayer | [♠️ Q] [♥️ J]        | 💰   950
+👤 Jinkun          | [♣️ 9] [♦️ J]        | 💰   945
+👤 NitWinWin       | [♦️ 2] [♠️ A]        | 💰   995
+👤 ZPlayer         | [♦️ 5] [♥️ 4]        | 💰   484
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♠️ T] [♥️ Q] |   10.90% | ❌ fold
+  HakulaPlayer    | [♥️ K] [♠️ 9] |   15.90% | ✅ call:$10
+  SichengZuo      | [♥️ 7] [♣️ 5] |   16.70% | ❌ fold
+  KLChen2PokerPlayer | [♠️ Q] [♥️ J] |   15.50% | ⬆️ raise:$21
+  Jinkun          | [♣️ 9] [♦️ J] |   10.90% | ❌ fold:$21
+  NitWinWin       | [♦️ 2] [♠️ A] |   20.50% | ❌ fold
+  ZPlayer         | [♦️ 5] [♥️ 4] |   25.00% | ✅ call:$21
+  YangZ           | [♣️ Q] [♣️ 3] |   17.20% | ❌ fold
+  HakulaPlayer    | [♥️ K] [♠️ 9] |   34.20% | ✅ call:$21
+
+🎴 FLOP
+Board: [ [♠️ 2] [♠️ K] [♣️ A] ]
+  ZPlayer         | [♦️ 5] [♥️ 4] |   16.00% | ✅ call
+  HakulaPlayer    | [♥️ K] [♠️ 9] |   61.00% | ✅ call
+  KLChen2PokerPlayer | [♠️ Q] [♥️ J] |   23.00% | ⬆️ raise:$14
+  ZPlayer         | [♦️ 5] [♥️ 4] |   16.00% | ❌ fold
+  HakulaPlayer    | [♥️ K] [♠️ 9] |   80.50% | ⬆️ raise:$81
+  KLChen2PokerPlayer | [♠️ Q] [♥️ J] |   19.50% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YangZ          : $   960 ➡️ (+0)
+  Ethan          : $  1277 ➡️ (+0)
+  HakulaPlayer   : $  1484 📈 (+66)
+  SichengZuo     : $   955 ➡️ (+0)
+  KLChen2PokerPlayer: $   915 📉 (-35)
+  Jinkun         : $   945 ➡️ (+0)
+  NitWinWin      : $   995 ➡️ (+0)
+  ZPlayer        : $   468 📉 (-16)
+----------------------------------------
+
+🔄 Round 24
+----------------------------------------
+Initial State:
+👤 YangZ           | [♥️ A] [♠️ 6]        | 💰   955
+👤 Ethan           | [♦️ 4] [♥️ K]        | 💰  1267
+👤 HakulaPlayer    | [♥️ 5] [♦️ 7]        | 💰  1484
+👤 SichengZuo      | [♣️ 6] [♠️ 8]        | 💰   955
+👤 KLChen2PokerPlayer | [♥️ J] [♠️ 5]        | 💰   915
+👤 Jinkun          | [♠️ 3] [♣️ Q]        | 💰   945
+👤 NitWinWin       | [♣️ 5] [♣️ 8]        | 💰   995
+👤 ZPlayer         | [♠️ 7] [♣️ A]        | 💰   468
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♥️ 5] [♦️ 7] |    6.70% | ❌ fold
+  SichengZuo      | [♣️ 6] [♠️ 8] |   12.00% | ❌ fold
+  KLChen2PokerPlayer | [♥️ J] [♠️ 5] |   16.30% | ❌ fold
+  Jinkun          | [♠️ 3] [♣️ Q] |   19.90% | ❌ fold:$10
+  NitWinWin       | [♣️ 5] [♣️ 8] |   29.10% | ❌ fold
+  ZPlayer         | [♠️ 7] [♣️ A] |   51.20% | ⬆️ raise:$15
+  YangZ           | [♥️ A] [♠️ 6] |   32.00% | ❌ fold
+  Ethan           | [♦️ 4] [♥️ K] |   38.70% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  YangZ          : $   955 ➡️ (+0)
+  Ethan          : $  1267 ➡️ (+0)
+  HakulaPlayer   : $  1484 ➡️ (+0)
+  SichengZuo     : $   955 ➡️ (+0)
+  KLChen2PokerPlayer: $   915 ➡️ (+0)
+  Jinkun         : $   945 ➡️ (+0)
+  NitWinWin      : $   995 ➡️ (+0)
+  ZPlayer        : $   483 📈 (+15)
+----------------------------------------
+
+🔄 Round 25
+----------------------------------------
+Initial State:
+👤 YangZ           | [♦️ 3] [♦️ K]        | 💰   955
+👤 Ethan           | [♠️ A] [♠️ T]        | 💰  1262
+👤 HakulaPlayer    | [♥️ 8] [♠️ 5]        | 💰  1474
+👤 SichengZuo      | [♠️ 2] [♣️ 9]        | 💰   955
+👤 KLChen2PokerPlayer | [♠️ 4] [♦️ 4]        | 💰   915
+👤 Jinkun          | [♦️ A] [♥️ 7]        | 💰   945
+👤 NitWinWin       | [♦️ 5] [♦️ J]        | 💰   995
+👤 ZPlayer         | [♠️ 8] [♦️ T]        | 💰   483
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♠️ 2] [♣️ 9] |   13.30% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 4] [♦️ 4] |   23.70% | ✅ call:$10
+  Jinkun          | [♦️ A] [♥️ 7] |   11.80% | ❌ fold:$10
+  NitWinWin       | [♦️ 5] [♦️ J] |   13.80% | ❌ fold
+  ZPlayer         | [♠️ 8] [♦️ T] |   14.30% | ✅ call:$10
+  YangZ           | [♦️ 3] [♦️ K] |   23.70% | ❌ fold
+  Ethan           | [♠️ A] [♠️ T] |   39.20% | ✅ call:$10
+  HakulaPlayer    | [♥️ 8] [♠️ 5] |   18.50% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♣️ 8] [♣️ A] [♠️ Q] ]
+  Ethan           | [♠️ A] [♠️ T] |   76.00% | ✅ call
+  HakulaPlayer    | [♥️ 8] [♠️ 5] |   14.20% | ✅ call
+  KLChen2PokerPlayer | [♠️ 4] [♦️ 4] |    9.40% | ✅ call
+  ZPlayer         | [♠️ 8] [♦️ T] |    7.90% | ⬆️ raise:$20
+  Ethan           | [♠️ A] [♠️ T] |   76.00% | ✅ call:$20
+  HakulaPlayer    | [♥️ 8] [♠️ 5] |   14.20% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 4] [♦️ 4] |    9.00% | ❌ fold
+
+🎴 TURN
+Board: [ [♣️ 8] [♣️ A] [♠️ Q] [♣️ 3] ]
+  Ethan           | [♠️ A] [♠️ T] |   95.70% | ⬆️ raise:$123
+  ZPlayer         | [♠️ 8] [♦️ T] |    4.30% | ❌ fold
+
+🏆 Winner: Ethan
+Final Stacks:
+  YangZ          : $   955 ➡️ (+0)
+  Ethan          : $  1317 📈 (+55)
+  HakulaPlayer   : $  1474 ➡️ (+0)
+  SichengZuo     : $   955 ➡️ (+0)
+  KLChen2PokerPlayer: $   905 📉 (-10)
+  Jinkun         : $   945 ➡️ (+0)
+  NitWinWin      : $   995 ➡️ (+0)
+  ZPlayer        : $   453 📉 (-30)
+----------------------------------------
+
+🔄 Round 26
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ K] [♣️ A]        | 💰   955
+👤 Ethan           | [♣️ J] [♣️ K]        | 💰  1317
+👤 HakulaPlayer    | [♣️ Q] [♣️ 4]        | 💰  1469
+👤 SichengZuo      | [♣️ 5] [♠️ 9]        | 💰   945
+👤 KLChen2PokerPlayer | [♥️ 6] [♦️ 6]        | 💰   905
+👤 Jinkun          | [♦️ Q] [♠️ 6]        | 💰   945
+👤 NitWinWin       | [♦️ 8] [♠️ A]        | 💰   995
+👤 ZPlayer         | [♠️ J] [♦️ T]        | 💰   453
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♥️ 6] [♦️ 6] |   15.00% | ⬆️ raise:$27
+  Jinkun          | [♦️ Q] [♠️ 6] |    7.50% | ❌ fold:$27
+  NitWinWin       | [♦️ 8] [♠️ A] |    9.30% | ❌ fold
+  ZPlayer         | [♠️ J] [♦️ T] |   15.60% | ✅ call:$27
+  YangZ           | [♠️ K] [♣️ A] |   22.90% | ❌ fold
+  Ethan           | [♣️ J] [♣️ K] |   28.90% | ⬆️ raise:$197
+  HakulaPlayer    | [♣️ Q] [♣️ 4] |   15.80% | ❌ fold
+  SichengZuo      | [♣️ 5] [♠️ 9] |   13.40% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 6] [♦️ 6] |   42.30% | ❌ fold
+  ZPlayer         | [♠️ J] [♦️ T] |   26.80% | ✅ call:$197
+
+🎴 FLOP
+Board: [ [♥️ Q] [♣️ 9] [♦️ 5] ]
+  ZPlayer         | [♠️ J] [♦️ T] |   26.80% | ⬆️ raise:$10
+  Ethan           | [♣️ J] [♣️ K] |   73.70% | ✅ call:$10
+
+🎴 TURN
+Board: [ [♥️ Q] [♣️ 9] [♦️ 5] [♥️ T] ]
+  ZPlayer         | [♠️ J] [♦️ T] |    6.10% | ⬆️ raise:$10
+  Ethan           | [♣️ J] [♣️ K] |  100.00% | ⬆️ raise:$466
+  ZPlayer         | [♠️ J] [♦️ T] |    6.10% | ✅ call:$466
+
+🎴 RIVER
+Board: [ [♥️ Q] [♣️ 9] [♦️ 5] [♥️ T] [♠️ 7] ]
+
+🏆 Winner: Ethan
+Final Stacks:
+  YangZ          : $   955 ➡️ (+0)
+  Ethan          : $  1812 📈 (+495)
+  HakulaPlayer   : $  1469 ➡️ (+0)
+  SichengZuo     : $   945 ➡️ (+0)
+  KLChen2PokerPlayer: $   878 📉 (-27)
+  Jinkun         : $   945 ➡️ (+0)
+  NitWinWin      : $   995 ➡️ (+0)
+  ZPlayer        : $     0 📉 (-453)
+----------------------------------------
+
+🔄 Round 27
+----------------------------------------
+Initial State:
+👤 YangZ           | [♥️ K] [♣️ K]        | 💰   955
+👤 Ethan           | [♦️ K] [♣️ T]        | 💰  1812
+👤 HakulaPlayer    | [♣️ 8] [♣️ 6]        | 💰  1469
+👤 SichengZuo      | [♦️ 5] [♥️ 9]        | 💰   940
+👤 KLChen2PokerPlayer | [♦️ 3] [♣️ 4]        | 💰   868
+👤 Jinkun          | [♠️ 8] [♠️ 5]        | 💰   945
+👤 NitWinWin       | [♥️ 5] [♣️ 3]        | 💰   995
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♠️ 8] [♠️ 5] |   19.80% | ❌ fold:$10
+  NitWinWin       | [♥️ 5] [♣️ 3] |    8.50% | ❌ fold
+  YangZ           | [♥️ K] [♣️ K] |   47.90% | ❌ fold
+  Ethan           | [♦️ K] [♣️ T] |   38.30% | ❌ fold
+  HakulaPlayer    | [♣️ 8] [♣️ 6] |   42.00% | ❌ fold
+  SichengZuo      | [♦️ 5] [♥️ 9] |   63.90% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $   955 ➡️ (+0)
+  Ethan          : $  1812 ➡️ (+0)
+  HakulaPlayer   : $  1469 ➡️ (+0)
+  SichengZuo     : $   940 ➡️ (+0)
+  KLChen2PokerPlayer: $   883 📈 (+15)
+  Jinkun         : $   945 ➡️ (+0)
+  NitWinWin      : $   995 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 28
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ T] [♥️ A]        | 💰   955
+👤 Ethan           | [♣️ 3] [♠️ 6]        | 💰  1812
+👤 HakulaPlayer    | [♥️ J] [♦️ J]        | 💰  1469
+👤 SichengZuo      | [♥️ 3] [♦️ 7]        | 💰   940
+👤 KLChen2PokerPlayer | [♦️ T] [♠️ 7]        | 💰   878
+👤 Jinkun          | [♠️ 5] [♣️ Q]        | 💰   935
+👤 NitWinWin       | [♥️ T] [♣️ 6]        | 💰   995
+
+🎴 PREFLOP
+Board: [  ]
+  NitWinWin       | [♥️ T] [♣️ 6] |    6.50% | ❌ fold
+  YangZ           | [♠️ T] [♥️ A] |   26.90% | ❌ fold
+  Ethan           | [♣️ 3] [♠️ 6] |    9.20% | ❌ fold
+  HakulaPlayer    | [♥️ J] [♦️ J] |   55.80% | ⬆️ raise:$34
+  SichengZuo      | [♥️ 3] [♦️ 7] |    9.50% | ❌ fold
+  KLChen2PokerPlayer | [♦️ T] [♠️ 7] |   14.50% | ❌ fold
+  Jinkun          | [♠️ 5] [♣️ Q] |   29.10% | ❌ fold:$34
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YangZ          : $   955 ➡️ (+0)
+  Ethan          : $  1812 ➡️ (+0)
+  HakulaPlayer   : $  1484 📈 (+15)
+  SichengZuo     : $   940 ➡️ (+0)
+  KLChen2PokerPlayer: $   878 ➡️ (+0)
+  Jinkun         : $   935 ➡️ (+0)
+  NitWinWin      : $   995 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 29
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ Q] [♦️ 4]        | 💰   955
+👤 Ethan           | [♣️ 8] [♥️ 3]        | 💰  1812
+👤 HakulaPlayer    | [♥️ 2] [♦️ A]        | 💰  1484
+👤 SichengZuo      | [♥️ 7] [♠️ A]        | 💰   940
+👤 KLChen2PokerPlayer | [♠️ 3] [♥️ 9]        | 💰   878
+👤 Jinkun          | [♠️ 5] [♠️ K]        | 💰   930
+👤 NitWinWin       | [♠️ J] [♥️ 5]        | 💰   985
+
+🎴 PREFLOP
+Board: [  ]
+  YangZ           | [♠️ Q] [♦️ 4] |   18.50% | ❌ fold
+  Ethan           | [♣️ 8] [♥️ 3] |   13.40% | ❌ fold
+  HakulaPlayer    | [♥️ 2] [♦️ A] |   17.00% | ✅ call:$10
+  SichengZuo      | [♥️ 7] [♠️ A] |   25.20% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 3] [♥️ 9] |   21.00% | ⬆️ raise:$19
+  Jinkun          | [♠️ 5] [♠️ K] |   31.80% | ❌ fold:$19
+  NitWinWin       | [♠️ J] [♥️ 5] |   33.30% | ❌ fold
+  HakulaPlayer    | [♥️ 2] [♦️ A] |   62.10% | ✅ call:$19
+
+🎴 FLOP
+Board: [ [♣️ 2] [♣️ K] [♣️ Q] ]
+  HakulaPlayer    | [♥️ 2] [♦️ A] |   77.30% | ✅ call
+  KLChen2PokerPlayer | [♠️ 3] [♥️ 9] |   26.50% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 2] [♣️ K] [♣️ Q] [♣️ A] ]
+  HakulaPlayer    | [♥️ 2] [♦️ A] |  100.00% | ✅ call
+  KLChen2PokerPlayer | [♠️ 3] [♥️ 9] |   20.10% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 2] [♣️ K] [♣️ Q] [♣️ A] [♠️ 8] ]
+  HakulaPlayer    | [♥️ 2] [♦️ A] |  100.00% | ✅ call
+  KLChen2PokerPlayer | [♠️ 3] [♥️ 9] |    0.00% | ✅ call
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YangZ          : $   955 ➡️ (+0)
+  Ethan          : $  1812 ➡️ (+0)
+  HakulaPlayer   : $  1518 📈 (+34)
+  SichengZuo     : $   940 ➡️ (+0)
+  KLChen2PokerPlayer: $   859 📉 (-19)
+  Jinkun         : $   930 ➡️ (+0)
+  NitWinWin      : $   985 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 30
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ J] [♥️ 2]        | 💰   945
+👤 Ethan           | [♥️ K] [♥️ 9]        | 💰  1812
+👤 HakulaPlayer    | [♣️ 5] [♠️ T]        | 💰  1518
+👤 SichengZuo      | [♥️ 4] [♥️ 5]        | 💰   940
+👤 KLChen2PokerPlayer | [♠️ 9] [♦️ 4]        | 💰   859
+👤 Jinkun          | [♣️ T] [♣️ A]        | 💰   930
+👤 NitWinWin       | [♦️ K] [♥️ T]        | 💰   980
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♥️ K] [♥️ 9] |   14.00% | ❌ fold
+  HakulaPlayer    | [♣️ 5] [♠️ T] |    7.70% | ❌ fold
+  SichengZuo      | [♥️ 4] [♥️ 5] |   19.90% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 9] [♦️ 4] |   19.60% | ✅ call:$10
+  Jinkun          | [♣️ T] [♣️ A] |   41.50% | ✅ call:$10
+  NitWinWin       | [♦️ K] [♥️ T] |   21.40% | ❌ fold
+  YangZ           | [♠️ J] [♥️ 2] |   26.30% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ 9] [♥️ 3] [♣️ 3] ]
+  KLChen2PokerPlayer | [♠️ 9] [♦️ 4] |   48.50% | ⬆️ raise:$24
+  Jinkun          | [♣️ T] [♣️ A] |   51.50% | ✅ call:$24
+
+🎴 TURN
+Board: [ [♣️ 9] [♥️ 3] [♣️ 3] [♦️ 6] ]
+  KLChen2PokerPlayer | [♠️ 9] [♦️ 4] |   66.70% | ⬆️ raise:$128
+  Jinkun          | [♣️ T] [♣️ A] |   33.30% | ✅ call:$128
+
+🎴 RIVER
+Board: [ [♣️ 9] [♥️ 3] [♣️ 3] [♦️ 6] [♠️ K] ]
+  KLChen2PokerPlayer | [♠️ 9] [♦️ 4] |  100.00% | ⬆️ raise:$121
+  Jinkun          | [♣️ T] [♣️ A] |    0.00% | ✅ call:$121
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $   945 ➡️ (+0)
+  Ethan          : $  1812 ➡️ (+0)
+  HakulaPlayer   : $  1518 ➡️ (+0)
+  SichengZuo     : $   940 ➡️ (+0)
+  KLChen2PokerPlayer: $  1157 📈 (+298)
+  Jinkun         : $   647 📉 (-283)
+  NitWinWin      : $   980 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 31
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ 7] [♠️ 9]        | 💰   940
+👤 Ethan           | [♥️ J] [♠️ 6]        | 💰  1802
+👤 HakulaPlayer    | [♦️ Q] [♣️ 2]        | 💰  1518
+👤 SichengZuo      | [♥️ 6] [♠️ A]        | 💰   940
+👤 KLChen2PokerPlayer | [♣️ Q] [♣️ 5]        | 💰  1157
+👤 Jinkun          | [♦️ 8] [♠️ 7]        | 💰   647
+👤 NitWinWin       | [♥️ A] [♣️ T]        | 💰   980
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♦️ Q] [♣️ 2] |   12.90% | ❌ fold
+  SichengZuo      | [♥️ 6] [♠️ A] |    8.30% | ❌ fold
+  KLChen2PokerPlayer | [♣️ Q] [♣️ 5] |   23.70% | ⬆️ raise:$19
+  Jinkun          | [♦️ 8] [♠️ 7] |   15.40% | ❌ fold:$19
+  NitWinWin       | [♥️ A] [♣️ T] |   33.50% | ❌ fold
+  YangZ           | [♣️ 7] [♠️ 9] |   32.00% | ❌ fold
+  Ethan           | [♥️ J] [♠️ 6] |   37.60% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $   940 ➡️ (+0)
+  Ethan          : $  1802 ➡️ (+0)
+  HakulaPlayer   : $  1518 ➡️ (+0)
+  SichengZuo     : $   940 ➡️ (+0)
+  KLChen2PokerPlayer: $  1172 📈 (+15)
+  Jinkun         : $   647 ➡️ (+0)
+  NitWinWin      : $   980 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 32
+----------------------------------------
+Initial State:
+👤 YangZ           | [♥️ J] [♥️ 6]        | 💰   940
+👤 Ethan           | [♥️ 2] [♥️ 9]        | 💰  1797
+👤 HakulaPlayer    | [♦️ A] [♣️ 6]        | 💰  1508
+👤 SichengZuo      | [♣️ T] [♠️ 4]        | 💰   940
+👤 KLChen2PokerPlayer | [♣️ 9] [♠️ 2]        | 💰  1172
+👤 Jinkun          | [♦️ Q] [♦️ 9]        | 💰   647
+👤 NitWinWin       | [♦️ 8] [♠️ 5]        | 💰   980
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♣️ T] [♠️ 4] |   17.50% | ❌ fold
+  KLChen2PokerPlayer | [♣️ 9] [♠️ 2] |    7.00% | ✅ call:$10
+  Jinkun          | [♦️ Q] [♦️ 9] |   27.70% | ❌ fold:$10
+  NitWinWin       | [♦️ 8] [♠️ 5] |   24.10% | ❌ fold
+  YangZ           | [♥️ J] [♥️ 6] |   27.80% | ❌ fold
+  Ethan           | [♥️ 2] [♥️ 9] |   34.10% | ❌ fold
+  HakulaPlayer    | [♦️ A] [♣️ 6] |   63.50% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ J] [♣️ 3] [♣️ K] ]
+  HakulaPlayer    | [♦️ A] [♣️ 6] |   75.30% | ✅ call
+  KLChen2PokerPlayer | [♣️ 9] [♠️ 2] |   24.70% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ J] [♣️ 3] [♣️ K] [♠️ A] ]
+  HakulaPlayer    | [♦️ A] [♣️ 6] |  100.00% | ⬆️ raise:$25
+  KLChen2PokerPlayer | [♣️ 9] [♠️ 2] |    0.00% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YangZ          : $   940 ➡️ (+0)
+  Ethan          : $  1797 ➡️ (+0)
+  HakulaPlayer   : $  1533 📈 (+25)
+  SichengZuo     : $   940 ➡️ (+0)
+  KLChen2PokerPlayer: $  1162 📉 (-10)
+  Jinkun         : $   647 ➡️ (+0)
+  NitWinWin      : $   980 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 33
+----------------------------------------
+Initial State:
+👤 YangZ           | [♥️ 5] [♠️ 6]        | 💰   940
+👤 Ethan           | [♥️ 4] [♦️ 3]        | 💰  1797
+👤 HakulaPlayer    | [♠️ 8] [♠️ 2]        | 💰  1528
+👤 SichengZuo      | [♥️ 2] [♥️ 8]        | 💰   930
+👤 KLChen2PokerPlayer | [♥️ T] [♥️ 9]        | 💰  1162
+👤 Jinkun          | [♦️ J] [♣️ 9]        | 💰   647
+👤 NitWinWin       | [♣️ 2] [♦️ 7]        | 💰   980
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♥️ T] [♥️ 9] |   21.90% | ⬆️ raise:$20
+  Jinkun          | [♦️ J] [♣️ 9] |   28.60% | ❌ fold:$20
+  NitWinWin       | [♣️ 2] [♦️ 7] |   13.50% | ❌ fold
+  YangZ           | [♥️ 5] [♠️ 6] |   21.90% | ❌ fold
+  Ethan           | [♥️ 4] [♦️ 3] |   28.00% | ❌ fold
+  HakulaPlayer    | [♠️ 8] [♠️ 2] |   30.70% | ⬆️ raise:$30
+  SichengZuo      | [♥️ 2] [♥️ 8] |   21.60% | ❌ fold
+  KLChen2PokerPlayer | [♥️ T] [♥️ 9] |   67.20% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YangZ          : $   940 ➡️ (+0)
+  Ethan          : $  1797 ➡️ (+0)
+  HakulaPlayer   : $  1563 📈 (+35)
+  SichengZuo     : $   930 ➡️ (+0)
+  KLChen2PokerPlayer: $  1142 📉 (-20)
+  Jinkun         : $   647 ➡️ (+0)
+  NitWinWin      : $   980 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 34
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ Q] [♦️ 6]        | 💰   940
+👤 Ethan           | [♣️ 4] [♠️ 5]        | 💰  1797
+👤 HakulaPlayer    | [♦️ T] [♥️ 6]        | 💰  1563
+👤 SichengZuo      | [♣️ 8] [♠️ 8]        | 💰   925
+👤 KLChen2PokerPlayer | [♥️ J] [♥️ Q]        | 💰  1132
+👤 Jinkun          | [♦️ 7] [♦️ 9]        | 💰   647
+👤 NitWinWin       | [♣️ Q] [♥️ 5]        | 💰   980
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♦️ 7] [♦️ 9] |   20.70% | ❌ fold:$10
+  NitWinWin       | [♣️ Q] [♥️ 5] |    6.40% | ❌ fold
+  YangZ           | [♠️ Q] [♦️ 6] |    7.50% | ❌ fold
+  Ethan           | [♣️ 4] [♠️ 5] |   15.50% | ❌ fold
+  HakulaPlayer    | [♦️ T] [♥️ 6] |   17.70% | ❌ fold
+  SichengZuo      | [♣️ 8] [♠️ 8] |   51.00% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $   940 ➡️ (+0)
+  Ethan          : $  1797 ➡️ (+0)
+  HakulaPlayer   : $  1563 ➡️ (+0)
+  SichengZuo     : $   925 ➡️ (+0)
+  KLChen2PokerPlayer: $  1147 📈 (+15)
+  Jinkun         : $   647 ➡️ (+0)
+  NitWinWin      : $   980 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 35
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ 8] [♦️ 5]        | 💰   940
+👤 Ethan           | [♠️ 8] [♠️ 3]        | 💰  1797
+👤 HakulaPlayer    | [♣️ A] [♥️ 7]        | 💰  1563
+👤 SichengZuo      | [♠️ J] [♦️ 6]        | 💰   925
+👤 KLChen2PokerPlayer | [♦️ A] [♥️ 6]        | 💰  1142
+👤 Jinkun          | [♥️ K] [♥️ 5]        | 💰   637
+👤 NitWinWin       | [♠️ 2] [♥️ A]        | 💰   980
+
+🎴 PREFLOP
+Board: [  ]
+  NitWinWin       | [♠️ 2] [♥️ A] |   11.50% | ❌ fold
+  YangZ           | [♣️ 8] [♦️ 5] |    9.00% | ❌ fold
+  Ethan           | [♠️ 8] [♠️ 3] |   21.30% | ❌ fold
+  HakulaPlayer    | [♣️ A] [♥️ 7] |   32.20% | ✅ call:$10
+  SichengZuo      | [♠️ J] [♦️ 6] |   25.70% | ❌ fold
+  KLChen2PokerPlayer | [♦️ A] [♥️ 6] |   34.30% | ⬆️ raise:$15
+  Jinkun          | [♥️ K] [♥️ 5] |   36.20% | ❌ fold:$15
+  HakulaPlayer    | [♣️ A] [♥️ 7] |   80.00% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♣️ 5] [♣️ 9] [♠️ 5] ]
+  KLChen2PokerPlayer | [♦️ A] [♥️ 6] |   78.00% | ⬆️ raise:$16
+  HakulaPlayer    | [♣️ A] [♥️ 7] |   88.80% | ✅ call:$16
+
+🎴 TURN
+Board: [ [♣️ 5] [♣️ 9] [♠️ 5] [♥️ 4] ]
+  KLChen2PokerPlayer | [♦️ A] [♥️ 6] |   77.30% | ✅ call
+  HakulaPlayer    | [♣️ A] [♥️ 7] |   92.80% | ⬆️ raise:$93
+  KLChen2PokerPlayer | [♦️ A] [♥️ 6] |   77.30% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YangZ          : $   940 ➡️ (+0)
+  Ethan          : $  1797 ➡️ (+0)
+  HakulaPlayer   : $  1604 📈 (+41)
+  SichengZuo     : $   925 ➡️ (+0)
+  KLChen2PokerPlayer: $  1116 📉 (-26)
+  Jinkun         : $   637 ➡️ (+0)
+  NitWinWin      : $   980 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 36
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ A] [♥️ 7]        | 💰   940
+👤 Ethan           | [♠️ 7] [♣️ 4]        | 💰  1797
+👤 HakulaPlayer    | [♠️ 9] [♣️ 8]        | 💰  1604
+👤 SichengZuo      | [♥️ 8] [♥️ Q]        | 💰   925
+👤 KLChen2PokerPlayer | [♥️ T] [♥️ 4]        | 💰  1116
+👤 Jinkun          | [♦️ 9] [♠️ 6]        | 💰   632
+👤 NitWinWin       | [♥️ 5] [♣️ Q]        | 💰   970
+
+🎴 PREFLOP
+Board: [  ]
+  YangZ           | [♠️ A] [♥️ 7] |   24.10% | ❌ fold
+  Ethan           | [♠️ 7] [♣️ 4] |   15.80% | ❌ fold
+  HakulaPlayer    | [♠️ 9] [♣️ 8] |   19.80% | ❌ fold
+  SichengZuo      | [♥️ 8] [♥️ Q] |   33.30% | ❌ fold
+  KLChen2PokerPlayer | [♥️ T] [♥️ 4] |   32.50% | ✅ call:$10
+  Jinkun          | [♦️ 9] [♠️ 6] |   33.60% | ✅ call:$10
+  NitWinWin       | [♥️ 5] [♣️ Q] |   34.70% | ❌ fold
+
+🎴 FLOP
+Board: [ [♠️ 4] [♠️ 8] [♣️ A] ]
+  Jinkun          | [♦️ 9] [♠️ 6] |   29.90% | ✅ call
+  KLChen2PokerPlayer | [♥️ T] [♥️ 4] |   70.10% | ⬆️ raise:$11
+  Jinkun          | [♦️ 9] [♠️ 6] |   29.90% | ✅ call:$11
+
+🎴 TURN
+Board: [ [♠️ 4] [♠️ 8] [♣️ A] [♣️ 9] ]
+  Jinkun          | [♦️ 9] [♠️ 6] |   88.10% | ✅ call
+  KLChen2PokerPlayer | [♥️ T] [♥️ 4] |   11.90% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ 4] [♠️ 8] [♣️ A] [♣️ 9] [♦️ 7] ]
+  Jinkun          | [♦️ 9] [♠️ 6] |  100.00% | ✅ call
+  KLChen2PokerPlayer | [♥️ T] [♥️ 4] |    0.00% | ✅ call
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YangZ          : $   940 ➡️ (+0)
+  Ethan          : $  1797 ➡️ (+0)
+  HakulaPlayer   : $  1604 ➡️ (+0)
+  SichengZuo     : $   925 ➡️ (+0)
+  KLChen2PokerPlayer: $  1095 📉 (-21)
+  Jinkun         : $   668 📈 (+36)
+  NitWinWin      : $   970 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 37
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ 4] [♥️ Q]        | 💰   930
+👤 Ethan           | [♠️ 7] [♥️ 2]        | 💰  1797
+👤 HakulaPlayer    | [♦️ 3] [♦️ 7]        | 💰  1604
+👤 SichengZuo      | [♣️ T] [♦️ 4]        | 💰   925
+👤 KLChen2PokerPlayer | [♠️ 4] [♦️ 8]        | 💰  1095
+👤 Jinkun          | [♦️ A] [♠️ K]        | 💰   668
+👤 NitWinWin       | [♣️ 2] [♠️ 5]        | 💰   965
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♠️ 7] [♥️ 2] |    5.70% | ❌ fold
+  HakulaPlayer    | [♦️ 3] [♦️ 7] |   19.50% | ❌ fold
+  SichengZuo      | [♣️ T] [♦️ 4] |   14.80% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 4] [♦️ 8] |   14.00% | ❌ fold
+  Jinkun          | [♦️ A] [♠️ K] |   49.10% | ✅ call:$10
+  NitWinWin       | [♣️ 2] [♠️ 5] |   24.60% | ❌ fold
+  YangZ           | [♣️ 4] [♥️ Q] |   31.30% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YangZ          : $   930 ➡️ (+0)
+  Ethan          : $  1797 ➡️ (+0)
+  HakulaPlayer   : $  1604 ➡️ (+0)
+  SichengZuo     : $   925 ➡️ (+0)
+  KLChen2PokerPlayer: $  1095 ➡️ (+0)
+  Jinkun         : $   683 📈 (+15)
+  NitWinWin      : $   965 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 38
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ J] [♦️ Q]        | 💰   925
+👤 Ethan           | [♦️ T] [♥️ 8]        | 💰  1787
+👤 HakulaPlayer    | [♠️ 6] [♣️ T]        | 💰  1604
+👤 SichengZuo      | [♠️ Q] [♣️ 2]        | 💰   925
+👤 KLChen2PokerPlayer | [♠️ 8] [♣️ A]        | 💰  1095
+👤 Jinkun          | [♠️ A] [♠️ 9]        | 💰   683
+👤 NitWinWin       | [♥️ 7] [♥️ 3]        | 💰   965
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♠️ 6] [♣️ T] |   12.20% | ❌ fold
+  SichengZuo      | [♠️ Q] [♣️ 2] |    7.20% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 8] [♣️ A] |   11.60% | ⬆️ raise:$26
+  Jinkun          | [♠️ A] [♠️ 9] |   21.30% | ❌ fold:$26
+  NitWinWin       | [♥️ 7] [♥️ 3] |   23.30% | ❌ fold
+  YangZ           | [♠️ J] [♦️ Q] |   36.90% | ❌ fold
+  Ethan           | [♦️ T] [♥️ 8] |   32.20% | ✅ call:$26
+
+🎴 FLOP
+Board: [ [♣️ 9] [♦️ K] [♦️ 3] ]
+  Ethan           | [♦️ T] [♥️ 8] |   20.60% | ✅ call
+  KLChen2PokerPlayer | [♠️ 8] [♣️ A] |   79.40% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 9] [♦️ K] [♦️ 3] [♣️ Q] ]
+  Ethan           | [♦️ T] [♥️ 8] |   18.70% | ✅ call
+  KLChen2PokerPlayer | [♠️ 8] [♣️ A] |   81.30% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 9] [♦️ K] [♦️ 3] [♣️ Q] [♥️ 6] ]
+  Ethan           | [♦️ T] [♥️ 8] |    0.00% | ✅ call
+  KLChen2PokerPlayer | [♠️ 8] [♣️ A] |  100.00% | ✅ call
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $   925 ➡️ (+0)
+  Ethan          : $  1771 📉 (-16)
+  HakulaPlayer   : $  1604 ➡️ (+0)
+  SichengZuo     : $   925 ➡️ (+0)
+  KLChen2PokerPlayer: $  1126 📈 (+31)
+  Jinkun         : $   683 ➡️ (+0)
+  NitWinWin      : $   965 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 39
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ 4] [♠️ J]        | 💰   925
+👤 Ethan           | [♣️ A] [♣️ 3]        | 💰  1766
+👤 HakulaPlayer    | [♦️ 2] [♠️ 6]        | 💰  1594
+👤 SichengZuo      | [♥️ 4] [♣️ 8]        | 💰   925
+👤 KLChen2PokerPlayer | [♣️ 7] [♦️ 7]        | 💰  1126
+👤 Jinkun          | [♦️ Q] [♠️ K]        | 💰   683
+👤 NitWinWin       | [♦️ J] [♥️ 6]        | 💰   965
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♥️ 4] [♣️ 8] |    8.20% | ❌ fold
+  KLChen2PokerPlayer | [♣️ 7] [♦️ 7] |   28.30% | ⬆️ raise:$17
+  Jinkun          | [♦️ Q] [♠️ K] |   24.80% | ❌ fold:$17
+  NitWinWin       | [♦️ J] [♥️ 6] |   13.10% | ❌ fold
+  YangZ           | [♣️ 4] [♠️ J] |   20.60% | ❌ fold
+  Ethan           | [♣️ A] [♣️ 3] |   31.30% | ✅ call:$17
+  HakulaPlayer    | [♦️ 2] [♠️ 6] |   12.40% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ T] [♣️ J] [♥️ 3] ]
+  Ethan           | [♣️ A] [♣️ 3] |   25.50% | ✅ call
+  KLChen2PokerPlayer | [♣️ 7] [♦️ 7] |   74.50% | ⬆️ raise:$12
+  Ethan           | [♣️ A] [♣️ 3] |   25.50% | ✅ call:$12
+
+🎴 TURN
+Board: [ [♥️ T] [♣️ J] [♥️ 3] [♦️ 4] ]
+  Ethan           | [♣️ A] [♣️ 3] |   11.40% | ✅ call
+  KLChen2PokerPlayer | [♣️ 7] [♦️ 7] |   88.60% | ⬆️ raise:$112
+  Ethan           | [♣️ A] [♣️ 3] |   11.40% | ✅ call:$112
+
+🎴 RIVER
+Board: [ [♥️ T] [♣️ J] [♥️ 3] [♦️ 4] [♠️ 2] ]
+  Ethan           | [♣️ A] [♣️ 3] |    0.00% | ✅ call
+  KLChen2PokerPlayer | [♣️ 7] [♦️ 7] |  100.00% | ✅ call
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $   925 ➡️ (+0)
+  Ethan          : $  1630 📉 (-136)
+  HakulaPlayer   : $  1594 ➡️ (+0)
+  SichengZuo     : $   925 ➡️ (+0)
+  KLChen2PokerPlayer: $  1277 📈 (+151)
+  Jinkun         : $   683 ➡️ (+0)
+  NitWinWin      : $   965 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 40
+----------------------------------------
+Initial State:
+👤 YangZ           | [♦️ K] [♣️ K]        | 💰   925
+👤 Ethan           | [♣️ 5] [♠️ J]        | 💰  1630
+👤 HakulaPlayer    | [♦️ 4] [♠️ 7]        | 💰  1589
+👤 SichengZuo      | [♠️ 3] [♦️ 9]        | 💰   915
+👤 KLChen2PokerPlayer | [♠️ 9] [♠️ 2]        | 💰  1277
+👤 Jinkun          | [♥️ 5] [♠️ K]        | 💰   683
+👤 NitWinWin       | [♥️ 4] [♣️ 2]        | 💰   965
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♠️ 9] [♠️ 2] |   10.50% | ✅ call:$10
+  Jinkun          | [♥️ 5] [♠️ K] |    5.40% | ❌ fold:$10
+  NitWinWin       | [♥️ 4] [♣️ 2] |    7.70% | ❌ fold
+  YangZ           | [♦️ K] [♣️ K] |   58.30% | ❌ fold
+  Ethan           | [♣️ 5] [♠️ J] |   37.70% | ❌ fold
+  HakulaPlayer    | [♦️ 4] [♠️ 7] |   45.00% | ✅ call:$10
+  SichengZuo      | [♠️ 3] [♦️ 9] |   42.30% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ T] [♣️ 8] [♦️ 2] ]
+  HakulaPlayer    | [♦️ 4] [♠️ 7] |   25.30% | ✅ call
+  KLChen2PokerPlayer | [♠️ 9] [♠️ 2] |   74.70% | ⬆️ raise:$13
+  HakulaPlayer    | [♦️ 4] [♠️ 7] |   25.30% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $   925 ➡️ (+0)
+  Ethan          : $  1630 ➡️ (+0)
+  HakulaPlayer   : $  1584 📉 (-5)
+  SichengZuo     : $   915 ➡️ (+0)
+  KLChen2PokerPlayer: $  1297 📈 (+20)
+  Jinkun         : $   683 ➡️ (+0)
+  NitWinWin      : $   965 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 41
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ 9] [♥️ 4]        | 💰   925
+👤 Ethan           | [♠️ A] [♦️ 5]        | 💰  1630
+👤 HakulaPlayer    | [♥️ T] [♠️ 6]        | 💰  1584
+👤 SichengZuo      | [♦️ J] [♣️ A]        | 💰   910
+👤 KLChen2PokerPlayer | [♦️ A] [♠️ K]        | 💰  1287
+👤 Jinkun          | [♥️ J] [♦️ T]        | 💰   683
+👤 NitWinWin       | [♦️ Q] [♠️ T]        | 💰   965
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♥️ J] [♦️ T] |   10.30% | ❌ fold:$10
+  NitWinWin       | [♦️ Q] [♠️ T] |   23.40% | ❌ fold
+  YangZ           | [♣️ 9] [♥️ 4] |   13.30% | ❌ fold
+  Ethan           | [♠️ A] [♦️ 5] |   12.90% | ❌ fold
+  HakulaPlayer    | [♥️ T] [♠️ 6] |   30.40% | ❌ fold
+  SichengZuo      | [♦️ J] [♣️ A] |   30.30% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $   925 ➡️ (+0)
+  Ethan          : $  1630 ➡️ (+0)
+  HakulaPlayer   : $  1584 ➡️ (+0)
+  SichengZuo     : $   910 ➡️ (+0)
+  KLChen2PokerPlayer: $  1302 📈 (+15)
+  Jinkun         : $   683 ➡️ (+0)
+  NitWinWin      : $   965 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 42
+----------------------------------------
+Initial State:
+👤 YangZ           | [♥️ 2] [♣️ T]        | 💰   925
+👤 Ethan           | [♦️ 7] [♦️ 9]        | 💰  1630
+👤 HakulaPlayer    | [♦️ 2] [♣️ 7]        | 💰  1584
+👤 SichengZuo      | [♦️ J] [♠️ T]        | 💰   910
+👤 KLChen2PokerPlayer | [♦️ 5] [♠️ J]        | 💰  1297
+👤 Jinkun          | [♦️ 8] [♥️ T]        | 💰   673
+👤 NitWinWin       | [♣️ 8] [♣️ A]        | 💰   965
+
+🎴 PREFLOP
+Board: [  ]
+  NitWinWin       | [♣️ 8] [♣️ A] |   33.80% | ❌ fold
+  YangZ           | [♥️ 2] [♣️ T] |    9.40% | ❌ fold
+  Ethan           | [♦️ 7] [♦️ 9] |   27.70% | ❌ fold
+  HakulaPlayer    | [♦️ 2] [♣️ 7] |   21.80% | ❌ fold
+  SichengZuo      | [♦️ J] [♠️ T] |   52.90% | ❌ fold
+  KLChen2PokerPlayer | [♦️ 5] [♠️ J] |   54.60% | ✅ call:$10
+  Jinkun          | [♦️ 8] [♥️ T] |   46.80% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♥️ 7] [♠️ K] [♦️ 6] ]
+  KLChen2PokerPlayer | [♦️ 5] [♠️ J] |   60.10% | ✅ call
+  Jinkun          | [♦️ 8] [♥️ T] |   40.50% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 7] [♠️ K] [♦️ 6] [♣️ K] ]
+  KLChen2PokerPlayer | [♦️ 5] [♠️ J] |   76.30% | ✅ call
+  Jinkun          | [♦️ 8] [♥️ T] |   23.70% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ 7] [♠️ K] [♦️ 6] [♣️ K] [♥️ A] ]
+  KLChen2PokerPlayer | [♦️ 5] [♠️ J] |  100.00% | ✅ call
+  Jinkun          | [♦️ 8] [♥️ T] |    0.00% | ✅ call
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $   925 ➡️ (+0)
+  Ethan          : $  1630 ➡️ (+0)
+  HakulaPlayer   : $  1584 ➡️ (+0)
+  SichengZuo     : $   910 ➡️ (+0)
+  KLChen2PokerPlayer: $  1312 📈 (+15)
+  Jinkun         : $   673 ➡️ (+0)
+  NitWinWin      : $   965 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 43
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ 5] [♥️ 2]        | 💰   925
+👤 Ethan           | [♦️ J] [♠️ K]        | 💰  1630
+👤 HakulaPlayer    | [♠️ 8] [♣️ 2]        | 💰  1584
+👤 SichengZuo      | [♥️ 9] [♠️ 6]        | 💰   910
+👤 KLChen2PokerPlayer | [♠️ 7] [♦️ 2]        | 💰  1312
+👤 Jinkun          | [♣️ 9] [♠️ T]        | 💰   668
+👤 NitWinWin       | [♥️ 6] [♣️ J]        | 💰   955
+
+🎴 PREFLOP
+Board: [  ]
+  YangZ           | [♣️ 5] [♥️ 2] |   11.50% | ❌ fold
+  Ethan           | [♦️ J] [♠️ K] |   38.50% | ⬆️ raise:$244
+  HakulaPlayer    | [♠️ 8] [♣️ 2] |   14.90% | ❌ fold
+  SichengZuo      | [♥️ 9] [♠️ 6] |   12.00% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 7] [♦️ 2] |   17.30% | ❌ fold
+  Jinkun          | [♣️ 9] [♠️ T] |   32.10% | ❌ fold:$244
+  NitWinWin       | [♥️ 6] [♣️ J] |   23.80% | ❌ fold
+
+🏆 Winner: Ethan
+Final Stacks:
+  YangZ          : $   925 ➡️ (+0)
+  Ethan          : $  1645 📈 (+15)
+  HakulaPlayer   : $  1584 ➡️ (+0)
+  SichengZuo     : $   910 ➡️ (+0)
+  KLChen2PokerPlayer: $  1312 ➡️ (+0)
+  Jinkun         : $   668 ➡️ (+0)
+  NitWinWin      : $   955 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 44
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ T] [♦️ 4]        | 💰   915
+👤 Ethan           | [♠️ T] [♥️ Q]        | 💰  1645
+👤 HakulaPlayer    | [♣️ 6] [♣️ 4]        | 💰  1584
+👤 SichengZuo      | [♠️ 3] [♣️ 2]        | 💰   910
+👤 KLChen2PokerPlayer | [♠️ 5] [♠️ 2]        | 💰  1312
+👤 Jinkun          | [♦️ 7] [♠️ 4]        | 💰   668
+👤 NitWinWin       | [♣️ Q] [♣️ 3]        | 💰   950
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♠️ T] [♥️ Q] |   40.80% | ❌ fold
+  HakulaPlayer    | [♣️ 6] [♣️ 4] |   13.10% | ❌ fold
+  SichengZuo      | [♠️ 3] [♣️ 2] |    8.20% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 5] [♠️ 2] |   25.40% | ❌ fold
+  Jinkun          | [♦️ 7] [♠️ 4] |   25.50% | ✅ call:$10
+  NitWinWin       | [♣️ Q] [♣️ 3] |   50.80% | ❌ fold
+  YangZ           | [♣️ T] [♦️ 4] |   72.90% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YangZ          : $   915 ➡️ (+0)
+  Ethan          : $  1645 ➡️ (+0)
+  HakulaPlayer   : $  1584 ➡️ (+0)
+  SichengZuo     : $   910 ➡️ (+0)
+  KLChen2PokerPlayer: $  1312 ➡️ (+0)
+  Jinkun         : $   683 📈 (+15)
+  NitWinWin      : $   950 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 45
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ 8] [♦️ T]        | 💰   910
+👤 Ethan           | [♦️ J] [♣️ 7]        | 💰  1635
+👤 HakulaPlayer    | [♠️ 6] [♥️ 3]        | 💰  1584
+👤 SichengZuo      | [♦️ 9] [♣️ 8]        | 💰   910
+👤 KLChen2PokerPlayer | [♣️ T] [♥️ 2]        | 💰  1312
+👤 Jinkun          | [♣️ A] [♦️ Q]        | 💰   683
+👤 NitWinWin       | [♠️ 4] [♥️ J]        | 💰   950
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♠️ 6] [♥️ 3] |   15.00% | ❌ fold
+  SichengZuo      | [♦️ 9] [♣️ 8] |   17.20% | ❌ fold
+  KLChen2PokerPlayer | [♣️ T] [♥️ 2] |   10.60% | ⬆️ raise:$19
+  Jinkun          | [♣️ A] [♦️ Q] |   39.90% | ❌ fold:$19
+  NitWinWin       | [♠️ 4] [♥️ J] |   26.40% | ❌ fold
+  YangZ           | [♠️ 8] [♦️ T] |   37.30% | ❌ fold
+  Ethan           | [♦️ J] [♣️ 7] |   66.40% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $   910 ➡️ (+0)
+  Ethan          : $  1635 ➡️ (+0)
+  HakulaPlayer   : $  1584 ➡️ (+0)
+  SichengZuo     : $   910 ➡️ (+0)
+  KLChen2PokerPlayer: $  1327 📈 (+15)
+  Jinkun         : $   683 ➡️ (+0)
+  NitWinWin      : $   950 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 46
+----------------------------------------
+Initial State:
+👤 YangZ           | [♦️ 2] [♦️ 4]        | 💰   910
+👤 Ethan           | [♣️ A] [♠️ 6]        | 💰  1630
+👤 HakulaPlayer    | [♦️ 5] [♠️ Q]        | 💰  1574
+👤 SichengZuo      | [♣️ 7] [♠️ J]        | 💰   910
+👤 KLChen2PokerPlayer | [♥️ 2] [♦️ J]        | 💰  1327
+👤 Jinkun          | [♠️ 5] [♣️ Q]        | 💰   683
+👤 NitWinWin       | [♠️ 7] [♣️ 5]        | 💰   950
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♣️ 7] [♠️ J] |   20.70% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 2] [♦️ J] |   21.70% | ⬆️ raise:$16
+  Jinkun          | [♠️ 5] [♣️ Q] |   16.10% | ❌ fold:$16
+  NitWinWin       | [♠️ 7] [♣️ 5] |   17.20% | ❌ fold
+  YangZ           | [♦️ 2] [♦️ 4] |   17.40% | ❌ fold
+  Ethan           | [♣️ A] [♠️ 6] |   44.00% | ✅ call:$16
+  HakulaPlayer    | [♦️ 5] [♠️ Q] |   30.20% | ✅ call:$16
+
+🎴 FLOP
+Board: [ [♦️ 7] [♦️ A] [♠️ 3] ]
+  Ethan           | [♣️ A] [♠️ 6] |   90.80% | ✅ call
+  HakulaPlayer    | [♦️ 5] [♠️ Q] |    4.10% | ✅ call
+  KLChen2PokerPlayer | [♥️ 2] [♦️ J] |    5.10% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 7] [♦️ A] [♠️ 3] [♥️ Q] ]
+  Ethan           | [♣️ A] [♠️ 6] |   87.80% | ✅ call
+  HakulaPlayer    | [♦️ 5] [♠️ Q] |   12.20% | ✅ call
+  KLChen2PokerPlayer | [♥️ 2] [♦️ J] |    0.00% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ 7] [♦️ A] [♠️ 3] [♥️ Q] [♦️ T] ]
+  Ethan           | [♣️ A] [♠️ 6] |  100.00% | ✅ call
+  HakulaPlayer    | [♦️ 5] [♠️ Q] |    0.00% | ✅ call
+  KLChen2PokerPlayer | [♥️ 2] [♦️ J] |    0.00% | ✅ call
+
+🏆 Winner: Ethan
+Final Stacks:
+  YangZ          : $   910 ➡️ (+0)
+  Ethan          : $  1667 📈 (+37)
+  HakulaPlayer   : $  1568 📉 (-6)
+  SichengZuo     : $   910 ➡️ (+0)
+  KLChen2PokerPlayer: $  1311 📉 (-16)
+  Jinkun         : $   683 ➡️ (+0)
+  NitWinWin      : $   950 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 47
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ 3] [♦️ Q]        | 💰   910
+👤 Ethan           | [♦️ 7] [♥️ K]        | 💰  1667
+👤 HakulaPlayer    | [♦️ 8] [♥️ 9]        | 💰  1563
+👤 SichengZuo      | [♥️ A] [♥️ T]        | 💰   900
+👤 KLChen2PokerPlayer | [♦️ 5] [♦️ 4]        | 💰  1311
+👤 Jinkun          | [♣️ K] [♣️ 5]        | 💰   683
+👤 NitWinWin       | [♦️ 6] [♥️ J]        | 💰   950
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♦️ 5] [♦️ 4] |   14.40% | ✅ call:$10
+  Jinkun          | [♣️ K] [♣️ 5] |   17.10% | ❌ fold:$10
+  NitWinWin       | [♦️ 6] [♥️ J] |   12.90% | ❌ fold
+  YangZ           | [♠️ 3] [♦️ Q] |   16.50% | ❌ fold
+  Ethan           | [♦️ 7] [♥️ K] |   20.40% | ❌ fold
+  HakulaPlayer    | [♦️ 8] [♥️ 9] |   28.70% | ✅ call:$10
+  SichengZuo      | [♥️ A] [♥️ T] |   44.80% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ 3] [♣️ 6] [♥️ Q] ]
+  HakulaPlayer    | [♦️ 8] [♥️ 9] |   51.30% | ✅ call
+  KLChen2PokerPlayer | [♦️ 5] [♦️ 4] |   49.70% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 3] [♣️ 6] [♥️ Q] [♠️ 4] ]
+  HakulaPlayer    | [♦️ 8] [♥️ 9] |   12.80% | ✅ call
+  KLChen2PokerPlayer | [♦️ 5] [♦️ 4] |   87.20% | ⬆️ raise:$114
+  HakulaPlayer    | [♦️ 8] [♥️ 9] |   12.80% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $   910 ➡️ (+0)
+  Ethan          : $  1667 ➡️ (+0)
+  HakulaPlayer   : $  1558 📉 (-5)
+  SichengZuo     : $   900 ➡️ (+0)
+  KLChen2PokerPlayer: $  1331 📈 (+20)
+  Jinkun         : $   683 ➡️ (+0)
+  NitWinWin      : $   950 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 48
+----------------------------------------
+Initial State:
+👤 YangZ           | [♦️ 2] [♦️ T]        | 💰   910
+👤 Ethan           | [♦️ J] [♦️ 9]        | 💰  1667
+👤 HakulaPlayer    | [♠️ 8] [♣️ J]        | 💰  1558
+👤 SichengZuo      | [♣️ T] [♥️ 2]        | 💰   895
+👤 KLChen2PokerPlayer | [♥️ 8] [♥️ 9]        | 💰  1321
+👤 Jinkun          | [♠️ 7] [♣️ Q]        | 💰   683
+👤 NitWinWin       | [♣️ 4] [♠️ 4]        | 💰   950
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♠️ 7] [♣️ Q] |   23.60% | ❌ fold:$10
+  NitWinWin       | [♣️ 4] [♠️ 4] |   32.10% | ❌ fold
+  YangZ           | [♦️ 2] [♦️ T] |   20.00% | ❌ fold
+  Ethan           | [♦️ J] [♦️ 9] |   44.40% | ❌ fold
+  HakulaPlayer    | [♠️ 8] [♣️ J] |   47.00% | ✅ call:$10
+  SichengZuo      | [♣️ T] [♥️ 2] |   27.70% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 8] [♥️ 9] |   35.90% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ 8] [♦️ A] [♥️ T] ]
+  KLChen2PokerPlayer | [♥️ 8] [♥️ 9] |   36.30% | ⬆️ raise:$28
+  HakulaPlayer    | [♠️ 8] [♣️ J] |   82.70% | ✅ call:$28
+
+🎴 TURN
+Board: [ [♦️ 8] [♦️ A] [♥️ T] [♠️ 6] ]
+  KLChen2PokerPlayer | [♥️ 8] [♥️ 9] |   28.70% | ⬆️ raise:$144
+  HakulaPlayer    | [♠️ 8] [♣️ J] |   84.60% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $   910 ➡️ (+0)
+  Ethan          : $  1667 ➡️ (+0)
+  HakulaPlayer   : $  1520 📉 (-38)
+  SichengZuo     : $   895 ➡️ (+0)
+  KLChen2PokerPlayer: $  1374 📈 (+53)
+  Jinkun         : $   683 ➡️ (+0)
+  NitWinWin      : $   950 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 49
+----------------------------------------
+Initial State:
+👤 YangZ           | [♠️ K] [♥️ A]        | 💰   910
+👤 Ethan           | [♥️ K] [♥️ 2]        | 💰  1667
+👤 HakulaPlayer    | [♣️ 7] [♦️ Q]        | 💰  1520
+👤 SichengZuo      | [♣️ 8] [♠️ 3]        | 💰   895
+👤 KLChen2PokerPlayer | [♣️ K] [♦️ 3]        | 💰  1369
+👤 Jinkun          | [♣️ 4] [♠️ A]        | 💰   673
+👤 NitWinWin       | [♠️ 7] [♥️ 3]        | 💰   950
+
+🎴 PREFLOP
+Board: [  ]
+  NitWinWin       | [♠️ 7] [♥️ 3] |    7.30% | ❌ fold
+  YangZ           | [♠️ K] [♥️ A] |   22.80% | ❌ fold
+  Ethan           | [♥️ K] [♥️ 2] |   26.50% | ❌ fold
+  HakulaPlayer    | [♣️ 7] [♦️ Q] |   26.50% | ❌ fold
+  SichengZuo      | [♣️ 8] [♠️ 3] |   18.30% | ❌ fold
+  KLChen2PokerPlayer | [♣️ K] [♦️ 3] |   39.10% | ✅ call:$10
+  Jinkun          | [♣️ 4] [♠️ A] |   61.70% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 5] [♣️ 3] [♥️ Q] ]
+  KLChen2PokerPlayer | [♣️ K] [♦️ 3] |   59.40% | ⬆️ raise:$11
+  Jinkun          | [♣️ 4] [♠️ A] |   40.60% | ✅ call:$11
+
+🎴 TURN
+Board: [ [♠️ 5] [♣️ 3] [♥️ Q] [♣️ 6] ]
+  KLChen2PokerPlayer | [♣️ K] [♦️ 3] |   68.70% | ✅ call
+  Jinkun          | [♣️ 4] [♠️ A] |   31.30% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ 5] [♣️ 3] [♥️ Q] [♣️ 6] [♦️ 6] ]
+  KLChen2PokerPlayer | [♣️ K] [♦️ 3] |  100.00% | ✅ call
+  Jinkun          | [♣️ 4] [♠️ A] |    0.00% | ✅ call
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  YangZ          : $   910 ➡️ (+0)
+  Ethan          : $  1667 ➡️ (+0)
+  HakulaPlayer   : $  1520 ➡️ (+0)
+  SichengZuo     : $   895 ➡️ (+0)
+  KLChen2PokerPlayer: $  1395 📈 (+26)
+  Jinkun         : $   662 📉 (-11)
+  NitWinWin      : $   950 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 50
+----------------------------------------
+Initial State:
+👤 YangZ           | [♣️ 8] [♥️ Q]        | 💰   910
+👤 Ethan           | [♣️ A] [♦️ Q]        | 💰  1667
+👤 HakulaPlayer    | [♣️ J] [♣️ T]        | 💰  1520
+👤 SichengZuo      | [♠️ 3] [♥️ 5]        | 💰   895
+👤 KLChen2PokerPlayer | [♦️ 3] [♠️ A]        | 💰  1395
+👤 Jinkun          | [♥️ K] [♥️ 4]        | 💰   657
+👤 NitWinWin       | [♥️ 8] [♣️ 6]        | 💰   940
+
+🎴 PREFLOP
+Board: [  ]
+  YangZ           | [♣️ 8] [♥️ Q] |    6.20% | ❌ fold
+  Ethan           | [♣️ A] [♦️ Q] |   19.30% | ⬆️ raise:$250
+  HakulaPlayer    | [♣️ J] [♣️ T] |   25.40% | ❌ fold
+  SichengZuo      | [♠️ 3] [♥️ 5] |   11.60% | ❌ fold
+  KLChen2PokerPlayer | [♦️ 3] [♠️ A] |   14.00% | ❌ fold
+  Jinkun          | [♥️ K] [♥️ 4] |   30.80% | ❌ fold:$250
+  NitWinWin       | [♥️ 8] [♣️ 6] |   35.80% | ❌ fold
+
+🏆 Winner: Ethan
+Final Stacks:
+  YangZ          : $   910 ➡️ (+0)
+  Ethan          : $  1682 📈 (+15)
+  HakulaPlayer   : $  1520 ➡️ (+0)
+  SichengZuo     : $   895 ➡️ (+0)
+  KLChen2PokerPlayer: $  1395 ➡️ (+0)
+  Jinkun         : $   657 ➡️ (+0)
+  NitWinWin      : $   940 ➡️ (+0)
+  ZPlayer        : $     0 ➡️ (+0)
+----------------------------------------
+
+🏁 Final Rankings:
+--------------------------------------------------
+
+🎮 Active Players:
+1. 🏆 Ethan           | Stack:       1682 | Status: active
+2. 👥 HakulaPlayer    | Stack:       1520 | Status: active
+3. 👥 KLChen2PokerPlayer | Stack:       1395 | Status: active
+4. 👥 NitWinWin       | Stack:        940 | Status: active
+5. 👥 YangZ           | Stack:        910 | Status: active
+6. 👥 SichengZuo      | Stack:        895 | Status: active
+7. 👥 Jinkun          | Stack:        657 | Status: active
+
+💀 Eliminated Players:
+8. 💀 ZPlayer         | Stack: 0 (Max: 1000) | Status: eliminated (Round 26)

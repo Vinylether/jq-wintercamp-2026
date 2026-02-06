@@ -1,0 +1,1608 @@
+🎲 Texas Hold'em Poker Game Log 1 🎲
+==================================================
+
+📊 Detailed Game Log:
+==================================================
+
+🔄 Round 1
+----------------------------------------
+Initial State:
+👤 YueShi          | [♦️ J] [♣️ 9]        | 💰  1000
+👤 HakulaPlayer    | [♠️ A] [♣️ 5]        | 💰   995
+👤 Jinkun          | [♠️ K] [♥️ 4]        | 💰   990
+👤 Ethan           | [♣️ A] [♠️ 6]        | 💰  1000
+👤 PlayerXinZhu    | [♣️ Q] [♥️ 5]        | 💰  1000
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♣️ A] [♠️ 6] |   22.20% | ❌ fold
+  PlayerXinZhu    | [♣️ Q] [♥️ 5] |   15.80% | ⬆️ raise:$15
+  YueShi          | [♦️ J] [♣️ 9] |   30.90% | ❌ fold
+  HakulaPlayer    | [♠️ A] [♣️ 5] |   52.90% | ✅ call:$15
+  Jinkun          | [♠️ K] [♥️ 4] |   29.80% | ❌ fold:$15
+
+🎴 FLOP
+Board: [ [♥️ T] [♠️ J] [♣️ 7] ]
+  HakulaPlayer    | [♠️ A] [♣️ 5] |   83.50% | ✅ call
+  PlayerXinZhu    | [♣️ Q] [♥️ 5] |   16.50% | ⬆️ raise:$10
+  HakulaPlayer    | [♠️ A] [♣️ 5] |   83.50% | ❌ fold
+
+🏆 Winner: PlayerXinZhu
+Final Stacks:
+  YueShi         : $  1000 ➡️ (+0)
+  HakulaPlayer   : $   985 📉 (-10)
+  Jinkun         : $   990 ➡️ (+0)
+  Ethan          : $  1000 ➡️ (+0)
+  PlayerXinZhu   : $  1025 📈 (+25)
+----------------------------------------
+
+🔄 Round 2
+----------------------------------------
+Initial State:
+👤 YueShi          | [♣️ 3] [♠️ 7]        | 💰  1000
+👤 HakulaPlayer    | [♠️ A] [♣️ 6]        | 💰   985
+👤 Jinkun          | [♣️ A] [♠️ 4]        | 💰   985
+👤 Ethan           | [♥️ 9] [♥️ 6]        | 💰   990
+👤 PlayerXinZhu    | [♦️ 6] [♠️ J]        | 💰  1025
+
+🎴 PREFLOP
+Board: [  ]
+  PlayerXinZhu    | [♦️ 6] [♠️ J] |   22.30% | ❌ fold
+  YueShi          | [♣️ 3] [♠️ 7] |   20.80% | ❌ fold
+  HakulaPlayer    | [♠️ A] [♣️ 6] |   45.20% | ✅ call:$10
+  Jinkun          | [♣️ A] [♠️ 4] |   44.10% | ✅ call:$10
+  Ethan           | [♥️ 9] [♥️ 6] |   35.70% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ T] [♥️ K] [♥️ 4] ]
+  Jinkun          | [♣️ A] [♠️ 4] |   88.30% | ✅ call
+  HakulaPlayer    | [♠️ A] [♣️ 6] |   16.10% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ T] [♥️ K] [♥️ 4] [♦️ 5] ]
+  Jinkun          | [♣️ A] [♠️ 4] |   92.50% | ✅ call
+  HakulaPlayer    | [♠️ A] [♣️ 6] |    7.50% | ⬆️ raise:$21
+  Jinkun          | [♣️ A] [♠️ 4] |   92.50% | ✅ call:$21
+
+🎴 RIVER
+Board: [ [♣️ T] [♥️ K] [♥️ 4] [♦️ 5] [♣️ 9] ]
+  Jinkun          | [♣️ A] [♠️ 4] |  100.00% | ⬆️ raise:$959
+  HakulaPlayer    | [♠️ A] [♣️ 6] |    0.00% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $  1000 ➡️ (+0)
+  HakulaPlayer   : $   954 📉 (-31)
+  Jinkun         : $  1031 📈 (+46)
+  Ethan          : $   990 ➡️ (+0)
+  PlayerXinZhu   : $  1025 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 3
+----------------------------------------
+Initial State:
+👤 YueShi          | [♥️ K] [♦️ A]        | 💰  1000
+👤 HakulaPlayer    | [♠️ 9] [♠️ T]        | 💰   954
+👤 Jinkun          | [♣️ 5] [♠️ 8]        | 💰  1031
+👤 Ethan           | [♥️ 8] [♦️ 5]        | 💰   985
+👤 PlayerXinZhu    | [♥️ 7] [♣️ J]        | 💰  1015
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♥️ K] [♦️ A] |   38.90% | ❌ fold
+  HakulaPlayer    | [♠️ 9] [♠️ T] |   43.40% | ✅ call:$10
+  Jinkun          | [♣️ 5] [♠️ 8] |   18.40% | ✅ call:$10
+  Ethan           | [♥️ 8] [♦️ 5] |   20.50% | ❌ fold
+  PlayerXinZhu    | [♥️ 7] [♣️ J] |   34.80% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ K] [♦️ J] [♠️ 2] ]
+  HakulaPlayer    | [♠️ 9] [♠️ T] |   81.80% | ✅ call
+  Jinkun          | [♣️ 5] [♠️ 8] |   21.00% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ K] [♦️ J] [♠️ 2] [♣️ 7] ]
+  HakulaPlayer    | [♠️ 9] [♠️ T] |   93.40% | ✅ call
+  Jinkun          | [♣️ 5] [♠️ 8] |    6.60% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ K] [♦️ J] [♠️ 2] [♣️ 7] [♠️ 5] ]
+  HakulaPlayer    | [♠️ 9] [♠️ T] |    0.00% | ✅ call
+  Jinkun          | [♣️ 5] [♠️ 8] |  100.00% | ✅ call
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $  1000 ➡️ (+0)
+  HakulaPlayer   : $   944 📉 (-10)
+  Jinkun         : $  1056 📈 (+25)
+  Ethan          : $   985 ➡️ (+0)
+  PlayerXinZhu   : $  1015 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 4
+----------------------------------------
+Initial State:
+👤 YueShi          | [♦️ 5] [♠️ J]        | 💰   990
+👤 HakulaPlayer    | [♣️ 5] [♥️ 8]        | 💰   944
+👤 Jinkun          | [♥️ 4] [♠️ 5]        | 💰  1056
+👤 Ethan           | [♠️ 2] [♣️ Q]        | 💰   985
+👤 PlayerXinZhu    | [♥️ T] [♠️ A]        | 💰  1010
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♣️ 5] [♥️ 8] |   13.40% | ❌ fold
+  Jinkun          | [♥️ 4] [♠️ 5] |   20.10% | ✅ call:$10
+  Ethan           | [♠️ 2] [♣️ Q] |   22.60% | ❌ fold
+  PlayerXinZhu    | [♥️ T] [♠️ A] |   52.00% | ⬆️ raise:$664
+  YueShi          | [♦️ 5] [♠️ J] |   28.50% | ❌ fold
+  Jinkun          | [♥️ 4] [♠️ 5] |   38.40% | ❌ fold:$664
+
+🏆 Winner: PlayerXinZhu
+Final Stacks:
+  YueShi         : $   990 ➡️ (+0)
+  HakulaPlayer   : $   944 ➡️ (+0)
+  Jinkun         : $  1046 📉 (-10)
+  Ethan          : $   985 ➡️ (+0)
+  PlayerXinZhu   : $  1035 📈 (+25)
+----------------------------------------
+
+🔄 Round 5
+----------------------------------------
+Initial State:
+👤 YueShi          | [♣️ J] [♠️ 6]        | 💰   985
+👤 HakulaPlayer    | [♦️ K] [♦️ Q]        | 💰   934
+👤 Jinkun          | [♦️ 4] [♥️ 9]        | 💰  1046
+👤 Ethan           | [♠️ 4] [♥️ 3]        | 💰   985
+👤 PlayerXinZhu    | [♣️ 6] [♠️ Q]        | 💰  1035
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♦️ 4] [♥️ 9] |   17.30% | ❌ fold:$10
+  Ethan           | [♠️ 4] [♥️ 3] |   23.50% | ❌ fold
+  PlayerXinZhu    | [♣️ 6] [♠️ Q] |   13.50% | ⬆️ raise:$15
+  YueShi          | [♣️ J] [♠️ 6] |   20.80% | ❌ fold
+  HakulaPlayer    | [♦️ K] [♦️ Q] |   79.20% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♠️ A] [♠️ T] [♠️ K] ]
+  HakulaPlayer    | [♦️ K] [♦️ Q] |   64.60% | ⬆️ raise:$37
+  PlayerXinZhu    | [♣️ 6] [♠️ Q] |   47.10% | ⬆️ raise:$74
+  HakulaPlayer    | [♦️ K] [♦️ Q] |   64.60% | ✅ call:$74
+
+🎴 TURN
+Board: [ [♠️ A] [♠️ T] [♠️ K] [♦️ 9] ]
+  HakulaPlayer    | [♦️ K] [♦️ Q] |   80.20% | ⬆️ raise:$201
+  PlayerXinZhu    | [♣️ 6] [♠️ Q] |   25.90% | ⬆️ raise:$402
+  HakulaPlayer    | [♦️ K] [♦️ Q] |   80.20% | ✅ call:$402
+
+🎴 RIVER
+Board: [ [♠️ A] [♠️ T] [♠️ K] [♦️ 9] [♣️ 4] ]
+  HakulaPlayer    | [♦️ K] [♦️ Q] |  100.00% | ⬆️ raise:$453
+  PlayerXinZhu    | [♣️ 6] [♠️ Q] |    0.00% | ✅ call:$453
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YueShi         : $   985 ➡️ (+0)
+  HakulaPlayer   : $  1893 📈 (+959)
+  Jinkun         : $  1046 ➡️ (+0)
+  Ethan          : $   985 ➡️ (+0)
+  PlayerXinZhu   : $    91 📉 (-944)
+----------------------------------------
+
+🔄 Round 6
+----------------------------------------
+Initial State:
+👤 YueShi          | [♦️ 9] [♣️ K]        | 💰   985
+👤 HakulaPlayer    | [♣️ 4] [♣️ T]        | 💰  1888
+👤 Jinkun          | [♠️ 7] [♣️ Q]        | 💰  1036
+👤 Ethan           | [♥️ 2] [♠️ 3]        | 💰   985
+👤 PlayerXinZhu    | [♣️ 5] [♥️ 7]        | 💰    91
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♥️ 2] [♠️ 3] |   12.40% | ❌ fold
+  PlayerXinZhu    | [♣️ 5] [♥️ 7] |   17.90% | ❌ fold
+  YueShi          | [♦️ 9] [♣️ K] |   42.50% | ❌ fold
+  HakulaPlayer    | [♣️ 4] [♣️ T] |   39.60% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   985 ➡️ (+0)
+  HakulaPlayer   : $  1888 ➡️ (+0)
+  Jinkun         : $  1051 📈 (+15)
+  Ethan          : $   985 ➡️ (+0)
+  PlayerXinZhu   : $    91 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 7
+----------------------------------------
+Initial State:
+👤 YueShi          | [♦️ 4] [♥️ 6]        | 💰   985
+👤 HakulaPlayer    | [♠️ A] [♥️ J]        | 💰  1888
+👤 Jinkun          | [♣️ 3] [♠️ 9]        | 💰  1046
+👤 Ethan           | [♠️ 8] [♣️ 4]        | 💰   975
+👤 PlayerXinZhu    | [♦️ 2] [♣️ 5]        | 💰    91
+
+🎴 PREFLOP
+Board: [  ]
+  PlayerXinZhu    | [♦️ 2] [♣️ 5] |   12.00% | ❌ fold
+  YueShi          | [♦️ 4] [♥️ 6] |   18.10% | ❌ fold
+  HakulaPlayer    | [♠️ A] [♥️ J] |   52.30% | ✅ call:$10
+  Jinkun          | [♣️ 3] [♠️ 9] |   22.60% | ✅ call:$10
+  Ethan           | [♠️ 8] [♣️ 4] |   25.70% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ 9] [♠️ 4] [♣️ 7] ]
+  Jinkun          | [♣️ 3] [♠️ 9] |   78.50% | ✅ call
+  HakulaPlayer    | [♠️ A] [♥️ J] |   21.50% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 9] [♠️ 4] [♣️ 7] [♣️ 2] ]
+  Jinkun          | [♣️ 3] [♠️ 9] |   91.40% | ✅ call
+  HakulaPlayer    | [♠️ A] [♥️ J] |    8.60% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 9] [♠️ 4] [♣️ 7] [♣️ 2] [♥️ 5] ]
+  Jinkun          | [♣️ 3] [♠️ 9] |  100.00% | ✅ call
+  HakulaPlayer    | [♠️ A] [♥️ J] |    0.00% | ✅ call
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   985 ➡️ (+0)
+  HakulaPlayer   : $  1878 📉 (-10)
+  Jinkun         : $  1071 📈 (+25)
+  Ethan          : $   975 ➡️ (+0)
+  PlayerXinZhu   : $    91 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 8
+----------------------------------------
+Initial State:
+👤 YueShi          | [♠️ 9] [♥️ 3]        | 💰   985
+👤 HakulaPlayer    | [♥️ 5] [♦️ Q]        | 💰  1878
+👤 Jinkun          | [♠️ K] [♦️ 6]        | 💰  1071
+👤 Ethan           | [♣️ 6] [♠️ A]        | 💰   970
+👤 PlayerXinZhu    | [♦️ 3] [♠️ 4]        | 💰    81
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♠️ 9] [♥️ 3] |   17.40% | ❌ fold
+  HakulaPlayer    | [♥️ 5] [♦️ Q] |   28.60% | ❌ fold
+  Jinkun          | [♠️ K] [♦️ 6] |   22.00% | ✅ call:$10
+  Ethan           | [♣️ 6] [♠️ A] |   49.50% | ✅ call:$10
+  PlayerXinZhu    | [♦️ 3] [♠️ 4] |   30.30% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ 7] [♥️ 9] [♣️ K] ]
+  Ethan           | [♣️ 6] [♠️ A] |   15.40% | ✅ call
+  Jinkun          | [♠️ K] [♦️ 6] |   87.60% | ⬆️ raise:$12
+  Ethan           | [♣️ 6] [♠️ A] |   15.40% | ✅ call:$12
+
+🎴 TURN
+Board: [ [♦️ 7] [♥️ 9] [♣️ K] [♣️ 3] ]
+  Ethan           | [♣️ 6] [♠️ A] |    7.60% | ✅ call
+  Jinkun          | [♠️ K] [♦️ 6] |   92.40% | ⬆️ raise:$22
+  Ethan           | [♣️ 6] [♠️ A] |    7.60% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   985 ➡️ (+0)
+  HakulaPlayer   : $  1878 ➡️ (+0)
+  Jinkun         : $  1103 📈 (+32)
+  Ethan          : $   953 📉 (-17)
+  PlayerXinZhu   : $    81 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 9
+----------------------------------------
+Initial State:
+👤 YueShi          | [♠️ 2] [♦️ Q]        | 💰   975
+👤 HakulaPlayer    | [♦️ 5] [♦️ A]        | 💰  1878
+👤 Jinkun          | [♠️ 9] [♣️ 5]        | 💰  1103
+👤 Ethan           | [♣️ 6] [♠️ A]        | 💰   953
+👤 PlayerXinZhu    | [♣️ 2] [♠️ 4]        | 💰    76
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♦️ 5] [♦️ A] |   29.60% | ✅ call:$10
+  Jinkun          | [♠️ 9] [♣️ 5] |   18.20% | ❌ fold:$10
+  Ethan           | [♣️ 6] [♠️ A] |   35.80% | ❌ fold
+  PlayerXinZhu    | [♣️ 2] [♠️ 4] |   19.40% | ❌ fold
+  YueShi          | [♠️ 2] [♦️ Q] |   32.10% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YueShi         : $   975 ➡️ (+0)
+  HakulaPlayer   : $  1893 📈 (+15)
+  Jinkun         : $  1103 ➡️ (+0)
+  Ethan          : $   953 ➡️ (+0)
+  PlayerXinZhu   : $    76 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 10
+----------------------------------------
+Initial State:
+👤 YueShi          | [♦️ J] [♦️ A]        | 💰   970
+👤 HakulaPlayer    | [♥️ T] [♠️ 5]        | 💰  1883
+👤 Jinkun          | [♦️ 5] [♣️ J]        | 💰  1103
+👤 Ethan           | [♠️ 3] [♠️ 8]        | 💰   953
+👤 PlayerXinZhu    | [♣️ 8] [♦️ 3]        | 💰    76
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♦️ 5] [♣️ J] |   11.60% | ❌ fold:$10
+  Ethan           | [♠️ 3] [♠️ 8] |   20.80% | ❌ fold
+  PlayerXinZhu    | [♣️ 8] [♦️ 3] |   21.60% | ❌ fold
+  YueShi          | [♦️ J] [♦️ A] |   68.40% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YueShi         : $   970 ➡️ (+0)
+  HakulaPlayer   : $  1898 📈 (+15)
+  Jinkun         : $  1103 ➡️ (+0)
+  Ethan          : $   953 ➡️ (+0)
+  PlayerXinZhu   : $    76 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 11
+----------------------------------------
+Initial State:
+👤 YueShi          | [♣️ 6] [♥️ 7]        | 💰   970
+👤 HakulaPlayer    | [♣️ Q] [♦️ A]        | 💰  1893
+👤 Jinkun          | [♦️ 3] [♣️ 7]        | 💰  1093
+👤 Ethan           | [♦️ 8] [♠️ 9]        | 💰   953
+👤 PlayerXinZhu    | [♣️ A] [♥️ K]        | 💰    76
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♦️ 8] [♠️ 9] |   26.00% | ❌ fold
+  PlayerXinZhu    | [♣️ A] [♥️ K] |   39.50% | ❌ fold
+  YueShi          | [♣️ 6] [♥️ 7] |   31.90% | ❌ fold
+  HakulaPlayer    | [♣️ Q] [♦️ A] |   68.60% | ✅ call:$10
+  Jinkun          | [♦️ 3] [♣️ 7] |   31.90% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ 6] [♦️ K] [♣️ T] ]
+  HakulaPlayer    | [♣️ Q] [♦️ A] |   79.60% | ✅ call
+  Jinkun          | [♦️ 3] [♣️ 7] |   20.40% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 6] [♦️ K] [♣️ T] [♣️ 4] ]
+  HakulaPlayer    | [♣️ Q] [♦️ A] |   75.20% | ✅ call
+  Jinkun          | [♦️ 3] [♣️ 7] |   24.80% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ 6] [♦️ K] [♣️ T] [♣️ 4] [♠️ 4] ]
+  HakulaPlayer    | [♣️ Q] [♦️ A] |  100.00% | ✅ call
+  Jinkun          | [♦️ 3] [♣️ 7] |    0.00% | ✅ call
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YueShi         : $   970 ➡️ (+0)
+  HakulaPlayer   : $  1908 📈 (+15)
+  Jinkun         : $  1093 ➡️ (+0)
+  Ethan          : $   953 ➡️ (+0)
+  PlayerXinZhu   : $    76 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 12
+----------------------------------------
+Initial State:
+👤 YueShi          | [♥️ 4] [♣️ 3]        | 💰   970
+👤 HakulaPlayer    | [♥️ 7] [♥️ 6]        | 💰  1908
+👤 Jinkun          | [♥️ 2] [♠️ A]        | 💰  1088
+👤 Ethan           | [♥️ 8] [♦️ 7]        | 💰   943
+👤 PlayerXinZhu    | [♦️ K] [♥️ J]        | 💰    76
+
+🎴 PREFLOP
+Board: [  ]
+  PlayerXinZhu    | [♦️ K] [♥️ J] |   27.30% | ❌ fold
+  YueShi          | [♥️ 4] [♣️ 3] |   23.30% | ❌ fold
+  HakulaPlayer    | [♥️ 7] [♥️ 6] |   26.90% | ❌ fold
+  Jinkun          | [♥️ 2] [♠️ A] |   54.30% | ✅ call:$10
+  Ethan           | [♥️ 8] [♦️ 7] |   45.80% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♥️ 5] [♣️ T] [♣️ 9] ]
+  Jinkun          | [♥️ 2] [♠️ A] |   47.60% | ✅ call
+  Ethan           | [♥️ 8] [♦️ 7] |   52.40% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 5] [♣️ T] [♣️ 9] [♠️ 4] ]
+  Jinkun          | [♥️ 2] [♠️ A] |   68.10% | ✅ call
+  Ethan           | [♥️ 8] [♦️ 7] |   31.90% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ 5] [♣️ T] [♣️ 9] [♠️ 4] [♠️ T] ]
+  Jinkun          | [♥️ 2] [♠️ A] |  100.00% | ✅ call
+  Ethan           | [♥️ 8] [♦️ 7] |    0.00% | ✅ call
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   970 ➡️ (+0)
+  HakulaPlayer   : $  1908 ➡️ (+0)
+  Jinkun         : $  1103 📈 (+15)
+  Ethan          : $   943 ➡️ (+0)
+  PlayerXinZhu   : $    76 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 13
+----------------------------------------
+Initial State:
+👤 YueShi          | [♣️ T] [♠️ K]        | 💰   970
+👤 HakulaPlayer    | [♣️ 6] [♦️ 7]        | 💰  1908
+👤 Jinkun          | [♠️ 4] [♥️ K]        | 💰  1103
+👤 Ethan           | [♦️ 3] [♣️ Q]        | 💰   938
+👤 PlayerXinZhu    | [♠️ Q] [♣️ 4]        | 💰    66
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♣️ T] [♠️ K] |   37.70% | ❌ fold
+  HakulaPlayer    | [♣️ 6] [♦️ 7] |   40.70% | ❌ fold
+  Jinkun          | [♠️ 4] [♥️ K] |   66.10% | ✅ call:$10
+  Ethan           | [♦️ 3] [♣️ Q] |   32.10% | ❌ fold
+  PlayerXinZhu    | [♠️ Q] [♣️ 4] |   28.70% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   970 ➡️ (+0)
+  HakulaPlayer   : $  1908 ➡️ (+0)
+  Jinkun         : $  1118 📈 (+15)
+  Ethan          : $   938 ➡️ (+0)
+  PlayerXinZhu   : $    66 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 14
+----------------------------------------
+Initial State:
+👤 YueShi          | [♦️ 7] [♦️ 9]        | 💰   960
+👤 HakulaPlayer    | [♥️ 4] [♣️ T]        | 💰  1908
+👤 Jinkun          | [♥️ T] [♦️ Q]        | 💰  1118
+👤 Ethan           | [♦️ 3] [♠️ J]        | 💰   938
+👤 PlayerXinZhu    | [♣️ A] [♦️ 5]        | 💰    61
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♥️ 4] [♣️ T] |    8.70% | ❌ fold
+  Jinkun          | [♥️ T] [♦️ Q] |   29.90% | ✅ call:$10
+  Ethan           | [♦️ 3] [♠️ J] |   16.90% | ❌ fold
+  PlayerXinZhu    | [♣️ A] [♦️ 5] |   36.80% | ❌ fold
+  YueShi          | [♦️ 7] [♦️ 9] |   39.30% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   960 ➡️ (+0)
+  HakulaPlayer   : $  1908 ➡️ (+0)
+  Jinkun         : $  1133 📈 (+15)
+  Ethan          : $   938 ➡️ (+0)
+  PlayerXinZhu   : $    61 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 15
+----------------------------------------
+Initial State:
+👤 YueShi          | [♥️ 7] [♣️ K]        | 💰   955
+👤 HakulaPlayer    | [♣️ 2] [♠️ 8]        | 💰  1898
+👤 Jinkun          | [♠️ K] [♦️ 2]        | 💰  1133
+👤 Ethan           | [♦️ T] [♥️ 2]        | 💰   938
+👤 PlayerXinZhu    | [♥️ T] [♦️ 4]        | 💰    61
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♠️ K] [♦️ 2] |   19.30% | ❌ fold:$10
+  Ethan           | [♦️ T] [♥️ 2] |   18.20% | ❌ fold
+  PlayerXinZhu    | [♥️ T] [♦️ 4] |   32.90% | ❌ fold
+  YueShi          | [♥️ 7] [♣️ K] |   63.90% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YueShi         : $   955 ➡️ (+0)
+  HakulaPlayer   : $  1913 📈 (+15)
+  Jinkun         : $  1133 ➡️ (+0)
+  Ethan          : $   938 ➡️ (+0)
+  PlayerXinZhu   : $    61 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 16
+----------------------------------------
+Initial State:
+👤 YueShi          | [♥️ 8] [♣️ A]        | 💰   955
+👤 HakulaPlayer    | [♥️ 3] [♠️ 2]        | 💰  1908
+👤 Jinkun          | [♥️ 2] [♣️ K]        | 💰  1123
+👤 Ethan           | [♥️ 7] [♦️ T]        | 💰   938
+👤 PlayerXinZhu    | [♠️ 4] [♠️ 5]        | 💰    61
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♥️ 7] [♦️ T] |   25.30% | ❌ fold
+  PlayerXinZhu    | [♠️ 4] [♠️ 5] |   31.60% | ❌ fold
+  YueShi          | [♥️ 8] [♣️ A] |   53.40% | ❌ fold
+  HakulaPlayer    | [♥️ 3] [♠️ 2] |   29.20% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   955 ➡️ (+0)
+  HakulaPlayer   : $  1908 ➡️ (+0)
+  Jinkun         : $  1138 📈 (+15)
+  Ethan          : $   938 ➡️ (+0)
+  PlayerXinZhu   : $    61 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 17
+----------------------------------------
+Initial State:
+👤 YueShi          | [♥️ J] [♣️ T]        | 💰   955
+👤 HakulaPlayer    | [♥️ 3] [♠️ 6]        | 💰  1908
+👤 Jinkun          | [♠️ 3] [♣️ 3]        | 💰  1133
+👤 Ethan           | [♣️ 7] [♦️ 3]        | 💰   928
+👤 PlayerXinZhu    | [♦️ 6] [♦️ A]        | 💰    61
+
+🎴 PREFLOP
+Board: [  ]
+  PlayerXinZhu    | [♦️ 6] [♦️ A] |   34.40% | ❌ fold
+  YueShi          | [♥️ J] [♣️ T] |   55.00% | ❌ fold
+  HakulaPlayer    | [♥️ 3] [♠️ 6] |   28.60% | ❌ fold
+  Jinkun          | [♠️ 3] [♣️ 3] |   68.00% | ✅ call:$10
+  Ethan           | [♣️ 7] [♦️ 3] |   34.90% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   955 ➡️ (+0)
+  HakulaPlayer   : $  1908 ➡️ (+0)
+  Jinkun         : $  1148 📈 (+15)
+  Ethan          : $   928 ➡️ (+0)
+  PlayerXinZhu   : $    61 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 18
+----------------------------------------
+Initial State:
+👤 YueShi          | [♥️ K] [♦️ 2]        | 💰   955
+👤 HakulaPlayer    | [♥️ Q] [♦️ J]        | 💰  1908
+👤 Jinkun          | [♦️ 5] [♠️ J]        | 💰  1148
+👤 Ethan           | [♣️ 2] [♠️ 2]        | 💰   923
+👤 PlayerXinZhu    | [♠️ T] [♠️ Q]        | 💰    51
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♥️ K] [♦️ 2] |   19.90% | ❌ fold
+  HakulaPlayer    | [♥️ Q] [♦️ J] |   31.10% | ✅ call:$10
+  Jinkun          | [♦️ 5] [♠️ J] |   16.50% | ✅ call:$10
+  Ethan           | [♣️ 2] [♠️ 2] |   35.10% | ❌ fold
+  PlayerXinZhu    | [♠️ T] [♠️ Q] |   34.90% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ T] [♦️ T] [♣️ 5] ]
+  HakulaPlayer    | [♥️ Q] [♦️ J] |   28.90% | ✅ call
+  Jinkun          | [♦️ 5] [♠️ J] |   72.80% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ T] [♦️ T] [♣️ 5] [♣️ K] ]
+  HakulaPlayer    | [♥️ Q] [♦️ J] |   34.60% | ✅ call
+  Jinkun          | [♦️ 5] [♠️ J] |   69.00% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ T] [♦️ T] [♣️ 5] [♣️ K] [♦️ 3] ]
+  HakulaPlayer    | [♥️ Q] [♦️ J] |    0.00% | ✅ call
+  Jinkun          | [♦️ 5] [♠️ J] |  100.00% | ✅ call
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   955 ➡️ (+0)
+  HakulaPlayer   : $  1898 📉 (-10)
+  Jinkun         : $  1173 📈 (+25)
+  Ethan          : $   923 ➡️ (+0)
+  PlayerXinZhu   : $    51 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 19
+----------------------------------------
+Initial State:
+👤 YueShi          | [♣️ T] [♠️ J]        | 💰   945
+👤 HakulaPlayer    | [♥️ T] [♠️ A]        | 💰  1898
+👤 Jinkun          | [♣️ 6] [♠️ 3]        | 💰  1173
+👤 Ethan           | [♦️ J] [♠️ 8]        | 💰   923
+👤 PlayerXinZhu    | [♦️ 9] [♣️ A]        | 💰    46
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♥️ T] [♠️ A] |   28.00% | ✅ call:$10
+  Jinkun          | [♣️ 6] [♠️ 3] |   22.20% | ❌ fold:$10
+  Ethan           | [♦️ J] [♠️ 8] |   22.80% | ❌ fold
+  PlayerXinZhu    | [♦️ 9] [♣️ A] |   24.10% | ❌ fold
+  YueShi          | [♣️ T] [♠️ J] |   28.30% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YueShi         : $   945 ➡️ (+0)
+  HakulaPlayer   : $  1913 📈 (+15)
+  Jinkun         : $  1173 ➡️ (+0)
+  Ethan          : $   923 ➡️ (+0)
+  PlayerXinZhu   : $    46 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 20
+----------------------------------------
+Initial State:
+👤 YueShi          | [♠️ 9] [♠️ T]        | 💰   940
+👤 HakulaPlayer    | [♠️ 5] [♣️ 5]        | 💰  1903
+👤 Jinkun          | [♥️ 5] [♦️ Q]        | 💰  1173
+👤 Ethan           | [♦️ A] [♠️ K]        | 💰   923
+👤 PlayerXinZhu    | [♥️ 6] [♠️ 4]        | 💰    46
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♥️ 5] [♦️ Q] |   10.90% | ❌ fold:$10
+  Ethan           | [♦️ A] [♠️ K] |   33.60% | ⬆️ raise:$276
+  PlayerXinZhu    | [♥️ 6] [♠️ 4] |   13.80% | ❌ fold
+  YueShi          | [♠️ 9] [♠️ T] |   32.70% | ❌ fold
+  HakulaPlayer    | [♠️ 5] [♣️ 5] |   55.50% | ❌ fold
+
+🏆 Winner: Ethan
+Final Stacks:
+  YueShi         : $   940 ➡️ (+0)
+  HakulaPlayer   : $  1903 ➡️ (+0)
+  Jinkun         : $  1173 ➡️ (+0)
+  Ethan          : $   938 📈 (+15)
+  PlayerXinZhu   : $    46 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 21
+----------------------------------------
+Initial State:
+👤 YueShi          | [♠️ 4] [♦️ Q]        | 💰   940
+👤 HakulaPlayer    | [♥️ 2] [♥️ Q]        | 💰  1898
+👤 Jinkun          | [♠️ J] [♣️ K]        | 💰  1163
+👤 Ethan           | [♠️ A] [♥️ 4]        | 💰   938
+👤 PlayerXinZhu    | [♦️ 7] [♥️ A]        | 💰    46
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♠️ A] [♥️ 4] |   18.90% | ❌ fold
+  PlayerXinZhu    | [♦️ 7] [♥️ A] |   34.70% | ❌ fold
+  YueShi          | [♠️ 4] [♦️ Q] |   25.70% | ❌ fold
+  HakulaPlayer    | [♥️ 2] [♥️ Q] |   37.00% | ✅ call:$10
+  Jinkun          | [♠️ J] [♣️ K] |   63.50% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ 5] [♣️ 2] [♠️ 9] ]
+  HakulaPlayer    | [♥️ 2] [♥️ Q] |   75.20% | ✅ call
+  Jinkun          | [♠️ J] [♣️ K] |   24.80% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 5] [♣️ 2] [♠️ 9] [♠️ Q] ]
+  HakulaPlayer    | [♥️ 2] [♥️ Q] |   91.60% | ⬆️ raise:$31
+  Jinkun          | [♠️ J] [♣️ K] |    8.40% | ❌ fold:$31
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YueShi         : $   940 ➡️ (+0)
+  HakulaPlayer   : $  1913 📈 (+15)
+  Jinkun         : $  1163 ➡️ (+0)
+  Ethan          : $   938 ➡️ (+0)
+  PlayerXinZhu   : $    46 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 22
+----------------------------------------
+Initial State:
+👤 YueShi          | [♣️ 3] [♦️ 2]        | 💰   940
+👤 HakulaPlayer    | [♠️ T] [♣️ J]        | 💰  1913
+👤 Jinkun          | [♦️ A] [♣️ A]        | 💰  1158
+👤 Ethan           | [♣️ 9] [♥️ A]        | 💰   928
+👤 PlayerXinZhu    | [♠️ 7] [♦️ Q]        | 💰    46
+
+🎴 PREFLOP
+Board: [  ]
+  PlayerXinZhu    | [♠️ 7] [♦️ Q] |   11.70% | ❌ fold
+  YueShi          | [♣️ 3] [♦️ 2] |   11.30% | ❌ fold
+  HakulaPlayer    | [♠️ T] [♣️ J] |   17.20% | ✅ call:$10
+  Jinkun          | [♦️ A] [♣️ A] |   77.00% | ✅ call:$10
+  Ethan           | [♣️ 9] [♥️ A] |    7.60% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♥️ 3] [♣️ K] [♠️ 6] ]
+  Jinkun          | [♦️ A] [♣️ A] |   96.20% | ✅ call
+  Ethan           | [♣️ 9] [♥️ A] |    0.60% | ✅ call
+  HakulaPlayer    | [♠️ T] [♣️ J] |    3.20% | ⬆️ raise:$16
+  Jinkun          | [♦️ A] [♣️ A] |   96.20% | ✅ call:$16
+  Ethan           | [♣️ 9] [♥️ A] |    0.60% | ❌ fold
+
+🎴 TURN
+Board: [ [♥️ 3] [♣️ K] [♠️ 6] [♣️ 7] ]
+  Jinkun          | [♦️ A] [♣️ A] |  100.00% | ⬆️ raise:$26
+  HakulaPlayer    | [♠️ T] [♣️ J] |    0.00% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   940 ➡️ (+0)
+  HakulaPlayer   : $  1887 📉 (-26)
+  Jinkun         : $  1199 📈 (+41)
+  Ethan          : $   928 ➡️ (+0)
+  PlayerXinZhu   : $    46 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 23
+----------------------------------------
+Initial State:
+👤 YueShi          | [♠️ 3] [♠️ T]        | 💰   940
+👤 HakulaPlayer    | [♣️ T] [♦️ 5]        | 💰  1887
+👤 Jinkun          | [♦️ 4] [♦️ K]        | 💰  1199
+👤 Ethan           | [♥️ 5] [♠️ 9]        | 💰   923
+👤 PlayerXinZhu    | [♥️ 9] [♥️ 2]        | 💰    36
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♠️ 3] [♠️ T] |   21.30% | ❌ fold
+  HakulaPlayer    | [♣️ T] [♦️ 5] |   28.80% | ❌ fold
+  Jinkun          | [♦️ 4] [♦️ K] |   51.10% | ✅ call:$10
+  Ethan           | [♥️ 5] [♠️ 9] |   31.90% | ❌ fold
+  PlayerXinZhu    | [♥️ 9] [♥️ 2] |   36.40% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   940 ➡️ (+0)
+  HakulaPlayer   : $  1887 ➡️ (+0)
+  Jinkun         : $  1214 📈 (+15)
+  Ethan          : $   923 ➡️ (+0)
+  PlayerXinZhu   : $    36 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 24
+----------------------------------------
+Initial State:
+👤 YueShi          | [♠️ 4] [♣️ 8]        | 💰   930
+👤 HakulaPlayer    | [♣️ 2] [♠️ T]        | 💰  1887
+👤 Jinkun          | [♣️ 9] [♥️ J]        | 💰  1214
+👤 Ethan           | [♠️ 2] [♥️ 6]        | 💰   923
+👤 PlayerXinZhu    | [♥️ 5] [♥️ T]        | 💰    31
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♣️ 2] [♠️ T] |   13.10% | ❌ fold
+  Jinkun          | [♣️ 9] [♥️ J] |   37.90% | ✅ call:$10
+  Ethan           | [♠️ 2] [♥️ 6] |   15.90% | ❌ fold
+  PlayerXinZhu    | [♥️ 5] [♥️ T] |   32.60% | ❌ fold
+  YueShi          | [♠️ 4] [♣️ 8] |   31.50% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   930 ➡️ (+0)
+  HakulaPlayer   : $  1887 ➡️ (+0)
+  Jinkun         : $  1229 📈 (+15)
+  Ethan          : $   923 ➡️ (+0)
+  PlayerXinZhu   : $    31 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 25
+----------------------------------------
+Initial State:
+👤 YueShi          | [♠️ 7] [♥️ 2]        | 💰   925
+👤 HakulaPlayer    | [♠️ 2] [♦️ 2]        | 💰  1877
+👤 Jinkun          | [♥️ 7] [♣️ 2]        | 💰  1229
+👤 Ethan           | [♣️ Q] [♦️ 8]        | 💰   923
+👤 PlayerXinZhu    | [♣️ 9] [♠️ A]        | 💰    31
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♥️ 7] [♣️ 2] |    8.90% | ❌ fold:$10
+  Ethan           | [♣️ Q] [♦️ 8] |   36.40% | ❌ fold
+  PlayerXinZhu    | [♣️ 9] [♠️ A] |   50.20% | ❌ fold
+  YueShi          | [♠️ 7] [♥️ 2] |   32.70% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YueShi         : $   925 ➡️ (+0)
+  HakulaPlayer   : $  1892 📈 (+15)
+  Jinkun         : $  1229 ➡️ (+0)
+  Ethan          : $   923 ➡️ (+0)
+  PlayerXinZhu   : $    31 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 26
+----------------------------------------
+Initial State:
+👤 YueShi          | [♣️ 8] [♣️ J]        | 💰   925
+👤 HakulaPlayer    | [♣️ T] [♥️ 3]        | 💰  1887
+👤 Jinkun          | [♠️ 4] [♥️ 8]        | 💰  1219
+👤 Ethan           | [♥️ 2] [♣️ 5]        | 💰   923
+👤 PlayerXinZhu    | [♠️ J] [♦️ Q]        | 💰    31
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♥️ 2] [♣️ 5] |   15.40% | ❌ fold
+  PlayerXinZhu    | [♠️ J] [♦️ Q] |   45.70% | ❌ fold
+  YueShi          | [♣️ 8] [♣️ J] |   53.70% | ❌ fold
+  HakulaPlayer    | [♣️ T] [♥️ 3] |   59.50% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   925 ➡️ (+0)
+  HakulaPlayer   : $  1887 ➡️ (+0)
+  Jinkun         : $  1234 📈 (+15)
+  Ethan          : $   923 ➡️ (+0)
+  PlayerXinZhu   : $    31 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 27
+----------------------------------------
+Initial State:
+👤 YueShi          | [♦️ T] [♣️ Q]        | 💰   925
+👤 HakulaPlayer    | [♦️ A] [♥️ 6]        | 💰  1887
+👤 Jinkun          | [♥️ 5] [♥️ J]        | 💰  1229
+👤 Ethan           | [♣️ 4] [♣️ 8]        | 💰   913
+👤 PlayerXinZhu    | [♣️ 5] [♣️ 7]        | 💰    31
+
+🎴 PREFLOP
+Board: [  ]
+  PlayerXinZhu    | [♣️ 5] [♣️ 7] |   12.40% | ❌ fold
+  YueShi          | [♦️ T] [♣️ Q] |   30.00% | ❌ fold
+  HakulaPlayer    | [♦️ A] [♥️ 6] |   36.10% | ✅ call:$10
+  Jinkun          | [♥️ 5] [♥️ J] |   33.40% | ✅ call:$10
+  Ethan           | [♣️ 4] [♣️ 8] |   31.30% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ 3] [♣️ T] [♦️ J] ]
+  Jinkun          | [♥️ 5] [♥️ J] |   87.90% | ✅ call
+  HakulaPlayer    | [♦️ A] [♥️ 6] |   12.10% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 3] [♣️ T] [♦️ J] [♦️ 2] ]
+  Jinkun          | [♥️ 5] [♥️ J] |   92.60% | ✅ call
+  HakulaPlayer    | [♦️ A] [♥️ 6] |    7.40% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 3] [♣️ T] [♦️ J] [♦️ 2] [♥️ 2] ]
+  Jinkun          | [♥️ 5] [♥️ J] |  100.00% | ⬆️ raise:$12
+  HakulaPlayer    | [♦️ A] [♥️ 6] |    0.00% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   925 ➡️ (+0)
+  HakulaPlayer   : $  1877 📉 (-10)
+  Jinkun         : $  1254 📈 (+25)
+  Ethan          : $   913 ➡️ (+0)
+  PlayerXinZhu   : $    31 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 28
+----------------------------------------
+Initial State:
+👤 YueShi          | [♦️ 9] [♥️ J]        | 💰   925
+👤 HakulaPlayer    | [♣️ T] [♦️ Q]        | 💰  1877
+👤 Jinkun          | [♠️ 3] [♥️ 2]        | 💰  1254
+👤 Ethan           | [♦️ J] [♠️ 4]        | 💰   908
+👤 PlayerXinZhu    | [♥️ 3] [♣️ 3]        | 💰    21
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♦️ 9] [♥️ J] |   25.40% | ❌ fold
+  HakulaPlayer    | [♣️ T] [♦️ Q] |   46.30% | ✅ call:$10
+  Jinkun          | [♠️ 3] [♥️ 2] |    7.40% | ✅ call:$10
+  Ethan           | [♦️ J] [♠️ 4] |   26.30% | ❌ fold
+  PlayerXinZhu    | [♥️ 3] [♣️ 3] |   41.00% | ❌ fold
+
+🎴 FLOP
+Board: [ [♠️ T] [♥️ 8] [♥️ T] ]
+  HakulaPlayer    | [♣️ T] [♦️ Q] |   95.90% | ⬆️ raise:$58
+  Jinkun          | [♠️ 3] [♥️ 2] |    4.10% | ❌ fold:$58
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YueShi         : $   925 ➡️ (+0)
+  HakulaPlayer   : $  1902 📈 (+25)
+  Jinkun         : $  1244 📉 (-10)
+  Ethan          : $   908 ➡️ (+0)
+  PlayerXinZhu   : $    21 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 29
+----------------------------------------
+Initial State:
+👤 YueShi          | [♥️ 2] [♦️ K]        | 💰   915
+👤 HakulaPlayer    | [♥️ 8] [♥️ 7]        | 💰  1902
+👤 Jinkun          | [♦️ 4] [♥️ T]        | 💰  1244
+👤 Ethan           | [♦️ A] [♣️ 3]        | 💰   908
+👤 PlayerXinZhu    | [♣️ T] [♥️ 4]        | 💰    16
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♥️ 8] [♥️ 7] |   34.70% | ❌ fold
+  Jinkun          | [♦️ 4] [♥️ T] |   24.10% | ✅ call:$10
+  Ethan           | [♦️ A] [♣️ 3] |   46.40% | ❌ fold
+  PlayerXinZhu    | [♣️ T] [♥️ 4] |   33.80% | ❌ fold
+  YueShi          | [♥️ 2] [♦️ K] |   60.50% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   915 ➡️ (+0)
+  HakulaPlayer   : $  1902 ➡️ (+0)
+  Jinkun         : $  1259 📈 (+15)
+  Ethan          : $   908 ➡️ (+0)
+  PlayerXinZhu   : $    16 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 30
+----------------------------------------
+Initial State:
+👤 YueShi          | [♣️ 5] [♥️ 2]        | 💰   910
+👤 HakulaPlayer    | [♦️ 8] [♠️ 9]        | 💰  1892
+👤 Jinkun          | [♥️ 5] [♦️ K]        | 💰  1259
+👤 Ethan           | [♣️ 7] [♣️ 8]        | 💰   908
+👤 PlayerXinZhu    | [♣️ K] [♣️ 3]        | 💰    16
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♥️ 5] [♦️ K] |   25.70% | ❌ fold:$10
+  Ethan           | [♣️ 7] [♣️ 8] |   18.30% | ❌ fold
+  PlayerXinZhu    | [♣️ K] [♣️ 3] |   41.60% | ❌ fold
+  YueShi          | [♣️ 5] [♥️ 2] |   35.90% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YueShi         : $   910 ➡️ (+0)
+  HakulaPlayer   : $  1907 📈 (+15)
+  Jinkun         : $  1259 ➡️ (+0)
+  Ethan          : $   908 ➡️ (+0)
+  PlayerXinZhu   : $    16 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 31
+----------------------------------------
+Initial State:
+👤 YueShi          | [♥️ 5] [♣️ J]        | 💰   910
+👤 HakulaPlayer    | [♦️ 6] [♥️ 3]        | 💰  1902
+👤 Jinkun          | [♣️ 5] [♣️ 8]        | 💰  1249
+👤 Ethan           | [♦️ 7] [♦️ A]        | 💰   908
+👤 PlayerXinZhu    | [♦️ 3] [♣️ Q]        | 💰    16
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♦️ 7] [♦️ A] |   34.40% | ❌ fold
+  PlayerXinZhu    | [♦️ 3] [♣️ Q] |   36.70% | ❌ fold
+  YueShi          | [♥️ 5] [♣️ J] |   47.20% | ❌ fold
+  HakulaPlayer    | [♦️ 6] [♥️ 3] |   39.30% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   910 ➡️ (+0)
+  HakulaPlayer   : $  1902 ➡️ (+0)
+  Jinkun         : $  1264 📈 (+15)
+  Ethan          : $   908 ➡️ (+0)
+  PlayerXinZhu   : $    16 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 32
+----------------------------------------
+Initial State:
+👤 YueShi          | [♥️ 3] [♣️ K]        | 💰   910
+👤 HakulaPlayer    | [♦️ 8] [♥️ 4]        | 💰  1902
+👤 Jinkun          | [♠️ A] [♣️ T]        | 💰  1259
+👤 Ethan           | [♦️ Q] [♣️ 7]        | 💰   898
+👤 PlayerXinZhu    | [♠️ 2] [♥️ 9]        | 💰    16
+
+🎴 PREFLOP
+Board: [  ]
+  PlayerXinZhu    | [♠️ 2] [♥️ 9] |   13.50% | ❌ fold
+  YueShi          | [♥️ 3] [♣️ K] |   21.10% | ❌ fold
+  HakulaPlayer    | [♦️ 8] [♥️ 4] |   28.10% | ❌ fold
+  Jinkun          | [♠️ A] [♣️ T] |   67.80% | ✅ call:$10
+  Ethan           | [♦️ Q] [♣️ 7] |   32.90% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   910 ➡️ (+0)
+  HakulaPlayer   : $  1902 ➡️ (+0)
+  Jinkun         : $  1274 📈 (+15)
+  Ethan          : $   898 ➡️ (+0)
+  PlayerXinZhu   : $    16 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 33
+----------------------------------------
+Initial State:
+👤 YueShi          | [♦️ 4] [♠️ T]        | 💰   910
+👤 HakulaPlayer    | [♦️ 7] [♠️ 2]        | 💰  1902
+👤 Jinkun          | [♠️ J] [♣️ 4]        | 💰  1274
+👤 Ethan           | [♣️ 5] [♦️ 3]        | 💰   893
+👤 PlayerXinZhu    | [♦️ 8] [♠️ 5]        | 💰     6
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♦️ 4] [♠️ T] |   21.50% | ❌ fold
+  HakulaPlayer    | [♦️ 7] [♠️ 2] |   23.00% | ❌ fold
+  Jinkun          | [♠️ J] [♣️ 4] |   48.50% | ✅ call:$10
+  Ethan           | [♣️ 5] [♦️ 3] |   24.80% | ❌ fold
+  PlayerXinZhu    | [♦️ 8] [♠️ 5] |   43.30% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   910 ➡️ (+0)
+  HakulaPlayer   : $  1902 ➡️ (+0)
+  Jinkun         : $  1289 📈 (+15)
+  Ethan          : $   893 ➡️ (+0)
+  PlayerXinZhu   : $     6 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 34
+----------------------------------------
+Initial State:
+👤 YueShi          | [♥️ T] [♦️ J]        | 💰   900
+👤 HakulaPlayer    | [♥️ 4] [♠️ 7]        | 💰  1902
+👤 Jinkun          | [♣️ Q] [♠️ K]        | 💰  1289
+👤 Ethan           | [♠️ 3] [♦️ 3]        | 💰   893
+👤 PlayerXinZhu    | [♥️ A] [♦️ 5]        | 💰     1
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♥️ 4] [♠️ 7] |   15.50% | ❌ fold
+  Jinkun          | [♣️ Q] [♠️ K] |   31.30% | ✅ call:$10
+  Ethan           | [♠️ 3] [♦️ 3] |   21.20% | ❌ fold
+  PlayerXinZhu    | [♥️ A] [♦️ 5] |   36.80% | ❌ fold
+  YueShi          | [♥️ T] [♦️ J] |   35.10% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   900 ➡️ (+0)
+  HakulaPlayer   : $  1902 ➡️ (+0)
+  Jinkun         : $  1304 📈 (+15)
+  Ethan          : $   893 ➡️ (+0)
+  PlayerXinZhu   : $     1 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 35
+----------------------------------------
+Initial State:
+👤 YueShi          | [♠️ Q] [♠️ 9]        | 💰   895
+👤 HakulaPlayer    | [♣️ 6] [♣️ 8]        | 💰  1892
+👤 Jinkun          | [♦️ 2] [♦️ 4]        | 💰  1304
+👤 Ethan           | [♥️ 3] [♥️ 7]        | 💰   893
+👤 PlayerXinZhu    | [♠️ 8] [♦️ 8]        | 💰     1
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♦️ 2] [♦️ 4] |   18.50% | ❌ fold:$10
+  Ethan           | [♥️ 3] [♥️ 7] |   19.30% | ❌ fold
+  PlayerXinZhu    | [♠️ 8] [♦️ 8] |   41.90% | ❌ fold
+  YueShi          | [♠️ Q] [♠️ 9] |   61.70% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YueShi         : $   895 ➡️ (+0)
+  HakulaPlayer   : $  1907 📈 (+15)
+  Jinkun         : $  1304 ➡️ (+0)
+  Ethan          : $   893 ➡️ (+0)
+  PlayerXinZhu   : $     1 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 36
+----------------------------------------
+Initial State:
+👤 YueShi          | [♣️ A] [♠️ 3]        | 💰   895
+👤 HakulaPlayer    | [♣️ T] [♣️ 9]        | 💰  1902
+👤 Jinkun          | [♦️ 8] [♠️ 2]        | 💰  1294
+👤 Ethan           | [♣️ K] [♦️ T]        | 💰   893
+👤 PlayerXinZhu    | [♠️ 6] [♣️ 5]        | 💰     1
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♣️ K] [♦️ T] |   26.50% | ❌ fold
+  PlayerXinZhu    | [♠️ 6] [♣️ 5] |   20.00% | ❌ fold
+  YueShi          | [♣️ A] [♠️ 3] |   38.00% | ❌ fold
+  HakulaPlayer    | [♣️ T] [♣️ 9] |   73.50% | ✅ call:$10
+  Jinkun          | [♦️ 8] [♠️ 2] |   28.00% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♣️ 3] [♠️ J] [♣️ 4] ]
+  HakulaPlayer    | [♣️ T] [♣️ 9] |   88.80% | ✅ call
+  Jinkun          | [♦️ 8] [♠️ 2] |   12.00% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 3] [♠️ J] [♣️ 4] [♣️ 7] ]
+  HakulaPlayer    | [♣️ T] [♣️ 9] |  100.00% | ⬆️ raise:$45
+  Jinkun          | [♦️ 8] [♠️ 2] |    0.00% | ❌ fold:$45
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YueShi         : $   895 ➡️ (+0)
+  HakulaPlayer   : $  1917 📈 (+15)
+  Jinkun         : $  1294 ➡️ (+0)
+  Ethan          : $   893 ➡️ (+0)
+  PlayerXinZhu   : $     1 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 37
+----------------------------------------
+Initial State:
+👤 YueShi          | [♦️ 2] [♦️ 8]        | 💰   895
+👤 HakulaPlayer    | [♥️ 5] [♠️ 3]        | 💰  1917
+👤 Jinkun          | [♣️ K] [♠️ 2]        | 💰  1289
+👤 Ethan           | [♣️ J] [♣️ 6]        | 💰   883
+👤 PlayerXinZhu    | [♥️ 7] [♦️ T]        | 💰     1
+
+🎴 PREFLOP
+Board: [  ]
+  PlayerXinZhu    | [♥️ 7] [♦️ T] |   23.30% | ❌ fold
+  YueShi          | [♦️ 2] [♦️ 8] |   20.70% | ❌ fold
+  HakulaPlayer    | [♥️ 5] [♠️ 3] |   28.50% | ❌ fold
+  Jinkun          | [♣️ K] [♠️ 2] |   55.80% | ✅ call:$10
+  Ethan           | [♣️ J] [♣️ 6] |   44.70% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   895 ➡️ (+0)
+  HakulaPlayer   : $  1917 ➡️ (+0)
+  Jinkun         : $  1304 📈 (+15)
+  Ethan          : $   883 ➡️ (+0)
+  PlayerXinZhu   : $     1 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 38
+----------------------------------------
+Initial State:
+👤 YueShi          | [♦️ Q] [♦️ 4]        | 💰   885
+👤 HakulaPlayer    | [♠️ 9] [♠️ A]        | 💰  1917
+👤 Jinkun          | [♠️ 4] [♣️ 6]        | 💰  1304
+👤 Ethan           | [♣️ A] [♥️ Q]        | 💰   878
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♠️ 9] [♠️ A] |   28.80% | ✅ call:$10
+  Jinkun          | [♠️ 4] [♣️ 6] |   19.80% | ✅ call:$10
+  Ethan           | [♣️ A] [♥️ Q] |   38.40% | ⬆️ raise:$132
+  YueShi          | [♦️ Q] [♦️ 4] |   19.20% | ❌ fold
+  HakulaPlayer    | [♠️ 9] [♠️ A] |   28.40% | ✅ call:$132
+  Jinkun          | [♠️ 4] [♣️ 6] |   29.80% | ❌ fold:$132
+
+🎴 FLOP
+Board: [ [♥️ 5] [♦️ J] [♣️ 3] ]
+  Ethan           | [♣️ A] [♥️ Q] |   84.90% | ✅ call
+  HakulaPlayer    | [♠️ 9] [♠️ A] |   18.50% | ⬆️ raise:$269
+  Ethan           | [♣️ A] [♥️ Q] |   84.90% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YueShi         : $   885 ➡️ (+0)
+  HakulaPlayer   : $  2069 📈 (+152)
+  Jinkun         : $  1294 📉 (-10)
+  Ethan          : $   751 📉 (-127)
+  PlayerXinZhu   : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 39
+----------------------------------------
+Initial State:
+👤 YueShi          | [♣️ 4] [♦️ 3]        | 💰   880
+👤 HakulaPlayer    | [♥️ 6] [♣️ 8]        | 💰  2059
+👤 Jinkun          | [♣️ 5] [♠️ 2]        | 💰  1294
+👤 Ethan           | [♠️ T] [♣️ A]        | 💰   751
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♣️ 5] [♠️ 2] |   14.90% | ✅ call:$10
+  Ethan           | [♠️ T] [♣️ A] |   39.70% | ✅ call:$10
+  YueShi          | [♣️ 4] [♦️ 3] |   15.40% | ❌ fold
+  HakulaPlayer    | [♥️ 6] [♣️ 8] |   33.30% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ 5] [♥️ K] [♥️ Q] ]
+  HakulaPlayer    | [♥️ 6] [♣️ 8] |   26.80% | ✅ call
+  Jinkun          | [♣️ 5] [♠️ 2] |   36.60% | ✅ call
+  Ethan           | [♠️ T] [♣️ A] |   36.60% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 5] [♥️ K] [♥️ Q] [♦️ Q] ]
+  HakulaPlayer    | [♥️ 6] [♣️ 8] |   14.20% | ✅ call
+  Jinkun          | [♣️ 5] [♠️ 2] |   55.50% | ✅ call
+  Ethan           | [♠️ T] [♣️ A] |   30.30% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ 5] [♥️ K] [♥️ Q] [♦️ Q] [♦️ J] ]
+  HakulaPlayer    | [♥️ 6] [♣️ 8] |    0.00% | ✅ call
+  Jinkun          | [♣️ 5] [♠️ 2] |    0.00% | ✅ call
+  Ethan           | [♠️ T] [♣️ A] |  100.00% | ✅ call
+
+🏆 Winner: Ethan
+Final Stacks:
+  YueShi         : $   880 ➡️ (+0)
+  HakulaPlayer   : $  2059 ➡️ (+0)
+  Jinkun         : $  1284 📉 (-10)
+  Ethan          : $   776 📈 (+25)
+  PlayerXinZhu   : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 40
+----------------------------------------
+Initial State:
+👤 YueShi          | [♦️ J] [♣️ 9]        | 💰   880
+👤 HakulaPlayer    | [♥️ 6] [♣️ 2]        | 💰  2054
+👤 Jinkun          | [♦️ A] [♠️ 4]        | 💰  1274
+👤 Ethan           | [♣️ J] [♠️ T]        | 💰   776
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♣️ J] [♠️ T] |   29.70% | ✅ call:$10
+  YueShi          | [♦️ J] [♣️ 9] |   17.60% | ❌ fold
+  HakulaPlayer    | [♥️ 6] [♣️ 2] |   22.50% | ✅ call:$10
+  Jinkun          | [♦️ A] [♠️ 4] |   36.00% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ K] [♦️ Q] [♣️ 3] ]
+  HakulaPlayer    | [♥️ 6] [♣️ 2] |   15.00% | ✅ call
+  Jinkun          | [♦️ A] [♠️ 4] |   37.40% | ✅ call
+  Ethan           | [♣️ J] [♠️ T] |   47.60% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ K] [♦️ Q] [♣️ 3] [♦️ 5] ]
+  HakulaPlayer    | [♥️ 6] [♣️ 2] |    9.30% | ✅ call
+  Jinkun          | [♦️ A] [♠️ 4] |   68.00% | ✅ call
+  Ethan           | [♣️ J] [♠️ T] |   22.70% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ K] [♦️ Q] [♣️ 3] [♦️ 5] [♦️ 6] ]
+  HakulaPlayer    | [♥️ 6] [♣️ 2] |    0.00% | ✅ call
+  Jinkun          | [♦️ A] [♠️ 4] |  100.00% | ⬆️ raise:$15
+  Ethan           | [♣️ J] [♠️ T] |    0.00% | ❌ fold
+  HakulaPlayer    | [♥️ 6] [♣️ 2] |    0.00% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   880 ➡️ (+0)
+  HakulaPlayer   : $  2049 📉 (-5)
+  Jinkun         : $  1304 📈 (+30)
+  Ethan          : $   766 📉 (-10)
+  PlayerXinZhu   : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 41
+----------------------------------------
+Initial State:
+👤 YueShi          | [♦️ J] [♥️ 9]        | 💰   880
+👤 HakulaPlayer    | [♣️ 3] [♥️ J]        | 💰  2049
+👤 Jinkun          | [♣️ 9] [♣️ Q]        | 💰  1299
+👤 Ethan           | [♠️ Q] [♠️ 8]        | 💰   756
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♦️ J] [♥️ 9] |   17.00% | ❌ fold
+  HakulaPlayer    | [♣️ 3] [♥️ J] |   26.90% | ❌ fold
+  Jinkun          | [♣️ 9] [♣️ Q] |   72.90% | ✅ call:$10
+  Ethan           | [♠️ Q] [♠️ 8] |   39.50% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 7] [♠️ A] [♦️ 7] ]
+  Jinkun          | [♣️ 9] [♣️ Q] |   50.90% | ✅ call
+  Ethan           | [♠️ Q] [♠️ 8] |   83.00% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 7] [♠️ A] [♦️ 7] [♦️ K] ]
+  Jinkun          | [♣️ 9] [♣️ Q] |   72.20% | ✅ call
+  Ethan           | [♠️ Q] [♠️ 8] |   95.20% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ 7] [♠️ A] [♦️ 7] [♦️ K] [♥️ 2] ]
+  Jinkun          | [♣️ 9] [♣️ Q] |  100.00% | ✅ call
+  Ethan           | [♠️ Q] [♠️ 8] |  100.00% | ✅ call
+
+🏆 Winner: Jinkun', 'Ethan
+Final Stacks:
+  YueShi         : $   880 ➡️ (+0)
+  HakulaPlayer   : $  2049 ➡️ (+0)
+  Jinkun         : $  1304 📈 (+5)
+  Ethan          : $   766 📈 (+10)
+  PlayerXinZhu   : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 42
+----------------------------------------
+Initial State:
+👤 YueShi          | [♣️ Q] [♦️ K]        | 💰   870
+👤 HakulaPlayer    | [♥️ T] [♦️ Q]        | 💰  2049
+👤 Jinkun          | [♥️ 9] [♥️ J]        | 💰  1304
+👤 Ethan           | [♣️ 5] [♣️ T]        | 💰   761
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♥️ T] [♦️ Q] |   11.90% | ✅ call:$10
+  Jinkun          | [♥️ 9] [♥️ J] |   31.50% | ✅ call:$10
+  Ethan           | [♣️ 5] [♣️ T] |   19.50% | ❌ fold
+  YueShi          | [♣️ Q] [♦️ K] |   50.40% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ 2] [♥️ 2] [♣️ 7] ]
+  HakulaPlayer    | [♥️ T] [♦️ Q] |   72.80% | ✅ call
+  Jinkun          | [♥️ 9] [♥️ J] |   30.50% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 2] [♥️ 2] [♣️ 7] [♦️ A] ]
+  HakulaPlayer    | [♥️ T] [♦️ Q] |   87.70% | ✅ call
+  Jinkun          | [♥️ 9] [♥️ J] |   19.10% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ 2] [♥️ 2] [♣️ 7] [♦️ A] [♦️ 9] ]
+  HakulaPlayer    | [♥️ T] [♦️ Q] |    0.00% | ✅ call
+  Jinkun          | [♥️ 9] [♥️ J] |  100.00% | ✅ call
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   870 ➡️ (+0)
+  HakulaPlayer   : $  2039 📉 (-10)
+  Jinkun         : $  1329 📈 (+25)
+  Ethan          : $   761 ➡️ (+0)
+  PlayerXinZhu   : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 43
+----------------------------------------
+Initial State:
+👤 YueShi          | [♠️ A] [♥️ K]        | 💰   865
+👤 HakulaPlayer    | [♥️ 2] [♥️ 6]        | 💰  2029
+👤 Jinkun          | [♣️ K] [♥️ 5]        | 💰  1329
+👤 Ethan           | [♣️ J] [♣️ 6]        | 💰   761
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♣️ K] [♥️ 5] |   13.20% | ✅ call:$10
+  Ethan           | [♣️ J] [♣️ 6] |   29.40% | ❌ fold
+  YueShi          | [♠️ A] [♥️ K] |   51.70% | ❌ fold
+  HakulaPlayer    | [♥️ 2] [♥️ 6] |   40.90% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♣️ 5] [♦️ J] [♦️ 7] ]
+  HakulaPlayer    | [♥️ 2] [♥️ 6] |   15.40% | ✅ call
+  Jinkun          | [♣️ K] [♥️ 5] |   84.60% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 5] [♦️ J] [♦️ 7] [♥️ T] ]
+  HakulaPlayer    | [♥️ 2] [♥️ 6] |    7.40% | ✅ call
+  Jinkun          | [♣️ K] [♥️ 5] |   92.60% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 5] [♦️ J] [♦️ 7] [♥️ T] [♦️ 9] ]
+  HakulaPlayer    | [♥️ 2] [♥️ 6] |    0.00% | ✅ call
+  Jinkun          | [♣️ K] [♥️ 5] |  100.00% | ✅ call
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   865 ➡️ (+0)
+  HakulaPlayer   : $  2029 ➡️ (+0)
+  Jinkun         : $  1344 📈 (+15)
+  Ethan          : $   761 ➡️ (+0)
+  PlayerXinZhu   : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 44
+----------------------------------------
+Initial State:
+👤 YueShi          | [♥️ Q] [♣️ J]        | 💰   865
+👤 HakulaPlayer    | [♣️ 5] [♥️ K]        | 💰  2024
+👤 Jinkun          | [♦️ 8] [♦️ T]        | 💰  1334
+👤 Ethan           | [♦️ 9] [♣️ 3]        | 💰   761
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♦️ 9] [♣️ 3] |   16.00% | ❌ fold
+  YueShi          | [♥️ Q] [♣️ J] |   34.80% | ❌ fold
+  HakulaPlayer    | [♣️ 5] [♥️ K] |   53.80% | ✅ call:$10
+  Jinkun          | [♦️ 8] [♦️ T] |   47.40% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♣️ 7] [♥️ 5] [♥️ 8] ]
+  HakulaPlayer    | [♣️ 5] [♥️ K] |   27.50% | ✅ call
+  Jinkun          | [♦️ 8] [♦️ T] |   74.80% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 7] [♥️ 5] [♥️ 8] [♥️ 7] ]
+  HakulaPlayer    | [♣️ 5] [♥️ K] |   33.90% | ✅ call
+  Jinkun          | [♦️ 8] [♦️ T] |   66.10% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 7] [♥️ 5] [♥️ 8] [♥️ 7] [♣️ K] ]
+  HakulaPlayer    | [♣️ 5] [♥️ K] |  100.00% | ⬆️ raise:$40
+  Jinkun          | [♦️ 8] [♦️ T] |    0.00% | ✅ call:$40
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YueShi         : $   865 ➡️ (+0)
+  HakulaPlayer   : $  2079 📈 (+55)
+  Jinkun         : $  1294 📉 (-40)
+  Ethan          : $   761 ➡️ (+0)
+  PlayerXinZhu   : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 45
+----------------------------------------
+Initial State:
+👤 YueShi          | [♠️ A] [♥️ 3]        | 💰   865
+👤 HakulaPlayer    | [♦️ K] [♣️ 8]        | 💰  2079
+👤 Jinkun          | [♣️ 6] [♥️ 6]        | 💰  1289
+👤 Ethan           | [♠️ 8] [♦️ 8]        | 💰   751
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♠️ A] [♥️ 3] |   26.20% | ❌ fold
+  HakulaPlayer    | [♦️ K] [♣️ 8] |   24.90% | ✅ call:$10
+  Jinkun          | [♣️ 6] [♥️ 6] |   20.50% | ✅ call:$10
+  Ethan           | [♠️ 8] [♦️ 8] |   55.60% | ⬆️ raise:$45
+  HakulaPlayer    | [♦️ K] [♣️ 8] |   24.90% | ✅ call:$45
+  Jinkun          | [♣️ 6] [♥️ 6] |   20.50% | ❌ fold:$45
+
+🎴 FLOP
+Board: [ [♥️ 2] [♣️ 3] [♠️ T] ]
+  Ethan           | [♠️ 8] [♦️ 8] |   87.00% | ✅ call
+  HakulaPlayer    | [♦️ K] [♣️ 8] |   13.00% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 2] [♣️ 3] [♠️ T] [♣️ 2] ]
+  Ethan           | [♠️ 8] [♦️ 8] |   92.40% | ⬆️ raise:$100
+  HakulaPlayer    | [♦️ K] [♣️ 8] |    7.60% | ❌ fold
+
+🏆 Winner: Ethan
+Final Stacks:
+  YueShi         : $   865 ➡️ (+0)
+  HakulaPlayer   : $  2034 📉 (-45)
+  Jinkun         : $  1284 📉 (-5)
+  Ethan          : $   816 📈 (+65)
+  PlayerXinZhu   : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 46
+----------------------------------------
+Initial State:
+👤 YueShi          | [♥️ 6] [♥️ K]        | 💰   855
+👤 HakulaPlayer    | [♦️ 9] [♦️ 2]        | 💰  2034
+👤 Jinkun          | [♥️ A] [♦️ 5]        | 💰  1284
+👤 Ethan           | [♦️ T] [♠️ 9]        | 💰   811
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♦️ 9] [♦️ 2] |   13.60% | ❌ fold
+  Jinkun          | [♥️ A] [♦️ 5] |   34.60% | ✅ call:$10
+  Ethan           | [♦️ T] [♠️ 9] |   35.00% | ✅ call:$10
+  YueShi          | [♥️ 6] [♥️ K] |   30.60% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ T] [♥️ 3] [♠️ 2] ]
+  Ethan           | [♦️ T] [♠️ 9] |   73.30% | ✅ call
+  Jinkun          | [♥️ A] [♦️ 5] |   26.70% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ T] [♥️ 3] [♠️ 2] [♦️ J] ]
+  Ethan           | [♦️ T] [♠️ 9] |   83.60% | ✅ call
+  Jinkun          | [♥️ A] [♦️ 5] |   16.40% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ T] [♥️ 3] [♠️ 2] [♦️ J] [♦️ Q] ]
+  Ethan           | [♦️ T] [♠️ 9] |  100.00% | ⬆️ raise:$30
+  Jinkun          | [♥️ A] [♦️ 5] |    0.00% | ❌ fold:$30
+
+🏆 Winner: Ethan
+Final Stacks:
+  YueShi         : $   855 ➡️ (+0)
+  HakulaPlayer   : $  2034 ➡️ (+0)
+  Jinkun         : $  1274 📉 (-10)
+  Ethan          : $   836 📈 (+25)
+  PlayerXinZhu   : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 47
+----------------------------------------
+Initial State:
+👤 YueShi          | [♠️ 6] [♦️ Q]        | 💰   850
+👤 HakulaPlayer    | [♣️ 5] [♥️ 4]        | 💰  2024
+👤 Jinkun          | [♦️ 9] [♦️ A]        | 💰  1274
+👤 Ethan           | [♠️ K] [♠️ 9]        | 💰   836
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♦️ 9] [♦️ A] |   34.30% | ✅ call:$10
+  Ethan           | [♠️ K] [♠️ 9] |   25.90% | ❌ fold
+  YueShi          | [♠️ 6] [♦️ Q] |   27.40% | ❌ fold
+  HakulaPlayer    | [♣️ 5] [♥️ 4] |   37.00% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♥️ 7] [♣️ Q] [♣️ 4] ]
+  HakulaPlayer    | [♣️ 5] [♥️ 4] |   75.80% | ✅ call
+  Jinkun          | [♦️ 9] [♦️ A] |   24.20% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 7] [♣️ Q] [♣️ 4] [♣️ J] ]
+  HakulaPlayer    | [♣️ 5] [♥️ 4] |   92.50% | ✅ call
+  Jinkun          | [♦️ 9] [♦️ A] |    7.50% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ 7] [♣️ Q] [♣️ 4] [♣️ J] [♣️ A] ]
+  HakulaPlayer    | [♣️ 5] [♥️ 4] |  100.00% | ⬆️ raise:$47
+  Jinkun          | [♦️ 9] [♦️ A] |    0.00% | ❌ fold:$47
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  YueShi         : $   850 ➡️ (+0)
+  HakulaPlayer   : $  2049 📈 (+25)
+  Jinkun         : $  1264 📉 (-10)
+  Ethan          : $   836 ➡️ (+0)
+  PlayerXinZhu   : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 48
+----------------------------------------
+Initial State:
+👤 YueShi          | [♠️ Q] [♦️ 6]        | 💰   850
+👤 HakulaPlayer    | [♣️ 8] [♠️ 2]        | 💰  2044
+👤 Jinkun          | [♦️ 5] [♠️ 8]        | 💰  1254
+👤 Ethan           | [♥️ 7] [♦️ T]        | 💰   836
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♥️ 7] [♦️ T] |   35.30% | ❌ fold
+  YueShi          | [♠️ Q] [♦️ 6] |   55.50% | ❌ fold
+  HakulaPlayer    | [♣️ 8] [♠️ 2] |   61.20% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   850 ➡️ (+0)
+  HakulaPlayer   : $  2044 ➡️ (+0)
+  Jinkun         : $  1269 📈 (+15)
+  Ethan          : $   836 ➡️ (+0)
+  PlayerXinZhu   : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 49
+----------------------------------------
+Initial State:
+👤 YueShi          | [♥️ 3] [♥️ 2]        | 💰   850
+👤 HakulaPlayer    | [♠️ 4] [♣️ 2]        | 💰  2044
+👤 Jinkun          | [♥️ Q] [♠️ A]        | 💰  1264
+👤 Ethan           | [♥️ T] [♦️ 2]        | 💰   826
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♥️ 3] [♥️ 2] |   16.10% | ❌ fold
+  HakulaPlayer    | [♠️ 4] [♣️ 2] |   20.50% | ❌ fold
+  Jinkun          | [♥️ Q] [♠️ A] |   68.30% | ✅ call:$10
+  Ethan           | [♥️ T] [♦️ 2] |   31.80% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   850 ➡️ (+0)
+  HakulaPlayer   : $  2044 ➡️ (+0)
+  Jinkun         : $  1279 📈 (+15)
+  Ethan          : $   826 ➡️ (+0)
+  PlayerXinZhu   : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 50
+----------------------------------------
+Initial State:
+👤 YueShi          | [♥️ 9] [♣️ 2]        | 💰   840
+👤 HakulaPlayer    | [♣️ 9] [♠️ 5]        | 💰  2044
+👤 Jinkun          | [♥️ 8] [♠️ 8]        | 💰  1279
+👤 Ethan           | [♠️ 4] [♣️ 3]        | 💰   821
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♣️ 9] [♠️ 5] |   20.10% | ❌ fold
+  Jinkun          | [♥️ 8] [♠️ 8] |   60.90% | ✅ call:$10
+  Ethan           | [♠️ 4] [♣️ 3] |   15.40% | ❌ fold
+  YueShi          | [♥️ 9] [♣️ 2] |   32.00% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  YueShi         : $   840 ➡️ (+0)
+  HakulaPlayer   : $  2044 ➡️ (+0)
+  Jinkun         : $  1294 📈 (+15)
+  Ethan          : $   821 ➡️ (+0)
+  PlayerXinZhu   : $     0 ➡️ (+0)
+----------------------------------------
+
+🏁 Final Rankings:
+--------------------------------------------------
+
+🎮 Active Players:
+1. 🏆 HakulaPlayer    | Stack:       2044 | Status: active
+2. 👥 Jinkun          | Stack:       1294 | Status: active
+3. 👥 YueShi          | Stack:        840 | Status: active
+4. 👥 Ethan           | Stack:        821 | Status: active
+
+💀 Eliminated Players:
+5. 💀 PlayerXinZhu    | Stack: 0 (Max: 1035) | Status: eliminated (Round 38)

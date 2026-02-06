@@ -1,0 +1,848 @@
+player [Zheng] gets hole card ['S5', 'HK'], current stack 1000
+player [RaphaelPlayer] gets hole card ['S9', 'D4'], current stack 995
+player [EvanPlayer] gets hole card ['S3', 'S2'], current stack 990
+player [ZheyuX] gets hole card ['D3', 'H6'], current stack 1000
+player [KLChen2PokerPlayer] gets hole card ['H4', 'SQ'], current stack 1000
+Started the round 1
+Street "preflop" started. (community card = [])
+"ZheyuX" declared "call:10"
+"KLChen2PokerPlayer" declared "raise:15"
+"Zheng" declared "call:15"
+"RaphaelPlayer" declared "fold:0"
+"EvanPlayer" declared "fold:15"
+"ZheyuX" declared "call:15"
+Street "flop" started. (community card = ['H7', 'SA', 'HQ'])
+"ZheyuX" declared "call:0"
+"KLChen2PokerPlayer" declared "raise:29"
+"Zheng" declared "fold:0"
+"ZheyuX" declared "call:29"
+Street "turn" started. (community card = ['H7', 'SA', 'HQ', 'HT'])
+"ZheyuX" declared "call:0"
+"KLChen2PokerPlayer" declared "raise:116"
+"ZheyuX" declared "call:116"
+Street "river" started. (community card = ['H7', 'SA', 'HQ', 'HT', 'H8'])
+"ZheyuX" declared "raise:10"
+"KLChen2PokerPlayer" declared "call:10"
+"['ZheyuX']" won the round 1 (stack = {'Zheng': 985, 'RaphaelPlayer': 995, 'EvanPlayer': 990, 'ZheyuX': 1200, 'KLChen2PokerPlayer': 830})
+player [Zheng] gets hole card ['DJ', 'SK'], current stack 985
+player [RaphaelPlayer] gets hole card ['H7', 'DA'], current stack 995
+player [EvanPlayer] gets hole card ['CK', 'C9'], current stack 985
+player [ZheyuX] gets hole card ['S3', 'D4'], current stack 1190
+player [KLChen2PokerPlayer] gets hole card ['S5', 'S6'], current stack 830
+Started the round 2
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "raise:15"
+"Zheng" declared "call:15"
+"RaphaelPlayer" declared "call:15"
+"EvanPlayer" declared "fold:15"
+"ZheyuX" declared "call:15"
+Street "flop" started. (community card = ['D5', 'SJ', 'CJ'])
+"ZheyuX" declared "call:0"
+"KLChen2PokerPlayer" declared "raise:39"
+"Zheng" declared "raise:970"
+"RaphaelPlayer" declared "fold:0"
+"ZheyuX" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"['Zheng']" won the round 2 (stack = {'Zheng': 1074, 'RaphaelPlayer': 980, 'EvanPlayer': 985, 'ZheyuX': 1185, 'KLChen2PokerPlayer': 776})
+player [Zheng] gets hole card ['C6', 'H9'], current stack 1074
+player [RaphaelPlayer] gets hole card ['C8', 'D2'], current stack 980
+player [EvanPlayer] gets hole card ['SK', 'DA'], current stack 985
+player [ZheyuX] gets hole card ['S2', 'HJ'], current stack 1180
+player [KLChen2PokerPlayer] gets hole card ['D4', 'SA'], current stack 766
+Started the round 3
+Street "preflop" started. (community card = [])
+"Zheng" declared "call:10"
+"RaphaelPlayer" declared "fold:0"
+"EvanPlayer" declared "raise:985"
+"ZheyuX" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Zheng" declared "fold:0"
+"['EvanPlayer']" won the round 3 (stack = {'Zheng': 1064, 'RaphaelPlayer': 980, 'EvanPlayer': 1010, 'ZheyuX': 1180, 'KLChen2PokerPlayer': 766})
+player [Zheng] gets hole card ['D4', 'DA'], current stack 1054
+player [RaphaelPlayer] gets hole card ['H3', 'CJ'], current stack 980
+player [EvanPlayer] gets hole card ['C9', 'D5'], current stack 1010
+player [ZheyuX] gets hole card ['CK', 'C4'], current stack 1180
+player [KLChen2PokerPlayer] gets hole card ['H5', 'S4'], current stack 761
+Started the round 4
+Street "preflop" started. (community card = [])
+"RaphaelPlayer" declared "fold:0"
+"EvanPlayer" declared "fold:10"
+"ZheyuX" declared "call:10"
+"KLChen2PokerPlayer" declared "fold:0"
+"Zheng" declared "call:10"
+Street "flop" started. (community card = ['S9', 'D9', 'S7'])
+"Zheng" declared "call:0"
+"ZheyuX" declared "call:0"
+Street "turn" started. (community card = ['S9', 'D9', 'S7', 'DJ'])
+"Zheng" declared "call:0"
+"ZheyuX" declared "call:0"
+Street "river" started. (community card = ['S9', 'D9', 'S7', 'DJ', 'DK'])
+"Zheng" declared "raise:1054"
+"ZheyuX" declared "call:1054"
+"['Zheng']" won the round 4 (stack = {'Zheng': 2133, 'RaphaelPlayer': 980, 'EvanPlayer': 1010, 'ZheyuX': 116, 'KLChen2PokerPlayer': 761})
+player [Zheng] gets hole card ['S5', 'DJ'], current stack 2128
+player [RaphaelPlayer] gets hole card ['CT', 'D2'], current stack 970
+player [EvanPlayer] gets hole card ['S4', 'C4'], current stack 1010
+player [ZheyuX] gets hole card ['SK', 'S9'], current stack 116
+player [KLChen2PokerPlayer] gets hole card ['SA', 'HA'], current stack 761
+Started the round 5
+Street "preflop" started. (community card = [])
+"EvanPlayer" declared "fold:10"
+"ZheyuX" declared "call:10"
+"KLChen2PokerPlayer" declared "raise:17"
+"Zheng" declared "fold:0"
+"RaphaelPlayer" declared "fold:0"
+"ZheyuX" declared "raise:24"
+"KLChen2PokerPlayer" declared "call:24"
+Street "flop" started. (community card = ['HK', 'D3', 'C3'])
+"ZheyuX" declared "raise:10"
+"KLChen2PokerPlayer" declared "raise:23"
+"ZheyuX" declared "raise:36"
+"KLChen2PokerPlayer" declared "call:36"
+Street "turn" started. (community card = ['HK', 'D3', 'C3', 'H9'])
+"ZheyuX" declared "raise:10"
+"KLChen2PokerPlayer" declared "raise:310"
+"ZheyuX" declared "call:310"
+Street "river" started. (community card = ['HK', 'D3', 'C3', 'H9', 'H7'])
+"['KLChen2PokerPlayer']" won the round 5 (stack = {'Zheng': 2128, 'RaphaelPlayer': 970, 'EvanPlayer': 1010, 'ZheyuX': 0, 'KLChen2PokerPlayer': 892})
+player [Zheng] gets hole card ['SQ', 'DJ'], current stack 2128
+player [RaphaelPlayer] gets hole card ['D4', 'DK'], current stack 965
+player [EvanPlayer] gets hole card ['CJ', 'S3'], current stack 1000
+player [KLChen2PokerPlayer] gets hole card ['D6', 'SA'], current stack 892
+Started the round 6
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "raise:29"
+"Zheng" declared "fold:0"
+"RaphaelPlayer" declared "call:29"
+"EvanPlayer" declared "fold:29"
+Street "flop" started. (community card = ['S5', 'SK', 'DA'])
+"RaphaelPlayer" declared "raise:78"
+"KLChen2PokerPlayer" declared "call:78"
+Street "turn" started. (community card = ['S5', 'SK', 'DA', 'S9'])
+"RaphaelPlayer" declared "raise:234"
+"KLChen2PokerPlayer" declared "call:234"
+Street "river" started. (community card = ['S5', 'SK', 'DA', 'S9', 'D9'])
+"RaphaelPlayer" declared "raise:629"
+"KLChen2PokerPlayer" declared "call:629"
+"['KLChen2PokerPlayer']" won the round 6 (stack = {'Zheng': 2128, 'RaphaelPlayer': 78, 'EvanPlayer': 1000, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1794})
+player [Zheng] gets hole card ['C8', 'C7'], current stack 2128
+player [RaphaelPlayer] gets hole card ['C6', 'HJ'], current stack 78
+player [EvanPlayer] gets hole card ['SA', 'S2'], current stack 995
+player [KLChen2PokerPlayer] gets hole card ['C9', 'DA'], current stack 1784
+Started the round 7
+Street "preflop" started. (community card = [])
+"Zheng" declared "call:10"
+"RaphaelPlayer" declared "fold:0"
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "raise:24"
+"Zheng" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 7 (stack = {'Zheng': 2118, 'RaphaelPlayer': 78, 'EvanPlayer': 995, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1809})
+player [Zheng] gets hole card ['D4', 'H3'], current stack 2108
+player [RaphaelPlayer] gets hole card ['H5', 'S5'], current stack 78
+player [EvanPlayer] gets hole card ['SK', 'D2'], current stack 995
+player [KLChen2PokerPlayer] gets hole card ['HK', 'D6'], current stack 1804
+Started the round 8
+Street "preflop" started. (community card = [])
+"RaphaelPlayer" declared "call:10"
+"EvanPlayer" declared "raise:995"
+"KLChen2PokerPlayer" declared "fold:0"
+"Zheng" declared "fold:0"
+"RaphaelPlayer" declared "fold:0"
+"['EvanPlayer']" won the round 8 (stack = {'Zheng': 2108, 'RaphaelPlayer': 68, 'EvanPlayer': 1020, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1804})
+player [Zheng] gets hole card ['H3', 'S8'], current stack 2103
+player [RaphaelPlayer] gets hole card ['C3', 'C4'], current stack 58
+player [EvanPlayer] gets hole card ['H2', 'DA'], current stack 1020
+player [KLChen2PokerPlayer] gets hole card ['S5', 'D2'], current stack 1804
+Started the round 9
+Street "preflop" started. (community card = [])
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "fold:0"
+"Zheng" declared "call:10"
+"RaphaelPlayer" declared "fold:0"
+"['Zheng']" won the round 9 (stack = {'Zheng': 2118, 'RaphaelPlayer': 58, 'EvanPlayer': 1020, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1804})
+player [Zheng] gets hole card ['S2', 'C3'], current stack 2118
+player [RaphaelPlayer] gets hole card ['C8', 'C2'], current stack 53
+player [EvanPlayer] gets hole card ['H5', 'H9'], current stack 1010
+player [KLChen2PokerPlayer] gets hole card ['DA', 'D3'], current stack 1804
+Started the round 10
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "raise:15"
+"Zheng" declared "call:15"
+"RaphaelPlayer" declared "fold:0"
+"EvanPlayer" declared "fold:15"
+Street "flop" started. (community card = ['HJ', 'D5', 'SJ'])
+"KLChen2PokerPlayer" declared "raise:12"
+"Zheng" declared "call:12"
+Street "turn" started. (community card = ['HJ', 'D5', 'SJ', 'DQ'])
+"KLChen2PokerPlayer" declared "raise:158"
+"Zheng" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 10 (stack = {'Zheng': 2091, 'RaphaelPlayer': 53, 'EvanPlayer': 1010, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1846})
+player [Zheng] gets hole card ['H7', 'H3'], current stack 2091
+player [RaphaelPlayer] gets hole card ['S7', 'S9'], current stack 53
+player [EvanPlayer] gets hole card ['C9', 'D7'], current stack 1005
+player [KLChen2PokerPlayer] gets hole card ['D9', 'H9'], current stack 1836
+Started the round 11
+Street "preflop" started. (community card = [])
+"Zheng" declared "call:10"
+"RaphaelPlayer" declared "call:10"
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "raise:28"
+"Zheng" declared "fold:0"
+"RaphaelPlayer" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 11 (stack = {'Zheng': 2081, 'RaphaelPlayer': 43, 'EvanPlayer': 1005, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1871})
+player [Zheng] gets hole card ['C9', 'SK'], current stack 2071
+player [RaphaelPlayer] gets hole card ['SJ', 'ST'], current stack 43
+player [EvanPlayer] gets hole card ['DT', 'CA'], current stack 1005
+player [KLChen2PokerPlayer] gets hole card ['D8', 'HQ'], current stack 1866
+Started the round 12
+Street "preflop" started. (community card = [])
+"RaphaelPlayer" declared "call:10"
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "call:10"
+"Zheng" declared "call:10"
+Street "flop" started. (community card = ['S4', 'S9', 'CT'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+"RaphaelPlayer" declared "raise:33"
+"KLChen2PokerPlayer" declared "fold:0"
+"Zheng" declared "fold:0"
+"['RaphaelPlayer']" won the round 12 (stack = {'Zheng': 2071, 'RaphaelPlayer': 63, 'EvanPlayer': 1005, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1861})
+player [Zheng] gets hole card ['H3', 'H6'], current stack 2066
+player [RaphaelPlayer] gets hole card ['D2', 'CK'], current stack 53
+player [EvanPlayer] gets hole card ['C9', 'S7'], current stack 1005
+player [KLChen2PokerPlayer] gets hole card ['DK', 'H4'], current stack 1861
+Started the round 13
+Street "preflop" started. (community card = [])
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "call:10"
+"Zheng" declared "call:10"
+"RaphaelPlayer" declared "call:10"
+Street "flop" started. (community card = ['H9', 'S9', 'HK'])
+"Zheng" declared "call:0"
+"RaphaelPlayer" declared "raise:40"
+"KLChen2PokerPlayer" declared "call:40"
+"Zheng" declared "fold:0"
+Street "turn" started. (community card = ['H9', 'S9', 'HK', 'DQ'])
+"RaphaelPlayer" declared "raise:13"
+"KLChen2PokerPlayer" declared "raise:759"
+Street "river" started. (community card = ['H9', 'S9', 'HK', 'DQ', 'DA'])
+"['RaphaelPlayer', 'KLChen2PokerPlayer']" won the round 13 (stack = {'Zheng': 2061, 'RaphaelPlayer': 68, 'EvanPlayer': 1005, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1866})
+player [Zheng] gets hole card ['H3', 'S7'], current stack 2061
+player [RaphaelPlayer] gets hole card ['H8', 'D2'], current stack 63
+player [EvanPlayer] gets hole card ['C5', 'SQ'], current stack 995
+player [KLChen2PokerPlayer] gets hole card ['C7', 'HK'], current stack 1866
+Started the round 14
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "call:10"
+"Zheng" declared "call:10"
+"RaphaelPlayer" declared "fold:0"
+"EvanPlayer" declared "fold:10"
+Street "flop" started. (community card = ['SA', 'S6', 'HA'])
+"KLChen2PokerPlayer" declared "raise:19"
+"Zheng" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 14 (stack = {'Zheng': 2051, 'RaphaelPlayer': 63, 'EvanPlayer': 995, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1891})
+player [Zheng] gets hole card ['HQ', 'H2'], current stack 2051
+player [RaphaelPlayer] gets hole card ['C4', 'C2'], current stack 63
+player [EvanPlayer] gets hole card ['D4', 'DK'], current stack 990
+player [KLChen2PokerPlayer] gets hole card ['CT', 'C5'], current stack 1881
+Started the round 15
+Street "preflop" started. (community card = [])
+"Zheng" declared "call:10"
+"RaphaelPlayer" declared "fold:0"
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "raise:17"
+"Zheng" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 15 (stack = {'Zheng': 2041, 'RaphaelPlayer': 63, 'EvanPlayer': 990, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1906})
+player [Zheng] gets hole card ['HJ', 'H6'], current stack 2031
+player [RaphaelPlayer] gets hole card ['C6', 'S9'], current stack 63
+player [EvanPlayer] gets hole card ['HA', 'SA'], current stack 990
+player [KLChen2PokerPlayer] gets hole card ['S3', 'S4'], current stack 1901
+Started the round 16
+Street "preflop" started. (community card = [])
+"RaphaelPlayer" declared "fold:0"
+"EvanPlayer" declared "raise:990"
+"KLChen2PokerPlayer" declared "fold:0"
+"Zheng" declared "fold:0"
+"['EvanPlayer']" won the round 16 (stack = {'Zheng': 2031, 'RaphaelPlayer': 63, 'EvanPlayer': 1005, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1901})
+player [Zheng] gets hole card ['D9', 'S5'], current stack 2026
+player [RaphaelPlayer] gets hole card ['SK', 'DJ'], current stack 53
+player [EvanPlayer] gets hole card ['C3', 'S9'], current stack 1005
+player [KLChen2PokerPlayer] gets hole card ['SA', 'S7'], current stack 1901
+Started the round 17
+Street "preflop" started. (community card = [])
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "raise:25"
+"Zheng" declared "fold:0"
+"RaphaelPlayer" declared "call:25"
+Street "flop" started. (community card = ['D4', 'S4', 'S6'])
+"RaphaelPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "raise:25"
+"RaphaelPlayer" declared "call:25"
+Street "turn" started. (community card = ['D4', 'S4', 'S6', 'C2'])
+"RaphaelPlayer" declared "raise:13"
+"KLChen2PokerPlayer" declared "raise:225"
+Street "river" started. (community card = ['D4', 'S4', 'S6', 'C2', 'CJ'])
+"['RaphaelPlayer']" won the round 17 (stack = {'Zheng': 2026, 'RaphaelPlayer': 131, 'EvanPlayer': 1005, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1838})
+player [Zheng] gets hole card ['H6', 'H2'], current stack 2026
+player [RaphaelPlayer] gets hole card ['SK', 'H9'], current stack 126
+player [EvanPlayer] gets hole card ['CJ', 'S5'], current stack 995
+player [KLChen2PokerPlayer] gets hole card ['H4', 'H7'], current stack 1838
+Started the round 18
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "call:10"
+"Zheng" declared "call:10"
+"RaphaelPlayer" declared "call:10"
+"EvanPlayer" declared "raise:1005"
+"KLChen2PokerPlayer" declared "fold:0"
+"Zheng" declared "fold:0"
+"RaphaelPlayer" declared "fold:0"
+"['EvanPlayer']" won the round 18 (stack = {'Zheng': 2016, 'RaphaelPlayer': 121, 'EvanPlayer': 1035, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1828})
+player [Zheng] gets hole card ['C9', 'HT'], current stack 2016
+player [RaphaelPlayer] gets hole card ['S5', 'CQ'], current stack 121
+player [EvanPlayer] gets hole card ['CT', 'D4'], current stack 1030
+player [KLChen2PokerPlayer] gets hole card ['S8', 'D7'], current stack 1818
+Started the round 19
+Street "preflop" started. (community card = [])
+"Zheng" declared "call:10"
+"RaphaelPlayer" declared "call:10"
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "call:10"
+Street "flop" started. (community card = ['S3', 'S9', 'H5'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+"RaphaelPlayer" declared "call:0"
+Street "turn" started. (community card = ['S3', 'S9', 'H5', 'H9'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "raise:2006"
+"RaphaelPlayer" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"['Zheng']" won the round 19 (stack = {'Zheng': 2041, 'RaphaelPlayer': 111, 'EvanPlayer': 1030, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1818})
+player [Zheng] gets hole card ['HJ', 'D6'], current stack 2031
+player [RaphaelPlayer] gets hole card ['CK', 'DQ'], current stack 111
+player [EvanPlayer] gets hole card ['C8', 'HQ'], current stack 1030
+player [KLChen2PokerPlayer] gets hole card ['HK', 'H8'], current stack 1813
+Started the round 20
+Street "preflop" started. (community card = [])
+"RaphaelPlayer" declared "raise:30"
+"EvanPlayer" declared "fold:30"
+"KLChen2PokerPlayer" declared "fold:0"
+"Zheng" declared "call:30"
+Street "flop" started. (community card = ['SK', 'HA', 'D4'])
+"Zheng" declared "call:0"
+"RaphaelPlayer" declared "raise:75"
+"Zheng" declared "call:75"
+Street "turn" started. (community card = ['SK', 'HA', 'D4', 'C3'])
+"Zheng" declared "call:0"
+"RaphaelPlayer" declared "call:0"
+Street "river" started. (community card = ['SK', 'HA', 'D4', 'C3', 'H3'])
+"Zheng" declared "call:0"
+"RaphaelPlayer" declared "call:0"
+"['RaphaelPlayer']" won the round 20 (stack = {'Zheng': 1936, 'RaphaelPlayer': 221, 'EvanPlayer': 1030, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1813})
+player [Zheng] gets hole card ['CK', 'DA'], current stack 1931
+player [RaphaelPlayer] gets hole card ['HK', 'DK'], current stack 211
+player [EvanPlayer] gets hole card ['S5', 'H3'], current stack 1030
+player [KLChen2PokerPlayer] gets hole card ['CQ', 'S4'], current stack 1813
+Started the round 21
+Street "preflop" started. (community card = [])
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "call:10"
+"Zheng" declared "call:10"
+"RaphaelPlayer" declared "raise:40"
+"KLChen2PokerPlayer" declared "fold:0"
+"Zheng" declared "call:40"
+Street "flop" started. (community card = ['HJ', 'SJ', 'C2'])
+"Zheng" declared "call:0"
+"RaphaelPlayer" declared "raise:100"
+"Zheng" declared "call:100"
+Street "turn" started. (community card = ['HJ', 'SJ', 'C2', 'DJ'])
+"Zheng" declared "call:0"
+"RaphaelPlayer" declared "raise:81"
+"Zheng" declared "call:81"
+Street "river" started. (community card = ['HJ', 'SJ', 'C2', 'DJ', 'H2'])
+"['RaphaelPlayer']" won the round 21 (stack = {'Zheng': 1715, 'RaphaelPlayer': 452, 'EvanPlayer': 1030, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1803})
+player [Zheng] gets hole card ['S4', 'D5'], current stack 1715
+player [RaphaelPlayer] gets hole card ['C6', 'CK'], current stack 447
+player [EvanPlayer] gets hole card ['HQ', 'ST'], current stack 1020
+player [KLChen2PokerPlayer] gets hole card ['CT', 'DQ'], current stack 1803
+Started the round 22
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "raise:15"
+"Zheng" declared "call:15"
+"RaphaelPlayer" declared "call:15"
+"EvanPlayer" declared "fold:15"
+Street "flop" started. (community card = ['HJ', 'H2', 'C5'])
+"RaphaelPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "turn" started. (community card = ['HJ', 'H2', 'C5', 'C4'])
+"RaphaelPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "river" started. (community card = ['HJ', 'H2', 'C5', 'C4', 'SK'])
+"RaphaelPlayer" declared "raise:65"
+"KLChen2PokerPlayer" declared "fold:0"
+"Zheng" declared "raise:915"
+"RaphaelPlayer" declared "call:915"
+"['Zheng']" won the round 22 (stack = {'Zheng': 2192, 'RaphaelPlayer': 0, 'EvanPlayer': 1020, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1788})
+player [Zheng] gets hole card ['SK', 'DT'], current stack 2182
+player [EvanPlayer] gets hole card ['D2', 'C5'], current stack 1020
+player [KLChen2PokerPlayer] gets hole card ['S2', 'DK'], current stack 1783
+Started the round 23
+Street "preflop" started. (community card = [])
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "raise:16"
+"Zheng" declared "call:16"
+Street "flop" started. (community card = ['H3', 'CJ', 'HA'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "turn" started. (community card = ['H3', 'CJ', 'HA', 'S3'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "river" started. (community card = ['H3', 'CJ', 'HA', 'S3', 'H6'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+"['Zheng', 'KLChen2PokerPlayer']" won the round 23 (stack = {'Zheng': 2192, 'RaphaelPlayer': 0, 'EvanPlayer': 1020, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1788})
+player [Zheng] gets hole card ['SA', 'DJ'], current stack 2187
+player [EvanPlayer] gets hole card ['C7', 'H3'], current stack 1010
+player [KLChen2PokerPlayer] gets hole card ['H7', 'CJ'], current stack 1788
+Started the round 24
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "raise:15"
+"Zheng" declared "call:15"
+"EvanPlayer" declared "fold:15"
+Street "flop" started. (community card = ['S4', 'S8', 'CK'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+Street "turn" started. (community card = ['S4', 'S8', 'CK', 'HK'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+Street "river" started. (community card = ['S4', 'S8', 'CK', 'HK', 'S7'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+"['KLChen2PokerPlayer']" won the round 24 (stack = {'Zheng': 2177, 'RaphaelPlayer': 0, 'EvanPlayer': 1010, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1813})
+player [Zheng] gets hole card ['H8', 'S5'], current stack 2177
+player [EvanPlayer] gets hole card ['D9', 'ST'], current stack 1005
+player [KLChen2PokerPlayer] gets hole card ['CQ', 'D5'], current stack 1803
+Started the round 25
+Street "preflop" started. (community card = [])
+"Zheng" declared "call:10"
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "call:10"
+Street "flop" started. (community card = ['S2', 'C4', 'DK'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "turn" started. (community card = ['S2', 'C4', 'DK', 'H5'])
+"KLChen2PokerPlayer" declared "raise:122"
+"Zheng" declared "call:122"
+Street "river" started. (community card = ['S2', 'C4', 'DK', 'H5', 'DA'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+"['KLChen2PokerPlayer']" won the round 25 (stack = {'Zheng': 2045, 'RaphaelPlayer': 0, 'EvanPlayer': 1005, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1950})
+player [Zheng] gets hole card ['HJ', 'D8'], current stack 2035
+player [EvanPlayer] gets hole card ['S2', 'S7'], current stack 1005
+player [KLChen2PokerPlayer] gets hole card ['D2', 'S3'], current stack 1945
+Started the round 26
+Street "preflop" started. (community card = [])
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "fold:0"
+"['Zheng']" won the round 26 (stack = {'Zheng': 2050, 'RaphaelPlayer': 0, 'EvanPlayer': 1005, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1945})
+player [Zheng] gets hole card ['DT', 'D5'], current stack 2045
+player [EvanPlayer] gets hole card ['HT', 'CJ'], current stack 995
+player [KLChen2PokerPlayer] gets hole card ['C6', 'DK'], current stack 1945
+Started the round 27
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "call:10"
+"Zheng" declared "call:10"
+"EvanPlayer" declared "fold:10"
+Street "flop" started. (community card = ['H2', 'S8', 'C2'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+Street "turn" started. (community card = ['H2', 'S8', 'C2', 'S2'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+Street "river" started. (community card = ['H2', 'S8', 'C2', 'S2', 'C7'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+"['KLChen2PokerPlayer']" won the round 27 (stack = {'Zheng': 2040, 'RaphaelPlayer': 0, 'EvanPlayer': 995, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1965})
+player [Zheng] gets hole card ['CT', 'DT'], current stack 2040
+player [EvanPlayer] gets hole card ['CK', 'HK'], current stack 990
+player [KLChen2PokerPlayer] gets hole card ['H4', 'DA'], current stack 1955
+Started the round 28
+Street "preflop" started. (community card = [])
+"Zheng" declared "call:10"
+"EvanPlayer" declared "call:10"
+"KLChen2PokerPlayer" declared "raise:17"
+"Zheng" declared "call:17"
+"EvanPlayer" declared "call:17"
+Street "flop" started. (community card = ['S3', 'C2', 'H3'])
+"EvanPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "raise:14"
+"Zheng" declared "call:14"
+"EvanPlayer" declared "call:14"
+Street "turn" started. (community card = ['S3', 'C2', 'H3', 'S9'])
+"EvanPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "river" started. (community card = ['S3', 'C2', 'H3', 'S9', 'S7'])
+"EvanPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+"['EvanPlayer']" won the round 28 (stack = {'Zheng': 2009, 'RaphaelPlayer': 0, 'EvanPlayer': 1057, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1934})
+player [Zheng] gets hole card ['C6', 'HK'], current stack 1999
+player [EvanPlayer] gets hole card ['HT', 'D9'], current stack 1057
+player [KLChen2PokerPlayer] gets hole card ['HQ', 'HA'], current stack 1929
+Started the round 29
+Street "preflop" started. (community card = [])
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "raise:28"
+"Zheng" declared "call:28"
+Street "flop" started. (community card = ['H2', 'C4', 'CA'])
+"KLChen2PokerPlayer" declared "raise:32"
+"Zheng" declared "call:32"
+Street "turn" started. (community card = ['H2', 'C4', 'CA', 'SQ'])
+"KLChen2PokerPlayer" declared "raise:766"
+"Zheng" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 29 (stack = {'Zheng': 1949, 'RaphaelPlayer': 0, 'EvanPlayer': 1057, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1994})
+player [Zheng] gets hole card ['D9', 'D6'], current stack 1944
+player [EvanPlayer] gets hole card ['HJ', 'C3'], current stack 1047
+player [KLChen2PokerPlayer] gets hole card ['DT', 'D3'], current stack 1994
+Started the round 30
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "fold:0"
+"Zheng" declared "call:10"
+"EvanPlayer" declared "fold:10"
+"['Zheng']" won the round 30 (stack = {'Zheng': 1959, 'RaphaelPlayer': 0, 'EvanPlayer': 1047, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1994})
+player [Zheng] gets hole card ['C8', 'D7'], current stack 1959
+player [EvanPlayer] gets hole card ['SQ', 'SJ'], current stack 1042
+player [KLChen2PokerPlayer] gets hole card ['CK', 'H7'], current stack 1984
+Started the round 31
+Street "preflop" started. (community card = [])
+"Zheng" declared "call:10"
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "raise:15"
+"Zheng" declared "call:15"
+Street "flop" started. (community card = ['CT', 'C6', 'H9'])
+"KLChen2PokerPlayer" declared "raise:10"
+"Zheng" declared "raise:982"
+"KLChen2PokerPlayer" declared "fold:0"
+"['Zheng']" won the round 31 (stack = {'Zheng': 1989, 'RaphaelPlayer': 0, 'EvanPlayer': 1042, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1969})
+player [Zheng] gets hole card ['H4', 'DA'], current stack 1979
+player [EvanPlayer] gets hole card ['S2', 'HJ'], current stack 1042
+player [KLChen2PokerPlayer] gets hole card ['SA', 'C2'], current stack 1964
+Started the round 32
+Street "preflop" started. (community card = [])
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "raise:15"
+"Zheng" declared "call:15"
+Street "flop" started. (community card = ['C6', 'C4', 'SJ'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "turn" started. (community card = ['C6', 'C4', 'SJ', 'C3'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "river" started. (community card = ['C6', 'C4', 'SJ', 'C3', 'C5'])
+"KLChen2PokerPlayer" declared "raise:684"
+"Zheng" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 32 (stack = {'Zheng': 1974, 'RaphaelPlayer': 0, 'EvanPlayer': 1042, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1984})
+player [Zheng] gets hole card ['HA', 'CT'], current stack 1969
+player [EvanPlayer] gets hole card ['DK', 'H9'], current stack 1032
+player [KLChen2PokerPlayer] gets hole card ['SA', 'H2'], current stack 1984
+Started the round 33
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "raise:15"
+"Zheng" declared "call:15"
+"EvanPlayer" declared "raise:1042"
+"KLChen2PokerPlayer" declared "fold:0"
+"Zheng" declared "fold:0"
+"['EvanPlayer']" won the round 33 (stack = {'Zheng': 1959, 'RaphaelPlayer': 0, 'EvanPlayer': 1072, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1969})
+player [Zheng] gets hole card ['SQ', 'D8'], current stack 1959
+player [EvanPlayer] gets hole card ['S8', 'SA'], current stack 1067
+player [KLChen2PokerPlayer] gets hole card ['D9', 'H5'], current stack 1959
+Started the round 34
+Street "preflop" started. (community card = [])
+"Zheng" declared "call:10"
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "call:10"
+Street "flop" started. (community card = ['D6', 'CJ', 'HJ'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "turn" started. (community card = ['D6', 'CJ', 'HJ', 'DJ'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "river" started. (community card = ['D6', 'CJ', 'HJ', 'DJ', 'CA'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+"['Zheng']" won the round 34 (stack = {'Zheng': 1974, 'RaphaelPlayer': 0, 'EvanPlayer': 1067, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1959})
+player [Zheng] gets hole card ['D6', 'S2'], current stack 1964
+player [EvanPlayer] gets hole card ['C2', 'DA'], current stack 1067
+player [KLChen2PokerPlayer] gets hole card ['ST', 'SK'], current stack 1954
+Started the round 35
+Street "preflop" started. (community card = [])
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "raise:24"
+"Zheng" declared "call:24"
+Street "flop" started. (community card = ['H2', 'CQ', 'H6'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "turn" started. (community card = ['H2', 'CQ', 'H6', 'CT'])
+"KLChen2PokerPlayer" declared "raise:473"
+"Zheng" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 35 (stack = {'Zheng': 1950, 'RaphaelPlayer': 0, 'EvanPlayer': 1067, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1983})
+player [Zheng] gets hole card ['D9', 'S2'], current stack 1945
+player [EvanPlayer] gets hole card ['D5', 'D4'], current stack 1057
+player [KLChen2PokerPlayer] gets hole card ['D6', 'HK'], current stack 1983
+Started the round 36
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "call:10"
+"Zheng" declared "call:10"
+"EvanPlayer" declared "fold:10"
+Street "flop" started. (community card = ['DQ', 'C4', 'H3'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+Street "turn" started. (community card = ['DQ', 'C4', 'H3', 'H4'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+Street "river" started. (community card = ['DQ', 'C4', 'H3', 'H4', 'S8'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+"['KLChen2PokerPlayer']" won the round 36 (stack = {'Zheng': 1940, 'RaphaelPlayer': 0, 'EvanPlayer': 1057, 'ZheyuX': 0, 'KLChen2PokerPlayer': 2003})
+player [Zheng] gets hole card ['H6', 'SA'], current stack 1940
+player [EvanPlayer] gets hole card ['C6', 'HQ'], current stack 1052
+player [KLChen2PokerPlayer] gets hole card ['S7', 'H2'], current stack 1993
+Started the round 37
+Street "preflop" started. (community card = [])
+"Zheng" declared "call:10"
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "fold:0"
+"['Zheng']" won the round 37 (stack = {'Zheng': 1955, 'RaphaelPlayer': 0, 'EvanPlayer': 1052, 'ZheyuX': 0, 'KLChen2PokerPlayer': 1993})
+player [Zheng] gets hole card ['S6', 'S5'], current stack 1945
+player [EvanPlayer] gets hole card ['HK', 'S4'], current stack 1052
+player [KLChen2PokerPlayer] gets hole card ['D3', 'SQ'], current stack 1988
+Started the round 38
+Street "preflop" started. (community card = [])
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "call:10"
+"Zheng" declared "call:10"
+Street "flop" started. (community card = ['C4', 'DK', 'HT'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "turn" started. (community card = ['C4', 'DK', 'HT', 'DQ'])
+"KLChen2PokerPlayer" declared "raise:443"
+"Zheng" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 38 (stack = {'Zheng': 1945, 'RaphaelPlayer': 0, 'EvanPlayer': 1052, 'ZheyuX': 0, 'KLChen2PokerPlayer': 2003})
+player [Zheng] gets hole card ['H8', 'CK'], current stack 1940
+player [EvanPlayer] gets hole card ['HJ', 'D4'], current stack 1042
+player [KLChen2PokerPlayer] gets hole card ['H4', 'DA'], current stack 2003
+Started the round 39
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "raise:15"
+"Zheng" declared "call:15"
+"EvanPlayer" declared "fold:15"
+Street "flop" started. (community card = ['S9', 'DQ', 'CA'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "raise:28"
+"Zheng" declared "call:28"
+Street "turn" started. (community card = ['S9', 'DQ', 'CA', 'DK'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "raise:794"
+"Zheng" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 39 (stack = {'Zheng': 1902, 'RaphaelPlayer': 0, 'EvanPlayer': 1042, 'ZheyuX': 0, 'KLChen2PokerPlayer': 2056})
+player [Zheng] gets hole card ['D3', 'S3'], current stack 1902
+player [EvanPlayer] gets hole card ['S7', 'H3'], current stack 1037
+player [KLChen2PokerPlayer] gets hole card ['SA', 'HJ'], current stack 2046
+Started the round 40
+Street "preflop" started. (community card = [])
+"Zheng" declared "call:10"
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "raise:15"
+"Zheng" declared "call:15"
+Street "flop" started. (community card = ['CK', 'S4', 'C9'])
+"KLChen2PokerPlayer" declared "raise:19"
+"Zheng" declared "call:19"
+Street "turn" started. (community card = ['CK', 'S4', 'C9', 'HA'])
+"KLChen2PokerPlayer" declared "raise:700"
+"Zheng" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 40 (stack = {'Zheng': 1868, 'RaphaelPlayer': 0, 'EvanPlayer': 1037, 'ZheyuX': 0, 'KLChen2PokerPlayer': 2095})
+player [Zheng] gets hole card ['CT', 'HA'], current stack 1858
+player [EvanPlayer] gets hole card ['C7', 'H4'], current stack 1037
+player [KLChen2PokerPlayer] gets hole card ['HJ', 'H9'], current stack 2090
+Started the round 41
+Street "preflop" started. (community card = [])
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "raise:21"
+"Zheng" declared "call:21"
+Street "flop" started. (community card = ['DJ', 'HT', 'C2'])
+"KLChen2PokerPlayer" declared "raise:37"
+"Zheng" declared "call:37"
+Street "turn" started. (community card = ['DJ', 'HT', 'C2', 'S5'])
+"KLChen2PokerPlayer" declared "raise:826"
+"Zheng" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 41 (stack = {'Zheng': 1810, 'RaphaelPlayer': 0, 'EvanPlayer': 1037, 'ZheyuX': 0, 'KLChen2PokerPlayer': 2153})
+player [Zheng] gets hole card ['S3', 'H6'], current stack 1805
+player [EvanPlayer] gets hole card ['SQ', 'D6'], current stack 1027
+player [KLChen2PokerPlayer] gets hole card ['C9', 'CJ'], current stack 2153
+Started the round 42
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "raise:15"
+"Zheng" declared "call:15"
+"EvanPlayer" declared "fold:15"
+Street "flop" started. (community card = ['C5', 'HA', 'CK'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "raise:10"
+"Zheng" declared "call:10"
+Street "turn" started. (community card = ['C5', 'HA', 'CK', 'D5'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+Street "river" started. (community card = ['C5', 'HA', 'CK', 'D5', 'C7'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "raise:566"
+"Zheng" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 42 (stack = {'Zheng': 1785, 'RaphaelPlayer': 0, 'EvanPlayer': 1027, 'ZheyuX': 0, 'KLChen2PokerPlayer': 2188})
+player [Zheng] gets hole card ['D6', 'C4'], current stack 1785
+player [EvanPlayer] gets hole card ['S6', 'DQ'], current stack 1022
+player [KLChen2PokerPlayer] gets hole card ['S7', 'DA'], current stack 2178
+Started the round 43
+Street "preflop" started. (community card = [])
+"Zheng" declared "call:10"
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "raise:15"
+"Zheng" declared "call:15"
+Street "flop" started. (community card = ['H3', 'DT', 'CT'])
+"KLChen2PokerPlayer" declared "raise:13"
+"Zheng" declared "call:13"
+Street "turn" started. (community card = ['H3', 'DT', 'CT', 'HJ'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "river" started. (community card = ['H3', 'DT', 'CT', 'HJ', 'H5'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+"['KLChen2PokerPlayer']" won the round 43 (stack = {'Zheng': 1757, 'RaphaelPlayer': 0, 'EvanPlayer': 1022, 'ZheyuX': 0, 'KLChen2PokerPlayer': 2221})
+player [Zheng] gets hole card ['SJ', 'D3'], current stack 1747
+player [EvanPlayer] gets hole card ['D5', 'S7'], current stack 1022
+player [KLChen2PokerPlayer] gets hole card ['C7', 'H2'], current stack 2216
+Started the round 44
+Street "preflop" started. (community card = [])
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "call:10"
+"Zheng" declared "call:10"
+Street "flop" started. (community card = ['DA', 'H6', 'HQ'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "turn" started. (community card = ['DA', 'H6', 'HQ', 'C9'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "river" started. (community card = ['DA', 'H6', 'HQ', 'C9', 'SQ'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+"['Zheng']" won the round 44 (stack = {'Zheng': 1767, 'RaphaelPlayer': 0, 'EvanPlayer': 1022, 'ZheyuX': 0, 'KLChen2PokerPlayer': 2211})
+player [Zheng] gets hole card ['D2', 'D3'], current stack 1762
+player [EvanPlayer] gets hole card ['D6', 'DQ'], current stack 1012
+player [KLChen2PokerPlayer] gets hole card ['HJ', 'DK'], current stack 2211
+Started the round 45
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "raise:16"
+"Zheng" declared "call:16"
+"EvanPlayer" declared "fold:16"
+Street "flop" started. (community card = ['C3', 'CA', 'DT'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "raise:17"
+"Zheng" declared "call:17"
+Street "turn" started. (community card = ['C3', 'CA', 'DT', 'SJ'])
+"Zheng" declared "call:0"
+"KLChen2PokerPlayer" declared "raise:497"
+"Zheng" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 45 (stack = {'Zheng': 1734, 'RaphaelPlayer': 0, 'EvanPlayer': 1012, 'ZheyuX': 0, 'KLChen2PokerPlayer': 2254})
+player [Zheng] gets hole card ['H6', 'S6'], current stack 1734
+player [EvanPlayer] gets hole card ['S8', 'D9'], current stack 1007
+player [KLChen2PokerPlayer] gets hole card ['HA', 'H7'], current stack 2244
+Started the round 46
+Street "preflop" started. (community card = [])
+"Zheng" declared "call:10"
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "raise:18"
+"Zheng" declared "call:18"
+Street "flop" started. (community card = ['HQ', 'H5', 'D2'])
+"KLChen2PokerPlayer" declared "raise:38"
+"Zheng" declared "call:38"
+Street "turn" started. (community card = ['HQ', 'H5', 'D2', 'DT'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "river" started. (community card = ['HQ', 'H5', 'D2', 'DT', 'DJ'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+"['Zheng']" won the round 46 (stack = {'Zheng': 1795, 'RaphaelPlayer': 0, 'EvanPlayer': 1007, 'ZheyuX': 0, 'KLChen2PokerPlayer': 2198})
+player [Zheng] gets hole card ['S3', 'HT'], current stack 1785
+player [EvanPlayer] gets hole card ['C3', 'CA'], current stack 1007
+player [KLChen2PokerPlayer] gets hole card ['DJ', 'H4'], current stack 2193
+Started the round 47
+Street "preflop" started. (community card = [])
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "call:10"
+"Zheng" declared "call:10"
+Street "flop" started. (community card = ['H6', 'CQ', 'S5'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "turn" started. (community card = ['H6', 'CQ', 'S5', 'DA'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+Street "river" started. (community card = ['H6', 'CQ', 'S5', 'DA', 'DQ'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+"['KLChen2PokerPlayer']" won the round 47 (stack = {'Zheng': 1785, 'RaphaelPlayer': 0, 'EvanPlayer': 1007, 'ZheyuX': 0, 'KLChen2PokerPlayer': 2208})
+player [Zheng] gets hole card ['H2', 'C6'], current stack 1780
+player [EvanPlayer] gets hole card ['C3', 'D8'], current stack 997
+player [KLChen2PokerPlayer] gets hole card ['S2', 'H5'], current stack 2208
+Started the round 48
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "fold:0"
+"Zheng" declared "call:10"
+"EvanPlayer" declared "fold:10"
+"['Zheng']" won the round 48 (stack = {'Zheng': 1795, 'RaphaelPlayer': 0, 'EvanPlayer': 997, 'ZheyuX': 0, 'KLChen2PokerPlayer': 2208})
+player [Zheng] gets hole card ['HK', 'S6'], current stack 1795
+player [EvanPlayer] gets hole card ['H7', 'S5'], current stack 992
+player [KLChen2PokerPlayer] gets hole card ['C9', 'DQ'], current stack 2198
+Started the round 49
+Street "preflop" started. (community card = [])
+"Zheng" declared "call:10"
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "raise:15"
+"Zheng" declared "call:15"
+Street "flop" started. (community card = ['C6', 'CQ', 'D5'])
+"KLChen2PokerPlayer" declared "raise:35"
+"Zheng" declared "call:35"
+Street "turn" started. (community card = ['C6', 'CQ', 'D5', 'H6'])
+"KLChen2PokerPlayer" declared "raise:810"
+"Zheng" declared "raise:1745"
+"KLChen2PokerPlayer" declared "call:1745"
+Street "river" started. (community card = ['C6', 'CQ', 'D5', 'H6', 'SK'])
+"['Zheng']" won the round 49 (stack = {'Zheng': 3595, 'RaphaelPlayer': 0, 'EvanPlayer': 992, 'ZheyuX': 0, 'KLChen2PokerPlayer': 413})
+player [Zheng] gets hole card ['C5', 'DT'], current stack 3585
+player [EvanPlayer] gets hole card ['H2', 'C9'], current stack 992
+player [KLChen2PokerPlayer] gets hole card ['C4', 'C8'], current stack 408
+Started the round 50
+Street "preflop" started. (community card = [])
+"EvanPlayer" declared "fold:10"
+"KLChen2PokerPlayer" declared "raise:15"
+"Zheng" declared "call:15"
+Street "flop" started. (community card = ['H8', 'CJ', 'CQ'])
+"KLChen2PokerPlayer" declared "raise:34"
+"Zheng" declared "call:34"
+Street "turn" started. (community card = ['H8', 'CJ', 'CQ', 'H7'])
+"KLChen2PokerPlayer" declared "raise:52"
+"Zheng" declared "call:52"
+Street "river" started. (community card = ['H8', 'CJ', 'CQ', 'H7', 'HT'])
+"KLChen2PokerPlayer" declared "call:0"
+"Zheng" declared "call:0"
+"['Zheng']" won the round 50 (stack = {'Zheng': 3696, 'RaphaelPlayer': 0, 'EvanPlayer': 992, 'ZheyuX': 0, 'KLChen2PokerPlayer': 312})
+
+Game Results:
+------------------------------------------------------------
+Game 1:
+Winner: Zheng (stack: 3696)
+All players' stacks:
+  Zheng: 3696
+  RaphaelPlayer: 0
+  EvanPlayer: 992
+  ZheyuX: 0
+  KLChen2PokerPlayer: 312
+------------------------------------------------------------

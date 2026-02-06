@@ -1,0 +1,1254 @@
+player [YangZ] gets hole card ['SA', 'CA'], current stack 1000
+player [Ethan] gets hole card ['S7', 'D3'], current stack 995
+player [HakulaPlayer] gets hole card ['S8', 'S5'], current stack 990
+player [SichengZuo] gets hole card ['D9', 'C5'], current stack 1000
+player [KLChen2PokerPlayer] gets hole card ['H9', 'H4'], current stack 1000
+player [Jinkun] gets hole card ['S6', 'ST'], current stack 1000
+player [NitWinWin] gets hole card ['S2', 'D2'], current stack 1000
+player [ZPlayer] gets hole card ['H2', 'CK'], current stack 1000
+Started the round 1
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "fold:0"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"['HakulaPlayer']" won the round 1 (stack = {'YangZ': 1000, 'Ethan': 995, 'HakulaPlayer': 1005, 'SichengZuo': 1000, 'KLChen2PokerPlayer': 1000, 'Jinkun': 1000, 'NitWinWin': 1000, 'ZPlayer': 1000})
+player [YangZ] gets hole card ['HA', 'H5'], current stack 1000
+player [Ethan] gets hole card ['S7', 'S2'], current stack 995
+player [HakulaPlayer] gets hole card ['CT', 'HK'], current stack 1000
+player [SichengZuo] gets hole card ['C7', 'C3'], current stack 990
+player [KLChen2PokerPlayer] gets hole card ['D3', 'S9'], current stack 1000
+player [Jinkun] gets hole card ['C8', 'SA'], current stack 1000
+player [NitWinWin] gets hole card ['S8', 'H7'], current stack 1000
+player [ZPlayer] gets hole card ['S5', 'SK'], current stack 1000
+Started the round 2
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:15"
+"SichengZuo" declared "fold:0"
+Street "flop" started. (community card = ['C9', 'HT', 'D2'])
+"HakulaPlayer" declared "raise:36"
+"ZPlayer" declared "fold:0"
+"['HakulaPlayer']" won the round 2 (stack = {'YangZ': 1000, 'Ethan': 995, 'HakulaPlayer': 1030, 'SichengZuo': 990, 'KLChen2PokerPlayer': 1000, 'Jinkun': 1000, 'NitWinWin': 1000, 'ZPlayer': 985})
+player [YangZ] gets hole card ['CQ', 'S6'], current stack 1000
+player [Ethan] gets hole card ['H9', 'D7'], current stack 995
+player [HakulaPlayer] gets hole card ['H3', 'DK'], current stack 1030
+player [SichengZuo] gets hole card ['D9', 'SK'], current stack 985
+player [KLChen2PokerPlayer] gets hole card ['D6', 'H8'], current stack 990
+player [Jinkun] gets hole card ['H7', 'C2'], current stack 1000
+player [NitWinWin] gets hole card ['HJ', 'C3'], current stack 1000
+player [ZPlayer] gets hole card ['DQ', 'DT'], current stack 985
+Started the round 3
+Street "preflop" started. (community card = [])
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"['ZPlayer']" won the round 3 (stack = {'YangZ': 1000, 'Ethan': 995, 'HakulaPlayer': 1030, 'SichengZuo': 985, 'KLChen2PokerPlayer': 990, 'Jinkun': 1000, 'NitWinWin': 1000, 'ZPlayer': 1000})
+player [YangZ] gets hole card ['H4', 'SQ'], current stack 1000
+player [Ethan] gets hole card ['H5', 'HA'], current stack 995
+player [HakulaPlayer] gets hole card ['S5', 'S3'], current stack 1030
+player [SichengZuo] gets hole card ['D5', 'S4'], current stack 985
+player [KLChen2PokerPlayer] gets hole card ['H7', 'H2'], current stack 985
+player [Jinkun] gets hole card ['DA', 'HK'], current stack 990
+player [NitWinWin] gets hole card ['C4', 'D6'], current stack 1000
+player [ZPlayer] gets hole card ['DK', 'ST'], current stack 1000
+Started the round 4
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "call:15"
+Street "flop" started. (community card = ['HT', 'D4', 'D8'])
+"Jinkun" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Jinkun" declared "call:10"
+Street "turn" started. (community card = ['HT', 'D4', 'D8', 'H8'])
+"Jinkun" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Jinkun" declared "call:10"
+Street "river" started. (community card = ['HT', 'D4', 'D8', 'H8', 'H6'])
+"Jinkun" declared "raise:965"
+"ZPlayer" declared "fold:0"
+"['Jinkun']" won the round 4 (stack = {'YangZ': 1000, 'Ethan': 995, 'HakulaPlayer': 1030, 'SichengZuo': 985, 'KLChen2PokerPlayer': 985, 'Jinkun': 1040, 'NitWinWin': 1000, 'ZPlayer': 965})
+player [YangZ] gets hole card ['C5', 'S4'], current stack 1000
+player [Ethan] gets hole card ['ST', 'CK'], current stack 995
+player [HakulaPlayer] gets hole card ['CQ', 'S3'], current stack 1030
+player [SichengZuo] gets hole card ['S8', 'S6'], current stack 985
+player [KLChen2PokerPlayer] gets hole card ['D3', 'D2'], current stack 985
+player [Jinkun] gets hole card ['D7', 'SK'], current stack 1035
+player [NitWinWin] gets hole card ['S2', 'D4'], current stack 990
+player [ZPlayer] gets hole card ['S5', 'H8'], current stack 965
+Started the round 5
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "call:10"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:10"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "call:10"
+"NitWinWin" declared "fold:0"
+Street "flop" started. (community card = ['C6', 'D8', 'SA'])
+"Jinkun" declared "call:0"
+"ZPlayer" declared "raise:20"
+"HakulaPlayer" declared "fold:0"
+"Jinkun" declared "call:20"
+Street "turn" started. (community card = ['C6', 'D8', 'SA', 'H2'])
+"Jinkun" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Jinkun" declared "call:10"
+Street "river" started. (community card = ['C6', 'D8', 'SA', 'H2', 'SQ'])
+"Jinkun" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Jinkun" declared "call:10"
+"['ZPlayer']" won the round 5 (stack = {'YangZ': 1000, 'Ethan': 995, 'HakulaPlayer': 1020, 'SichengZuo': 985, 'KLChen2PokerPlayer': 985, 'Jinkun': 990, 'NitWinWin': 990, 'ZPlayer': 1035})
+player [YangZ] gets hole card ['C6', 'D3'], current stack 1000
+player [Ethan] gets hole card ['H8', 'SK'], current stack 995
+player [HakulaPlayer] gets hole card ['C3', 'C8'], current stack 1020
+player [SichengZuo] gets hole card ['H3', 'DT'], current stack 985
+player [KLChen2PokerPlayer] gets hole card ['CK', 'CJ'], current stack 985
+player [Jinkun] gets hole card ['C4', 'SA'], current stack 990
+player [NitWinWin] gets hole card ['S5', 'S8'], current stack 985
+player [ZPlayer] gets hole card ['C5', 'H9'], current stack 1025
+Started the round 6
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "raise:23"
+"Jinkun" declared "fold:23"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:23"
+Street "flop" started. (community card = ['C9', 'HK', 'D5'])
+"ZPlayer" declared "raise:51"
+"KLChen2PokerPlayer" declared "call:51"
+Street "turn" started. (community card = ['C9', 'HK', 'D5', 'DQ'])
+"ZPlayer" declared "raise:76"
+"KLChen2PokerPlayer" declared "raise:152"
+"ZPlayer" declared "call:152"
+Street "river" started. (community card = ['C9', 'HK', 'D5', 'DQ', 'HJ'])
+"ZPlayer" declared "raise:10"
+"KLChen2PokerPlayer" declared "raise:97"
+"ZPlayer" declared "call:97"
+"['KLChen2PokerPlayer']" won the round 6 (stack = {'YangZ': 1000, 'Ethan': 995, 'HakulaPlayer': 1020, 'SichengZuo': 985, 'KLChen2PokerPlayer': 1313, 'Jinkun': 990, 'NitWinWin': 985, 'ZPlayer': 712})
+player [YangZ] gets hole card ['HT', 'D2'], current stack 990
+player [Ethan] gets hole card ['SQ', 'C4'], current stack 995
+player [HakulaPlayer] gets hole card ['C7', 'HK'], current stack 1020
+player [SichengZuo] gets hole card ['C6', 'CK'], current stack 985
+player [KLChen2PokerPlayer] gets hole card ['SA', 'D8'], current stack 1313
+player [Jinkun] gets hole card ['S5', 'D3'], current stack 990
+player [NitWinWin] gets hole card ['CT', 'H8'], current stack 985
+player [ZPlayer] gets hole card ['D6', 'S9'], current stack 707
+Started the round 7
+Street "preflop" started. (community card = [])
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "call:10"
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:10"
+"YangZ" declared "fold:0"
+Street "flop" started. (community card = ['D9', 'H4', 'S3'])
+"ZPlayer" declared "raise:15"
+"KLChen2PokerPlayer" declared "fold:0"
+"['ZPlayer']" won the round 7 (stack = {'YangZ': 990, 'Ethan': 995, 'HakulaPlayer': 1020, 'SichengZuo': 985, 'KLChen2PokerPlayer': 1303, 'Jinkun': 990, 'NitWinWin': 985, 'ZPlayer': 732})
+player [YangZ] gets hole card ['HK', 'H5'], current stack 985
+player [Ethan] gets hole card ['C8', 'D8'], current stack 985
+player [HakulaPlayer] gets hole card ['CJ', 'D4'], current stack 1020
+player [SichengZuo] gets hole card ['S4', 'DQ'], current stack 985
+player [KLChen2PokerPlayer] gets hole card ['SA', 'H2'], current stack 1303
+player [Jinkun] gets hole card ['CA', 'SJ'], current stack 990
+player [NitWinWin] gets hole card ['H9', 'H8'], current stack 985
+player [ZPlayer] gets hole card ['C4', 'D9'], current stack 732
+Started the round 8
+Street "preflop" started. (community card = [])
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "call:10"
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:10"
+"YangZ" declared "fold:0"
+"Ethan" declared "raise:59"
+"KLChen2PokerPlayer" declared "fold:0"
+"ZPlayer" declared "fold:0"
+"['Ethan']" won the round 8 (stack = {'YangZ': 985, 'Ethan': 1020, 'HakulaPlayer': 1020, 'SichengZuo': 985, 'KLChen2PokerPlayer': 1293, 'Jinkun': 990, 'NitWinWin': 985, 'ZPlayer': 722})
+player [YangZ] gets hole card ['C5', 'SK'], current stack 985
+player [Ethan] gets hole card ['C4', 'S4'], current stack 1015
+player [HakulaPlayer] gets hole card ['C7', 'S6'], current stack 1010
+player [SichengZuo] gets hole card ['H7', 'DK'], current stack 985
+player [KLChen2PokerPlayer] gets hole card ['S3', 'C9'], current stack 1293
+player [Jinkun] gets hole card ['D9', 'S7'], current stack 990
+player [NitWinWin] gets hole card ['S5', 'HK'], current stack 985
+player [ZPlayer] gets hole card ['DQ', 'H3'], current stack 722
+Started the round 9
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "fold:0"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"['HakulaPlayer']" won the round 9 (stack = {'YangZ': 985, 'Ethan': 1015, 'HakulaPlayer': 1025, 'SichengZuo': 985, 'KLChen2PokerPlayer': 1293, 'Jinkun': 990, 'NitWinWin': 985, 'ZPlayer': 722})
+player [YangZ] gets hole card ['DK', 'D2'], current stack 985
+player [Ethan] gets hole card ['S4', 'H6'], current stack 1015
+player [HakulaPlayer] gets hole card ['DQ', 'CQ'], current stack 1020
+player [SichengZuo] gets hole card ['SQ', 'C4'], current stack 975
+player [KLChen2PokerPlayer] gets hole card ['D5', 'S5'], current stack 1293
+player [Jinkun] gets hole card ['D9', 'H8'], current stack 990
+player [NitWinWin] gets hole card ['SA', 'CJ'], current stack 985
+player [ZPlayer] gets hole card ['HJ', 'CA'], current stack 722
+Started the round 10
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "raise:21"
+"Jinkun" declared "fold:21"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:21"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "raise:63"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"ZPlayer" declared "call:63"
+Street "flop" started. (community card = ['HA', 'DJ', 'S3'])
+"HakulaPlayer" declared "call:0"
+"ZPlayer" declared "raise:164"
+"HakulaPlayer" declared "call:164"
+Street "turn" started. (community card = ['HA', 'DJ', 'S3', 'S9'])
+"HakulaPlayer" declared "raise:456"
+"ZPlayer" declared "call:456"
+Street "river" started. (community card = ['HA', 'DJ', 'S3', 'S9', 'HT'])
+"HakulaPlayer" declared "raise:342"
+"ZPlayer" declared "call:342"
+"['ZPlayer']" won the round 10 (stack = {'YangZ': 985, 'Ethan': 1015, 'HakulaPlayer': 303, 'SichengZuo': 975, 'KLChen2PokerPlayer': 1272, 'Jinkun': 990, 'NitWinWin': 985, 'ZPlayer': 1475})
+player [YangZ] gets hole card ['H8', 'C6'], current stack 985
+player [Ethan] gets hole card ['H4', 'D4'], current stack 1015
+player [HakulaPlayer] gets hole card ['CK', 'C9'], current stack 303
+player [SichengZuo] gets hole card ['C7', 'C2'], current stack 970
+player [KLChen2PokerPlayer] gets hole card ['D8', 'ST'], current stack 1262
+player [Jinkun] gets hole card ['C8', 'C5'], current stack 990
+player [NitWinWin] gets hole card ['CJ', 'S8'], current stack 985
+player [ZPlayer] gets hole card ['H2', 'S2'], current stack 1475
+Started the round 11
+Street "preflop" started. (community card = [])
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:10"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "raise:32"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"ZPlayer" declared "call:32"
+Street "flop" started. (community card = ['HJ', 'S9', 'H9'])
+"ZPlayer" declared "call:0"
+"HakulaPlayer" declared "call:0"
+Street "turn" started. (community card = ['HJ', 'S9', 'H9', 'DT'])
+"ZPlayer" declared "call:0"
+"HakulaPlayer" declared "raise:107"
+"ZPlayer" declared "fold:0"
+"['HakulaPlayer']" won the round 11 (stack = {'YangZ': 985, 'Ethan': 1015, 'HakulaPlayer': 350, 'SichengZuo': 970, 'KLChen2PokerPlayer': 1262, 'Jinkun': 990, 'NitWinWin': 985, 'ZPlayer': 1443})
+player [YangZ] gets hole card ['H3', 'H9'], current stack 985
+player [Ethan] gets hole card ['CA', 'S5'], current stack 1015
+player [HakulaPlayer] gets hole card ['C3', 'S4'], current stack 350
+player [SichengZuo] gets hole card ['DJ', 'H2'], current stack 970
+player [KLChen2PokerPlayer] gets hole card ['S9', 'D4'], current stack 1257
+player [Jinkun] gets hole card ['D3', 'C6'], current stack 980
+player [NitWinWin] gets hole card ['C9', 'D9'], current stack 985
+player [ZPlayer] gets hole card ['H6', 'D7'], current stack 1443
+Started the round 12
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:10"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "raise:30"
+"ZPlayer" declared "call:30"
+Street "flop" started. (community card = ['HJ', 'DQ', 'HA'])
+"Jinkun" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "turn" started. (community card = ['HJ', 'DQ', 'HA', 'H8'])
+"Jinkun" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['HJ', 'DQ', 'HA', 'H8', 'S3'])
+"Jinkun" declared "call:0"
+"ZPlayer" declared "call:0"
+"['Jinkun']" won the round 12 (stack = {'YangZ': 985, 'Ethan': 1015, 'HakulaPlayer': 350, 'SichengZuo': 970, 'KLChen2PokerPlayer': 1257, 'Jinkun': 1025, 'NitWinWin': 985, 'ZPlayer': 1413})
+player [YangZ] gets hole card ['DK', 'H3'], current stack 985
+player [Ethan] gets hole card ['DA', 'C8'], current stack 1015
+player [HakulaPlayer] gets hole card ['C9', 'S4'], current stack 350
+player [SichengZuo] gets hole card ['HT', 'ST'], current stack 970
+player [KLChen2PokerPlayer] gets hole card ['CA', 'HJ'], current stack 1257
+player [Jinkun] gets hole card ['HQ', 'D9'], current stack 1020
+player [NitWinWin] gets hole card ['C3', 'S9'], current stack 975
+player [ZPlayer] gets hole card ['S2', 'S7'], current stack 1413
+Started the round 13
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "call:10"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:10"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "raise:19"
+"Jinkun" declared "fold:19"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:19"
+"HakulaPlayer" declared "call:19"
+Street "flop" started. (community card = ['H5', 'C2', 'D4'])
+"ZPlayer" declared "call:0"
+"HakulaPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+Street "turn" started. (community card = ['H5', 'C2', 'D4', 'DQ'])
+"ZPlayer" declared "call:0"
+"HakulaPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+Street "river" started. (community card = ['H5', 'C2', 'D4', 'DQ', 'DT'])
+"ZPlayer" declared "call:0"
+"HakulaPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+"['HakulaPlayer']" won the round 13 (stack = {'YangZ': 985, 'Ethan': 1015, 'HakulaPlayer': 403, 'SichengZuo': 970, 'KLChen2PokerPlayer': 1238, 'Jinkun': 1020, 'NitWinWin': 975, 'ZPlayer': 1394})
+player [YangZ] gets hole card ['HJ', 'CA'], current stack 985
+player [Ethan] gets hole card ['D7', 'C9'], current stack 1015
+player [HakulaPlayer] gets hole card ['DJ', 'D9'], current stack 403
+player [SichengZuo] gets hole card ['SQ', 'H4'], current stack 970
+player [KLChen2PokerPlayer] gets hole card ['DQ', 'S9'], current stack 1238
+player [Jinkun] gets hole card ['DK', 'C8'], current stack 1020
+player [NitWinWin] gets hole card ['CJ', 'S8'], current stack 970
+player [ZPlayer] gets hole card ['HA', 'CT'], current stack 1384
+Started the round 14
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:10"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "raise:15"
+"Jinkun" declared "fold:15"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:15"
+"HakulaPlayer" declared "call:15"
+Street "flop" started. (community card = ['H3', 'DA', 'S5'])
+"ZPlayer" declared "raise:617"
+"HakulaPlayer" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"['ZPlayer']" won the round 14 (stack = {'YangZ': 985, 'Ethan': 1015, 'HakulaPlayer': 388, 'SichengZuo': 970, 'KLChen2PokerPlayer': 1223, 'Jinkun': 1020, 'NitWinWin': 970, 'ZPlayer': 1429})
+player [YangZ] gets hole card ['S9', 'S2'], current stack 975
+player [Ethan] gets hole card ['SK', 'S8'], current stack 1015
+player [HakulaPlayer] gets hole card ['H9', 'HJ'], current stack 388
+player [SichengZuo] gets hole card ['C7', 'D3'], current stack 970
+player [KLChen2PokerPlayer] gets hole card ['SJ', 'H3'], current stack 1223
+player [Jinkun] gets hole card ['D2', 'CT'], current stack 1020
+player [NitWinWin] gets hole card ['C2', 'SA'], current stack 970
+player [ZPlayer] gets hole card ['CA', 'H2'], current stack 1424
+Started the round 15
+Street "preflop" started. (community card = [])
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:10"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"HakulaPlayer" declared "raise:35"
+"ZPlayer" declared "call:35"
+Street "flop" started. (community card = ['S4', 'S7', 'CJ'])
+"ZPlayer" declared "call:0"
+"HakulaPlayer" declared "raise:90"
+"ZPlayer" declared "fold:0"
+"['HakulaPlayer']" won the round 15 (stack = {'YangZ': 975, 'Ethan': 1015, 'HakulaPlayer': 433, 'SichengZuo': 970, 'KLChen2PokerPlayer': 1223, 'Jinkun': 1020, 'NitWinWin': 970, 'ZPlayer': 1394})
+player [YangZ] gets hole card ['S5', 'H8'], current stack 970
+player [Ethan] gets hole card ['D8', 'H9'], current stack 1005
+player [HakulaPlayer] gets hole card ['S8', 'H5'], current stack 433
+player [SichengZuo] gets hole card ['S3', 'S2'], current stack 970
+player [KLChen2PokerPlayer] gets hole card ['H3', 'SQ'], current stack 1223
+player [Jinkun] gets hole card ['CJ', 'DK'], current stack 1020
+player [NitWinWin] gets hole card ['C4', 'D5'], current stack 970
+player [ZPlayer] gets hole card ['HT', 'S4'], current stack 1394
+Started the round 16
+Street "preflop" started. (community card = [])
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:10"
+"YangZ" declared "fold:0"
+"Ethan" declared "call:10"
+Street "flop" started. (community card = ['HK', 'H6', 'DT'])
+"Ethan" declared "call:0"
+"ZPlayer" declared "raise:12"
+"Ethan" declared "fold:0"
+"['ZPlayer']" won the round 16 (stack = {'YangZ': 970, 'Ethan': 1005, 'HakulaPlayer': 433, 'SichengZuo': 970, 'KLChen2PokerPlayer': 1223, 'Jinkun': 1020, 'NitWinWin': 970, 'ZPlayer': 1409})
+player [YangZ] gets hole card ['DT', 'C8'], current stack 970
+player [Ethan] gets hole card ['C4', 'CK'], current stack 1000
+player [HakulaPlayer] gets hole card ['C7', 'D7'], current stack 423
+player [SichengZuo] gets hole card ['H5', 'S6'], current stack 970
+player [KLChen2PokerPlayer] gets hole card ['C9', 'D8'], current stack 1223
+player [Jinkun] gets hole card ['SJ', 'ST'], current stack 1020
+player [NitWinWin] gets hole card ['C6', 'SK'], current stack 970
+player [ZPlayer] gets hole card ['S4', 'D9'], current stack 1409
+Started the round 17
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "fold:0"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"['HakulaPlayer']" won the round 17 (stack = {'YangZ': 970, 'Ethan': 1000, 'HakulaPlayer': 438, 'SichengZuo': 970, 'KLChen2PokerPlayer': 1223, 'Jinkun': 1020, 'NitWinWin': 970, 'ZPlayer': 1409})
+player [YangZ] gets hole card ['S2', 'DQ'], current stack 970
+player [Ethan] gets hole card ['S5', 'DT'], current stack 1000
+player [HakulaPlayer] gets hole card ['D7', 'SJ'], current stack 433
+player [SichengZuo] gets hole card ['CQ', 'CK'], current stack 960
+player [KLChen2PokerPlayer] gets hole card ['H7', 'H4'], current stack 1223
+player [Jinkun] gets hole card ['C6', 'C9'], current stack 1020
+player [NitWinWin] gets hole card ['HQ', 'HT'], current stack 970
+player [ZPlayer] gets hole card ['ST', 'C5'], current stack 1409
+Started the round 18
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "call:10"
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:10"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:10"
+"SichengZuo" declared "fold:0"
+Street "flop" started. (community card = ['C2', 'H5', 'CT'])
+"HakulaPlayer" declared "raise:14"
+"KLChen2PokerPlayer" declared "fold:0"
+"ZPlayer" declared "raise:1341"
+"HakulaPlayer" declared "fold:0"
+"['ZPlayer']" won the round 18 (stack = {'YangZ': 970, 'Ethan': 1000, 'HakulaPlayer': 414, 'SichengZuo': 960, 'KLChen2PokerPlayer': 1213, 'Jinkun': 1020, 'NitWinWin': 970, 'ZPlayer': 1453})
+player [YangZ] gets hole card ['H2', 'CK'], current stack 970
+player [Ethan] gets hole card ['DQ', 'SK'], current stack 1000
+player [HakulaPlayer] gets hole card ['DK', 'D6'], current stack 414
+player [SichengZuo] gets hole card ['H3', 'C7'], current stack 955
+player [KLChen2PokerPlayer] gets hole card ['C4', 'HA'], current stack 1203
+player [Jinkun] gets hole card ['D2', 'D4'], current stack 1020
+player [NitWinWin] gets hole card ['S9', 'H5'], current stack 970
+player [ZPlayer] gets hole card ['S2', 'S5'], current stack 1453
+Started the round 19
+Street "preflop" started. (community card = [])
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:10"
+"YangZ" declared "fold:0"
+"Ethan" declared "raise:150"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"ZPlayer" declared "fold:0"
+"['Ethan']" won the round 19 (stack = {'YangZ': 970, 'Ethan': 1025, 'HakulaPlayer': 414, 'SichengZuo': 955, 'KLChen2PokerPlayer': 1203, 'Jinkun': 1020, 'NitWinWin': 970, 'ZPlayer': 1443})
+player [YangZ] gets hole card ['CT', 'H2'], current stack 970
+player [Ethan] gets hole card ['HT', 'DQ'], current stack 1025
+player [HakulaPlayer] gets hole card ['S5', 'HK'], current stack 414
+player [SichengZuo] gets hole card ['D8', 'ST'], current stack 955
+player [KLChen2PokerPlayer] gets hole card ['C4', 'S6'], current stack 1198
+player [Jinkun] gets hole card ['H9', 'SA'], current stack 1010
+player [NitWinWin] gets hole card ['C6', 'SK'], current stack 970
+player [ZPlayer] gets hole card ['C2', 'D7'], current stack 1443
+Started the round 20
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:10"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:10"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "call:10"
+Street "flop" started. (community card = ['H6', 'H4', 'C7'])
+"Jinkun" declared "call:0"
+"ZPlayer" declared "raise:10"
+"HakulaPlayer" declared "call:10"
+"Jinkun" declared "call:10"
+Street "turn" started. (community card = ['H6', 'H4', 'C7', 'D2'])
+"Jinkun" declared "call:0"
+"ZPlayer" declared "raise:65"
+"HakulaPlayer" declared "fold:0"
+"Jinkun" declared "fold:65"
+"['ZPlayer']" won the round 20 (stack = {'YangZ': 970, 'Ethan': 1025, 'HakulaPlayer': 394, 'SichengZuo': 955, 'KLChen2PokerPlayer': 1198, 'Jinkun': 1000, 'NitWinWin': 970, 'ZPlayer': 1488})
+player [YangZ] gets hole card ['HK', 'D2'], current stack 970
+player [Ethan] gets hole card ['S6', 'D5'], current stack 1025
+player [HakulaPlayer] gets hole card ['DJ', 'S2'], current stack 394
+player [SichengZuo] gets hole card ['C4', 'S4'], current stack 955
+player [KLChen2PokerPlayer] gets hole card ['S5', 'ST'], current stack 1198
+player [Jinkun] gets hole card ['SQ', 'D4'], current stack 995
+player [NitWinWin] gets hole card ['H5', 'H9'], current stack 960
+player [ZPlayer] gets hole card ['C6', 'CJ'], current stack 1488
+Started the round 21
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "fold:15"
+"NitWinWin" declared "fold:0"
+"['ZPlayer']" won the round 21 (stack = {'YangZ': 970, 'Ethan': 1025, 'HakulaPlayer': 394, 'SichengZuo': 955, 'KLChen2PokerPlayer': 1198, 'Jinkun': 995, 'NitWinWin': 960, 'ZPlayer': 1503})
+player [YangZ] gets hole card ['C5', 'CQ'], current stack 970
+player [Ethan] gets hole card ['HK', 'S5'], current stack 1025
+player [HakulaPlayer] gets hole card ['SJ', 'D8'], current stack 394
+player [SichengZuo] gets hole card ['HA', 'S2'], current stack 955
+player [KLChen2PokerPlayer] gets hole card ['D5', 'DQ'], current stack 1198
+player [Jinkun] gets hole card ['H7', 'S4'], current stack 995
+player [NitWinWin] gets hole card ['DJ', 'D3'], current stack 955
+player [ZPlayer] gets hole card ['S8', 'CK'], current stack 1493
+Started the round 22
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "call:10"
+"Jinkun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "fold:0"
+Street "flop" started. (community card = ['D4', 'D9', 'DK'])
+"KLChen2PokerPlayer" declared "raise:38"
+"Jinkun" declared "fold:38"
+"['KLChen2PokerPlayer']" won the round 22 (stack = {'YangZ': 970, 'Ethan': 1025, 'HakulaPlayer': 394, 'SichengZuo': 955, 'KLChen2PokerPlayer': 1223, 'Jinkun': 985, 'NitWinWin': 955, 'ZPlayer': 1493})
+player [YangZ] gets hole card ['D4', 'HJ'], current stack 960
+player [Ethan] gets hole card ['S6', 'D2'], current stack 1025
+player [HakulaPlayer] gets hole card ['C3', 'D7'], current stack 394
+player [SichengZuo] gets hole card ['H4', 'S2'], current stack 955
+player [KLChen2PokerPlayer] gets hole card ['SK', 'C5'], current stack 1223
+player [Jinkun] gets hole card ['H6', 'C9'], current stack 985
+player [NitWinWin] gets hole card ['HT', 'DT'], current stack 955
+player [ZPlayer] gets hole card ['D6', 'HQ'], current stack 1488
+Started the round 23
+Street "preflop" started. (community card = [])
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "call:10"
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"KLChen2PokerPlayer" declared "call:15"
+Street "flop" started. (community card = ['CJ', 'H5', 'CA'])
+"ZPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "raise:36"
+"ZPlayer" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 23 (stack = {'YangZ': 960, 'Ethan': 1025, 'HakulaPlayer': 394, 'SichengZuo': 955, 'KLChen2PokerPlayer': 1248, 'Jinkun': 985, 'NitWinWin': 955, 'ZPlayer': 1478})
+player [YangZ] gets hole card ['S6', 'DJ'], current stack 955
+player [Ethan] gets hole card ['H2', 'S9'], current stack 1015
+player [HakulaPlayer] gets hole card ['C8', 'D7'], current stack 394
+player [SichengZuo] gets hole card ['DQ', 'D9'], current stack 955
+player [KLChen2PokerPlayer] gets hole card ['S7', 'H6'], current stack 1248
+player [Jinkun] gets hole card ['C2', 'HA'], current stack 985
+player [NitWinWin] gets hole card ['HT', 'DT'], current stack 955
+player [ZPlayer] gets hole card ['DK', 'S8'], current stack 1478
+Started the round 24
+Street "preflop" started. (community card = [])
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"['ZPlayer']" won the round 24 (stack = {'YangZ': 955, 'Ethan': 1015, 'HakulaPlayer': 394, 'SichengZuo': 955, 'KLChen2PokerPlayer': 1248, 'Jinkun': 985, 'NitWinWin': 955, 'ZPlayer': 1493})
+player [YangZ] gets hole card ['S8', 'D3'], current stack 955
+player [Ethan] gets hole card ['SK', 'H6'], current stack 1010
+player [HakulaPlayer] gets hole card ['DQ', 'D2'], current stack 384
+player [SichengZuo] gets hole card ['H3', 'C7'], current stack 955
+player [KLChen2PokerPlayer] gets hole card ['H4', 'D6'], current stack 1248
+player [Jinkun] gets hole card ['HT', 'S9'], current stack 985
+player [NitWinWin] gets hole card ['C9', 'S5'], current stack 955
+player [ZPlayer] gets hole card ['DK', 'H2'], current stack 1493
+Started the round 25
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:10"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:10"
+Street "flop" started. (community card = ['D7', 'S7', 'HK'])
+"HakulaPlayer" declared "call:0"
+"ZPlayer" declared "raise:210"
+"HakulaPlayer" declared "fold:0"
+"['ZPlayer']" won the round 25 (stack = {'YangZ': 955, 'Ethan': 1010, 'HakulaPlayer': 384, 'SichengZuo': 955, 'KLChen2PokerPlayer': 1248, 'Jinkun': 985, 'NitWinWin': 955, 'ZPlayer': 1508})
+player [YangZ] gets hole card ['C9', 'D5'], current stack 955
+player [Ethan] gets hole card ['H6', 'H3'], current stack 1010
+player [HakulaPlayer] gets hole card ['D2', 'C6'], current stack 379
+player [SichengZuo] gets hole card ['S5', 'H2'], current stack 945
+player [KLChen2PokerPlayer] gets hole card ['H8', 'HA'], current stack 1248
+player [Jinkun] gets hole card ['S2', 'ST'], current stack 985
+player [NitWinWin] gets hole card ['DJ', 'DT'], current stack 955
+player [ZPlayer] gets hole card ['DQ', 'H4'], current stack 1508
+Started the round 26
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "raise:15"
+"Jinkun" declared "fold:15"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:20"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "raise:25"
+"ZPlayer" declared "call:25"
+Street "flop" started. (community card = ['DA', 'D8', 'H7'])
+"KLChen2PokerPlayer" declared "raise:21"
+"ZPlayer" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 26 (stack = {'YangZ': 955, 'Ethan': 1010, 'HakulaPlayer': 379, 'SichengZuo': 945, 'KLChen2PokerPlayer': 1288, 'Jinkun': 985, 'NitWinWin': 955, 'ZPlayer': 1483})
+player [YangZ] gets hole card ['S4', 'C4'], current stack 955
+player [Ethan] gets hole card ['HA', 'SA'], current stack 1010
+player [HakulaPlayer] gets hole card ['D6', 'H7'], current stack 379
+player [SichengZuo] gets hole card ['D8', 'D7'], current stack 940
+player [KLChen2PokerPlayer] gets hole card ['C7', 'DJ'], current stack 1278
+player [Jinkun] gets hole card ['S6', 'CK'], current stack 985
+player [NitWinWin] gets hole card ['C3', 'S9'], current stack 955
+player [ZPlayer] gets hole card ['CJ', 'D5'], current stack 1483
+Started the round 27
+Street "preflop" started. (community card = [])
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:10"
+"YangZ" declared "fold:0"
+"Ethan" declared "raise:303"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"ZPlayer" declared "fold:0"
+"['Ethan']" won the round 27 (stack = {'YangZ': 955, 'Ethan': 1035, 'HakulaPlayer': 379, 'SichengZuo': 940, 'KLChen2PokerPlayer': 1278, 'Jinkun': 985, 'NitWinWin': 955, 'ZPlayer': 1473})
+player [YangZ] gets hole card ['C8', 'SQ'], current stack 955
+player [Ethan] gets hole card ['CA', 'H7'], current stack 1035
+player [HakulaPlayer] gets hole card ['C3', 'D4'], current stack 379
+player [SichengZuo] gets hole card ['D2', 'D3'], current stack 940
+player [KLChen2PokerPlayer] gets hole card ['D9', 'H6'], current stack 1273
+player [Jinkun] gets hole card ['H4', 'D6'], current stack 975
+player [NitWinWin] gets hole card ['ST', 'DK'], current stack 955
+player [ZPlayer] gets hole card ['H5', 'C7'], current stack 1473
+Started the round 28
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:10"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "call:10"
+Street "flop" started. (community card = ['C2', 'H8', 'HA'])
+"Jinkun" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "turn" started. (community card = ['C2', 'H8', 'HA', 'S8'])
+"Jinkun" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['C2', 'H8', 'HA', 'S8', 'D7'])
+"Jinkun" declared "call:0"
+"ZPlayer" declared "raise:213"
+"Jinkun" declared "fold:213"
+"['ZPlayer']" won the round 28 (stack = {'YangZ': 955, 'Ethan': 1035, 'HakulaPlayer': 379, 'SichengZuo': 940, 'KLChen2PokerPlayer': 1273, 'Jinkun': 975, 'NitWinWin': 955, 'ZPlayer': 1488})
+player [YangZ] gets hole card ['C2', 'HA'], current stack 955
+player [Ethan] gets hole card ['S8', 'D4'], current stack 1035
+player [HakulaPlayer] gets hole card ['DA', 'S7'], current stack 379
+player [SichengZuo] gets hole card ['C6', 'C9'], current stack 940
+player [KLChen2PokerPlayer] gets hole card ['HQ', 'DK'], current stack 1273
+player [Jinkun] gets hole card ['C3', 'H8'], current stack 970
+player [NitWinWin] gets hole card ['DT', 'CQ'], current stack 945
+player [ZPlayer] gets hole card ['H6', 'DJ'], current stack 1488
+Started the round 29
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "call:10"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:10"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "raise:28"
+"Jinkun" declared "fold:28"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:28"
+"HakulaPlayer" declared "call:28"
+Street "flop" started. (community card = ['SA', 'D5', 'CA'])
+"ZPlayer" declared "call:0"
+"HakulaPlayer" declared "raise:60"
+"KLChen2PokerPlayer" declared "fold:0"
+"ZPlayer" declared "fold:0"
+"['HakulaPlayer']" won the round 29 (stack = {'YangZ': 955, 'Ethan': 1035, 'HakulaPlayer': 450, 'SichengZuo': 940, 'KLChen2PokerPlayer': 1245, 'Jinkun': 970, 'NitWinWin': 945, 'ZPlayer': 1460})
+player [YangZ] gets hole card ['DJ', 'S5'], current stack 955
+player [Ethan] gets hole card ['SQ', 'H9'], current stack 1035
+player [HakulaPlayer] gets hole card ['HT', 'H5'], current stack 450
+player [SichengZuo] gets hole card ['D6', 'CQ'], current stack 940
+player [KLChen2PokerPlayer] gets hole card ['H3', 'H4'], current stack 1245
+player [Jinkun] gets hole card ['HK', 'C3'], current stack 970
+player [NitWinWin] gets hole card ['D3', 'H2'], current stack 940
+player [ZPlayer] gets hole card ['C8', 'C7'], current stack 1450
+Started the round 30
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "call:10"
+"Jinkun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:10"
+Street "flop" started. (community card = ['S4', 'D2', 'SA'])
+"ZPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "raise:27"
+"Jinkun" declared "fold:27"
+"ZPlayer" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 30 (stack = {'YangZ': 955, 'Ethan': 1035, 'HakulaPlayer': 450, 'SichengZuo': 940, 'KLChen2PokerPlayer': 1270, 'Jinkun': 960, 'NitWinWin': 940, 'ZPlayer': 1450})
+player [YangZ] gets hole card ['D7', 'DT'], current stack 945
+player [Ethan] gets hole card ['D9', 'SK'], current stack 1035
+player [HakulaPlayer] gets hole card ['S8', 'C6'], current stack 450
+player [SichengZuo] gets hole card ['SQ', 'HK'], current stack 940
+player [KLChen2PokerPlayer] gets hole card ['C5', 'S4'], current stack 1270
+player [Jinkun] gets hole card ['D2', 'HA'], current stack 960
+player [NitWinWin] gets hole card ['CT', 'ST'], current stack 940
+player [ZPlayer] gets hole card ['HQ', 'HT'], current stack 1445
+Started the round 31
+Street "preflop" started. (community card = [])
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"Jinkun" declared "call:15"
+Street "flop" started. (community card = ['H8', 'D6', 'C8'])
+"ZPlayer" declared "call:0"
+"Jinkun" declared "call:0"
+Street "turn" started. (community card = ['H8', 'D6', 'C8', 'C7'])
+"ZPlayer" declared "call:0"
+"Jinkun" declared "call:0"
+Street "river" started. (community card = ['H8', 'D6', 'C8', 'C7', 'C4'])
+"ZPlayer" declared "call:0"
+"Jinkun" declared "call:0"
+"['Jinkun']" won the round 31 (stack = {'YangZ': 945, 'Ethan': 1035, 'HakulaPlayer': 450, 'SichengZuo': 940, 'KLChen2PokerPlayer': 1270, 'Jinkun': 985, 'NitWinWin': 940, 'ZPlayer': 1435})
+player [YangZ] gets hole card ['H4', 'DJ'], current stack 940
+player [Ethan] gets hole card ['H7', 'S9'], current stack 1025
+player [HakulaPlayer] gets hole card ['C4', 'S2'], current stack 450
+player [SichengZuo] gets hole card ['H8', 'D9'], current stack 940
+player [KLChen2PokerPlayer] gets hole card ['DK', 'DA'], current stack 1270
+player [Jinkun] gets hole card ['D5', 'D6'], current stack 985
+player [NitWinWin] gets hole card ['H3', 'CJ'], current stack 940
+player [ZPlayer] gets hole card ['S5', 'S7'], current stack 1435
+Started the round 32
+Street "preflop" started. (community card = [])
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "raise:23"
+"Jinkun" declared "fold:23"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:23"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+Street "flop" started. (community card = ['HA', 'D2', 'D3'])
+"KLChen2PokerPlayer" declared "raise:37"
+"ZPlayer" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 32 (stack = {'YangZ': 940, 'Ethan': 1025, 'HakulaPlayer': 450, 'SichengZuo': 940, 'KLChen2PokerPlayer': 1308, 'Jinkun': 985, 'NitWinWin': 940, 'ZPlayer': 1412})
+player [YangZ] gets hole card ['H3', 'S8'], current stack 940
+player [Ethan] gets hole card ['S6', 'DQ'], current stack 1020
+player [HakulaPlayer] gets hole card ['C7', 'D2'], current stack 440
+player [SichengZuo] gets hole card ['CA', 'D7'], current stack 940
+player [KLChen2PokerPlayer] gets hole card ['ST', 'H9'], current stack 1308
+player [Jinkun] gets hole card ['DK', 'S9'], current stack 985
+player [NitWinWin] gets hole card ['CK', 'CT'], current stack 940
+player [ZPlayer] gets hole card ['HQ', 'C2'], current stack 1412
+Started the round 33
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "raise:17"
+"Jinkun" declared "fold:17"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:17"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+Street "flop" started. (community card = ['HK', 'D8', 'S3'])
+"KLChen2PokerPlayer" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "turn" started. (community card = ['HK', 'D8', 'S3', 'CQ'])
+"KLChen2PokerPlayer" declared "call:0"
+"ZPlayer" declared "raise:10"
+"KLChen2PokerPlayer" declared "fold:0"
+"['ZPlayer']" won the round 33 (stack = {'YangZ': 940, 'Ethan': 1020, 'HakulaPlayer': 440, 'SichengZuo': 940, 'KLChen2PokerPlayer': 1291, 'Jinkun': 985, 'NitWinWin': 940, 'ZPlayer': 1444})
+player [YangZ] gets hole card ['C6', 'DT'], current stack 940
+player [Ethan] gets hole card ['DQ', 'S8'], current stack 1020
+player [HakulaPlayer] gets hole card ['D8', 'SJ'], current stack 435
+player [SichengZuo] gets hole card ['H3', 'D2'], current stack 930
+player [KLChen2PokerPlayer] gets hole card ['S3', 'CT'], current stack 1291
+player [Jinkun] gets hole card ['HJ', 'C4'], current stack 985
+player [NitWinWin] gets hole card ['S9', 'C9'], current stack 940
+player [ZPlayer] gets hole card ['DK', 'CA'], current stack 1444
+Started the round 34
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:15"
+"SichengZuo" declared "fold:0"
+Street "flop" started. (community card = ['S2', 'DA', 'C8'])
+"HakulaPlayer" declared "raise:37"
+"ZPlayer" declared "raise:74"
+"HakulaPlayer" declared "call:74"
+Street "turn" started. (community card = ['S2', 'DA', 'C8', 'DJ'])
+"HakulaPlayer" declared "raise:199"
+"ZPlayer" declared "call:199"
+Street "river" started. (community card = ['S2', 'DA', 'C8', 'DJ', 'H9'])
+"HakulaPlayer" declared "raise:152"
+"ZPlayer" declared "raise:304"
+"['HakulaPlayer']" won the round 34 (stack = {'YangZ': 940, 'Ethan': 1020, 'HakulaPlayer': 890, 'SichengZuo': 930, 'KLChen2PokerPlayer': 1291, 'Jinkun': 985, 'NitWinWin': 940, 'ZPlayer': 1004})
+player [YangZ] gets hole card ['DQ', 'SA'], current stack 940
+player [Ethan] gets hole card ['SQ', 'C4'], current stack 1020
+player [HakulaPlayer] gets hole card ['D9', 'H9'], current stack 890
+player [SichengZuo] gets hole card ['CT', 'HJ'], current stack 925
+player [KLChen2PokerPlayer] gets hole card ['D8', 'H4'], current stack 1281
+player [Jinkun] gets hole card ['D4', 'DA'], current stack 985
+player [NitWinWin] gets hole card ['HQ', 'D5'], current stack 940
+player [ZPlayer] gets hole card ['S5', 'C2'], current stack 1004
+Started the round 35
+Street "preflop" started. (community card = [])
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:10"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "raise:39"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"ZPlayer" declared "fold:0"
+"['HakulaPlayer']" won the round 35 (stack = {'YangZ': 940, 'Ethan': 1020, 'HakulaPlayer': 915, 'SichengZuo': 925, 'KLChen2PokerPlayer': 1281, 'Jinkun': 985, 'NitWinWin': 940, 'ZPlayer': 994})
+player [YangZ] gets hole card ['CK', 'S4'], current stack 940
+player [Ethan] gets hole card ['H3', 'C3'], current stack 1020
+player [HakulaPlayer] gets hole card ['HJ', 'S8'], current stack 915
+player [SichengZuo] gets hole card ['H8', 'H4'], current stack 925
+player [KLChen2PokerPlayer] gets hole card ['C4', 'CJ'], current stack 1276
+player [Jinkun] gets hole card ['D3', 'DA'], current stack 975
+player [NitWinWin] gets hole card ['S5', 'HT'], current stack 940
+player [ZPlayer] gets hole card ['ST', 'SQ'], current stack 994
+Started the round 36
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:15"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "call:15"
+Street "flop" started. (community card = ['DJ', 'C9', 'D8'])
+"Jinkun" declared "call:0"
+"ZPlayer" declared "raise:868"
+"HakulaPlayer" declared "fold:0"
+"Jinkun" declared "fold:868"
+"['ZPlayer']" won the round 36 (stack = {'YangZ': 940, 'Ethan': 1020, 'HakulaPlayer': 900, 'SichengZuo': 925, 'KLChen2PokerPlayer': 1276, 'Jinkun': 970, 'NitWinWin': 940, 'ZPlayer': 1029})
+player [YangZ] gets hole card ['H8', 'ST'], current stack 940
+player [Ethan] gets hole card ['C4', 'D9'], current stack 1020
+player [HakulaPlayer] gets hole card ['H3', 'D5'], current stack 900
+player [SichengZuo] gets hole card ['CJ', 'DJ'], current stack 925
+player [KLChen2PokerPlayer] gets hole card ['C6', 'D7'], current stack 1276
+player [Jinkun] gets hole card ['C8', 'H4'], current stack 965
+player [NitWinWin] gets hole card ['HA', 'HJ'], current stack 930
+player [ZPlayer] gets hole card ['SQ', 'CQ'], current stack 1029
+Started the round 37
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "raise:30"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:30"
+Street "flop" started. (community card = ['D4', 'D8', 'H5'])
+"Jinkun" declared "raise:28"
+"ZPlayer" declared "call:28"
+Street "turn" started. (community card = ['D4', 'D8', 'H5', 'DQ'])
+"Jinkun" declared "call:0"
+"ZPlayer" declared "raise:63"
+"Jinkun" declared "call:63"
+Street "river" started. (community card = ['D4', 'D8', 'H5', 'DQ', 'C9'])
+"Jinkun" declared "raise:107"
+"ZPlayer" declared "raise:214"
+"Jinkun" declared "call:214"
+"['ZPlayer']" won the round 37 (stack = {'YangZ': 940, 'Ethan': 1020, 'HakulaPlayer': 900, 'SichengZuo': 925, 'KLChen2PokerPlayer': 1276, 'Jinkun': 635, 'NitWinWin': 930, 'ZPlayer': 1374})
+player [YangZ] gets hole card ['D3', 'H8'], current stack 940
+player [Ethan] gets hole card ['C8', 'S5'], current stack 1020
+player [HakulaPlayer] gets hole card ['S6', 'SA'], current stack 900
+player [SichengZuo] gets hole card ['S2', 'SJ'], current stack 925
+player [KLChen2PokerPlayer] gets hole card ['C3', 'C2'], current stack 1276
+player [Jinkun] gets hole card ['S9', 'C4'], current stack 635
+player [NitWinWin] gets hole card ['S3', 'HJ'], current stack 925
+player [ZPlayer] gets hole card ['D4', 'C9'], current stack 1364
+Started the round 38
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:10"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:10"
+Street "flop" started. (community card = ['D9', 'CQ', 'H4'])
+"ZPlayer" declared "raise:35"
+"HakulaPlayer" declared "fold:0"
+"Jinkun" declared "call:35"
+Street "turn" started. (community card = ['D9', 'CQ', 'H4', 'CJ'])
+"ZPlayer" declared "raise:52"
+"Jinkun" declared "call:52"
+Street "river" started. (community card = ['D9', 'CQ', 'H4', 'CJ', 'S7'])
+"ZPlayer" declared "raise:209"
+"Jinkun" declared "call:209"
+"['Jinkun', 'ZPlayer']" won the round 38 (stack = {'YangZ': 940, 'Ethan': 1020, 'HakulaPlayer': 890, 'SichengZuo': 925, 'KLChen2PokerPlayer': 1276, 'Jinkun': 642, 'NitWinWin': 925, 'ZPlayer': 1381})
+player [YangZ] gets hole card ['HT', 'CK'], current stack 930
+player [Ethan] gets hole card ['HJ', 'D9'], current stack 1020
+player [HakulaPlayer] gets hole card ['S6', 'C5'], current stack 890
+player [SichengZuo] gets hole card ['C9', 'SA'], current stack 925
+player [KLChen2PokerPlayer] gets hole card ['H2', 'HA'], current stack 1276
+player [Jinkun] gets hole card ['D5', 'SJ'], current stack 642
+player [NitWinWin] gets hole card ['DJ', 'H9'], current stack 925
+player [ZPlayer] gets hole card ['CA', 'C3'], current stack 1376
+Started the round 39
+Street "preflop" started. (community card = [])
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "raise:15"
+"Jinkun" declared "fold:15"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "call:15"
+"YangZ" declared "fold:0"
+Street "flop" started. (community card = ['CJ', 'DA', 'D3'])
+"ZPlayer" declared "raise:271"
+"KLChen2PokerPlayer" declared "call:271"
+Street "turn" started. (community card = ['CJ', 'DA', 'D3', 'H3'])
+"ZPlayer" declared "raise:582"
+"KLChen2PokerPlayer" declared "call:582"
+Street "river" started. (community card = ['CJ', 'DA', 'D3', 'H3', 'SK'])
+"ZPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "raise:57"
+"ZPlayer" declared "call:57"
+"['ZPlayer']" won the round 39 (stack = {'YangZ': 930, 'Ethan': 1020, 'HakulaPlayer': 890, 'SichengZuo': 925, 'KLChen2PokerPlayer': 351, 'Jinkun': 642, 'NitWinWin': 925, 'ZPlayer': 2316})
+player [YangZ] gets hole card ['H4', 'C6'], current stack 925
+player [Ethan] gets hole card ['S4', 'DJ'], current stack 1010
+player [HakulaPlayer] gets hole card ['CK', 'H7'], current stack 890
+player [SichengZuo] gets hole card ['S2', 'CQ'], current stack 925
+player [KLChen2PokerPlayer] gets hole card ['S9', 'S6'], current stack 351
+player [Jinkun] gets hole card ['SQ', 'D2'], current stack 642
+player [NitWinWin] gets hole card ['DK', 'C4'], current stack 925
+player [ZPlayer] gets hole card ['CT', 'D4'], current stack 2316
+Started the round 40
+Street "preflop" started. (community card = [])
+"HakulaPlayer" declared "call:10"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "raise:15"
+"Jinkun" declared "fold:15"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:20"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:20"
+"KLChen2PokerPlayer" declared "call:20"
+Street "flop" started. (community card = ['C7', 'S7', 'HA'])
+"HakulaPlayer" declared "raise:95"
+"KLChen2PokerPlayer" declared "fold:0"
+"ZPlayer" declared "fold:0"
+"['HakulaPlayer']" won the round 40 (stack = {'YangZ': 925, 'Ethan': 1010, 'HakulaPlayer': 945, 'SichengZuo': 925, 'KLChen2PokerPlayer': 331, 'Jinkun': 642, 'NitWinWin': 925, 'ZPlayer': 2296})
+player [YangZ] gets hole card ['H9', 'S6'], current stack 925
+player [Ethan] gets hole card ['HK', 'C4'], current stack 1005
+player [HakulaPlayer] gets hole card ['CJ', 'ST'], current stack 935
+player [SichengZuo] gets hole card ['SJ', 'CA'], current stack 925
+player [KLChen2PokerPlayer] gets hole card ['H6', 'D6'], current stack 331
+player [Jinkun] gets hole card ['CQ', 'DT'], current stack 642
+player [NitWinWin] gets hole card ['SQ', 'DA'], current stack 925
+player [ZPlayer] gets hole card ['C2', 'SA'], current stack 2296
+Started the round 41
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "raise:21"
+"Jinkun" declared "fold:21"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:32"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:32"
+"KLChen2PokerPlayer" declared "fold:0"
+Street "flop" started. (community card = ['D7', 'H7', 'DJ'])
+"HakulaPlayer" declared "raise:97"
+"ZPlayer" declared "fold:0"
+"['HakulaPlayer']" won the round 41 (stack = {'YangZ': 925, 'Ethan': 1005, 'HakulaPlayer': 1003, 'SichengZuo': 925, 'KLChen2PokerPlayer': 310, 'Jinkun': 642, 'NitWinWin': 925, 'ZPlayer': 2264})
+player [YangZ] gets hole card ['HA', 'D2'], current stack 925
+player [Ethan] gets hole card ['DK', 'H2'], current stack 1005
+player [HakulaPlayer] gets hole card ['S7', 'CK'], current stack 998
+player [SichengZuo] gets hole card ['D3', 'HT'], current stack 915
+player [KLChen2PokerPlayer] gets hole card ['D4', 'C9'], current stack 310
+player [Jinkun] gets hole card ['S8', 'HJ'], current stack 642
+player [NitWinWin] gets hole card ['D5', 'ST'], current stack 925
+player [ZPlayer] gets hole card ['H4', 'S4'], current stack 2264
+Started the round 42
+Street "preflop" started. (community card = [])
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:15"
+"SichengZuo" declared "fold:0"
+Street "flop" started. (community card = ['D9', 'D8', 'CT'])
+"HakulaPlayer" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "turn" started. (community card = ['D9', 'D8', 'CT', 'DQ'])
+"HakulaPlayer" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['D9', 'D8', 'CT', 'DQ', 'DJ'])
+"HakulaPlayer" declared "call:0"
+"ZPlayer" declared "call:0"
+"['HakulaPlayer']" won the round 42 (stack = {'YangZ': 925, 'Ethan': 1005, 'HakulaPlayer': 1028, 'SichengZuo': 915, 'KLChen2PokerPlayer': 310, 'Jinkun': 642, 'NitWinWin': 925, 'ZPlayer': 2249})
+player [YangZ] gets hole card ['HA', 'H6'], current stack 925
+player [Ethan] gets hole card ['H8', 'S6'], current stack 1005
+player [HakulaPlayer] gets hole card ['C7', 'C3'], current stack 1028
+player [SichengZuo] gets hole card ['D7', 'D4'], current stack 910
+player [KLChen2PokerPlayer] gets hole card ['D3', 'CQ'], current stack 300
+player [Jinkun] gets hole card ['C4', 'SA'], current stack 642
+player [NitWinWin] gets hole card ['CT', 'C2'], current stack 925
+player [ZPlayer] gets hole card ['HQ', 'DK'], current stack 2249
+Started the round 43
+Street "preflop" started. (community card = [])
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"['ZPlayer']" won the round 43 (stack = {'YangZ': 925, 'Ethan': 1005, 'HakulaPlayer': 1028, 'SichengZuo': 910, 'KLChen2PokerPlayer': 300, 'Jinkun': 642, 'NitWinWin': 925, 'ZPlayer': 2264})
+player [YangZ] gets hole card ['S4', 'DT'], current stack 925
+player [Ethan] gets hole card ['D6', 'CK'], current stack 1005
+player [HakulaPlayer] gets hole card ['D3', 'H2'], current stack 1028
+player [SichengZuo] gets hole card ['H7', 'S2'], current stack 910
+player [KLChen2PokerPlayer] gets hole card ['C9', 'S9'], current stack 295
+player [Jinkun] gets hole card ['DA', 'C3'], current stack 632
+player [NitWinWin] gets hole card ['CA', 'D4'], current stack 925
+player [ZPlayer] gets hole card ['H9', 'HJ'], current stack 2264
+Started the round 44
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "raise:28"
+"Jinkun" declared "fold:28"
+"ZPlayer" declared "call:28"
+Street "flop" started. (community card = ['HK', 'HT', 'SA'])
+"KLChen2PokerPlayer" declared "raise:14"
+"ZPlayer" declared "call:14"
+Street "turn" started. (community card = ['HK', 'HT', 'SA', 'ST'])
+"KLChen2PokerPlayer" declared "raise:18"
+"ZPlayer" declared "fold:0"
+"['KLChen2PokerPlayer']" won the round 44 (stack = {'YangZ': 925, 'Ethan': 1005, 'HakulaPlayer': 1028, 'SichengZuo': 910, 'KLChen2PokerPlayer': 352, 'Jinkun': 632, 'NitWinWin': 925, 'ZPlayer': 2222})
+player [YangZ] gets hole card ['H4', 'DK'], current stack 925
+player [Ethan] gets hole card ['C5', 'CA'], current stack 1005
+player [HakulaPlayer] gets hole card ['S8', 'D4'], current stack 1028
+player [SichengZuo] gets hole card ['CJ', 'H8'], current stack 910
+player [KLChen2PokerPlayer] gets hole card ['D6', 'D8'], current stack 352
+player [Jinkun] gets hole card ['H3', 'S7'], current stack 627
+player [NitWinWin] gets hole card ['SJ', 'S2'], current stack 915
+player [ZPlayer] gets hole card ['DA', 'C4'], current stack 2222
+Started the round 45
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"Jinkun" declared "fold:15"
+"NitWinWin" declared "fold:0"
+"['ZPlayer']" won the round 45 (stack = {'YangZ': 925, 'Ethan': 1005, 'HakulaPlayer': 1028, 'SichengZuo': 910, 'KLChen2PokerPlayer': 352, 'Jinkun': 627, 'NitWinWin': 915, 'ZPlayer': 2237})
+player [YangZ] gets hole card ['HK', 'D5'], current stack 925
+player [Ethan] gets hole card ['HQ', 'H5'], current stack 1005
+player [HakulaPlayer] gets hole card ['CA', 'D8'], current stack 1028
+player [SichengZuo] gets hole card ['S5', 'C3'], current stack 910
+player [KLChen2PokerPlayer] gets hole card ['DA', 'DK'], current stack 352
+player [Jinkun] gets hole card ['SK', 'DT'], current stack 627
+player [NitWinWin] gets hole card ['D3', 'HT'], current stack 910
+player [ZPlayer] gets hole card ['C6', 'DJ'], current stack 2227
+Started the round 46
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:10"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "raise:29"
+"Jinkun" declared "fold:29"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "fold:0"
+"HakulaPlayer" declared "call:29"
+Street "flop" started. (community card = ['S7', 'S4', 'H2'])
+"HakulaPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "raise:15"
+"HakulaPlayer" declared "call:15"
+Street "turn" started. (community card = ['S7', 'S4', 'H2', 'SQ'])
+"HakulaPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+Street "river" started. (community card = ['S7', 'S4', 'H2', 'SQ', 'SA'])
+"HakulaPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+"['KLChen2PokerPlayer']" won the round 46 (stack = {'YangZ': 925, 'Ethan': 1005, 'HakulaPlayer': 984, 'SichengZuo': 910, 'KLChen2PokerPlayer': 411, 'Jinkun': 627, 'NitWinWin': 910, 'ZPlayer': 2227})
+player [YangZ] gets hole card ['C8', 'C7'], current stack 915
+player [Ethan] gets hole card ['DQ', 'D6'], current stack 1005
+player [HakulaPlayer] gets hole card ['C4', 'HK'], current stack 984
+player [SichengZuo] gets hole card ['S2', 'S3'], current stack 910
+player [KLChen2PokerPlayer] gets hole card ['H9', 'H5'], current stack 411
+player [Jinkun] gets hole card ['CA', 'HT'], current stack 627
+player [NitWinWin] gets hole card ['C9', 'HJ'], current stack 910
+player [ZPlayer] gets hole card ['H2', 'SQ'], current stack 2222
+Started the round 47
+Street "preflop" started. (community card = [])
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:10"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "raise:16"
+"Jinkun" declared "fold:16"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:22"
+"YangZ" declared "fold:0"
+"HakulaPlayer" declared "call:22"
+"KLChen2PokerPlayer" declared "fold:0"
+Street "flop" started. (community card = ['D5', 'DK', 'C3'])
+"ZPlayer" declared "call:0"
+"HakulaPlayer" declared "call:0"
+Street "turn" started. (community card = ['D5', 'DK', 'C3', 'C5'])
+"ZPlayer" declared "call:0"
+"HakulaPlayer" declared "raise:99"
+"ZPlayer" declared "fold:0"
+"['HakulaPlayer']" won the round 47 (stack = {'YangZ': 915, 'Ethan': 1005, 'HakulaPlayer': 1032, 'SichengZuo': 910, 'KLChen2PokerPlayer': 395, 'Jinkun': 627, 'NitWinWin': 910, 'ZPlayer': 2205})
+player [YangZ] gets hole card ['S7', 'HJ'], current stack 910
+player [Ethan] gets hole card ['DK', 'H8'], current stack 995
+player [HakulaPlayer] gets hole card ['C2', 'DA'], current stack 1032
+player [SichengZuo] gets hole card ['SJ', 'HA'], current stack 910
+player [KLChen2PokerPlayer] gets hole card ['S3', 'HK'], current stack 395
+player [Jinkun] gets hole card ['C6', 'H6'], current stack 627
+player [NitWinWin] gets hole card ['C8', 'D9'], current stack 910
+player [ZPlayer] gets hole card ['S4', 'H2'], current stack 2205
+Started the round 48
+Street "preflop" started. (community card = [])
+"HakulaPlayer" declared "call:10"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "call:10"
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"YangZ" declared "fold:0"
+"Ethan" declared "fold:0"
+"HakulaPlayer" declared "call:15"
+"KLChen2PokerPlayer" declared "call:15"
+Street "flop" started. (community card = ['D2', 'HT', 'H4'])
+"HakulaPlayer" declared "call:0"
+"KLChen2PokerPlayer" declared "call:0"
+"ZPlayer" declared "raise:60"
+"HakulaPlayer" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"['ZPlayer']" won the round 48 (stack = {'YangZ': 910, 'Ethan': 995, 'HakulaPlayer': 1017, 'SichengZuo': 910, 'KLChen2PokerPlayer': 380, 'Jinkun': 627, 'NitWinWin': 910, 'ZPlayer': 2250})
+player [YangZ] gets hole card ['H8', 'D9'], current stack 910
+player [Ethan] gets hole card ['CQ', 'CJ'], current stack 990
+player [HakulaPlayer] gets hole card ['D5', 'CK'], current stack 1007
+player [SichengZuo] gets hole card ['H4', 'H5'], current stack 910
+player [KLChen2PokerPlayer] gets hole card ['C6', 'H6'], current stack 380
+player [Jinkun] gets hole card ['SK', 'S2'], current stack 627
+player [NitWinWin] gets hole card ['H9', 'DA'], current stack 910
+player [ZPlayer] gets hole card ['CA', 'DJ'], current stack 2250
+Started the round 49
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "raise:15"
+"Jinkun" declared "fold:15"
+"NitWinWin" declared "fold:0"
+"ZPlayer" declared "raise:20"
+"YangZ" declared "fold:0"
+"Ethan" declared "raise:149"
+"HakulaPlayer" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"ZPlayer" declared "call:149"
+Street "flop" started. (community card = ['C5', 'DT', 'ST'])
+"Ethan" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Ethan" declared "call:10"
+Street "turn" started. (community card = ['C5', 'DT', 'ST', 'SJ'])
+"Ethan" declared "call:0"
+"ZPlayer" declared "raise:171"
+"Ethan" declared "raise:514"
+"ZPlayer" declared "call:514"
+Street "river" started. (community card = ['C5', 'DT', 'ST', 'SJ', 'S3'])
+"Ethan" declared "raise:322"
+"ZPlayer" declared "call:322"
+"['ZPlayer']" won the round 49 (stack = {'YangZ': 910, 'Ethan': 0, 'HakulaPlayer': 1007, 'SichengZuo': 910, 'KLChen2PokerPlayer': 365, 'Jinkun': 627, 'NitWinWin': 910, 'ZPlayer': 3270})
+player [YangZ] gets hole card ['CA', 'ST'], current stack 910
+player [HakulaPlayer] gets hole card ['H7', 'D5'], current stack 1007
+player [SichengZuo] gets hole card ['SQ', 'CT'], current stack 905
+player [KLChen2PokerPlayer] gets hole card ['CJ', 'S2'], current stack 355
+player [Jinkun] gets hole card ['SK', 'C4'], current stack 627
+player [NitWinWin] gets hole card ['CK', 'DK'], current stack 910
+player [ZPlayer] gets hole card ['H5', 'C8'], current stack 3270
+Started the round 50
+Street "preflop" started. (community card = [])
+"Jinkun" declared "fold:10"
+"NitWinWin" declared "raise:910"
+"ZPlayer" declared "fold:0"
+"YangZ" declared "fold:0"
+"HakulaPlayer" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"KLChen2PokerPlayer" declared "fold:0"
+"['NitWinWin']" won the round 50 (stack = {'YangZ': 910, 'Ethan': 0, 'HakulaPlayer': 1007, 'SichengZuo': 905, 'KLChen2PokerPlayer': 355, 'Jinkun': 627, 'NitWinWin': 925, 'ZPlayer': 3270})
+
+Game Results:
+------------------------------------------------------------
+Game 1:
+Winner: ZPlayer (stack: 3270)
+All players' stacks:
+  YangZ: 910
+  Ethan: 0
+  HakulaPlayer: 1007
+  SichengZuo: 905
+  KLChen2PokerPlayer: 355
+  Jinkun: 627
+  NitWinWin: 925
+  ZPlayer: 3270
+------------------------------------------------------------

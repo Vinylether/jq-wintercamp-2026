@@ -1,0 +1,2054 @@
+🎲 Texas Hold'em Poker Game Log 1 🎲
+==================================================
+
+📊 Detailed Game Log:
+==================================================
+
+🔄 Round 1
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ J] [♦️ 2]        | 💰  1000
+👤 RaphaelPlayer   | [♥️ T] [♣️ Q]        | 💰   995
+👤 SichengZuo      | [♦️ A] [♥️ Q]        | 💰   990
+👤 Yuchun          | [♠️ T] [♥️ J]        | 💰  1000
+👤 HakulaPlayer    | [♥️ A] [♣️ K]        | 💰  1000
+👤 Ethan           | [♠️ 9] [♣️ 2]        | 💰  1000
+👤 YangZ           | [♠️ 8] [♠️ 6]        | 💰  1000
+👤 Finneas         | [♣️ 3] [♦️ 8]        | 💰  1000
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♠️ T] [♥️ J] |   12.80% | ❌ fold
+  HakulaPlayer    | [♥️ A] [♣️ K] |   21.80% | ✅ call:$10
+  Ethan           | [♠️ 9] [♣️ 2] |   10.60% | ❌ fold
+  YangZ           | [♠️ 8] [♠️ 6] |   32.50% | ❌ fold
+  Finneas         | [♣️ 3] [♦️ 8] |   17.50% | ✅ call:$10
+  Zheng           | [♦️ J] [♦️ 2] |   21.30% | ✅ call:$10
+  RaphaelPlayer   | [♥️ T] [♣️ Q] |   18.70% | ✅ call:$10
+  SichengZuo      | [♦️ A] [♥️ Q] |   13.70% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ 6] [♦️ K] [♥️ 4] ]
+  RaphaelPlayer   | [♥️ T] [♣️ Q] |    2.50% | ✅ call
+  HakulaPlayer    | [♥️ A] [♣️ K] |   56.90% | ✅ call
+  Finneas         | [♣️ 3] [♦️ 8] |    2.90% | ✅ call
+  Zheng           | [♦️ J] [♦️ 2] |   37.70% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 6] [♦️ K] [♥️ 4] [♥️ 5] ]
+  RaphaelPlayer   | [♥️ T] [♣️ Q] |    0.00% | ✅ call
+  HakulaPlayer    | [♥️ A] [♣️ K] |   59.00% | ✅ call
+  Finneas         | [♣️ 3] [♦️ 8] |   15.50% | ✅ call
+  Zheng           | [♦️ J] [♦️ 2] |   25.50% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ 6] [♦️ K] [♥️ 4] [♥️ 5] [♦️ Q] ]
+  RaphaelPlayer   | [♥️ T] [♣️ Q] |    0.00% | ✅ call
+  HakulaPlayer    | [♥️ A] [♣️ K] |    0.00% | ✅ call
+  Finneas         | [♣️ 3] [♦️ 8] |    0.00% | ✅ call
+  Zheng           | [♦️ J] [♦️ 2] |  100.00% | ⬆️ raise:$990
+  RaphaelPlayer   | [♥️ T] [♣️ Q] |    0.00% | ❌ fold
+  HakulaPlayer    | [♥️ A] [♣️ K] |    0.00% | ❌ fold
+  Finneas         | [♣️ 3] [♦️ 8] |    0.00% | ❌ fold
+
+🏆 Winner: Zheng
+Final Stacks:
+  Zheng          : $  1040 📈 (+40)
+  RaphaelPlayer  : $   990 📉 (-5)
+  SichengZuo     : $   990 ➡️ (+0)
+  Yuchun         : $  1000 ➡️ (+0)
+  HakulaPlayer   : $   990 📉 (-10)
+  Ethan          : $  1000 ➡️ (+0)
+  YangZ          : $  1000 ➡️ (+0)
+  Finneas        : $   990 📉 (-10)
+----------------------------------------
+
+🔄 Round 2
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ 6] [♦️ T]        | 💰  1040
+👤 RaphaelPlayer   | [♣️ A] [♠️ Q]        | 💰   990
+👤 SichengZuo      | [♥️ K] [♣️ 5]        | 💰   985
+👤 Yuchun          | [♥️ 9] [♠️ A]        | 💰   990
+👤 HakulaPlayer    | [♣️ K] [♣️ 8]        | 💰   990
+👤 Ethan           | [♠️ T] [♦️ 2]        | 💰  1000
+👤 YangZ           | [♠️ 5] [♠️ 2]        | 💰  1000
+👤 Finneas         | [♠️ J] [♥️ 5]        | 💰   990
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♣️ K] [♣️ 8] |   22.30% | ❌ fold
+  Ethan           | [♠️ T] [♦️ 2] |    8.10% | ❌ fold
+  YangZ           | [♠️ 5] [♠️ 2] |   13.00% | ❌ fold
+  Finneas         | [♠️ J] [♥️ 5] |   14.30% | ✅ call:$10
+  Zheng           | [♦️ 6] [♦️ T] |   29.60% | ✅ call:$10
+  RaphaelPlayer   | [♣️ A] [♠️ Q] |   29.90% | ⬆️ raise:$30
+  SichengZuo      | [♥️ K] [♣️ 5] |   20.80% | ❌ fold
+  Yuchun          | [♥️ 9] [♠️ A] |   16.20% | ❌ fold
+  Finneas         | [♠️ J] [♥️ 5] |   23.20% | ❌ fold
+  Zheng           | [♦️ 6] [♦️ T] |   39.70% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $  1030 📉 (-10)
+  RaphaelPlayer  : $  1025 📈 (+35)
+  SichengZuo     : $   985 ➡️ (+0)
+  Yuchun         : $   990 ➡️ (+0)
+  HakulaPlayer   : $   990 ➡️ (+0)
+  Ethan          : $  1000 ➡️ (+0)
+  YangZ          : $  1000 ➡️ (+0)
+  Finneas        : $   980 📉 (-10)
+----------------------------------------
+
+🔄 Round 3
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ Q] [♠️ K]        | 💰  1030
+👤 RaphaelPlayer   | [♣️ 9] [♥️ Q]        | 💰  1025
+👤 SichengZuo      | [♥️ 3] [♠️ J]        | 💰   985
+👤 Yuchun          | [♥️ 6] [♣️ 5]        | 💰   985
+👤 HakulaPlayer    | [♠️ 6] [♠️ 3]        | 💰   980
+👤 Ethan           | [♥️ 5] [♦️ 7]        | 💰  1000
+👤 YangZ           | [♣️ 7] [♦️ 4]        | 💰  1000
+👤 Finneas         | [♥️ 9] [♠️ 8]        | 💰   980
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♥️ 5] [♦️ 7] |    7.40% | ❌ fold
+  YangZ           | [♣️ 7] [♦️ 4] |   10.40% | ❌ fold
+  Finneas         | [♥️ 9] [♠️ 8] |   14.70% | ✅ call:$10
+  Zheng           | [♦️ Q] [♠️ K] |   38.30% | ✅ call:$10
+  RaphaelPlayer   | [♣️ 9] [♥️ Q] |   13.70% | ✅ call:$10
+  SichengZuo      | [♥️ 3] [♠️ J] |   13.50% | ❌ fold
+  Yuchun          | [♥️ 6] [♣️ 5] |   20.30% | ❌ fold
+  HakulaPlayer    | [♠️ 6] [♠️ 3] |   28.80% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 7] [♦️ 5] [♦️ 3] ]
+  HakulaPlayer    | [♠️ 6] [♠️ 3] |   50.70% | ✅ call
+  Finneas         | [♥️ 9] [♠️ 8] |   21.90% | ✅ call
+  Zheng           | [♦️ Q] [♠️ K] |   22.50% | ✅ call
+  RaphaelPlayer   | [♣️ 9] [♥️ Q] |    5.90% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 7] [♦️ 5] [♦️ 3] [♠️ 9] ]
+  HakulaPlayer    | [♠️ 6] [♠️ 3] |   35.40% | ✅ call
+  Finneas         | [♥️ 9] [♠️ 8] |    7.00% | ✅ call
+  Zheng           | [♦️ Q] [♠️ K] |    7.40% | ✅ call
+  RaphaelPlayer   | [♣️ 9] [♥️ Q] |   50.20% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ 7] [♦️ 5] [♦️ 3] [♠️ 9] [♣️ Q] ]
+  HakulaPlayer    | [♠️ 6] [♠️ 3] |    0.00% | ✅ call
+  Finneas         | [♥️ 9] [♠️ 8] |    0.00% | ✅ call
+  Zheng           | [♦️ Q] [♠️ K] |    0.00% | ✅ call
+  RaphaelPlayer   | [♣️ 9] [♥️ Q] |  100.00% | ⬆️ raise:$55
+  HakulaPlayer    | [♠️ 6] [♠️ 3] |    0.00% | ❌ fold
+  Finneas         | [♥️ 9] [♠️ 8] |    0.00% | ❌ fold
+  Zheng           | [♦️ Q] [♠️ K] |    0.00% | ⬆️ raise:$1020
+  RaphaelPlayer   | [♣️ 9] [♥️ Q] |  100.00% | ✅ call:$1020
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $     5 📉 (-1025)
+  RaphaelPlayer  : $  2075 📈 (+1050)
+  SichengZuo     : $   985 ➡️ (+0)
+  Yuchun         : $   985 ➡️ (+0)
+  HakulaPlayer   : $   980 ➡️ (+0)
+  Ethan          : $  1000 ➡️ (+0)
+  YangZ          : $  1000 ➡️ (+0)
+  Finneas        : $   970 📉 (-10)
+----------------------------------------
+
+🔄 Round 4
+----------------------------------------
+Initial State:
+👤 Zheng           | [♦️ 8] [♣️ A]        | 💰     5
+👤 RaphaelPlayer   | [♣️ K] [♣️ J]        | 💰  2075
+👤 SichengZuo      | [♣️ Q] [♥️ 2]        | 💰   985
+👤 Yuchun          | [♦️ 3] [♠️ Q]        | 💰   985
+👤 HakulaPlayer    | [♥️ A] [♥️ K]        | 💰   975
+👤 Ethan           | [♣️ 2] [♠️ J]        | 💰   990
+👤 YangZ           | [♦️ 2] [♠️ 8]        | 💰  1000
+👤 Finneas         | [♠️ 2] [♠️ 4]        | 💰   970
+
+🎴 PREFLOP
+Board: [  ]
+  YangZ           | [♦️ 2] [♠️ 8] |    5.10% | ❌ fold
+  Finneas         | [♠️ 2] [♠️ 4] |   17.20% | ✅ call:$10
+  Zheng           | [♦️ 8] [♣️ A] |   17.20% | ✅ call:$10
+  RaphaelPlayer   | [♣️ K] [♣️ J] |   20.70% | ⬆️ raise:$30
+  SichengZuo      | [♣️ Q] [♥️ 2] |    9.80% | ❌ fold
+  Yuchun          | [♦️ 3] [♠️ Q] |   16.80% | ❌ fold
+  HakulaPlayer    | [♥️ A] [♥️ K] |   36.60% | ✅ call:$30
+  Ethan           | [♣️ 2] [♠️ J] |    8.60% | ❌ fold
+  Finneas         | [♠️ 2] [♠️ 4] |   30.50% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ 4] [♦️ 9] [♠️ 5] ]
+  HakulaPlayer    | [♥️ A] [♥️ K] |   67.40% | ✅ call
+  RaphaelPlayer   | [♣️ K] [♣️ J] |   14.00% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 4] [♦️ 9] [♠️ 5] [♦️ 7] ]
+  HakulaPlayer    | [♥️ A] [♥️ K] |   61.70% | ⬆️ raise:$35
+  RaphaelPlayer   | [♣️ K] [♣️ J] |    4.50% | ❌ fold
+
+🎴 RIVER
+Board: [ [♦️ 4] [♦️ 9] [♠️ 5] [♦️ 7] [♥️ J] ]
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  Zheng          : $     0 📉 (-5)
+  RaphaelPlayer  : $  2045 📉 (-30)
+  SichengZuo     : $   985 ➡️ (+0)
+  Yuchun         : $   985 ➡️ (+0)
+  HakulaPlayer   : $  1035 📈 (+60)
+  Ethan          : $   990 ➡️ (+0)
+  YangZ          : $  1000 ➡️ (+0)
+  Finneas        : $   960 📉 (-10)
+----------------------------------------
+
+🔄 Round 5
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♦️ Q] [♣️ T]        | 💰  2045
+👤 SichengZuo      | [♣️ 3] [♦️ T]        | 💰   985
+👤 Yuchun          | [♥️ T] [♥️ 9]        | 💰   985
+👤 HakulaPlayer    | [♦️ J] [♦️ A]        | 💰  1035
+👤 Ethan           | [♥️ 2] [♥️ 3]        | 💰   985
+👤 YangZ           | [♥️ 5] [♣️ 8]        | 💰   990
+👤 Finneas         | [♠️ 3] [♠️ 4]        | 💰   960
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♠️ 3] [♠️ 4] |   22.80% | ✅ call:$10
+  RaphaelPlayer   | [♦️ Q] [♣️ T] |   17.20% | ✅ call:$10
+  SichengZuo      | [♣️ 3] [♦️ T] |    3.30% | ❌ fold
+  Yuchun          | [♥️ T] [♥️ 9] |   18.10% | ❌ fold
+  HakulaPlayer    | [♦️ J] [♦️ A] |   30.20% | ⬆️ raise:$33
+  Ethan           | [♥️ 2] [♥️ 3] |   13.70% | ❌ fold
+  YangZ           | [♥️ 5] [♣️ 8] |   18.50% | ❌ fold
+  Finneas         | [♠️ 3] [♠️ 4] |   29.10% | ❌ fold
+  RaphaelPlayer   | [♦️ Q] [♣️ T] |   38.70% | ✅ call:$33
+
+🎴 FLOP
+Board: [ [♠️ 7] [♠️ A] [♣️ 9] ]
+  RaphaelPlayer   | [♦️ Q] [♣️ T] |    6.00% | ✅ call
+  HakulaPlayer    | [♦️ J] [♦️ A] |   94.00% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 7] [♠️ A] [♣️ 9] [♣️ A] ]
+  RaphaelPlayer   | [♦️ Q] [♣️ T] |    0.00% | ✅ call
+  HakulaPlayer    | [♦️ J] [♦️ A] |  100.00% | ⬆️ raise:$124
+  RaphaelPlayer   | [♦️ Q] [♣️ T] |    0.00% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2012 📉 (-33)
+  SichengZuo     : $   985 ➡️ (+0)
+  Yuchun         : $   985 ➡️ (+0)
+  HakulaPlayer   : $  1093 📈 (+58)
+  Ethan          : $   985 ➡️ (+0)
+  YangZ          : $   990 ➡️ (+0)
+  Finneas        : $   950 📉 (-10)
+----------------------------------------
+
+🔄 Round 6
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♥️ 6] [♥️ 8]        | 💰  2012
+👤 SichengZuo      | [♥️ 9] [♦️ A]        | 💰   985
+👤 Yuchun          | [♠️ 2] [♦️ 2]        | 💰   985
+👤 HakulaPlayer    | [♠️ 7] [♣️ Q]        | 💰  1093
+👤 Ethan           | [♦️ Q] [♣️ 2]        | 💰   985
+👤 YangZ           | [♥️ A] [♣️ 7]        | 💰   985
+👤 Finneas         | [♥️ J] [♦️ 7]        | 💰   940
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♥️ 6] [♥️ 8] |   23.70% | ✅ call:$10
+  SichengZuo      | [♥️ 9] [♦️ A] |   28.20% | ❌ fold
+  Yuchun          | [♠️ 2] [♦️ 2] |   12.60% | ❌ fold
+  HakulaPlayer    | [♠️ 7] [♣️ Q] |   15.20% | ✅ call:$10
+  Ethan           | [♦️ Q] [♣️ 2] |   15.60% | ❌ fold
+  YangZ           | [♥️ A] [♣️ 7] |   35.50% | ❌ fold
+  Finneas         | [♥️ J] [♦️ 7] |   24.00% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 8] [♦️ 8] [♦️ J] ]
+  Finneas         | [♥️ J] [♦️ 7] |   11.60% | ✅ call
+  RaphaelPlayer   | [♥️ 6] [♥️ 8] |   86.60% | ⬆️ raise:$45
+  HakulaPlayer    | [♠️ 7] [♣️ Q] |    1.80% | ❌ fold
+  Finneas         | [♥️ J] [♦️ 7] |   13.10% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2037 📈 (+25)
+  SichengZuo     : $   985 ➡️ (+0)
+  Yuchun         : $   985 ➡️ (+0)
+  HakulaPlayer   : $  1083 📉 (-10)
+  Ethan          : $   985 ➡️ (+0)
+  YangZ          : $   985 ➡️ (+0)
+  Finneas        : $   940 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 7
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♣️ 7] [♠️ K]        | 💰  2027
+👤 SichengZuo      | [♦️ 4] [♦️ 5]        | 💰   985
+👤 Yuchun          | [♠️ J] [♣️ K]        | 💰   985
+👤 HakulaPlayer    | [♦️ 2] [♠️ Q]        | 💰  1083
+👤 Ethan           | [♥️ 6] [♥️ Q]        | 💰   985
+👤 YangZ           | [♠️ 6] [♣️ 5]        | 💰   985
+👤 Finneas         | [♠️ 8] [♦️ 6]        | 💰   935
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♦️ 4] [♦️ 5] |   18.70% | ❌ fold
+  Yuchun          | [♠️ J] [♣️ K] |   31.20% | ❌ fold
+  HakulaPlayer    | [♦️ 2] [♠️ Q] |   15.80% | ❌ fold
+  Ethan           | [♥️ 6] [♥️ Q] |   29.70% | ❌ fold
+  YangZ           | [♠️ 6] [♣️ 5] |   24.20% | ❌ fold
+  Finneas         | [♠️ 8] [♦️ 6] |   42.80% | ✅ call:$10
+  RaphaelPlayer   | [♣️ 7] [♠️ K] |   57.70% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♣️ Q] [♠️ 4] [♦️ 8] ]
+  Finneas         | [♠️ 8] [♦️ 6] |   86.60% | ✅ call
+  RaphaelPlayer   | [♣️ 7] [♠️ K] |   13.40% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ Q] [♠️ 4] [♦️ 8] [♣️ 3] ]
+  Finneas         | [♠️ 8] [♦️ 6] |   92.80% | ✅ call
+  RaphaelPlayer   | [♣️ 7] [♠️ K] |    7.20% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ Q] [♠️ 4] [♦️ 8] [♣️ 3] [♦️ T] ]
+  Finneas         | [♠️ 8] [♦️ 6] |  100.00% | ✅ call
+  RaphaelPlayer   | [♣️ 7] [♠️ K] |    0.00% | ✅ call
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2027 ➡️ (+0)
+  SichengZuo     : $   985 ➡️ (+0)
+  Yuchun         : $   985 ➡️ (+0)
+  HakulaPlayer   : $  1083 ➡️ (+0)
+  Ethan          : $   985 ➡️ (+0)
+  YangZ          : $   985 ➡️ (+0)
+  Finneas        : $   950 📈 (+15)
+----------------------------------------
+
+🔄 Round 8
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♥️ 7] [♦️ T]        | 💰  2022
+👤 SichengZuo      | [♠️ K] [♣️ A]        | 💰   975
+👤 Yuchun          | [♠️ 3] [♥️ Q]        | 💰   985
+👤 HakulaPlayer    | [♦️ 2] [♣️ J]        | 💰  1083
+👤 Ethan           | [♥️ 3] [♠️ 2]        | 💰   985
+👤 YangZ           | [♣️ 5] [♥️ A]        | 💰   985
+👤 Finneas         | [♦️ Q] [♣️ Q]        | 💰   950
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♠️ 3] [♥️ Q] |    3.70% | ❌ fold
+  HakulaPlayer    | [♦️ 2] [♣️ J] |    9.50% | ❌ fold
+  Ethan           | [♥️ 3] [♠️ 2] |   11.30% | ❌ fold
+  YangZ           | [♣️ 5] [♥️ A] |   11.60% | ❌ fold
+  Finneas         | [♦️ Q] [♣️ Q] |   43.80% | ⬆️ raise:$482
+  RaphaelPlayer   | [♥️ 7] [♦️ T] |   17.00% | ❌ fold
+  SichengZuo      | [♠️ K] [♣️ A] |   42.70% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2022 ➡️ (+0)
+  SichengZuo     : $   975 ➡️ (+0)
+  Yuchun         : $   985 ➡️ (+0)
+  HakulaPlayer   : $  1083 ➡️ (+0)
+  Ethan          : $   985 ➡️ (+0)
+  YangZ          : $   985 ➡️ (+0)
+  Finneas        : $   965 📈 (+15)
+----------------------------------------
+
+🔄 Round 9
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♥️ 4] [♦️ 4]        | 💰  2022
+👤 SichengZuo      | [♣️ T] [♣️ Q]        | 💰   970
+👤 Yuchun          | [♠️ 4] [♥️ 6]        | 💰   975
+👤 HakulaPlayer    | [♥️ K] [♣️ A]        | 💰  1083
+👤 Ethan           | [♦️ 8] [♦️ K]        | 💰   985
+👤 YangZ           | [♥️ Q] [♥️ J]        | 💰   985
+👤 Finneas         | [♥️ 7] [♣️ 3]        | 💰   965
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♥️ K] [♣️ A] |   19.10% | ✅ call:$10
+  Ethan           | [♦️ 8] [♦️ K] |   16.60% | ❌ fold
+  YangZ           | [♥️ Q] [♥️ J] |   21.50% | ❌ fold
+  Finneas         | [♥️ 7] [♣️ 3] |   12.00% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 4] [♦️ 4] |   12.30% | ✅ call:$10
+  SichengZuo      | [♣️ T] [♣️ Q] |   29.20% | ❌ fold
+  Yuchun          | [♠️ 4] [♥️ 6] |   17.20% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ T] [♠️ 9] [♠️ 5] ]
+  HakulaPlayer    | [♥️ K] [♣️ A] |   28.80% | ✅ call
+  Finneas         | [♥️ 7] [♣️ 3] |   17.80% | ✅ call
+  RaphaelPlayer   | [♥️ 4] [♦️ 4] |   53.40% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ T] [♠️ 9] [♠️ 5] [♥️ 9] ]
+  HakulaPlayer    | [♥️ K] [♣️ A] |   27.40% | ✅ call
+  Finneas         | [♥️ 7] [♣️ 3] |    5.40% | ✅ call
+  RaphaelPlayer   | [♥️ 4] [♦️ 4] |   67.20% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ T] [♠️ 9] [♠️ 5] [♥️ 9] [♥️ 3] ]
+  HakulaPlayer    | [♥️ K] [♣️ A] |    0.00% | ✅ call
+  Finneas         | [♥️ 7] [♣️ 3] |    0.00% | ✅ call
+  RaphaelPlayer   | [♥️ 4] [♦️ 4] |  100.00% | ✅ call
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2057 📈 (+35)
+  SichengZuo     : $   970 ➡️ (+0)
+  Yuchun         : $   975 ➡️ (+0)
+  HakulaPlayer   : $  1073 📉 (-10)
+  Ethan          : $   985 ➡️ (+0)
+  YangZ          : $   985 ➡️ (+0)
+  Finneas        : $   955 📉 (-10)
+----------------------------------------
+
+🔄 Round 10
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♦️ K] [♣️ 2]        | 💰  2057
+👤 SichengZuo      | [♥️ A] [♥️ 5]        | 💰   970
+👤 Yuchun          | [♥️ T] [♠️ 4]        | 💰   970
+👤 HakulaPlayer    | [♥️ 8] [♦️ J]        | 💰  1063
+👤 Ethan           | [♠️ 7] [♦️ 3]        | 💰   985
+👤 YangZ           | [♠️ 5] [♣️ Q]        | 💰   985
+👤 Finneas         | [♦️ A] [♦️ 5]        | 💰   955
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♠️ 7] [♦️ 3] |   10.90% | ❌ fold
+  YangZ           | [♠️ 5] [♣️ Q] |   17.30% | ❌ fold
+  Finneas         | [♦️ A] [♦️ 5] |   26.00% | ✅ call:$10
+  RaphaelPlayer   | [♦️ K] [♣️ 2] |   25.00% | ❌ fold
+  SichengZuo      | [♥️ A] [♥️ 5] |   39.50% | ❌ fold
+  Yuchun          | [♥️ T] [♠️ 4] |   20.70% | ✅ call:$10
+  HakulaPlayer    | [♥️ 8] [♦️ J] |   37.10% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ Q] [♥️ 2] [♠️ 8] ]
+  Yuchun          | [♥️ T] [♠️ 4] |   15.00% | ✅ call
+  HakulaPlayer    | [♥️ 8] [♦️ J] |   71.40% | ✅ call
+  Finneas         | [♦️ A] [♦️ 5] |   13.60% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ Q] [♥️ 2] [♠️ 8] [♠️ A] ]
+  Yuchun          | [♥️ T] [♠️ 4] |   23.80% | ✅ call
+  HakulaPlayer    | [♥️ 8] [♦️ J] |    9.80% | ✅ call
+  Finneas         | [♦️ A] [♦️ 5] |   66.40% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ Q] [♥️ 2] [♠️ 8] [♠️ A] [♠️ J] ]
+  Yuchun          | [♥️ T] [♠️ 4] |  100.00% | ✅ call
+  HakulaPlayer    | [♥️ 8] [♦️ J] |    0.00% | ✅ call
+  Finneas         | [♦️ A] [♦️ 5] |    0.00% | ✅ call
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2057 ➡️ (+0)
+  SichengZuo     : $   970 ➡️ (+0)
+  Yuchun         : $   995 📈 (+25)
+  HakulaPlayer   : $  1063 ➡️ (+0)
+  Ethan          : $   985 ➡️ (+0)
+  YangZ          : $   985 ➡️ (+0)
+  Finneas        : $   945 📉 (-10)
+----------------------------------------
+
+🔄 Round 11
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♥️ 7] [♥️ 9]        | 💰  2057
+👤 SichengZuo      | [♦️ 2] [♦️ 9]        | 💰   970
+👤 Yuchun          | [♣️ Q] [♦️ 7]        | 💰   995
+👤 HakulaPlayer    | [♣️ A] [♥️ A]        | 💰  1058
+👤 Ethan           | [♠️ 5] [♣️ 9]        | 💰   975
+👤 YangZ           | [♦️ 5] [♠️ 8]        | 💰   985
+👤 Finneas         | [♦️ K] [♣️ 7]        | 💰   945
+
+🎴 PREFLOP
+Board: [  ]
+  YangZ           | [♦️ 5] [♠️ 8] |    9.40% | ❌ fold
+  Finneas         | [♦️ K] [♣️ 7] |    4.30% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 7] [♥️ 9] |   14.70% | ✅ call:$10
+  SichengZuo      | [♦️ 2] [♦️ 9] |   11.50% | ❌ fold
+  Yuchun          | [♣️ Q] [♦️ 7] |    5.60% | ✅ call:$10
+  HakulaPlayer    | [♣️ A] [♥️ A] |   64.00% | ⬆️ raise:$38
+  Ethan           | [♠️ 5] [♣️ 9] |   10.70% | ❌ fold
+  Finneas         | [♦️ K] [♣️ 7] |    7.60% | ❌ fold
+  RaphaelPlayer   | [♥️ 7] [♥️ 9] |   19.20% | ✅ call:$38
+  Yuchun          | [♣️ Q] [♦️ 7] |   10.70% | ✅ call:$38
+
+🎴 FLOP
+Board: [ [♥️ 8] [♣️ 8] [♦️ 3] ]
+  HakulaPlayer    | [♣️ A] [♥️ A] |   90.20% | ⬆️ raise:$137
+  RaphaelPlayer   | [♥️ 7] [♥️ 9] |    9.70% | ❌ fold
+  Yuchun          | [♣️ Q] [♦️ 7] |    0.60% | ✅ call:$137
+
+🎴 TURN
+Board: [ [♥️ 8] [♣️ 8] [♦️ 3] [♠️ 2] ]
+  HakulaPlayer    | [♣️ A] [♥️ A] |  100.00% | ⬆️ raise:$539
+  Yuchun          | [♣️ Q] [♦️ 7] |    0.00% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2019 📉 (-38)
+  SichengZuo     : $   970 ➡️ (+0)
+  Yuchun         : $   820 📉 (-175)
+  HakulaPlayer   : $  1296 📈 (+238)
+  Ethan          : $   975 ➡️ (+0)
+  YangZ          : $   985 ➡️ (+0)
+  Finneas        : $   935 📉 (-10)
+----------------------------------------
+
+🔄 Round 12
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♥️ 5] [♥️ K]        | 💰  2019
+👤 SichengZuo      | [♦️ A] [♦️ 3]        | 💰   970
+👤 Yuchun          | [♦️ K] [♠️ K]        | 💰   820
+👤 HakulaPlayer    | [♠️ 2] [♦️ 4]        | 💰  1296
+👤 Ethan           | [♣️ A] [♠️ 7]        | 💰   970
+👤 YangZ           | [♥️ T] [♠️ T]        | 💰   975
+👤 Finneas         | [♥️ 4] [♦️ 9]        | 💰   935
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♥️ 4] [♦️ 9] |    8.70% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 5] [♥️ K] |   12.00% | ✅ call:$10
+  SichengZuo      | [♦️ A] [♦️ 3] |   14.00% | ❌ fold
+  Yuchun          | [♦️ K] [♠️ K] |   35.90% | ✅ call:$10
+  HakulaPlayer    | [♠️ 2] [♦️ 4] |   10.40% | ✅ call:$10
+  Ethan           | [♣️ A] [♠️ 7] |   21.40% | ❌ fold
+  YangZ           | [♥️ T] [♠️ T] |   18.60% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ 5] [♦️ J] [♣️ Q] ]
+  Finneas         | [♥️ 4] [♦️ 9] |    4.30% | ✅ call
+  RaphaelPlayer   | [♥️ 5] [♥️ K] |   14.60% | ✅ call
+  Yuchun          | [♦️ K] [♠️ K] |   81.40% | ✅ call
+  HakulaPlayer    | [♠️ 2] [♦️ 4] |    4.40% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 5] [♦️ J] [♣️ Q] [♦️ 2] ]
+  Finneas         | [♥️ 4] [♦️ 9] |    0.00% | ✅ call
+  RaphaelPlayer   | [♥️ 5] [♥️ K] |    4.90% | ✅ call
+  Yuchun          | [♦️ K] [♠️ K] |   85.20% | ✅ call
+  HakulaPlayer    | [♠️ 2] [♦️ 4] |    9.90% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ 5] [♦️ J] [♣️ Q] [♦️ 2] [♥️ 2] ]
+  Finneas         | [♥️ 4] [♦️ 9] |    0.00% | ✅ call
+  RaphaelPlayer   | [♥️ 5] [♥️ K] |    0.00% | ✅ call
+  Yuchun          | [♦️ K] [♠️ K] |    0.00% | ✅ call
+  HakulaPlayer    | [♠️ 2] [♦️ 4] |  100.00% | ⬆️ raise:$87
+  Finneas         | [♥️ 4] [♦️ 9] |    0.00% | ❌ fold
+  RaphaelPlayer   | [♥️ 5] [♥️ K] |    0.00% | ❌ fold
+  Yuchun          | [♦️ K] [♠️ K] |    0.00% | ⬆️ raise:$810
+  HakulaPlayer    | [♠️ 2] [♦️ 4] |  100.00% | ✅ call:$810
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2009 📉 (-10)
+  SichengZuo     : $   970 ➡️ (+0)
+  Yuchun         : $     0 📉 (-820)
+  HakulaPlayer   : $  2151 📈 (+855)
+  Ethan          : $   970 ➡️ (+0)
+  YangZ          : $   975 ➡️ (+0)
+  Finneas        : $   925 📉 (-10)
+----------------------------------------
+
+🔄 Round 13
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♠️ 3] [♦️ K]        | 💰  2009
+👤 SichengZuo      | [♠️ Q] [♦️ Q]        | 💰   970
+👤 HakulaPlayer    | [♠️ 5] [♦️ 3]        | 💰  2151
+👤 Ethan           | [♠️ 9] [♣️ 3]        | 💰   970
+👤 YangZ           | [♦️ J] [♣️ 6]        | 💰   970
+👤 Finneas         | [♠️ J] [♥️ J]        | 💰   915
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♠️ 3] [♦️ K] |   21.90% | ❌ fold
+  SichengZuo      | [♠️ Q] [♦️ Q] |   63.60% | ❌ fold
+  HakulaPlayer    | [♠️ 5] [♦️ 3] |   13.30% | ❌ fold
+  Ethan           | [♠️ 9] [♣️ 3] |   12.90% | ❌ fold
+  YangZ           | [♦️ J] [♣️ 6] |    7.80% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2009 ➡️ (+0)
+  SichengZuo     : $   970 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2151 ➡️ (+0)
+  Ethan          : $   970 ➡️ (+0)
+  YangZ          : $   970 ➡️ (+0)
+  Finneas        : $   930 📈 (+15)
+----------------------------------------
+
+🔄 Round 14
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♦️ K] [♣️ 4]        | 💰  1999
+👤 SichengZuo      | [♦️ 7] [♣️ 8]        | 💰   970
+👤 HakulaPlayer    | [♣️ K] [♠️ A]        | 💰  2151
+👤 Ethan           | [♠️ 5] [♥️ J]        | 💰   970
+👤 YangZ           | [♥️ Q] [♠️ 3]        | 💰   970
+👤 Finneas         | [♥️ 2] [♦️ 9]        | 💰   925
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♦️ 7] [♣️ 8] |   18.70% | ❌ fold
+  HakulaPlayer    | [♣️ K] [♠️ A] |   33.00% | ✅ call:$10
+  Ethan           | [♠️ 5] [♥️ J] |   19.10% | ❌ fold
+  YangZ           | [♥️ Q] [♠️ 3] |   26.40% | ❌ fold
+  Finneas         | [♥️ 2] [♦️ 9] |   28.90% | ✅ call:$10
+  RaphaelPlayer   | [♦️ K] [♣️ 4] |   19.10% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 6] [♠️ T] [♠️ 9] ]
+  Finneas         | [♥️ 2] [♦️ 9] |   52.60% | ✅ call
+  RaphaelPlayer   | [♦️ K] [♣️ 4] |    2.80% | ✅ call
+  HakulaPlayer    | [♣️ K] [♠️ A] |   49.40% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 6] [♠️ T] [♠️ 9] [♦️ Q] ]
+  Finneas         | [♥️ 2] [♦️ 9] |   60.50% | ✅ call
+  RaphaelPlayer   | [♦️ K] [♣️ 4] |    0.00% | ✅ call
+  HakulaPlayer    | [♣️ K] [♠️ A] |   39.50% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ 6] [♠️ T] [♠️ 9] [♦️ Q] [♦️ 5] ]
+  Finneas         | [♥️ 2] [♦️ 9] |  100.00% | ✅ call
+  RaphaelPlayer   | [♦️ K] [♣️ 4] |    0.00% | ✅ call
+  HakulaPlayer    | [♣️ K] [♠️ A] |    0.00% | ✅ call
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  1999 ➡️ (+0)
+  SichengZuo     : $   970 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2141 📉 (-10)
+  Ethan          : $   970 ➡️ (+0)
+  YangZ          : $   970 ➡️ (+0)
+  Finneas        : $   950 📈 (+25)
+----------------------------------------
+
+🔄 Round 15
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♣️ 8] [♥️ 6]        | 💰  1994
+👤 SichengZuo      | [♥️ 2] [♣️ 4]        | 💰   960
+👤 HakulaPlayer    | [♦️ 3] [♦️ 6]        | 💰  2141
+👤 Ethan           | [♠️ 8] [♥️ 7]        | 💰   970
+👤 YangZ           | [♠️ T] [♥️ T]        | 💰   970
+👤 Finneas         | [♥️ J] [♦️ 7]        | 💰   950
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♦️ 3] [♦️ 6] |   11.90% | ❌ fold
+  Ethan           | [♠️ 8] [♥️ 7] |    8.70% | ❌ fold
+  YangZ           | [♠️ T] [♥️ T] |   50.20% | ❌ fold
+  Finneas         | [♥️ J] [♦️ 7] |   44.20% | ✅ call:$10
+  RaphaelPlayer   | [♣️ 8] [♥️ 6] |   34.70% | ❌ fold
+  SichengZuo      | [♥️ 2] [♣️ 4] |   34.80% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  1994 ➡️ (+0)
+  SichengZuo     : $   960 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2141 ➡️ (+0)
+  Ethan          : $   970 ➡️ (+0)
+  YangZ          : $   970 ➡️ (+0)
+  Finneas        : $   965 📈 (+15)
+----------------------------------------
+
+🔄 Round 16
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♣️ J] [♦️ A]        | 💰  1994
+👤 SichengZuo      | [♥️ 3] [♠️ T]        | 💰   955
+👤 HakulaPlayer    | [♣️ 9] [♥️ T]        | 💰  2131
+👤 Ethan           | [♥️ J] [♦️ 7]        | 💰   970
+👤 YangZ           | [♥️ 2] [♦️ Q]        | 💰   970
+👤 Finneas         | [♣️ 3] [♣️ 6]        | 💰   965
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♥️ J] [♦️ 7] |   11.40% | ❌ fold
+  YangZ           | [♥️ 2] [♦️ Q] |   16.00% | ❌ fold
+  Finneas         | [♣️ 3] [♣️ 6] |   21.60% | ✅ call:$10
+  RaphaelPlayer   | [♣️ J] [♦️ A] |   45.70% | ⬆️ raise:$30
+  SichengZuo      | [♥️ 3] [♠️ T] |   11.30% | ❌ fold
+  HakulaPlayer    | [♣️ 9] [♥️ T] |   33.30% | ✅ call:$30
+  Finneas         | [♣️ 3] [♣️ 6] |   25.80% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ 5] [♥️ 8] [♠️ 8] ]
+  HakulaPlayer    | [♣️ 9] [♥️ T] |   28.40% | ✅ call
+  RaphaelPlayer   | [♣️ J] [♦️ A] |   72.50% | ⬆️ raise:$85
+  HakulaPlayer    | [♣️ 9] [♥️ T] |   28.40% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2039 📈 (+45)
+  SichengZuo     : $   955 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2111 📉 (-20)
+  Ethan          : $   970 ➡️ (+0)
+  YangZ          : $   970 ➡️ (+0)
+  Finneas        : $   955 📉 (-10)
+----------------------------------------
+
+🔄 Round 17
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♥️ 5] [♣️ T]        | 💰  2039
+👤 SichengZuo      | [♠️ 7] [♦️ A]        | 💰   955
+👤 HakulaPlayer    | [♦️ 9] [♦️ 4]        | 💰  2106
+👤 Ethan           | [♣️ J] [♦️ K]        | 💰   960
+👤 YangZ           | [♣️ A] [♦️ 6]        | 💰   970
+👤 Finneas         | [♠️ J] [♦️ T]        | 💰   955
+
+🎴 PREFLOP
+Board: [  ]
+  YangZ           | [♣️ A] [♦️ 6] |   13.20% | ❌ fold
+  Finneas         | [♠️ J] [♦️ T] |   17.20% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 5] [♣️ T] |   12.80% | ❌ fold
+  SichengZuo      | [♠️ 7] [♦️ A] |   29.40% | ❌ fold
+  HakulaPlayer    | [♦️ 9] [♦️ 4] |   28.60% | ✅ call:$10
+  Ethan           | [♣️ J] [♦️ K] |   47.70% | ⬆️ raise:$145
+  Finneas         | [♠️ J] [♦️ T] |   25.60% | ❌ fold
+  HakulaPlayer    | [♦️ 9] [♦️ 4] |   36.60% | ❌ fold
+
+🏆 Winner: Ethan
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2039 ➡️ (+0)
+  SichengZuo     : $   955 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2101 📉 (-5)
+  Ethan          : $   990 📈 (+30)
+  YangZ          : $   970 ➡️ (+0)
+  Finneas        : $   945 📉 (-10)
+----------------------------------------
+
+🔄 Round 18
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♦️ T] [♠️ 4]        | 💰  2039
+👤 SichengZuo      | [♠️ 6] [♣️ J]        | 💰   955
+👤 HakulaPlayer    | [♦️ 8] [♦️ Q]        | 💰  2101
+👤 Ethan           | [♥️ J] [♥️ K]        | 💰   985
+👤 YangZ           | [♦️ 3] [♠️ T]        | 💰   960
+👤 Finneas         | [♣️ K] [♣️ 5]        | 💰   945
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♣️ K] [♣️ 5] |   18.90% | ✅ call:$10
+  RaphaelPlayer   | [♦️ T] [♠️ 4] |   11.70% | ❌ fold
+  SichengZuo      | [♠️ 6] [♣️ J] |    9.30% | ❌ fold
+  HakulaPlayer    | [♦️ 8] [♦️ Q] |   31.10% | ✅ call:$10
+  Ethan           | [♥️ J] [♥️ K] |   36.20% | ⬆️ raise:$148
+  YangZ           | [♦️ 3] [♠️ T] |   17.70% | ❌ fold
+  Finneas         | [♣️ K] [♣️ 5] |   22.40% | ❌ fold
+  HakulaPlayer    | [♦️ 8] [♦️ Q] |   37.00% | ✅ call:$148
+
+🎴 FLOP
+Board: [ [♠️ 5] [♦️ 9] [♣️ 9] ]
+  Ethan           | [♥️ J] [♥️ K] |   72.30% | ✅ call
+  HakulaPlayer    | [♦️ 8] [♦️ Q] |   29.30% | ⬆️ raise:$257
+  Ethan           | [♥️ J] [♥️ K] |   72.30% | ✅ call:$257
+
+🎴 TURN
+Board: [ [♠️ 5] [♦️ 9] [♣️ 9] [♠️ Q] ]
+  Ethan           | [♥️ J] [♥️ K] |   17.60% | ✅ call
+  HakulaPlayer    | [♦️ 8] [♦️ Q] |   82.40% | ⬆️ raise:$1127
+  Ethan           | [♥️ J] [♥️ K] |   17.60% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2039 ➡️ (+0)
+  SichengZuo     : $   955 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2526 📈 (+425)
+  Ethan          : $   585 📉 (-400)
+  YangZ          : $   960 ➡️ (+0)
+  Finneas        : $   935 📉 (-10)
+----------------------------------------
+
+🔄 Round 19
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♣️ 6] [♥️ 4]        | 💰  2039
+👤 SichengZuo      | [♠️ K] [♣️ J]        | 💰   955
+👤 HakulaPlayer    | [♠️ Q] [♥️ 3]        | 💰  2526
+👤 Ethan           | [♠️ 4] [♥️ 5]        | 💰   585
+👤 YangZ           | [♠️ 3] [♣️ K]        | 💰   955
+👤 Finneas         | [♥️ Q] [♠️ 8]        | 💰   925
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♣️ 6] [♥️ 4] |   19.20% | ❌ fold
+  SichengZuo      | [♠️ K] [♣️ J] |   38.40% | ❌ fold
+  HakulaPlayer    | [♠️ Q] [♥️ 3] |    8.60% | ❌ fold
+  Ethan           | [♠️ 4] [♥️ 5] |   29.30% | ❌ fold
+  YangZ           | [♠️ 3] [♣️ K] |   59.80% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2039 ➡️ (+0)
+  SichengZuo     : $   955 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2526 ➡️ (+0)
+  Ethan          : $   585 ➡️ (+0)
+  YangZ          : $   955 ➡️ (+0)
+  Finneas        : $   940 📈 (+15)
+----------------------------------------
+
+🔄 Round 20
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♠️ Q] [♣️ 5]        | 💰  2029
+👤 SichengZuo      | [♥️ 6] [♠️ 9]        | 💰   955
+👤 HakulaPlayer    | [♥️ J] [♥️ 3]        | 💰  2526
+👤 Ethan           | [♦️ Q] [♠️ 8]        | 💰   585
+👤 YangZ           | [♦️ 2] [♦️ K]        | 💰   955
+👤 Finneas         | [♠️ 4] [♣️ T]        | 💰   935
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♥️ 6] [♠️ 9] |   15.00% | ❌ fold
+  HakulaPlayer    | [♥️ J] [♥️ 3] |   28.00% | ❌ fold
+  Ethan           | [♦️ Q] [♠️ 8] |   27.50% | ❌ fold
+  YangZ           | [♦️ 2] [♦️ K] |   46.80% | ❌ fold
+  Finneas         | [♠️ 4] [♣️ T] |   37.20% | ✅ call:$10
+  RaphaelPlayer   | [♠️ Q] [♣️ 5] |   63.60% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 6] [♥️ Q] [♦️ 5] ]
+  Finneas         | [♠️ 4] [♣️ T] |    5.60% | ✅ call
+  RaphaelPlayer   | [♠️ Q] [♣️ 5] |   94.40% | ⬆️ raise:$30
+  Finneas         | [♠️ 4] [♣️ T] |    5.60% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2049 📈 (+20)
+  SichengZuo     : $   955 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2526 ➡️ (+0)
+  Ethan          : $   585 ➡️ (+0)
+  YangZ          : $   955 ➡️ (+0)
+  Finneas        : $   930 📉 (-5)
+----------------------------------------
+
+🔄 Round 21
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♦️ K] [♦️ 5]        | 💰  2044
+👤 SichengZuo      | [♦️ 4] [♠️ 6]        | 💰   945
+👤 HakulaPlayer    | [♣️ T] [♠️ 4]        | 💰  2526
+👤 Ethan           | [♦️ 3] [♦️ 8]        | 💰   585
+👤 YangZ           | [♦️ 6] [♠️ 7]        | 💰   955
+👤 Finneas         | [♦️ Q] [♥️ 4]        | 💰   930
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♣️ T] [♠️ 4] |   16.20% | ❌ fold
+  Ethan           | [♦️ 3] [♦️ 8] |   16.40% | ❌ fold
+  YangZ           | [♦️ 6] [♠️ 7] |   27.80% | ❌ fold
+  Finneas         | [♦️ Q] [♥️ 4] |   29.20% | ✅ call:$10
+  RaphaelPlayer   | [♦️ K] [♦️ 5] |   50.60% | ✅ call:$10
+  SichengZuo      | [♦️ 4] [♠️ 6] |   23.20% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ J] [♠️ 2] [♠️ Q] ]
+  RaphaelPlayer   | [♦️ K] [♦️ 5] |   15.30% | ✅ call
+  Finneas         | [♦️ Q] [♥️ 4] |   84.70% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ J] [♠️ 2] [♠️ Q] [♥️ Q] ]
+  RaphaelPlayer   | [♦️ K] [♦️ 5] |    0.00% | ✅ call
+  Finneas         | [♦️ Q] [♥️ 4] |  100.00% | ⬆️ raise:$465
+  RaphaelPlayer   | [♦️ K] [♦️ 5] |    0.00% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2039 📉 (-5)
+  SichengZuo     : $   945 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2526 ➡️ (+0)
+  Ethan          : $   585 ➡️ (+0)
+  YangZ          : $   955 ➡️ (+0)
+  Finneas        : $   950 📈 (+20)
+----------------------------------------
+
+🔄 Round 22
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♦️ 8] [♣️ 5]        | 💰  2039
+👤 SichengZuo      | [♣️ T] [♦️ 3]        | 💰   940
+👤 HakulaPlayer    | [♦️ 7] [♥️ T]        | 💰  2516
+👤 Ethan           | [♥️ J] [♠️ 7]        | 💰   585
+👤 YangZ           | [♦️ 6] [♣️ 6]        | 💰   955
+👤 Finneas         | [♣️ Q] [♣️ 8]        | 💰   950
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♥️ J] [♠️ 7] |   22.80% | ❌ fold
+  YangZ           | [♦️ 6] [♣️ 6] |   31.90% | ❌ fold
+  Finneas         | [♣️ Q] [♣️ 8] |   45.20% | ✅ call:$10
+  RaphaelPlayer   | [♦️ 8] [♣️ 5] |   20.40% | ❌ fold
+  SichengZuo      | [♣️ T] [♦️ 3] |   17.90% | ❌ fold
+  HakulaPlayer    | [♦️ 7] [♥️ T] |   35.10% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♥️ 2] [♠️ J] [♠️ 5] ]
+  HakulaPlayer    | [♦️ 7] [♥️ T] |   20.40% | ✅ call
+  Finneas         | [♣️ Q] [♣️ 8] |   79.60% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 2] [♠️ J] [♠️ 5] [♥️ 3] ]
+  HakulaPlayer    | [♦️ 7] [♥️ T] |   13.80% | ✅ call
+  Finneas         | [♣️ Q] [♣️ 8] |   86.20% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ 2] [♠️ J] [♠️ 5] [♥️ 3] [♠️ 2] ]
+  HakulaPlayer    | [♦️ 7] [♥️ T] |    0.00% | ✅ call
+  Finneas         | [♣️ Q] [♣️ 8] |  100.00% | ✅ call
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2039 ➡️ (+0)
+  SichengZuo     : $   940 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2516 ➡️ (+0)
+  Ethan          : $   585 ➡️ (+0)
+  YangZ          : $   955 ➡️ (+0)
+  Finneas        : $   965 📈 (+15)
+----------------------------------------
+
+🔄 Round 23
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♠️ Q] [♥️ 2]        | 💰  2039
+👤 SichengZuo      | [♠️ K] [♠️ 8]        | 💰   940
+👤 HakulaPlayer    | [♣️ 9] [♣️ 7]        | 💰  2511
+👤 Ethan           | [♠️ A] [♥️ A]        | 💰   575
+👤 YangZ           | [♠️ 2] [♥️ 3]        | 💰   955
+👤 Finneas         | [♣️ Q] [♥️ 5]        | 💰   965
+
+🎴 PREFLOP
+Board: [  ]
+  YangZ           | [♠️ 2] [♥️ 3] |    7.20% | ❌ fold
+  Finneas         | [♣️ Q] [♥️ 5] |    8.80% | ✅ call:$10
+  RaphaelPlayer   | [♠️ Q] [♥️ 2] |    6.20% | ❌ fold
+  SichengZuo      | [♠️ K] [♠️ 8] |   13.60% | ❌ fold
+  HakulaPlayer    | [♣️ 9] [♣️ 7] |   18.20% | ✅ call:$10
+  Ethan           | [♠️ A] [♥️ A] |   72.20% | ⬆️ raise:$175
+  Finneas         | [♣️ Q] [♥️ 5] |   10.00% | ❌ fold
+  HakulaPlayer    | [♣️ 9] [♣️ 7] |   20.20% | ❌ fold
+
+🏆 Winner: Ethan
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2039 ➡️ (+0)
+  SichengZuo     : $   940 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2506 📉 (-5)
+  Ethan          : $   605 📈 (+30)
+  YangZ          : $   955 ➡️ (+0)
+  Finneas        : $   955 📉 (-10)
+----------------------------------------
+
+🔄 Round 24
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♥️ Q] [♦️ 5]        | 💰  2039
+👤 SichengZuo      | [♦️ J] [♥️ 4]        | 💰   940
+👤 HakulaPlayer    | [♣️ A] [♠️ Q]        | 💰  2506
+👤 Ethan           | [♠️ A] [♣️ 2]        | 💰   600
+👤 YangZ           | [♣️ 9] [♣️ Q]        | 💰   945
+👤 Finneas         | [♠️ 7] [♣️ 7]        | 💰   955
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♠️ 7] [♣️ 7] |   34.50% | ✅ call:$10
+  RaphaelPlayer   | [♥️ Q] [♦️ 5] |    7.30% | ✅ call:$10
+  SichengZuo      | [♦️ J] [♥️ 4] |   19.20% | ❌ fold
+  HakulaPlayer    | [♣️ A] [♠️ Q] |   20.50% | ⬆️ raise:$39
+  Ethan           | [♠️ A] [♣️ 2] |   12.20% | ❌ fold
+  YangZ           | [♣️ 9] [♣️ Q] |   23.50% | ❌ fold
+  Finneas         | [♠️ 7] [♣️ 7] |   55.60% | ❌ fold
+  RaphaelPlayer   | [♥️ Q] [♦️ 5] |   25.70% | ✅ call:$39
+
+🎴 FLOP
+Board: [ [♦️ K] [♠️ 5] [♥️ 6] ]
+  RaphaelPlayer   | [♥️ Q] [♦️ 5] |   83.90% | ⬆️ raise:$113
+  HakulaPlayer    | [♣️ A] [♠️ Q] |   16.10% | ✅ call:$113
+
+🎴 TURN
+Board: [ [♦️ K] [♠️ 5] [♥️ 6] [♦️ 4] ]
+  RaphaelPlayer   | [♥️ Q] [♦️ 5] |   93.70% | ⬆️ raise:$339
+  HakulaPlayer    | [♣️ A] [♠️ Q] |    6.30% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2216 📈 (+177)
+  SichengZuo     : $   940 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2354 📉 (-152)
+  Ethan          : $   600 ➡️ (+0)
+  YangZ          : $   945 ➡️ (+0)
+  Finneas        : $   945 📉 (-10)
+----------------------------------------
+
+🔄 Round 25
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♥️ 9] [♠️ 9]        | 💰  2216
+👤 SichengZuo      | [♥️ 2] [♥️ T]        | 💰   940
+👤 HakulaPlayer    | [♣️ 8] [♠️ A]        | 💰  2354
+👤 Ethan           | [♥️ J] [♦️ 3]        | 💰   600
+👤 YangZ           | [♦️ J] [♠️ 4]        | 💰   940
+👤 Finneas         | [♠️ 8] [♠️ T]        | 💰   935
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♥️ 9] [♠️ 9] |   32.50% | ⬆️ raise:$30
+  SichengZuo      | [♥️ 2] [♥️ T] |   15.00% | ❌ fold
+  HakulaPlayer    | [♣️ 8] [♠️ A] |   21.60% | ❌ fold
+  Ethan           | [♥️ J] [♦️ 3] |   18.40% | ❌ fold
+  YangZ           | [♦️ J] [♠️ 4] |   26.30% | ❌ fold
+  Finneas         | [♠️ 8] [♠️ T] |   30.90% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2231 📈 (+15)
+  SichengZuo     : $   940 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2354 ➡️ (+0)
+  Ethan          : $   600 ➡️ (+0)
+  YangZ          : $   940 ➡️ (+0)
+  Finneas        : $   935 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 26
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♠️ 5] [♠️ Q]        | 💰  2221
+👤 SichengZuo      | [♣️ 5] [♣️ 8]        | 💰   940
+👤 HakulaPlayer    | [♣️ 4] [♠️ 8]        | 💰  2354
+👤 Ethan           | [♥️ 2] [♦️ 7]        | 💰   600
+👤 YangZ           | [♣️ J] [♠️ J]        | 💰   940
+👤 Finneas         | [♥️ 8] [♥️ 4]        | 💰   930
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♣️ 5] [♣️ 8] |    9.60% | ❌ fold
+  HakulaPlayer    | [♣️ 4] [♠️ 8] |    6.20% | ❌ fold
+  Ethan           | [♥️ 2] [♦️ 7] |    9.90% | ❌ fold
+  YangZ           | [♣️ J] [♠️ J] |   53.60% | ❌ fold
+  Finneas         | [♥️ 8] [♥️ 4] |   39.80% | ✅ call:$10
+  RaphaelPlayer   | [♠️ 5] [♠️ Q] |   61.10% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ T] [♥️ 3] [♦️ A] ]
+  Finneas         | [♥️ 8] [♥️ 4] |   28.10% | ✅ call
+  RaphaelPlayer   | [♠️ 5] [♠️ Q] |   73.10% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ T] [♥️ 3] [♦️ A] [♦️ 2] ]
+  Finneas         | [♥️ 8] [♥️ 4] |   14.00% | ✅ call
+  RaphaelPlayer   | [♠️ 5] [♠️ Q] |   86.00% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ T] [♥️ 3] [♦️ A] [♦️ 2] [♥️ T] ]
+  Finneas         | [♥️ 8] [♥️ 4] |    0.00% | ✅ call
+  RaphaelPlayer   | [♠️ 5] [♠️ Q] |  100.00% | ✅ call
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2241 📈 (+20)
+  SichengZuo     : $   940 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2354 ➡️ (+0)
+  Ethan          : $   600 ➡️ (+0)
+  YangZ          : $   940 ➡️ (+0)
+  Finneas        : $   925 📉 (-5)
+----------------------------------------
+
+🔄 Round 27
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♠️ 2] [♣️ K]        | 💰  2236
+👤 SichengZuo      | [♣️ Q] [♠️ 4]        | 💰   930
+👤 HakulaPlayer    | [♠️ T] [♥️ 4]        | 💰  2354
+👤 Ethan           | [♠️ 5] [♥️ 5]        | 💰   600
+👤 YangZ           | [♣️ 2] [♣️ 4]        | 💰   940
+👤 Finneas         | [♦️ 5] [♦️ 2]        | 💰   925
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♠️ T] [♥️ 4] |   16.60% | ❌ fold
+  Ethan           | [♠️ 5] [♥️ 5] |   37.80% | ❌ fold
+  YangZ           | [♣️ 2] [♣️ 4] |   12.00% | ❌ fold
+  Finneas         | [♦️ 5] [♦️ 2] |   29.10% | ✅ call:$10
+  RaphaelPlayer   | [♠️ 2] [♣️ K] |   44.70% | ❌ fold
+  SichengZuo      | [♣️ Q] [♠️ 4] |   57.90% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2236 ➡️ (+0)
+  SichengZuo     : $   930 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2354 ➡️ (+0)
+  Ethan          : $   600 ➡️ (+0)
+  YangZ          : $   940 ➡️ (+0)
+  Finneas        : $   940 📈 (+15)
+----------------------------------------
+
+🔄 Round 28
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♥️ Q] [♣️ 8]        | 💰  2236
+👤 SichengZuo      | [♣️ 4] [♦️ 3]        | 💰   925
+👤 HakulaPlayer    | [♣️ K] [♣️ Q]        | 💰  2344
+👤 Ethan           | [♠️ 7] [♠️ 3]        | 💰   600
+👤 YangZ           | [♥️ T] [♥️ 7]        | 💰   940
+👤 Finneas         | [♣️ 2] [♥️ K]        | 💰   940
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♠️ 7] [♠️ 3] |   18.80% | ❌ fold
+  YangZ           | [♥️ T] [♥️ 7] |   28.10% | ❌ fold
+  Finneas         | [♣️ 2] [♥️ K] |   15.20% | ✅ call:$10
+  RaphaelPlayer   | [♥️ Q] [♣️ 8] |   24.20% | ✅ call:$10
+  SichengZuo      | [♣️ 4] [♦️ 3] |   31.30% | ❌ fold
+  HakulaPlayer    | [♣️ K] [♣️ Q] |   60.00% | ⬆️ raise:$43
+  Finneas         | [♣️ 2] [♥️ K] |   23.80% | ❌ fold
+  RaphaelPlayer   | [♥️ Q] [♣️ 8] |   24.70% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2226 📉 (-10)
+  SichengZuo     : $   925 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2379 📈 (+35)
+  Ethan          : $   600 ➡️ (+0)
+  YangZ          : $   940 ➡️ (+0)
+  Finneas        : $   930 📉 (-10)
+----------------------------------------
+
+🔄 Round 29
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♣️ 3] [♠️ 2]        | 💰  2226
+👤 SichengZuo      | [♣️ Q] [♥️ A]        | 💰   925
+👤 HakulaPlayer    | [♥️ 4] [♣️ J]        | 💰  2374
+👤 Ethan           | [♣️ 7] [♥️ 6]        | 💰   590
+👤 YangZ           | [♣️ A] [♦️ 6]        | 💰   940
+👤 Finneas         | [♠️ 9] [♦️ 2]        | 💰   930
+
+🎴 PREFLOP
+Board: [  ]
+  YangZ           | [♣️ A] [♦️ 6] |   10.80% | ❌ fold
+  Finneas         | [♠️ 9] [♦️ 2] |   12.80% | ✅ call:$10
+  RaphaelPlayer   | [♣️ 3] [♠️ 2] |   10.10% | ❌ fold
+  SichengZuo      | [♣️ Q] [♥️ A] |   40.80% | ❌ fold
+  HakulaPlayer    | [♥️ 4] [♣️ J] |   38.70% | ✅ call:$10
+  Ethan           | [♣️ 7] [♥️ 6] |   34.20% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ 8] [♥️ J] [♠️ 3] ]
+  HakulaPlayer    | [♥️ 4] [♣️ J] |   89.10% | ✅ call
+  Ethan           | [♣️ 7] [♥️ 6] |    7.10% | ✅ call
+  Finneas         | [♠️ 9] [♦️ 2] |    3.80% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 8] [♥️ J] [♠️ 3] [♦️ T] ]
+  HakulaPlayer    | [♥️ 4] [♣️ J] |   76.60% | ✅ call
+  Ethan           | [♣️ 7] [♥️ 6] |    7.50% | ✅ call
+  Finneas         | [♠️ 9] [♦️ 2] |   15.90% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ 8] [♥️ J] [♠️ 3] [♦️ T] [♣️ 5] ]
+  HakulaPlayer    | [♥️ 4] [♣️ J] |  100.00% | ✅ call
+  Ethan           | [♣️ 7] [♥️ 6] |    0.00% | ✅ call
+  Finneas         | [♠️ 9] [♦️ 2] |    0.00% | ✅ call
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2226 ➡️ (+0)
+  SichengZuo     : $   925 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2399 📈 (+25)
+  Ethan          : $   590 ➡️ (+0)
+  YangZ          : $   940 ➡️ (+0)
+  Finneas        : $   920 📉 (-10)
+----------------------------------------
+
+🔄 Round 30
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♠️ T] [♦️ J]        | 💰  2226
+👤 SichengZuo      | [♥️ 5] [♦️ 5]        | 💰   925
+👤 HakulaPlayer    | [♥️ T] [♥️ 6]        | 💰  2399
+👤 Ethan           | [♦️ 9] [♥️ 9]        | 💰   585
+👤 YangZ           | [♦️ 7] [♥️ Q]        | 💰   930
+👤 Finneas         | [♠️ K] [♥️ 4]        | 💰   920
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♠️ K] [♥️ 4] |   17.60% | ✅ call:$10
+  RaphaelPlayer   | [♠️ T] [♦️ J] |   17.40% | ✅ call:$10
+  SichengZuo      | [♥️ 5] [♦️ 5] |   18.00% | ❌ fold
+  HakulaPlayer    | [♥️ T] [♥️ 6] |   11.20% | ✅ call:$10
+  Ethan           | [♦️ 9] [♥️ 9] |   26.20% | ✅ call:$10
+  YangZ           | [♦️ 7] [♥️ Q] |   19.80% | ❌ fold
+
+🎴 FLOP
+Board: [ [♠️ 7] [♥️ 8] [♥️ K] ]
+  Ethan           | [♦️ 9] [♥️ 9] |    4.50% | ✅ call
+  Finneas         | [♠️ K] [♥️ 4] |   56.20% | ✅ call
+  RaphaelPlayer   | [♠️ T] [♦️ J] |    6.70% | ✅ call
+  HakulaPlayer    | [♥️ T] [♥️ 6] |   33.00% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 7] [♥️ 8] [♥️ K] [♠️ 6] ]
+  Ethan           | [♦️ 9] [♥️ 9] |   13.00% | ✅ call
+  Finneas         | [♠️ K] [♥️ 4] |   59.80% | ✅ call
+  RaphaelPlayer   | [♠️ T] [♦️ J] |    4.60% | ✅ call
+  HakulaPlayer    | [♥️ T] [♥️ 6] |   22.60% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ 7] [♥️ 8] [♥️ K] [♠️ 6] [♣️ 4] ]
+  Ethan           | [♦️ 9] [♥️ 9] |    0.00% | ✅ call
+  Finneas         | [♠️ K] [♥️ 4] |  100.00% | ✅ call
+  RaphaelPlayer   | [♠️ T] [♦️ J] |    0.00% | ✅ call
+  HakulaPlayer    | [♥️ T] [♥️ 6] |    0.00% | ✅ call
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2216 📉 (-10)
+  SichengZuo     : $   925 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2389 📉 (-10)
+  Ethan          : $   580 📉 (-5)
+  YangZ          : $   930 ➡️ (+0)
+  Finneas        : $   960 📈 (+40)
+----------------------------------------
+
+🔄 Round 31
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♥️ K] [♣️ T]        | 💰  2216
+👤 SichengZuo      | [♠️ K] [♣️ 5]        | 💰   925
+👤 HakulaPlayer    | [♣️ 3] [♣️ 7]        | 💰  2389
+👤 Ethan           | [♦️ 5] [♠️ J]        | 💰   580
+👤 YangZ           | [♦️ T] [♥️ 3]        | 💰   925
+👤 Finneas         | [♠️ T] [♥️ 5]        | 💰   950
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♥️ K] [♣️ T] |   42.00% | ⬆️ raise:$30
+  SichengZuo      | [♠️ K] [♣️ 5] |   14.30% | ❌ fold
+  HakulaPlayer    | [♣️ 3] [♣️ 7] |   26.40% | ❌ fold
+  Ethan           | [♦️ 5] [♠️ J] |   30.30% | ❌ fold
+  YangZ           | [♦️ T] [♥️ 3] |   19.20% | ❌ fold
+  Finneas         | [♠️ T] [♥️ 5] |   27.70% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2231 📈 (+15)
+  SichengZuo     : $   925 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2389 ➡️ (+0)
+  Ethan          : $   580 ➡️ (+0)
+  YangZ          : $   925 ➡️ (+0)
+  Finneas        : $   950 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 32
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♥️ 5] [♣️ T]        | 💰  2221
+👤 SichengZuo      | [♣️ 9] [♦️ 9]        | 💰   925
+👤 HakulaPlayer    | [♥️ 8] [♦️ A]        | 💰  2389
+👤 Ethan           | [♦️ K] [♠️ 4]        | 💰   580
+👤 YangZ           | [♠️ J] [♥️ T]        | 💰   925
+👤 Finneas         | [♥️ Q] [♥️ 3]        | 💰   945
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♣️ 9] [♦️ 9] |   21.70% | ❌ fold
+  HakulaPlayer    | [♥️ 8] [♦️ A] |   26.60% | ✅ call:$10
+  Ethan           | [♦️ K] [♠️ 4] |   19.60% | ❌ fold
+  YangZ           | [♠️ J] [♥️ T] |   33.00% | ❌ fold
+  Finneas         | [♥️ Q] [♥️ 3] |   29.90% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 5] [♣️ T] |   27.80% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ 6] [♦️ 7] [♦️ 3] ]
+  Finneas         | [♥️ Q] [♥️ 3] |   44.90% | ✅ call
+  HakulaPlayer    | [♥️ 8] [♦️ A] |   55.10% | ⬆️ raise:$43
+  Finneas         | [♥️ Q] [♥️ 3] |   44.90% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2221 ➡️ (+0)
+  SichengZuo     : $   925 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2409 📈 (+20)
+  Ethan          : $   580 ➡️ (+0)
+  YangZ          : $   925 ➡️ (+0)
+  Finneas        : $   940 📉 (-5)
+----------------------------------------
+
+🔄 Round 33
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♣️ Q] [♠️ 6]        | 💰  2216
+👤 SichengZuo      | [♠️ T] [♥️ Q]        | 💰   915
+👤 HakulaPlayer    | [♥️ 2] [♣️ J]        | 💰  2409
+👤 Ethan           | [♦️ Q] [♣️ 7]        | 💰   580
+👤 YangZ           | [♠️ 8] [♣️ 4]        | 💰   925
+👤 Finneas         | [♦️ A] [♥️ 3]        | 💰   940
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♥️ 2] [♣️ J] |   17.70% | ❌ fold
+  Ethan           | [♦️ Q] [♣️ 7] |   13.10% | ❌ fold
+  YangZ           | [♠️ 8] [♣️ 4] |   21.00% | ❌ fold
+  Finneas         | [♦️ A] [♥️ 3] |   45.00% | ✅ call:$10
+  RaphaelPlayer   | [♣️ Q] [♠️ 6] |   21.60% | ✅ call:$10
+  SichengZuo      | [♠️ T] [♥️ Q] |   37.80% | ❌ fold
+
+🎴 FLOP
+Board: [ [♠️ 9] [♦️ 4] [♠️ A] ]
+  RaphaelPlayer   | [♣️ Q] [♠️ 6] |    4.30% | ✅ call
+  Finneas         | [♦️ A] [♥️ 3] |   95.70% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 9] [♦️ 4] [♠️ A] [♥️ T] ]
+  RaphaelPlayer   | [♣️ Q] [♠️ 6] |    0.00% | ✅ call
+  Finneas         | [♦️ A] [♥️ 3] |  100.00% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ 9] [♦️ 4] [♠️ A] [♥️ T] [♠️ 2] ]
+  RaphaelPlayer   | [♣️ Q] [♠️ 6] |    0.00% | ✅ call
+  Finneas         | [♦️ A] [♥️ 3] |  100.00% | ✅ call
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2211 📉 (-5)
+  SichengZuo     : $   915 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2409 ➡️ (+0)
+  Ethan          : $   580 ➡️ (+0)
+  YangZ          : $   925 ➡️ (+0)
+  Finneas        : $   960 📈 (+20)
+----------------------------------------
+
+🔄 Round 34
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♠️ J] [♣️ 3]        | 💰  2211
+👤 SichengZuo      | [♣️ K] [♦️ Q]        | 💰   910
+👤 HakulaPlayer    | [♠️ T] [♠️ 2]        | 💰  2399
+👤 Ethan           | [♠️ 8] [♦️ 4]        | 💰   580
+👤 YangZ           | [♦️ 9] [♠️ A]        | 💰   925
+👤 Finneas         | [♥️ 3] [♥️ Q]        | 💰   960
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♠️ 8] [♦️ 4] |   13.80% | ❌ fold
+  YangZ           | [♦️ 9] [♠️ A] |   28.50% | ❌ fold
+  Finneas         | [♥️ 3] [♥️ Q] |   16.80% | ✅ call:$10
+  RaphaelPlayer   | [♠️ J] [♣️ 3] |   18.40% | ❌ fold
+  SichengZuo      | [♣️ K] [♦️ Q] |   46.20% | ❌ fold
+  HakulaPlayer    | [♠️ T] [♠️ 2] |   38.70% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♥️ 4] [♦️ 6] [♠️ K] ]
+  HakulaPlayer    | [♠️ T] [♠️ 2] |   24.70% | ✅ call
+  Finneas         | [♥️ 3] [♥️ Q] |   75.90% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 4] [♦️ 6] [♠️ K] [♣️ A] ]
+  HakulaPlayer    | [♠️ T] [♠️ 2] |   15.20% | ✅ call
+  Finneas         | [♥️ 3] [♥️ Q] |   84.80% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ 4] [♦️ 6] [♠️ K] [♣️ A] [♠️ 7] ]
+  HakulaPlayer    | [♠️ T] [♠️ 2] |    0.00% | ✅ call
+  Finneas         | [♥️ 3] [♥️ Q] |  100.00% | ✅ call
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2211 ➡️ (+0)
+  SichengZuo     : $   910 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2399 ➡️ (+0)
+  Ethan          : $   580 ➡️ (+0)
+  YangZ          : $   925 ➡️ (+0)
+  Finneas        : $   975 📈 (+15)
+----------------------------------------
+
+🔄 Round 35
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♦️ K] [♦️ 7]        | 💰  2211
+👤 SichengZuo      | [♦️ A] [♣️ 6]        | 💰   910
+👤 HakulaPlayer    | [♦️ 6] [♠️ J]        | 💰  2394
+👤 Ethan           | [♠️ 5] [♥️ Q]        | 💰   570
+👤 YangZ           | [♠️ 7] [♦️ 5]        | 💰   925
+👤 Finneas         | [♣️ 8] [♣️ Q]        | 💰   975
+
+🎴 PREFLOP
+Board: [  ]
+  YangZ           | [♠️ 7] [♦️ 5] |    5.60% | ❌ fold
+  Finneas         | [♣️ 8] [♣️ Q] |   25.50% | ✅ call:$10
+  RaphaelPlayer   | [♦️ K] [♦️ 7] |   28.50% | ⬆️ raise:$30
+  SichengZuo      | [♦️ A] [♣️ 6] |   24.20% | ❌ fold
+  HakulaPlayer    | [♦️ 6] [♠️ J] |   22.10% | ❌ fold
+  Ethan           | [♠️ 5] [♥️ Q] |   18.20% | ❌ fold
+  Finneas         | [♣️ 8] [♣️ Q] |   40.90% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2236 📈 (+25)
+  SichengZuo     : $   910 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2394 ➡️ (+0)
+  Ethan          : $   570 ➡️ (+0)
+  YangZ          : $   925 ➡️ (+0)
+  Finneas        : $   965 📉 (-10)
+----------------------------------------
+
+🔄 Round 36
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♠️ A] [♦️ 4]        | 💰  2236
+👤 SichengZuo      | [♥️ 5] [♥️ 7]        | 💰   910
+👤 HakulaPlayer    | [♣️ 4] [♠️ Q]        | 💰  2394
+👤 Ethan           | [♠️ 5] [♠️ 4]        | 💰   565
+👤 YangZ           | [♠️ 7] [♠️ 9]        | 💰   915
+👤 Finneas         | [♦️ T] [♣️ 6]        | 💰   965
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♦️ T] [♣️ 6] |   18.30% | ✅ call:$10
+  RaphaelPlayer   | [♠️ A] [♦️ 4] |   22.70% | ✅ call:$10
+  SichengZuo      | [♥️ 5] [♥️ 7] |   18.10% | ❌ fold
+  HakulaPlayer    | [♣️ 4] [♠️ Q] |   17.00% | ✅ call:$10
+  Ethan           | [♠️ 5] [♠️ 4] |   13.00% | ❌ fold
+  YangZ           | [♠️ 7] [♠️ 9] |   30.80% | ❌ fold
+
+🎴 FLOP
+Board: [ [♠️ 2] [♠️ 6] [♦️ 2] ]
+  Finneas         | [♦️ T] [♣️ 6] |   67.70% | ✅ call
+  RaphaelPlayer   | [♠️ A] [♦️ 4] |   18.80% | ✅ call
+  HakulaPlayer    | [♣️ 4] [♠️ Q] |   15.60% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 2] [♠️ 6] [♦️ 2] [♦️ K] ]
+  Finneas         | [♦️ T] [♣️ 6] |   84.50% | ✅ call
+  RaphaelPlayer   | [♠️ A] [♦️ 4] |    7.70% | ✅ call
+  HakulaPlayer    | [♣️ 4] [♠️ Q] |    7.80% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ 2] [♠️ 6] [♦️ 2] [♦️ K] [♥️ 2] ]
+  Finneas         | [♦️ T] [♣️ 6] |  100.00% | ⬆️ raise:$482
+  RaphaelPlayer   | [♠️ A] [♦️ 4] |    0.00% | ❌ fold
+  HakulaPlayer    | [♣️ 4] [♠️ Q] |    0.00% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2226 📉 (-10)
+  SichengZuo     : $   910 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2384 📉 (-10)
+  Ethan          : $   565 ➡️ (+0)
+  YangZ          : $   915 ➡️ (+0)
+  Finneas        : $  1000 📈 (+35)
+----------------------------------------
+
+🔄 Round 37
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♠️ 7] [♥️ 5]        | 💰  2226
+👤 SichengZuo      | [♥️ J] [♣️ 6]        | 💰   910
+👤 HakulaPlayer    | [♣️ Q] [♣️ K]        | 💰  2384
+👤 Ethan           | [♥️ T] [♣️ T]        | 💰   565
+👤 YangZ           | [♥️ A] [♥️ 4]        | 💰   910
+👤 Finneas         | [♠️ J] [♦️ T]        | 💰   990
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♠️ 7] [♥️ 5] |   13.20% | ❌ fold
+  SichengZuo      | [♥️ J] [♣️ 6] |    9.20% | ❌ fold
+  HakulaPlayer    | [♣️ Q] [♣️ K] |   33.60% | ✅ call:$10
+  Ethan           | [♥️ T] [♣️ T] |   19.20% | ⬆️ raise:$84
+  YangZ           | [♥️ A] [♥️ 4] |   31.00% | ❌ fold
+  Finneas         | [♠️ J] [♦️ T] |   22.80% | ❌ fold
+  HakulaPlayer    | [♣️ Q] [♣️ K] |   48.50% | ✅ call:$84
+
+🎴 FLOP
+Board: [ [♠️ 9] [♦️ Q] [♠️ Q] ]
+  HakulaPlayer    | [♣️ Q] [♣️ K] |   91.00% | ⬆️ raise:$257
+  Ethan           | [♥️ T] [♣️ T] |    9.00% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2226 ➡️ (+0)
+  SichengZuo     : $   910 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2483 📈 (+99)
+  Ethan          : $   481 📉 (-84)
+  YangZ          : $   910 ➡️ (+0)
+  Finneas        : $   990 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 38
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♥️ 5] [♦️ 9]        | 💰  2216
+👤 SichengZuo      | [♠️ Q] [♠️ 8]        | 💰   910
+👤 HakulaPlayer    | [♠️ 9] [♦️ 4]        | 💰  2483
+👤 Ethan           | [♠️ 5] [♥️ 7]        | 💰   481
+👤 YangZ           | [♥️ 4] [♦️ J]        | 💰   910
+👤 Finneas         | [♥️ 8] [♠️ 4]        | 💰   985
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♠️ Q] [♠️ 8] |   44.50% | ❌ fold
+  HakulaPlayer    | [♠️ 9] [♦️ 4] |   13.40% | ❌ fold
+  Ethan           | [♠️ 5] [♥️ 7] |   23.40% | ❌ fold
+  YangZ           | [♥️ 4] [♦️ J] |   48.30% | ❌ fold
+  Finneas         | [♥️ 8] [♠️ 4] |   38.60% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 5] [♦️ 9] |   64.80% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2216 ➡️ (+0)
+  SichengZuo     : $   910 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2483 ➡️ (+0)
+  Ethan          : $   481 ➡️ (+0)
+  YangZ          : $   910 ➡️ (+0)
+  Finneas        : $  1000 📈 (+15)
+----------------------------------------
+
+🔄 Round 39
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♥️ Q] [♣️ T]        | 💰  2211
+👤 SichengZuo      | [♥️ 6] [♣️ 8]        | 💰   900
+👤 HakulaPlayer    | [♠️ 5] [♥️ K]        | 💰  2483
+👤 Ethan           | [♠️ 3] [♦️ 7]        | 💰   481
+👤 YangZ           | [♣️ 5] [♦️ 6]        | 💰   910
+👤 Finneas         | [♠️ 6] [♥️ 8]        | 💰  1000
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♠️ 5] [♥️ K] |   23.60% | ❌ fold
+  Ethan           | [♠️ 3] [♦️ 7] |   19.70% | ❌ fold
+  YangZ           | [♣️ 5] [♦️ 6] |   21.80% | ❌ fold
+  Finneas         | [♠️ 6] [♥️ 8] |   30.30% | ✅ call:$10
+  RaphaelPlayer   | [♥️ Q] [♣️ T] |   70.60% | ✅ call:$10
+  SichengZuo      | [♥️ 6] [♣️ 8] |   29.60% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ Q] [♥️ 4] [♣️ 9] ]
+  RaphaelPlayer   | [♥️ Q] [♣️ T] |   95.00% | ⬆️ raise:$40
+  Finneas         | [♠️ 6] [♥️ 8] |    5.00% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2236 📈 (+25)
+  SichengZuo     : $   900 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2483 ➡️ (+0)
+  Ethan          : $   481 ➡️ (+0)
+  YangZ          : $   910 ➡️ (+0)
+  Finneas        : $   990 📉 (-10)
+----------------------------------------
+
+🔄 Round 40
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♣️ 4] [♣️ 7]        | 💰  2236
+👤 SichengZuo      | [♦️ 3] [♦️ 6]        | 💰   895
+👤 HakulaPlayer    | [♠️ T] [♠️ 4]        | 💰  2473
+👤 Ethan           | [♥️ 8] [♣️ 5]        | 💰   481
+👤 YangZ           | [♦️ 8] [♣️ K]        | 💰   910
+👤 Finneas         | [♥️ Q] [♣️ A]        | 💰   990
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♥️ 8] [♣️ 5] |    7.70% | ❌ fold
+  YangZ           | [♦️ 8] [♣️ K] |   19.20% | ❌ fold
+  Finneas         | [♥️ Q] [♣️ A] |   38.40% | ⬆️ raise:$502
+  RaphaelPlayer   | [♣️ 4] [♣️ 7] |   17.20% | ❌ fold
+  SichengZuo      | [♦️ 3] [♦️ 6] |   29.50% | ❌ fold
+  HakulaPlayer    | [♠️ T] [♠️ 4] |   37.90% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2236 ➡️ (+0)
+  SichengZuo     : $   895 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2473 ➡️ (+0)
+  Ethan          : $   481 ➡️ (+0)
+  YangZ          : $   910 ➡️ (+0)
+  Finneas        : $  1005 📈 (+15)
+----------------------------------------
+
+🔄 Round 41
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♣️ J] [♣️ 7]        | 💰  2236
+👤 SichengZuo      | [♠️ Q] [♥️ 7]        | 💰   895
+👤 HakulaPlayer    | [♥️ 9] [♦️ 3]        | 💰  2468
+👤 Ethan           | [♣️ 3] [♠️ K]        | 💰   471
+👤 YangZ           | [♠️ 7] [♠️ A]        | 💰   910
+👤 Finneas         | [♥️ 3] [♠️ 9]        | 💰  1005
+
+🎴 PREFLOP
+Board: [  ]
+  YangZ           | [♠️ 7] [♠️ A] |   35.10% | ❌ fold
+  Finneas         | [♥️ 3] [♠️ 9] |    9.80% | ✅ call:$10
+  RaphaelPlayer   | [♣️ J] [♣️ 7] |   29.40% | ✅ call:$10
+  SichengZuo      | [♠️ Q] [♥️ 7] |   29.80% | ❌ fold
+  HakulaPlayer    | [♥️ 9] [♦️ 3] |   14.90% | ✅ call:$10
+  Ethan           | [♣️ 3] [♠️ K] |   43.10% | ❌ fold
+
+🎴 FLOP
+Board: [ [♠️ J] [♠️ T] [♦️ T] ]
+  HakulaPlayer    | [♥️ 9] [♦️ 3] |    5.10% | ✅ call
+  Finneas         | [♥️ 3] [♠️ 9] |   10.10% | ✅ call
+  RaphaelPlayer   | [♣️ J] [♣️ 7] |   89.90% | ⬆️ raise:$50
+  HakulaPlayer    | [♥️ 9] [♦️ 3] |    5.10% | ❌ fold
+  Finneas         | [♥️ 3] [♠️ 9] |   10.10% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $  2266 📈 (+30)
+  SichengZuo     : $   895 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  2463 📉 (-5)
+  Ethan          : $   471 ➡️ (+0)
+  YangZ          : $   910 ➡️ (+0)
+  Finneas        : $   995 📉 (-10)
+----------------------------------------
+
+🔄 Round 42
+----------------------------------------
+Initial State:
+👤 RaphaelPlayer   | [♦️ K] [♣️ K]        | 💰  2266
+👤 SichengZuo      | [♥️ K] [♦️ 7]        | 💰   895
+👤 HakulaPlayer    | [♣️ A] [♥️ A]        | 💰  2463
+👤 Ethan           | [♣️ Q] [♥️ Q]        | 💰   466
+👤 YangZ           | [♠️ 3] [♠️ T]        | 💰   900
+👤 Finneas         | [♠️ 7] [♣️ J]        | 💰   995
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♠️ 7] [♣️ J] |   12.00% | ✅ call:$10
+  RaphaelPlayer   | [♦️ K] [♣️ K] |    8.10% | ⬆️ raise:$40
+  SichengZuo      | [♥️ K] [♦️ 7] |    3.60% | ❌ fold
+  HakulaPlayer    | [♣️ A] [♥️ A] |   44.10% | ⬆️ raise:$113
+  Ethan           | [♣️ Q] [♥️ Q] |   14.10% | ⬆️ raise:$267
+  YangZ           | [♠️ 3] [♠️ T] |   14.20% | ❌ fold
+  Finneas         | [♠️ 7] [♣️ J] |   14.30% | ❌ fold
+  RaphaelPlayer   | [♦️ K] [♣️ K] |   18.30% | ✅ call:$267
+  HakulaPlayer    | [♣️ A] [♥️ A] |   67.10% | ✅ call:$267
+
+🎴 FLOP
+Board: [ [♣️ 9] [♣️ 3] [♦️ J] ]
+  Ethan           | [♣️ Q] [♥️ Q] |    9.60% | ✅ call
+  RaphaelPlayer   | [♦️ K] [♣️ K] |    8.50% | ⬆️ raise:$831
+  HakulaPlayer    | [♣️ A] [♥️ A] |   81.90% | ✅ call:$831
+  Ethan           | [♣️ Q] [♥️ Q] |    9.60% | ❌ fold
+
+🎴 TURN
+Board: [ [♣️ 9] [♣️ 3] [♦️ J] [♦️ 2] ]
+  RaphaelPlayer   | [♦️ K] [♣️ K] |    5.20% | ⬆️ raise:$1168
+  HakulaPlayer    | [♣️ A] [♥️ A] |   94.80% | ✅ call:$1168
+
+🎴 RIVER
+Board: [ [♣️ 9] [♣️ 3] [♦️ J] [♦️ 2] [♦️ 6] ]
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $     0 📉 (-2266)
+  SichengZuo     : $   895 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  5016 📈 (+2553)
+  Ethan          : $   204 📉 (-262)
+  YangZ          : $   900 ➡️ (+0)
+  Finneas        : $   985 📉 (-10)
+----------------------------------------
+
+🔄 Round 43
+----------------------------------------
+Initial State:
+👤 SichengZuo      | [♣️ 2] [♦️ J]        | 💰   895
+👤 HakulaPlayer    | [♦️ Q] [♣️ 4]        | 💰  5016
+👤 Ethan           | [♥️ 8] [♥️ 7]        | 💰   204
+👤 YangZ           | [♣️ Q] [♠️ 8]        | 💰   895
+👤 Finneas         | [♣️ T] [♣️ 5]        | 💰   975
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♣️ 2] [♦️ J] |   19.60% | ❌ fold
+  HakulaPlayer    | [♦️ Q] [♣️ 4] |   22.40% | ❌ fold
+  Ethan           | [♥️ 8] [♥️ 7] |   30.00% | ❌ fold
+  YangZ           | [♣️ Q] [♠️ 8] |   62.00% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $     0 ➡️ (+0)
+  SichengZuo     : $   895 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  5016 ➡️ (+0)
+  Ethan          : $   204 ➡️ (+0)
+  YangZ          : $   895 ➡️ (+0)
+  Finneas        : $   990 📈 (+15)
+----------------------------------------
+
+🔄 Round 44
+----------------------------------------
+Initial State:
+👤 SichengZuo      | [♥️ 7] [♠️ 4]        | 💰   885
+👤 HakulaPlayer    | [♣️ 5] [♥️ Q]        | 💰  5016
+👤 Ethan           | [♥️ 9] [♦️ Q]        | 💰   204
+👤 YangZ           | [♦️ A] [♣️ A]        | 💰   895
+👤 Finneas         | [♦️ T] [♠️ 2]        | 💰   985
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♣️ 5] [♥️ Q] |    7.50% | ❌ fold
+  Ethan           | [♥️ 9] [♦️ Q] |   13.80% | ❌ fold
+  YangZ           | [♦️ A] [♣️ A] |   73.70% | ❌ fold
+  Finneas         | [♦️ T] [♠️ 2] |   53.90% | ✅ call:$10
+  SichengZuo      | [♥️ 7] [♠️ 4] |   47.90% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $     0 ➡️ (+0)
+  SichengZuo     : $   885 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  5016 ➡️ (+0)
+  Ethan          : $   204 ➡️ (+0)
+  YangZ          : $   895 ➡️ (+0)
+  Finneas        : $  1000 📈 (+15)
+----------------------------------------
+
+🔄 Round 45
+----------------------------------------
+Initial State:
+👤 SichengZuo      | [♥️ J] [♣️ 9]        | 💰   880
+👤 HakulaPlayer    | [♠️ 9] [♣️ 8]        | 💰  5006
+👤 Ethan           | [♣️ Q] [♠️ 7]        | 💰   204
+👤 YangZ           | [♠️ 8] [♥️ A]        | 💰   895
+👤 Finneas         | [♠️ T] [♣️ J]        | 💰  1000
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♣️ Q] [♠️ 7] |   23.90% | ❌ fold
+  YangZ           | [♠️ 8] [♥️ A] |   52.30% | ❌ fold
+  Finneas         | [♠️ T] [♣️ J] |   59.80% | ✅ call:$10
+  SichengZuo      | [♥️ J] [♣️ 9] |   28.90% | ❌ fold
+  HakulaPlayer    | [♠️ 9] [♣️ 8] |   35.00% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ 9] [♠️ 2] [♠️ A] ]
+  HakulaPlayer    | [♠️ 9] [♣️ 8] |   69.60% | ✅ call
+  Finneas         | [♠️ T] [♣️ J] |   30.40% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 9] [♠️ 2] [♠️ A] [♦️ Q] ]
+  HakulaPlayer    | [♠️ 9] [♣️ 8] |   70.30% | ✅ call
+  Finneas         | [♠️ T] [♣️ J] |   29.70% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ 9] [♠️ 2] [♠️ A] [♦️ Q] [♥️ 8] ]
+  HakulaPlayer    | [♠️ 9] [♣️ 8] |    0.00% | ⬆️ raise:$58
+  Finneas         | [♠️ T] [♣️ J] |  100.00% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $     0 ➡️ (+0)
+  SichengZuo     : $   880 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  5031 📈 (+25)
+  Ethan          : $   204 ➡️ (+0)
+  YangZ          : $   895 ➡️ (+0)
+  Finneas        : $   990 📉 (-10)
+----------------------------------------
+
+🔄 Round 46
+----------------------------------------
+Initial State:
+👤 SichengZuo      | [♣️ T] [♣️ 3]        | 💰   880
+👤 HakulaPlayer    | [♦️ K] [♦️ 6]        | 💰  5026
+👤 Ethan           | [♣️ 7] [♠️ T]        | 💰   194
+👤 YangZ           | [♣️ Q] [♥️ 9]        | 💰   895
+👤 Finneas         | [♣️ K] [♦️ 8]        | 💰   990
+
+🎴 PREFLOP
+Board: [  ]
+  YangZ           | [♣️ Q] [♥️ 9] |   28.50% | ❌ fold
+  Finneas         | [♣️ K] [♦️ 8] |   34.40% | ✅ call:$10
+  SichengZuo      | [♣️ T] [♣️ 3] |   20.20% | ❌ fold
+  HakulaPlayer    | [♦️ K] [♦️ 6] |   31.30% | ✅ call:$10
+  Ethan           | [♣️ 7] [♠️ T] |   38.70% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ 4] [♠️ 8] [♥️ 5] ]
+  HakulaPlayer    | [♦️ K] [♦️ 6] |   21.60% | ✅ call
+  Finneas         | [♣️ K] [♦️ 8] |   79.60% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 4] [♠️ 8] [♥️ 5] [♥️ 3] ]
+  HakulaPlayer    | [♦️ K] [♦️ 6] |   16.60% | ✅ call
+  Finneas         | [♣️ K] [♦️ 8] |   83.40% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ 4] [♠️ 8] [♥️ 5] [♥️ 3] [♦️ A] ]
+  HakulaPlayer    | [♦️ K] [♦️ 6] |    0.00% | ✅ call
+  Finneas         | [♣️ K] [♦️ 8] |  100.00% | ✅ call
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $     0 ➡️ (+0)
+  SichengZuo     : $   880 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  5021 📉 (-5)
+  Ethan          : $   194 ➡️ (+0)
+  YangZ          : $   895 ➡️ (+0)
+  Finneas        : $  1010 📈 (+20)
+----------------------------------------
+
+🔄 Round 47
+----------------------------------------
+Initial State:
+👤 SichengZuo      | [♥️ 4] [♠️ J]        | 💰   880
+👤 HakulaPlayer    | [♦️ 4] [♥️ 7]        | 💰  5021
+👤 Ethan           | [♣️ 6] [♦️ 2]        | 💰   189
+👤 YangZ           | [♣️ 7] [♦️ 7]        | 💰   885
+👤 Finneas         | [♥️ 9] [♦️ K]        | 💰  1010
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♥️ 9] [♦️ K] |   38.10% | ✅ call:$10
+  SichengZuo      | [♥️ 4] [♠️ J] |   17.60% | ❌ fold
+  HakulaPlayer    | [♦️ 4] [♥️ 7] |    9.10% | ✅ call:$10
+  Ethan           | [♣️ 6] [♦️ 2] |   10.80% | ❌ fold
+  YangZ           | [♣️ 7] [♦️ 7] |   47.80% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ 3] [♦️ Q] [♠️ K] ]
+  Finneas         | [♥️ 9] [♦️ K] |   97.00% | ✅ call
+  HakulaPlayer    | [♦️ 4] [♥️ 7] |    3.00% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 3] [♦️ Q] [♠️ K] [♣️ T] ]
+  Finneas         | [♥️ 9] [♦️ K] |  100.00% | ✅ call
+  HakulaPlayer    | [♦️ 4] [♥️ 7] |    0.00% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ 3] [♦️ Q] [♠️ K] [♣️ T] [♠️ 7] ]
+  Finneas         | [♥️ 9] [♦️ K] |  100.00% | ✅ call
+  HakulaPlayer    | [♦️ 4] [♥️ 7] |    0.00% | ✅ call
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $     0 ➡️ (+0)
+  SichengZuo     : $   880 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  5011 📉 (-10)
+  Ethan          : $   189 ➡️ (+0)
+  YangZ          : $   885 ➡️ (+0)
+  Finneas        : $  1035 📈 (+25)
+----------------------------------------
+
+🔄 Round 48
+----------------------------------------
+Initial State:
+👤 SichengZuo      | [♠️ 5] [♣️ T]        | 💰   880
+👤 HakulaPlayer    | [♥️ 7] [♣️ 2]        | 💰  5011
+👤 Ethan           | [♦️ 8] [♦️ J]        | 💰   189
+👤 YangZ           | [♥️ A] [♦️ 4]        | 💰   880
+👤 Finneas         | [♠️ 4] [♥️ K]        | 💰  1025
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♠️ 5] [♣️ T] |   19.90% | ❌ fold
+  HakulaPlayer    | [♥️ 7] [♣️ 2] |   16.40% | ❌ fold
+  Ethan           | [♦️ 8] [♦️ J] |   39.50% | ✅ call:$10
+  YangZ           | [♥️ A] [♦️ 4] |   43.30% | ❌ fold
+  Finneas         | [♠️ 4] [♥️ K] |   55.10% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 8] [♠️ A] [♦️ 6] ]
+  Finneas         | [♠️ 4] [♥️ K] |   18.80% | ✅ call
+  Ethan           | [♦️ 8] [♦️ J] |   81.20% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 8] [♠️ A] [♦️ 6] [♠️ J] ]
+  Finneas         | [♠️ 4] [♥️ K] |   20.40% | ✅ call
+  Ethan           | [♦️ 8] [♦️ J] |   79.60% | ⬆️ raise:$25
+  Finneas         | [♠️ 4] [♥️ K] |   20.40% | ❌ fold
+
+🏆 Winner: Ethan
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $     0 ➡️ (+0)
+  SichengZuo     : $   880 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  5011 ➡️ (+0)
+  Ethan          : $   204 📈 (+15)
+  YangZ          : $   880 ➡️ (+0)
+  Finneas        : $  1025 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 49
+----------------------------------------
+Initial State:
+👤 SichengZuo      | [♠️ T] [♣️ 2]        | 💰   870
+👤 HakulaPlayer    | [♣️ 8] [♦️ 4]        | 💰  5011
+👤 Ethan           | [♣️ J] [♦️ 9]        | 💰   204
+👤 YangZ           | [♥️ 7] [♥️ A]        | 💰   880
+👤 Finneas         | [♥️ 2] [♦️ 8]        | 💰  1020
+
+🎴 PREFLOP
+Board: [  ]
+  HakulaPlayer    | [♣️ 8] [♦️ 4] |   15.30% | ❌ fold
+  Ethan           | [♣️ J] [♦️ 9] |   29.90% | ❌ fold
+  YangZ           | [♥️ 7] [♥️ A] |   57.30% | ❌ fold
+  Finneas         | [♥️ 2] [♦️ 8] |   28.40% | ✅ call:$10
+  SichengZuo      | [♠️ T] [♣️ 2] |   77.80% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $     0 ➡️ (+0)
+  SichengZuo     : $   870 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  5011 ➡️ (+0)
+  Ethan          : $   204 ➡️ (+0)
+  YangZ          : $   880 ➡️ (+0)
+  Finneas        : $  1035 📈 (+15)
+----------------------------------------
+
+🔄 Round 50
+----------------------------------------
+Initial State:
+👤 SichengZuo      | [♦️ 2] [♦️ K]        | 💰   865
+👤 HakulaPlayer    | [♣️ 9] [♠️ 9]        | 💰  5001
+👤 Ethan           | [♣️ K] [♥️ 5]        | 💰   204
+👤 YangZ           | [♠️ 6] [♣️ A]        | 💰   880
+👤 Finneas         | [♠️ 8] [♥️ 9]        | 💰  1035
+
+🎴 PREFLOP
+Board: [  ]
+  Ethan           | [♣️ K] [♥️ 5] |   13.00% | ❌ fold
+  YangZ           | [♠️ 6] [♣️ A] |   23.60% | ❌ fold
+  Finneas         | [♠️ 8] [♥️ 9] |   11.20% | ✅ call:$10
+  SichengZuo      | [♦️ 2] [♦️ K] |   35.00% | ❌ fold
+  HakulaPlayer    | [♣️ 9] [♠️ 9] |   89.80% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 4] [♦️ 7] [♦️ 4] ]
+  HakulaPlayer    | [♣️ 9] [♠️ 9] |   94.50% | ⬆️ raise:$39
+  Finneas         | [♠️ 8] [♥️ 9] |    5.60% | ❌ fold
+
+🏆 Winner: HakulaPlayer
+Final Stacks:
+  Zheng          : $     0 ➡️ (+0)
+  RaphaelPlayer  : $     0 ➡️ (+0)
+  SichengZuo     : $   865 ➡️ (+0)
+  Yuchun         : $     0 ➡️ (+0)
+  HakulaPlayer   : $  5026 📈 (+25)
+  Ethan          : $   204 ➡️ (+0)
+  YangZ          : $   880 ➡️ (+0)
+  Finneas        : $  1025 📉 (-10)
+----------------------------------------
+
+🏁 Final Rankings:
+--------------------------------------------------
+
+🎮 Active Players:
+1. 🏆 HakulaPlayer    | Stack:       5026 | Status: active
+2. 👥 Finneas         | Stack:       1025 | Status: active
+3. 👥 YangZ           | Stack:        880 | Status: active
+4. 👥 SichengZuo      | Stack:        865 | Status: active
+5. 👥 Ethan           | Stack:        204 | Status: active
+
+💀 Eliminated Players:
+6. 💀 RaphaelPlayer   | Stack: 0 (Max: 2266) | Status: eliminated (Round 42)
+7. 💀 Yuchun          | Stack: 0 (Max: 1000) | Status: eliminated (Round 12)
+8. 💀 Zheng           | Stack: 0 (Max: 1040) | Status: eliminated (Round 4)

@@ -1,0 +1,1365 @@
+🎲 Texas Hold'em Poker Game Log 8 🎲
+==================================================
+
+📊 Detailed Game Log:
+==================================================
+
+🔄 Round 1
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ 8] [♣️ J]        | 💰  1000
+👤 SichengZuo      | [♦️ J] [♠️ K]        | 💰   995
+👤 JoyoPlayer      | [♥️ 3] [♣️ 9]        | 💰   990
+👤 ZifengFoldMan   | [♠️ 6] [♥️ 8]        | 💰  1000
+👤 Elvis           | [♣️ 3] [♥️ K]        | 💰  1000
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♠️ 6] [♥️ 8] |   21.10% | ❌ fold
+  Elvis           | [♣️ 3] [♥️ K] |   16.40% | ⬆️ raise:$15
+  Yuchun          | [♣️ 8] [♣️ J] |   24.90% | ❌ fold
+  SichengZuo      | [♦️ J] [♠️ K] |   67.40% | ❌ fold
+  JoyoPlayer      | [♥️ 3] [♣️ 9] |   26.20% | ❌ fold
+
+🏆 Winner: Elvis
+Final Stacks:
+  Yuchun         : $  1000 ➡️ (+0)
+  SichengZuo     : $   995 ➡️ (+0)
+  JoyoPlayer     : $   990 ➡️ (+0)
+  ZifengFoldMan  : $  1000 ➡️ (+0)
+  Elvis          : $  1015 📈 (+15)
+----------------------------------------
+
+🔄 Round 2
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ 7] [♣️ 6]        | 💰  1000
+👤 SichengZuo      | [♦️ K] [♣️ K]        | 💰   995
+👤 JoyoPlayer      | [♠️ T] [♣️ 5]        | 💰   985
+👤 ZifengFoldMan   | [♠️ A] [♦️ 6]        | 💰   990
+👤 Elvis           | [♣️ Q] [♦️ 5]        | 💰  1015
+
+🎴 PREFLOP
+Board: [  ]
+  Elvis           | [♣️ Q] [♦️ 5] |    8.20% | ⬆️ raise:$15
+  Yuchun          | [♣️ 7] [♣️ 6] |   14.30% | ❌ fold
+  SichengZuo      | [♦️ K] [♣️ K] |   58.70% | ⬆️ raise:$995
+  JoyoPlayer      | [♠️ T] [♣️ 5] |    9.00% | ❌ fold
+  ZifengFoldMan   | [♠️ A] [♦️ 6] |   27.00% | ❌ fold
+  Elvis           | [♣️ Q] [♦️ 5] |   13.60% | ✅ call:$995
+
+🎴 FLOP
+Board: [ [♦️ Q] [♦️ 7] [♥️ K] ]
+
+🎴 TURN
+Board: [ [♦️ Q] [♦️ 7] [♥️ K] [♥️ 3] ]
+
+🎴 RIVER
+Board: [ [♦️ Q] [♦️ 7] [♥️ K] [♥️ 3] [♦️ T] ]
+
+🏆 Winner: SichengZuo
+Final Stacks:
+  Yuchun         : $  1000 ➡️ (+0)
+  SichengZuo     : $  2005 📈 (+1010)
+  JoyoPlayer     : $   985 ➡️ (+0)
+  ZifengFoldMan  : $   990 ➡️ (+0)
+  Elvis          : $    20 📉 (-995)
+----------------------------------------
+
+🔄 Round 3
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ K] [♣️ J]        | 💰  1000
+👤 SichengZuo      | [♥️ K] [♣️ 8]        | 💰  2005
+👤 JoyoPlayer      | [♥️ 8] [♦️ 9]        | 💰   985
+👤 ZifengFoldMan   | [♦️ T] [♣️ 5]        | 💰   985
+👤 Elvis           | [♥️ 9] [♣️ Q]        | 💰    10
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♣️ K] [♣️ J] |   37.10% | ❌ fold
+  SichengZuo      | [♥️ K] [♣️ 8] |   39.50% | ❌ fold
+  JoyoPlayer      | [♥️ 8] [♦️ 9] |   24.50% | ❌ fold
+  ZifengFoldMan   | [♦️ T] [♣️ 5] |   36.50% | ❌ fold
+
+🏆 Winner: Elvis
+Final Stacks:
+  Yuchun         : $  1000 ➡️ (+0)
+  SichengZuo     : $  2005 ➡️ (+0)
+  JoyoPlayer     : $   985 ➡️ (+0)
+  ZifengFoldMan  : $   985 ➡️ (+0)
+  Elvis          : $    25 📈 (+15)
+----------------------------------------
+
+🔄 Round 4
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♠️ J] [♠️ K]        | 💰   990
+👤 SichengZuo      | [♣️ 8] [♣️ 6]        | 💰  2005
+👤 JoyoPlayer      | [♥️ 8] [♥️ T]        | 💰   985
+👤 ZifengFoldMan   | [♠️ 4] [♣️ 4]        | 💰   985
+👤 Elvis           | [♣️ Q] [♦️ 9]        | 💰    20
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♣️ 8] [♣️ 6] |   14.10% | ❌ fold
+  JoyoPlayer      | [♥️ 8] [♥️ T] |   23.60% | ❌ fold
+  ZifengFoldMan   | [♠️ 4] [♣️ 4] |   30.10% | ❌ fold
+  Elvis           | [♣️ Q] [♦️ 9] |   32.30% | ✅ call:$10
+  Yuchun          | [♠️ J] [♠️ K] |   67.80% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ 5] [♣️ 9] [♥️ 6] ]
+  Elvis           | [♣️ Q] [♦️ 9] |   75.60% | ⬆️ raise:$10
+  Yuchun          | [♠️ J] [♠️ K] |   25.40% | ❌ fold
+
+🏆 Winner: Elvis
+Final Stacks:
+  Yuchun         : $   990 ➡️ (+0)
+  SichengZuo     : $  2005 ➡️ (+0)
+  JoyoPlayer     : $   985 ➡️ (+0)
+  ZifengFoldMan  : $   985 ➡️ (+0)
+  Elvis          : $    35 📈 (+15)
+----------------------------------------
+
+🔄 Round 5
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ 2] [♠️ 2]        | 💰   985
+👤 SichengZuo      | [♠️ T] [♥️ 7]        | 💰  1995
+👤 JoyoPlayer      | [♠️ J] [♥️ K]        | 💰   985
+👤 ZifengFoldMan   | [♠️ A] [♦️ Q]        | 💰   985
+👤 Elvis           | [♥️ 9] [♣️ 8]        | 💰    35
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♠️ J] [♥️ K] |   24.00% | ❌ fold
+  ZifengFoldMan   | [♠️ A] [♦️ Q] |   34.70% | ❌ fold
+  Elvis           | [♥️ 9] [♣️ 8] |   37.60% | ❌ fold
+  Yuchun          | [♣️ 2] [♠️ 2] |   51.90% | ✅ call:$10
+  SichengZuo      | [♠️ T] [♥️ 7] |   50.50% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1000 📈 (+15)
+  SichengZuo     : $  1995 ➡️ (+0)
+  JoyoPlayer     : $   985 ➡️ (+0)
+  ZifengFoldMan  : $   985 ➡️ (+0)
+  Elvis          : $    35 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 6
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♦️ 7] [♦️ 4]        | 💰  1000
+👤 SichengZuo      | [♣️ J] [♦️ K]        | 💰  1990
+👤 JoyoPlayer      | [♣️ 5] [♦️ T]        | 💰   975
+👤 ZifengFoldMan   | [♠️ 8] [♦️ J]        | 💰   985
+👤 Elvis           | [♣️ T] [♠️ T]        | 💰    35
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♠️ 8] [♦️ J] |    9.90% | ❌ fold
+  Elvis           | [♣️ T] [♠️ T] |   37.80% | ⬆️ raise:$15
+  Yuchun          | [♦️ 7] [♦️ 4] |   17.80% | ❌ fold
+  SichengZuo      | [♣️ J] [♦️ K] |   44.60% | ❌ fold
+  JoyoPlayer      | [♣️ 5] [♦️ T] |    9.10% | ❌ fold
+
+🏆 Winner: Elvis
+Final Stacks:
+  Yuchun         : $  1000 ➡️ (+0)
+  SichengZuo     : $  1990 ➡️ (+0)
+  JoyoPlayer     : $   975 ➡️ (+0)
+  ZifengFoldMan  : $   985 ➡️ (+0)
+  Elvis          : $    50 📈 (+15)
+----------------------------------------
+
+🔄 Round 7
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♠️ 2] [♥️ 9]        | 💰  1000
+👤 SichengZuo      | [♦️ 8] [♦️ T]        | 💰  1990
+👤 JoyoPlayer      | [♣️ 2] [♣️ J]        | 💰   970
+👤 ZifengFoldMan   | [♦️ A] [♣️ 3]        | 💰   975
+👤 Elvis           | [♠️ T] [♠️ 5]        | 💰    50
+
+🎴 PREFLOP
+Board: [  ]
+  Elvis           | [♠️ T] [♠️ 5] |   17.40% | ⬆️ raise:$15
+  Yuchun          | [♠️ 2] [♥️ 9] |   11.50% | ❌ fold
+  SichengZuo      | [♦️ 8] [♦️ T] |   29.90% | ❌ fold
+  JoyoPlayer      | [♣️ 2] [♣️ J] |   29.20% | ⬆️ raise:$20
+  ZifengFoldMan   | [♦️ A] [♣️ 3] |   37.30% | ❌ fold
+  Elvis           | [♠️ T] [♠️ 5] |   42.90% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  Yuchun         : $  1000 ➡️ (+0)
+  SichengZuo     : $  1990 ➡️ (+0)
+  JoyoPlayer     : $  1000 📈 (+30)
+  ZifengFoldMan  : $   975 ➡️ (+0)
+  Elvis          : $    35 📉 (-15)
+----------------------------------------
+
+🔄 Round 8
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♦️ 6] [♣️ K]        | 💰  1000
+👤 SichengZuo      | [♣️ J] [♠️ J]        | 💰  1990
+👤 JoyoPlayer      | [♥️ 6] [♠️ 2]        | 💰  1000
+👤 ZifengFoldMan   | [♣️ 3] [♠️ 8]        | 💰   970
+👤 Elvis           | [♣️ 8] [♥️ 5]        | 💰    25
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♦️ 6] [♣️ K] |   26.30% | ❌ fold
+  SichengZuo      | [♣️ J] [♠️ J] |   72.60% | ❌ fold
+  JoyoPlayer      | [♥️ 6] [♠️ 2] |   37.30% | ❌ fold
+  ZifengFoldMan   | [♣️ 3] [♠️ 8] |   61.10% | ❌ fold
+
+🏆 Winner: Elvis
+Final Stacks:
+  Yuchun         : $  1000 ➡️ (+0)
+  SichengZuo     : $  1990 ➡️ (+0)
+  JoyoPlayer     : $  1000 ➡️ (+0)
+  ZifengFoldMan  : $   970 ➡️ (+0)
+  Elvis          : $    40 📈 (+15)
+----------------------------------------
+
+🔄 Round 9
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♥️ 7] [♣️ 5]        | 💰   990
+👤 SichengZuo      | [♦️ 8] [♦️ Q]        | 💰  1990
+👤 JoyoPlayer      | [♥️ J] [♠️ 8]        | 💰  1000
+👤 ZifengFoldMan   | [♠️ 7] [♥️ 3]        | 💰   970
+👤 Elvis           | [♥️ 8] [♥️ K]        | 💰    35
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♦️ 8] [♦️ Q] |   27.70% | ❌ fold
+  JoyoPlayer      | [♥️ J] [♠️ 8] |   25.30% | ❌ fold
+  ZifengFoldMan   | [♠️ 7] [♥️ 3] |   21.70% | ❌ fold
+  Elvis           | [♥️ 8] [♥️ K] |   64.90% | ⬆️ raise:$30
+  Yuchun          | [♥️ 7] [♣️ 5] |   35.90% | ❌ fold
+
+🏆 Winner: Elvis
+Final Stacks:
+  Yuchun         : $   990 ➡️ (+0)
+  SichengZuo     : $  1990 ➡️ (+0)
+  JoyoPlayer     : $  1000 ➡️ (+0)
+  ZifengFoldMan  : $   970 ➡️ (+0)
+  Elvis          : $    50 📈 (+15)
+----------------------------------------
+
+🔄 Round 10
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♠️ 5] [♦️ 2]        | 💰   985
+👤 SichengZuo      | [♠️ 6] [♣️ 9]        | 💰  1980
+👤 JoyoPlayer      | [♥️ 5] [♥️ 3]        | 💰  1000
+👤 ZifengFoldMan   | [♥️ 7] [♣️ 8]        | 💰   970
+👤 Elvis           | [♣️ J] [♦️ 6]        | 💰    50
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♥️ 5] [♥️ 3] |   21.10% | ❌ fold
+  ZifengFoldMan   | [♥️ 7] [♣️ 8] |   31.00% | ❌ fold
+  Elvis           | [♣️ J] [♦️ 6] |   47.70% | ⬆️ raise:$15
+  Yuchun          | [♠️ 5] [♦️ 2] |   29.00% | ✅ call:$15
+  SichengZuo      | [♠️ 6] [♣️ 9] |   30.70% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ Q] [♦️ J] [♦️ 9] ]
+  Yuchun          | [♠️ 5] [♦️ 2] |    4.30% | ✅ call
+  Elvis           | [♣️ J] [♦️ 6] |   98.40% | ⬆️ raise:$10
+  Yuchun          | [♠️ 5] [♦️ 2] |    4.30% | ✅ call:$10
+
+🎴 TURN
+Board: [ [♥️ Q] [♦️ J] [♦️ 9] [♠️ Q] ]
+  Yuchun          | [♠️ 5] [♦️ 2] |    0.00% | ✅ call
+  Elvis           | [♣️ J] [♦️ 6] |  100.00% | ⬆️ raise:$25
+  Yuchun          | [♠️ 5] [♦️ 2] |    0.00% | ✅ call:$25
+
+🎴 RIVER
+Board: [ [♥️ Q] [♦️ J] [♦️ 9] [♠️ Q] [♦️ 4] ]
+
+🏆 Winner: Elvis
+Final Stacks:
+  Yuchun         : $   940 📉 (-45)
+  SichengZuo     : $  1980 ➡️ (+0)
+  JoyoPlayer     : $  1000 ➡️ (+0)
+  ZifengFoldMan  : $   970 ➡️ (+0)
+  Elvis          : $   110 📈 (+60)
+----------------------------------------
+
+🔄 Round 11
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ J] [♦️ 3]        | 💰   940
+👤 SichengZuo      | [♥️ Q] [♣️ 5]        | 💰  1975
+👤 JoyoPlayer      | [♣️ 6] [♥️ T]        | 💰   990
+👤 ZifengFoldMan   | [♦️ 4] [♠️ 6]        | 💰   970
+👤 Elvis           | [♠️ K] [♠️ T]        | 💰   110
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♦️ 4] [♠️ 6] |   14.40% | ❌ fold
+  Elvis           | [♠️ K] [♠️ T] |   44.10% | ⬆️ raise:$15
+  Yuchun          | [♣️ J] [♦️ 3] |   22.00% | ✅ call:$15
+  SichengZuo      | [♥️ Q] [♣️ 5] |   23.60% | ❌ fold
+  JoyoPlayer      | [♣️ 6] [♥️ T] |   22.20% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ T] [♠️ 7] [♥️ 9] ]
+  Elvis           | [♠️ K] [♠️ T] |   74.00% | ⬆️ raise:$71
+  Yuchun          | [♣️ J] [♦️ 3] |   27.10% | ✅ call:$71
+
+🎴 TURN
+Board: [ [♦️ T] [♠️ 7] [♥️ 9] [♠️ 5] ]
+  Elvis           | [♠️ K] [♠️ T] |   87.80% | ⬆️ raise:$18
+  Yuchun          | [♣️ J] [♦️ 3] |   12.20% | ✅ call:$18
+
+🎴 RIVER
+Board: [ [♦️ T] [♠️ 7] [♥️ 9] [♠️ 5] [♣️ A] ]
+  Elvis           | [♠️ K] [♠️ T] |  100.00% | ⬆️ raise
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1059 📈 (+119)
+  SichengZuo     : $  1975 ➡️ (+0)
+  JoyoPlayer     : $   990 ➡️ (+0)
+  ZifengFoldMan  : $   970 ➡️ (+0)
+  Elvis          : $     6 📉 (-104)
+----------------------------------------
+
+🔄 Round 12
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ 6] [♦️ 3]        | 💰  1059
+👤 SichengZuo      | [♣️ 5] [♦️ 9]        | 💰  1975
+👤 JoyoPlayer      | [♣️ A] [♣️ J]        | 💰   985
+👤 ZifengFoldMan   | [♣️ 9] [♥️ 8]        | 💰   960
+👤 Elvis           | [♦️ 4] [♠️ 2]        | 💰     6
+
+🎴 PREFLOP
+Board: [  ]
+  Elvis           | [♦️ 4] [♠️ 2] |   15.00% | ⬆️ raise
+  Yuchun          | [♣️ 6] [♦️ 3] |   12.90% | ✅ call:$10
+  SichengZuo      | [♣️ 5] [♦️ 9] |   12.00% | ❌ fold
+  JoyoPlayer      | [♣️ A] [♣️ J] |   39.30% | ⬆️ raise:$15
+  ZifengFoldMan   | [♣️ 9] [♥️ 8] |   30.70% | ❌ fold
+  Yuchun          | [♣️ 6] [♦️ 3] |   24.20% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♥️ 6] [♦️ T] [♠️ 5] ]
+  JoyoPlayer      | [♣️ A] [♣️ J] |   23.50% | ✅ call
+  Yuchun          | [♣️ 6] [♦️ 3] |   59.40% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 6] [♦️ T] [♠️ 5] [♥️ J] ]
+  JoyoPlayer      | [♣️ A] [♣️ J] |   88.90% | ⬆️ raise:$654
+  Yuchun          | [♣️ 6] [♦️ 3] |    3.70% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  Yuchun         : $  1044 📉 (-15)
+  SichengZuo     : $  1975 ➡️ (+0)
+  JoyoPlayer     : $  1015 📈 (+30)
+  ZifengFoldMan  : $   960 ➡️ (+0)
+  Elvis          : $     6 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 13
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ 9] [♣️ A]        | 💰  1034
+👤 SichengZuo      | [♠️ 6] [♠️ T]        | 💰  1975
+👤 JoyoPlayer      | [♦️ Q] [♦️ 8]        | 💰  1015
+👤 ZifengFoldMan   | [♦️ 5] [♠️ J]        | 💰   955
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♠️ 6] [♠️ T] |   24.10% | ❌ fold
+  JoyoPlayer      | [♦️ Q] [♦️ 8] |   32.40% | ⬆️ raise:$15
+  ZifengFoldMan   | [♦️ 5] [♠️ J] |   22.60% | ❌ fold
+  Yuchun          | [♣️ 9] [♣️ A] |   63.30% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♣️ 4] [♥️ 8] [♥️ T] ]
+  Yuchun          | [♣️ 9] [♣️ A] |   30.80% | ✅ call
+  JoyoPlayer      | [♦️ Q] [♦️ 8] |   69.20% | ⬆️ raise:$20
+  Yuchun          | [♣️ 9] [♣️ A] |   30.80% | ✅ call:$20
+
+🎴 TURN
+Board: [ [♣️ 4] [♥️ 8] [♥️ T] [♣️ 8] ]
+  Yuchun          | [♣️ 9] [♣️ A] |   14.30% | ✅ call
+  JoyoPlayer      | [♦️ Q] [♦️ 8] |   85.70% | ⬆️ raise:$775
+  Yuchun          | [♣️ 9] [♣️ A] |   14.30% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  Yuchun         : $  1009 📉 (-25)
+  SichengZuo     : $  1975 ➡️ (+0)
+  JoyoPlayer     : $  1055 📈 (+40)
+  ZifengFoldMan  : $   955 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 14
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♠️ A] [♥️ 8]        | 💰  1004
+👤 SichengZuo      | [♦️ T] [♥️ 5]        | 💰  1965
+👤 JoyoPlayer      | [♦️ 7] [♣️ 5]        | 💰  1055
+👤 ZifengFoldMan   | [♠️ K] [♣️ 9]        | 💰   955
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♦️ 7] [♣️ 5] |   16.10% | ❌ fold
+  ZifengFoldMan   | [♠️ K] [♣️ 9] |   35.40% | ❌ fold
+  Yuchun          | [♠️ A] [♥️ 8] |   64.00% | ✅ call:$10
+  SichengZuo      | [♦️ T] [♥️ 5] |   36.30% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1019 📈 (+15)
+  SichengZuo     : $  1965 ➡️ (+0)
+  JoyoPlayer     : $  1055 ➡️ (+0)
+  ZifengFoldMan  : $   955 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 15
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♦️ 7] [♦️ A]        | 💰  1019
+👤 SichengZuo      | [♣️ 7] [♠️ T]        | 💰  1960
+👤 JoyoPlayer      | [♣️ 4] [♠️ 6]        | 💰  1045
+👤 ZifengFoldMan   | [♦️ 2] [♠️ 8]        | 💰   955
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♦️ 2] [♠️ 8] |   20.40% | ❌ fold
+  Yuchun          | [♦️ 7] [♦️ A] |   49.90% | ✅ call:$10
+  SichengZuo      | [♣️ 7] [♠️ T] |   25.80% | ❌ fold
+  JoyoPlayer      | [♣️ 4] [♠️ 6] |   33.00% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1034 📈 (+15)
+  SichengZuo     : $  1960 ➡️ (+0)
+  JoyoPlayer     : $  1045 ➡️ (+0)
+  ZifengFoldMan  : $   955 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 16
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♦️ 5] [♦️ T]        | 💰  1034
+👤 SichengZuo      | [♥️ 7] [♥️ 6]        | 💰  1960
+👤 JoyoPlayer      | [♥️ 9] [♦️ 4]        | 💰  1040
+👤 ZifengFoldMan   | [♣️ 9] [♥️ 5]        | 💰   945
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♦️ 5] [♦️ T] |   40.30% | ✅ call:$10
+  SichengZuo      | [♥️ 7] [♥️ 6] |   36.90% | ❌ fold
+  JoyoPlayer      | [♥️ 9] [♦️ 4] |   28.30% | ❌ fold
+  ZifengFoldMan   | [♣️ 9] [♥️ 5] |   28.90% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1049 📈 (+15)
+  SichengZuo     : $  1960 ➡️ (+0)
+  JoyoPlayer     : $  1040 ➡️ (+0)
+  ZifengFoldMan  : $   945 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 17
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♦️ 5] [♦️ 7]        | 💰  1039
+👤 SichengZuo      | [♥️ 3] [♥️ T]        | 💰  1960
+👤 JoyoPlayer      | [♠️ 2] [♣️ 4]        | 💰  1040
+👤 ZifengFoldMan   | [♣️ 9] [♥️ 2]        | 💰   940
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♥️ 3] [♥️ T] |   34.60% | ❌ fold
+  JoyoPlayer      | [♠️ 2] [♣️ 4] |   20.10% | ⬆️ raise:$15
+  ZifengFoldMan   | [♣️ 9] [♥️ 2] |   39.90% | ❌ fold
+  Yuchun          | [♦️ 5] [♦️ 7] |   66.60% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♦️ 8] [♦️ K] [♠️ 6] ]
+  Yuchun          | [♦️ 5] [♦️ 7] |   92.50% | ✅ call
+  JoyoPlayer      | [♠️ 2] [♣️ 4] |    9.90% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1069 📈 (+30)
+  SichengZuo     : $  1960 ➡️ (+0)
+  JoyoPlayer     : $  1025 📉 (-15)
+  ZifengFoldMan  : $   940 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 18
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♥️ J] [♣️ 6]        | 💰  1064
+👤 SichengZuo      | [♥️ 4] [♠️ K]        | 💰  1950
+👤 JoyoPlayer      | [♣️ 5] [♣️ Q]        | 💰  1025
+👤 ZifengFoldMan   | [♦️ 8] [♠️ 5]        | 💰   940
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♣️ 5] [♣️ Q] |   30.10% | ❌ fold
+  ZifengFoldMan   | [♦️ 8] [♠️ 5] |   29.50% | ❌ fold
+  Yuchun          | [♥️ J] [♣️ 6] |   41.10% | ✅ call:$10
+  SichengZuo      | [♥️ 4] [♠️ K] |   59.60% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1079 📈 (+15)
+  SichengZuo     : $  1950 ➡️ (+0)
+  JoyoPlayer     : $  1025 ➡️ (+0)
+  ZifengFoldMan  : $   940 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 19
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ Q] [♦️ 5]        | 💰  1079
+👤 SichengZuo      | [♣️ 9] [♥️ Q]        | 💰  1945
+👤 JoyoPlayer      | [♣️ 2] [♠️ A]        | 💰  1015
+👤 ZifengFoldMan   | [♣️ J] [♠️ 5]        | 💰   940
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♣️ J] [♠️ 5] |   17.00% | ❌ fold
+  Yuchun          | [♣️ Q] [♦️ 5] |   22.00% | ✅ call:$10
+  SichengZuo      | [♣️ 9] [♥️ Q] |   36.80% | ❌ fold
+  JoyoPlayer      | [♣️ 2] [♠️ A] |   62.00% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ Q] [♠️ 4] [♠️ 8] ]
+  JoyoPlayer      | [♣️ 2] [♠️ A] |   16.90% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1094 📈 (+15)
+  SichengZuo     : $  1945 ➡️ (+0)
+  JoyoPlayer     : $  1015 ➡️ (+0)
+  ZifengFoldMan  : $   940 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 20
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ 3] [♥️ T]        | 💰  1094
+👤 SichengZuo      | [♥️ 3] [♠️ Q]        | 💰  1945
+👤 JoyoPlayer      | [♣️ J] [♣️ 8]        | 💰  1010
+👤 ZifengFoldMan   | [♣️ K] [♠️ 8]        | 💰   930
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♣️ 3] [♥️ T] |   14.00% | ✅ call:$10
+  SichengZuo      | [♥️ 3] [♠️ Q] |   24.20% | ❌ fold
+  JoyoPlayer      | [♣️ J] [♣️ 8] |   28.50% | ❌ fold
+  ZifengFoldMan   | [♣️ K] [♠️ 8] |   63.80% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1109 📈 (+15)
+  SichengZuo     : $  1945 ➡️ (+0)
+  JoyoPlayer     : $  1010 ➡️ (+0)
+  ZifengFoldMan  : $   930 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 21
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♥️ 4] [♣️ 2]        | 💰  1099
+👤 SichengZuo      | [♠️ 9] [♥️ 9]        | 💰  1945
+👤 JoyoPlayer      | [♠️ K] [♦️ A]        | 💰  1010
+👤 ZifengFoldMan   | [♣️ 9] [♠️ 6]        | 💰   925
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♠️ 9] [♥️ 9] |   34.70% | ❌ fold
+  JoyoPlayer      | [♠️ K] [♦️ A] |   46.30% | ⬆️ raise:$15
+  ZifengFoldMan   | [♣️ 9] [♠️ 6] |   30.40% | ❌ fold
+  Yuchun          | [♥️ 4] [♣️ 2] |   37.30% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♦️ T] [♣️ K] [♠️ J] ]
+  Yuchun          | [♥️ 4] [♣️ 2] |    3.00% | ✅ call
+  JoyoPlayer      | [♠️ K] [♦️ A] |   98.50% | ⬆️ raise:$837
+  Yuchun          | [♥️ 4] [♣️ 2] |    3.00% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  Yuchun         : $  1094 📉 (-5)
+  SichengZuo     : $  1945 ➡️ (+0)
+  JoyoPlayer     : $  1030 📈 (+20)
+  ZifengFoldMan  : $   925 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 22
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ Q] [♦️ T]        | 💰  1089
+👤 SichengZuo      | [♣️ 9] [♠️ Q]        | 💰  1935
+👤 JoyoPlayer      | [♣️ K] [♣️ 2]        | 💰  1030
+👤 ZifengFoldMan   | [♠️ 9] [♣️ 3]        | 💰   925
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♣️ K] [♣️ 2] |   40.10% | ⬆️ raise:$15
+  ZifengFoldMan   | [♠️ 9] [♣️ 3] |   17.80% | ❌ fold
+  Yuchun          | [♣️ Q] [♦️ T] |   33.40% | ✅ call:$15
+  SichengZuo      | [♣️ 9] [♠️ Q] |   23.00% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ T] [♣️ 6] [♦️ A] ]
+  Yuchun          | [♣️ Q] [♦️ T] |   86.30% | ⬆️ raise:$40
+  JoyoPlayer      | [♣️ K] [♣️ 2] |   13.70% | ⬆️ raise:$80
+  Yuchun          | [♣️ Q] [♦️ T] |   86.30% | ✅ call:$80
+
+🎴 TURN
+Board: [ [♥️ T] [♣️ 6] [♦️ A] [♥️ 3] ]
+  Yuchun          | [♣️ Q] [♦️ T] |   91.70% | ⬆️ raise:$40
+  JoyoPlayer      | [♣️ K] [♣️ 2] |    8.30% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1199 📈 (+110)
+  SichengZuo     : $  1935 ➡️ (+0)
+  JoyoPlayer     : $   935 📉 (-95)
+  ZifengFoldMan  : $   925 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 23
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ A] [♥️ Q]        | 💰  1199
+👤 SichengZuo      | [♦️ K] [♦️ 5]        | 💰  1930
+👤 JoyoPlayer      | [♣️ 3] [♥️ 2]        | 💰   925
+👤 ZifengFoldMan   | [♣️ 4] [♠️ K]        | 💰   925
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♣️ 4] [♠️ K] |   18.70% | ❌ fold
+  Yuchun          | [♣️ A] [♥️ Q] |   44.80% | ✅ call:$10
+  SichengZuo      | [♦️ K] [♦️ 5] |   35.30% | ❌ fold
+  JoyoPlayer      | [♣️ 3] [♥️ 2] |   34.90% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1214 📈 (+15)
+  SichengZuo     : $  1930 ➡️ (+0)
+  JoyoPlayer     : $   925 ➡️ (+0)
+  ZifengFoldMan  : $   925 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 24
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♦️ 6] [♣️ 4]        | 💰  1214
+👤 SichengZuo      | [♣️ J] [♦️ 3]        | 💰  1930
+👤 JoyoPlayer      | [♣️ 3] [♥️ 5]        | 💰   920
+👤 ZifengFoldMan   | [♠️ Q] [♠️ 3]        | 💰   915
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♦️ 6] [♣️ 4] |   26.30% | ✅ call:$10
+  SichengZuo      | [♣️ J] [♦️ 3] |   22.50% | ❌ fold
+  JoyoPlayer      | [♣️ 3] [♥️ 5] |   20.90% | ⬆️ raise:$15
+  ZifengFoldMan   | [♠️ Q] [♠️ 3] |   54.10% | ❌ fold
+  Yuchun          | [♦️ 6] [♣️ 4] |   66.10% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♦️ A] [♥️ 3] [♠️ T] ]
+  JoyoPlayer      | [♣️ 3] [♥️ 5] |   76.70% | ⬆️ raise:$10
+  Yuchun          | [♦️ 6] [♣️ 4] |   23.30% | ✅ call:$10
+
+🎴 TURN
+Board: [ [♦️ A] [♥️ 3] [♠️ T] [♥️ J] ]
+  JoyoPlayer      | [♣️ 3] [♥️ 5] |   85.70% | ⬆️ raise:$10
+  Yuchun          | [♦️ 6] [♣️ 4] |   14.30% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  Yuchun         : $  1189 📉 (-25)
+  SichengZuo     : $  1930 ➡️ (+0)
+  JoyoPlayer     : $   960 📈 (+40)
+  ZifengFoldMan  : $   915 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 25
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ 4] [♥️ 8]        | 💰  1179
+👤 SichengZuo      | [♦️ 4] [♥️ 3]        | 💰  1930
+👤 JoyoPlayer      | [♥️ 7] [♥️ 9]        | 💰   960
+👤 ZifengFoldMan   | [♦️ 8] [♣️ 7]        | 💰   910
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♦️ 4] [♥️ 3] |   26.10% | ❌ fold
+  JoyoPlayer      | [♥️ 7] [♥️ 9] |   66.70% | ❌ fold
+  ZifengFoldMan   | [♦️ 8] [♣️ 7] |   79.00% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1194 📈 (+15)
+  SichengZuo     : $  1930 ➡️ (+0)
+  JoyoPlayer     : $   960 ➡️ (+0)
+  ZifengFoldMan  : $   910 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 26
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♦️ A] [♦️ 5]        | 💰  1189
+👤 SichengZuo      | [♠️ Q] [♣️ 6]        | 💰  1920
+👤 JoyoPlayer      | [♠️ 7] [♥️ 7]        | 💰   960
+👤 ZifengFoldMan   | [♦️ 4] [♠️ 2]        | 💰   910
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♠️ 7] [♥️ 7] |   41.40% | ❌ fold
+  ZifengFoldMan   | [♦️ 4] [♠️ 2] |   20.20% | ❌ fold
+  Yuchun          | [♦️ A] [♦️ 5] |   63.10% | ✅ call:$10
+  SichengZuo      | [♠️ Q] [♣️ 6] |   37.30% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1204 📈 (+15)
+  SichengZuo     : $  1920 ➡️ (+0)
+  JoyoPlayer     : $   960 ➡️ (+0)
+  ZifengFoldMan  : $   910 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 27
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♥️ A] [♦️ 8]        | 💰  1204
+👤 SichengZuo      | [♥️ 4] [♥️ 3]        | 💰  1915
+👤 JoyoPlayer      | [♠️ 2] [♦️ 9]        | 💰   950
+👤 ZifengFoldMan   | [♠️ A] [♣️ 3]        | 💰   910
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♠️ A] [♣️ 3] |   25.00% | ❌ fold
+  Yuchun          | [♥️ A] [♦️ 8] |   42.20% | ✅ call:$10
+  SichengZuo      | [♥️ 4] [♥️ 3] |   32.80% | ❌ fold
+  JoyoPlayer      | [♠️ 2] [♦️ 9] |   36.50% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1219 📈 (+15)
+  SichengZuo     : $  1915 ➡️ (+0)
+  JoyoPlayer     : $   950 ➡️ (+0)
+  ZifengFoldMan  : $   910 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 28
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♠️ Q] [♦️ 4]        | 💰  1219
+👤 SichengZuo      | [♦️ 3] [♣️ 7]        | 💰  1915
+👤 JoyoPlayer      | [♥️ 4] [♥️ 3]        | 💰   945
+👤 ZifengFoldMan   | [♦️ 7] [♣️ Q]        | 💰   900
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♠️ Q] [♦️ 4] |   43.30% | ✅ call:$10
+  SichengZuo      | [♦️ 3] [♣️ 7] |   19.40% | ❌ fold
+  JoyoPlayer      | [♥️ 4] [♥️ 3] |   35.80% | ❌ fold
+  ZifengFoldMan   | [♦️ 7] [♣️ Q] |   76.20% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1234 📈 (+15)
+  SichengZuo     : $  1915 ➡️ (+0)
+  JoyoPlayer     : $   945 ➡️ (+0)
+  ZifengFoldMan  : $   900 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 29
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♥️ K] [♣️ 4]        | 💰  1224
+👤 SichengZuo      | [♥️ 9] [♥️ 2]        | 💰  1915
+👤 JoyoPlayer      | [♦️ Q] [♦️ 7]        | 💰   945
+👤 ZifengFoldMan   | [♣️ 7] [♠️ 3]        | 💰   895
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♥️ 9] [♥️ 2] |   23.90% | ❌ fold
+  JoyoPlayer      | [♦️ Q] [♦️ 7] |   35.30% | ❌ fold
+  ZifengFoldMan   | [♣️ 7] [♠️ 3] |   40.70% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1239 📈 (+15)
+  SichengZuo     : $  1915 ➡️ (+0)
+  JoyoPlayer     : $   945 ➡️ (+0)
+  ZifengFoldMan  : $   895 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 30
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♦️ T] [♦️ 6]        | 💰  1234
+👤 SichengZuo      | [♥️ 8] [♠️ 2]        | 💰  1905
+👤 JoyoPlayer      | [♥️ T] [♥️ 9]        | 💰   945
+👤 ZifengFoldMan   | [♥️ 5] [♣️ 5]        | 💰   895
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♥️ T] [♥️ 9] |   39.20% | ❌ fold
+  ZifengFoldMan   | [♥️ 5] [♣️ 5] |   37.30% | ❌ fold
+  Yuchun          | [♦️ T] [♦️ 6] |   68.80% | ✅ call:$10
+  SichengZuo      | [♥️ 8] [♠️ 2] |   33.50% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1249 📈 (+15)
+  SichengZuo     : $  1905 ➡️ (+0)
+  JoyoPlayer     : $   945 ➡️ (+0)
+  ZifengFoldMan  : $   895 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 31
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ 7] [♦️ 6]        | 💰  1249
+👤 SichengZuo      | [♠️ 3] [♥️ 2]        | 💰  1900
+👤 JoyoPlayer      | [♥️ A] [♥️ J]        | 💰   935
+👤 ZifengFoldMan   | [♣️ T] [♠️ Q]        | 💰   895
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♣️ T] [♠️ Q] |   28.90% | ❌ fold
+  Yuchun          | [♣️ 7] [♦️ 6] |   32.50% | ✅ call:$10
+  SichengZuo      | [♠️ 3] [♥️ 2] |   16.50% | ❌ fold
+  JoyoPlayer      | [♥️ A] [♥️ J] |   63.70% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♥️ Q] [♦️ T] [♠️ A] ]
+  JoyoPlayer      | [♥️ A] [♥️ J] |   98.80% | ⬆️ raise:$732
+  Yuchun          | [♣️ 7] [♦️ 6] |    1.90% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  Yuchun         : $  1239 📉 (-10)
+  SichengZuo     : $  1900 ➡️ (+0)
+  JoyoPlayer     : $   960 📈 (+25)
+  ZifengFoldMan  : $   895 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 32
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ T] [♦️ 8]        | 💰  1239
+👤 SichengZuo      | [♣️ 2] [♦️ 3]        | 💰  1900
+👤 JoyoPlayer      | [♠️ 8] [♦️ T]        | 💰   955
+👤 ZifengFoldMan   | [♣️ Q] [♦️ 2]        | 💰   885
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♣️ T] [♦️ 8] |   32.20% | ✅ call:$10
+  SichengZuo      | [♣️ 2] [♦️ 3] |   22.50% | ❌ fold
+  JoyoPlayer      | [♠️ 8] [♦️ T] |   39.00% | ⬆️ raise:$15
+  ZifengFoldMan   | [♣️ Q] [♦️ 2] |   62.10% | ❌ fold
+  Yuchun          | [♣️ T] [♦️ 8] |   98.40% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♦️ 9] [♠️ J] [♣️ 6] ]
+  JoyoPlayer      | [♠️ 8] [♦️ T] |  100.00% | ✅ call
+  Yuchun          | [♣️ T] [♦️ 8] |  100.00% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 9] [♠️ J] [♣️ 6] [♣️ 4] ]
+  JoyoPlayer      | [♠️ 8] [♦️ T] |  100.00% | ⬆️ raise:$10
+  Yuchun          | [♣️ T] [♦️ 8] |  100.00% | ✅ call:$10
+
+🎴 RIVER
+Board: [ [♦️ 9] [♠️ J] [♣️ 6] [♣️ 4] [♠️ T] ]
+  JoyoPlayer      | [♠️ 8] [♦️ T] |  100.00% | ⬆️ raise:$20
+  Yuchun          | [♣️ T] [♦️ 8] |  100.00% | ⬆️ raise:$160
+  JoyoPlayer      | [♠️ 8] [♦️ T] |  100.00% | ✅ call:$160
+
+🏆 Winner: Yuchun', 'JoyoPlayer
+Final Stacks:
+  Yuchun         : $  1244 📈 (+5)
+  SichengZuo     : $  1900 ➡️ (+0)
+  JoyoPlayer     : $   965 📈 (+10)
+  ZifengFoldMan  : $   885 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 33
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♠️ T] [♣️ Q]        | 💰  1234
+👤 SichengZuo      | [♠️ 2] [♣️ 4]        | 💰  1900
+👤 JoyoPlayer      | [♥️ 9] [♥️ 6]        | 💰   965
+👤 ZifengFoldMan   | [♥️ J] [♦️ 5]        | 💰   880
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♠️ 2] [♣️ 4] |   14.70% | ❌ fold
+  JoyoPlayer      | [♥️ 9] [♥️ 6] |   32.20% | ❌ fold
+  ZifengFoldMan   | [♥️ J] [♦️ 5] |   36.70% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1249 📈 (+15)
+  SichengZuo     : $  1900 ➡️ (+0)
+  JoyoPlayer     : $   965 ➡️ (+0)
+  ZifengFoldMan  : $   880 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 34
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♥️ A] [♣️ 8]        | 💰  1244
+👤 SichengZuo      | [♣️ 2] [♦️ 9]        | 💰  1890
+👤 JoyoPlayer      | [♥️ J] [♠️ A]        | 💰   965
+👤 ZifengFoldMan   | [♠️ 9] [♥️ 4]        | 💰   880
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♥️ J] [♠️ A] |   46.50% | ❌ fold
+  ZifengFoldMan   | [♠️ 9] [♥️ 4] |   26.10% | ❌ fold
+  Yuchun          | [♥️ A] [♣️ 8] |   63.20% | ✅ call:$10
+  SichengZuo      | [♣️ 2] [♦️ 9] |   37.70% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1259 📈 (+15)
+  SichengZuo     : $  1890 ➡️ (+0)
+  JoyoPlayer     : $   965 ➡️ (+0)
+  ZifengFoldMan  : $   880 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 35
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♦️ A] [♦️ T]        | 💰  1259
+👤 SichengZuo      | [♦️ J] [♥️ 9]        | 💰  1885
+👤 JoyoPlayer      | [♦️ K] [♥️ A]        | 💰   955
+👤 ZifengFoldMan   | [♠️ 3] [♥️ 8]        | 💰   880
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♠️ 3] [♥️ 8] |   20.00% | ❌ fold
+  Yuchun          | [♦️ A] [♦️ T] |   22.40% | ✅ call:$10
+  SichengZuo      | [♦️ J] [♥️ 9] |   33.00% | ❌ fold
+  JoyoPlayer      | [♦️ K] [♥️ A] |   72.70% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♣️ Q] [♣️ 4] [♣️ J] ]
+  JoyoPlayer      | [♦️ K] [♥️ A] |   88.40% | ✅ call
+  Yuchun          | [♦️ A] [♦️ T] |   19.60% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ Q] [♣️ 4] [♣️ J] [♠️ 6] ]
+  JoyoPlayer      | [♦️ K] [♥️ A] |   94.40% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1274 📈 (+15)
+  SichengZuo     : $  1885 ➡️ (+0)
+  JoyoPlayer     : $   955 ➡️ (+0)
+  ZifengFoldMan  : $   880 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 36
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♠️ A] [♠️ 3]        | 💰  1274
+👤 SichengZuo      | [♦️ J] [♦️ 7]        | 💰  1885
+👤 JoyoPlayer      | [♦️ A] [♥️ T]        | 💰   950
+👤 ZifengFoldMan   | [♦️ 4] [♠️ 7]        | 💰   870
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♠️ A] [♠️ 3] |   24.60% | ✅ call:$10
+  SichengZuo      | [♦️ J] [♦️ 7] |   33.20% | ❌ fold
+  JoyoPlayer      | [♦️ A] [♥️ T] |   50.50% | ❌ fold
+  ZifengFoldMan   | [♦️ 4] [♠️ 7] |   40.80% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1289 📈 (+15)
+  SichengZuo     : $  1885 ➡️ (+0)
+  JoyoPlayer     : $   950 ➡️ (+0)
+  ZifengFoldMan  : $   870 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 37
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♦️ 4] [♥️ Q]        | 💰  1279
+👤 SichengZuo      | [♥️ K] [♣️ 6]        | 💰  1885
+👤 JoyoPlayer      | [♦️ 7] [♠️ 4]        | 💰   950
+👤 ZifengFoldMan   | [♣️ K] [♦️ J]        | 💰   865
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♥️ K] [♣️ 6] |   16.20% | ❌ fold
+  JoyoPlayer      | [♦️ 7] [♠️ 4] |   22.10% | ❌ fold
+  ZifengFoldMan   | [♣️ K] [♦️ J] |   68.10% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1294 📈 (+15)
+  SichengZuo     : $  1885 ➡️ (+0)
+  JoyoPlayer     : $   950 ➡️ (+0)
+  ZifengFoldMan  : $   865 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 38
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♥️ 9] [♥️ 3]        | 💰  1289
+👤 SichengZuo      | [♦️ A] [♠️ Q]        | 💰  1875
+👤 JoyoPlayer      | [♠️ 2] [♦️ 6]        | 💰   950
+👤 ZifengFoldMan   | [♣️ Q] [♣️ T]        | 💰   865
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♠️ 2] [♦️ 6] |   18.90% | ❌ fold
+  ZifengFoldMan   | [♣️ Q] [♣️ T] |   29.40% | ❌ fold
+  Yuchun          | [♥️ 9] [♥️ 3] |   38.00% | ✅ call:$10
+  SichengZuo      | [♦️ A] [♠️ Q] |   62.80% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1304 📈 (+15)
+  SichengZuo     : $  1875 ➡️ (+0)
+  JoyoPlayer     : $   950 ➡️ (+0)
+  ZifengFoldMan  : $   865 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 39
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♦️ 5] [♥️ J]        | 💰  1304
+👤 SichengZuo      | [♥️ K] [♦️ 8]        | 💰  1870
+👤 JoyoPlayer      | [♦️ 6] [♣️ T]        | 💰   940
+👤 ZifengFoldMan   | [♥️ 7] [♥️ 8]        | 💰   865
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♥️ 7] [♥️ 8] |   21.80% | ❌ fold
+  Yuchun          | [♦️ 5] [♥️ J] |   30.60% | ✅ call:$10
+  SichengZuo      | [♥️ K] [♦️ 8] |   42.50% | ❌ fold
+  JoyoPlayer      | [♦️ 6] [♣️ T] |   42.90% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1319 📈 (+15)
+  SichengZuo     : $  1870 ➡️ (+0)
+  JoyoPlayer     : $   940 ➡️ (+0)
+  ZifengFoldMan  : $   865 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 40
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♠️ 4] [♥️ A]        | 💰  1319
+👤 SichengZuo      | [♥️ 9] [♠️ K]        | 💰  1870
+👤 JoyoPlayer      | [♦️ 5] [♣️ 4]        | 💰   935
+👤 ZifengFoldMan   | [♥️ T] [♠️ 3]        | 💰   855
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♠️ 4] [♥️ A] |   32.10% | ✅ call:$10
+  SichengZuo      | [♥️ 9] [♠️ K] |   30.20% | ❌ fold
+  JoyoPlayer      | [♦️ 5] [♣️ 4] |   24.60% | ❌ fold
+  ZifengFoldMan   | [♥️ T] [♠️ 3] |   36.50% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1334 📈 (+15)
+  SichengZuo     : $  1870 ➡️ (+0)
+  JoyoPlayer     : $   935 ➡️ (+0)
+  ZifengFoldMan  : $   855 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 41
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ 7] [♣️ K]        | 💰  1324
+👤 SichengZuo      | [♦️ 3] [♦️ 9]        | 💰  1870
+👤 JoyoPlayer      | [♥️ J] [♠️ Q]        | 💰   935
+👤 ZifengFoldMan   | [♣️ 8] [♥️ Q]        | 💰   850
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♦️ 3] [♦️ 9] |   26.10% | ❌ fold
+  JoyoPlayer      | [♥️ J] [♠️ Q] |   37.50% | ❌ fold
+  ZifengFoldMan   | [♣️ 8] [♥️ Q] |   42.20% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1339 📈 (+15)
+  SichengZuo     : $  1870 ➡️ (+0)
+  JoyoPlayer     : $   935 ➡️ (+0)
+  ZifengFoldMan  : $   850 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 42
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♠️ 8] [♥️ 7]        | 💰  1334
+👤 SichengZuo      | [♥️ 2] [♠️ 9]        | 💰  1860
+👤 JoyoPlayer      | [♣️ T] [♦️ 2]        | 💰   935
+👤 ZifengFoldMan   | [♦️ T] [♠️ 4]        | 💰   850
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♣️ T] [♦️ 2] |   26.60% | ❌ fold
+  ZifengFoldMan   | [♦️ T] [♠️ 4] |   37.90% | ❌ fold
+  Yuchun          | [♠️ 8] [♥️ 7] |   47.40% | ❌ fold
+
+🏆 Winner: SichengZuo
+Final Stacks:
+  Yuchun         : $  1334 ➡️ (+0)
+  SichengZuo     : $  1875 📈 (+15)
+  JoyoPlayer     : $   935 ➡️ (+0)
+  ZifengFoldMan  : $   850 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 43
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♥️ Q] [♥️ K]        | 💰  1334
+👤 SichengZuo      | [♠️ 6] [♦️ 3]        | 💰  1870
+👤 JoyoPlayer      | [♥️ 8] [♠️ J]        | 💰   925
+👤 ZifengFoldMan   | [♣️ 9] [♠️ 4]        | 💰   850
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♣️ 9] [♠️ 4] |   19.30% | ❌ fold
+  Yuchun          | [♥️ Q] [♥️ K] |   52.40% | ❌ fold
+  SichengZuo      | [♠️ 6] [♦️ 3] |   34.40% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  Yuchun         : $  1334 ➡️ (+0)
+  SichengZuo     : $  1870 ➡️ (+0)
+  JoyoPlayer     : $   940 📈 (+15)
+  ZifengFoldMan  : $   850 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 44
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♥️ 4] [♣️ 4]        | 💰  1334
+👤 SichengZuo      | [♥️ Q] [♠️ 3]        | 💰  1870
+👤 JoyoPlayer      | [♥️ 3] [♣️ Q]        | 💰   935
+👤 ZifengFoldMan   | [♥️ 5] [♠️ 5]        | 💰   840
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♥️ 4] [♣️ 4] |   18.00% | ❌ fold
+  SichengZuo      | [♥️ Q] [♠️ 3] |   24.10% | ❌ fold
+  JoyoPlayer      | [♥️ 3] [♣️ Q] |   30.30% | ✅ call:$10
+  ZifengFoldMan   | [♥️ 5] [♠️ 5] |   70.80% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  Yuchun         : $  1334 ➡️ (+0)
+  SichengZuo     : $  1870 ➡️ (+0)
+  JoyoPlayer     : $   950 📈 (+15)
+  ZifengFoldMan  : $   840 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 45
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♥️ A] [♦️ J]        | 💰  1324
+👤 SichengZuo      | [♣️ 9] [♥️ T]        | 💰  1870
+👤 JoyoPlayer      | [♥️ 7] [♠️ J]        | 💰   950
+👤 ZifengFoldMan   | [♥️ 6] [♣️ A]        | 💰   835
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♣️ 9] [♥️ T] |   37.10% | ❌ fold
+  JoyoPlayer      | [♥️ 7] [♠️ J] |   27.70% | ❌ fold
+  ZifengFoldMan   | [♥️ 6] [♣️ A] |   29.20% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1339 📈 (+15)
+  SichengZuo     : $  1870 ➡️ (+0)
+  JoyoPlayer     : $   950 ➡️ (+0)
+  ZifengFoldMan  : $   835 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 46
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♥️ 4] [♣️ 5]        | 💰  1334
+👤 SichengZuo      | [♠️ T] [♥️ J]        | 💰  1860
+👤 JoyoPlayer      | [♥️ 6] [♠️ 9]        | 💰   950
+👤 ZifengFoldMan   | [♦️ 7] [♦️ 5]        | 💰   835
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♥️ 6] [♠️ 9] |   17.70% | ⬆️ raise:$15
+  ZifengFoldMan   | [♦️ 7] [♦️ 5] |   24.60% | ❌ fold
+  Yuchun          | [♥️ 4] [♣️ 5] |   25.80% | ❌ fold
+  SichengZuo      | [♠️ T] [♥️ J] |   70.80% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  Yuchun         : $  1334 ➡️ (+0)
+  SichengZuo     : $  1860 ➡️ (+0)
+  JoyoPlayer     : $   965 📈 (+15)
+  ZifengFoldMan  : $   835 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 47
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♣️ Q] [♣️ 8]        | 💰  1334
+👤 SichengZuo      | [♥️ K] [♣️ A]        | 💰  1855
+👤 JoyoPlayer      | [♦️ 6] [♣️ 2]        | 💰   955
+👤 ZifengFoldMan   | [♣️ 6] [♦️ T]        | 💰   835
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♣️ 6] [♦️ T] |   17.80% | ❌ fold
+  Yuchun          | [♣️ Q] [♣️ 8] |   32.90% | ❌ fold
+  SichengZuo      | [♥️ K] [♣️ A] |   65.90% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  Yuchun         : $  1334 ➡️ (+0)
+  SichengZuo     : $  1855 ➡️ (+0)
+  JoyoPlayer     : $   970 📈 (+15)
+  ZifengFoldMan  : $   835 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 48
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♦️ 8] [♣️ 6]        | 💰  1334
+👤 SichengZuo      | [♣️ 9] [♠️ 6]        | 💰  1855
+👤 JoyoPlayer      | [♥️ 5] [♥️ K]        | 💰   965
+👤 ZifengFoldMan   | [♥️ 4] [♣️ A]        | 💰   825
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♦️ 8] [♣️ 6] |   19.00% | ❌ fold
+  SichengZuo      | [♣️ 9] [♠️ 6] |   32.90% | ❌ fold
+  JoyoPlayer      | [♥️ 5] [♥️ K] |   42.30% | ⬆️ raise:$15
+  ZifengFoldMan   | [♥️ 4] [♣️ A] |   58.00% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  Yuchun         : $  1334 ➡️ (+0)
+  SichengZuo     : $  1855 ➡️ (+0)
+  JoyoPlayer     : $   980 📈 (+15)
+  ZifengFoldMan  : $   825 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 49
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♠️ J] [♣️ 3]        | 💰  1324
+👤 SichengZuo      | [♠️ T] [♦️ Q]        | 💰  1855
+👤 JoyoPlayer      | [♠️ 7] [♦️ 5]        | 💰   980
+👤 ZifengFoldMan   | [♥️ A] [♦️ K]        | 💰   820
+
+🎴 PREFLOP
+Board: [  ]
+  SichengZuo      | [♠️ T] [♦️ Q] |   25.00% | ❌ fold
+  JoyoPlayer      | [♠️ 7] [♦️ 5] |   31.10% | ❌ fold
+  ZifengFoldMan   | [♥️ A] [♦️ K] |   66.30% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1339 📈 (+15)
+  SichengZuo     : $  1855 ➡️ (+0)
+  JoyoPlayer     : $   980 ➡️ (+0)
+  ZifengFoldMan  : $   820 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 50
+----------------------------------------
+Initial State:
+👤 Yuchun          | [♥️ 3] [♣️ K]        | 💰  1334
+👤 SichengZuo      | [♠️ 5] [♣️ 5]        | 💰  1845
+👤 JoyoPlayer      | [♥️ 7] [♠️ 3]        | 💰   980
+👤 ZifengFoldMan   | [♥️ 4] [♦️ 6]        | 💰   820
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♥️ 7] [♠️ 3] |   18.50% | ❌ fold
+  ZifengFoldMan   | [♥️ 4] [♦️ 6] |   24.90% | ❌ fold
+  Yuchun          | [♥️ 3] [♣️ K] |   30.60% | ✅ call:$10
+  SichengZuo      | [♠️ 5] [♣️ 5] |   70.00% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  Yuchun         : $  1349 📈 (+15)
+  SichengZuo     : $  1845 ➡️ (+0)
+  JoyoPlayer     : $   980 ➡️ (+0)
+  ZifengFoldMan  : $   820 ➡️ (+0)
+  Elvis          : $     0 ➡️ (+0)
+----------------------------------------
+
+🏁 Final Rankings:
+--------------------------------------------------
+
+🎮 Active Players:
+1. 🏆 SichengZuo      | Stack:       1845 | Status: active
+2. 👥 Yuchun          | Stack:       1349 | Status: active
+3. 👥 JoyoPlayer      | Stack:        980 | Status: active
+4. 👥 ZifengFoldMan   | Stack:        820 | Status: active
+
+💀 Eliminated Players:
+5. 💀 Elvis           | Stack: 0 (Max: 1015) | Status: eliminated (Round 13)

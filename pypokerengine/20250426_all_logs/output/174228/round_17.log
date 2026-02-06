@@ -1,0 +1,655 @@
+player [Xun] gets hole card ['D6', 'H9'], current stack 1000
+player [PlayerXinZhu] gets hole card ['C5', 'SK'], current stack 995
+player [Elvis] gets hole card ['D7', 'C8'], current stack 990
+player [ZheyuX] gets hole card ['S2', 'D3'], current stack 1000
+Started the round 1
+Street "preflop" started. (community card = [])
+"ZheyuX" declared "call:10"
+"Xun" declared "call:10"
+"PlayerXinZhu" declared "raise:15"
+"Elvis" declared "raise:20"
+"ZheyuX" declared "call:20"
+"Xun" declared "call:20"
+"PlayerXinZhu" declared "raise:25"
+"Elvis" declared "raise:30"
+"ZheyuX" declared "call:30"
+"Xun" declared "call:30"
+"PlayerXinZhu" declared "raise:35"
+"Elvis" declared "fold:0"
+"ZheyuX" declared "call:35"
+"Xun" declared "call:35"
+Street "flop" started. (community card = ['S3', 'H5', 'C7'])
+"PlayerXinZhu" declared "raise:10"
+"ZheyuX" declared "call:10"
+"Xun" declared "call:10"
+Street "turn" started. (community card = ['S3', 'H5', 'C7', 'S7'])
+"PlayerXinZhu" declared "raise:10"
+"ZheyuX" declared "call:10"
+"Xun" declared "fold:0"
+Street "river" started. (community card = ['S3', 'H5', 'C7', 'S7', 'HJ'])
+"PlayerXinZhu" declared "raise:10"
+"ZheyuX" declared "raise:20"
+"PlayerXinZhu" declared "raise:30"
+"ZheyuX" declared "raise:40"
+"PlayerXinZhu" declared "raise:50"
+"ZheyuX" declared "raise:60"
+"PlayerXinZhu" declared "raise:70"
+"ZheyuX" declared "raise:80"
+"PlayerXinZhu" declared "raise:90"
+"ZheyuX" declared "raise:100"
+"PlayerXinZhu" declared "raise:110"
+"ZheyuX" declared "raise:120"
+"PlayerXinZhu" declared "raise:130"
+"ZheyuX" declared "raise:140"
+"PlayerXinZhu" declared "raise:150"
+"ZheyuX" declared "raise:160"
+"PlayerXinZhu" declared "raise:170"
+"ZheyuX" declared "raise:180"
+"PlayerXinZhu" declared "raise:190"
+"ZheyuX" declared "raise:200"
+"PlayerXinZhu" declared "raise:210"
+"ZheyuX" declared "raise:220"
+"PlayerXinZhu" declared "raise:230"
+"ZheyuX" declared "raise:240"
+"PlayerXinZhu" declared "raise:250"
+"ZheyuX" declared "raise:260"
+"PlayerXinZhu" declared "raise:270"
+"ZheyuX" declared "raise:280"
+"PlayerXinZhu" declared "raise:290"
+"ZheyuX" declared "raise:300"
+"PlayerXinZhu" declared "raise:310"
+"ZheyuX" declared "raise:320"
+"PlayerXinZhu" declared "raise:330"
+"ZheyuX" declared "raise:340"
+"PlayerXinZhu" declared "raise:350"
+"ZheyuX" declared "raise:360"
+"PlayerXinZhu" declared "raise:370"
+"ZheyuX" declared "raise:380"
+"PlayerXinZhu" declared "raise:390"
+"ZheyuX" declared "raise:400"
+"PlayerXinZhu" declared "raise:410"
+"ZheyuX" declared "raise:420"
+"PlayerXinZhu" declared "raise:430"
+"ZheyuX" declared "raise:440"
+"PlayerXinZhu" declared "raise:450"
+"ZheyuX" declared "raise:460"
+"PlayerXinZhu" declared "raise:470"
+"ZheyuX" declared "raise:480"
+"PlayerXinZhu" declared "raise:490"
+"ZheyuX" declared "raise:500"
+"PlayerXinZhu" declared "raise:510"
+"ZheyuX" declared "call:510"
+"['PlayerXinZhu']" won the round 1 (stack = {'Xun': 955, 'PlayerXinZhu': 1640, 'Elvis': 970, 'ZheyuX': 435})
+player [Xun] gets hole card ['DA', 'HQ'], current stack 955
+player [PlayerXinZhu] gets hole card ['H2', 'H4'], current stack 1640
+player [Elvis] gets hole card ['H9', 'C2'], current stack 965
+player [ZheyuX] gets hole card ['C9', 'SA'], current stack 425
+Started the round 2
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:15"
+"ZheyuX" declared "call:15"
+"Xun" declared "call:15"
+Street "flop" started. (community card = ['DJ', 'CJ', 'ST'])
+"Elvis" declared "raise:10"
+"ZheyuX" declared "call:10"
+"Xun" declared "call:10"
+Street "turn" started. (community card = ['DJ', 'CJ', 'ST', 'D5'])
+"Elvis" declared "raise:10"
+"ZheyuX" declared "call:10"
+"Xun" declared "fold:0"
+Street "river" started. (community card = ['DJ', 'CJ', 'ST', 'D5', 'SQ'])
+"Elvis" declared "fold:0"
+"['ZheyuX']" won the round 2 (stack = {'Xun': 930, 'PlayerXinZhu': 1640, 'Elvis': 935, 'ZheyuX': 495})
+player [Xun] gets hole card ['SA', 'C2'], current stack 920
+player [PlayerXinZhu] gets hole card ['S5', 'HT'], current stack 1640
+player [Elvis] gets hole card ['D3', 'C4'], current stack 935
+player [ZheyuX] gets hole card ['C7', 'D4'], current stack 490
+Started the round 3
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "fold:0"
+"ZheyuX" declared "call:10"
+"Xun" declared "call:10"
+Street "flop" started. (community card = ['S3', 'DA', 'S9'])
+"ZheyuX" declared "call:0"
+"Xun" declared "call:0"
+Street "turn" started. (community card = ['S3', 'DA', 'S9', 'C3'])
+"ZheyuX" declared "call:0"
+"Xun" declared "call:0"
+Street "river" started. (community card = ['S3', 'DA', 'S9', 'C3', 'D8'])
+"ZheyuX" declared "call:0"
+"Xun" declared "call:0"
+"['Xun']" won the round 3 (stack = {'Xun': 940, 'PlayerXinZhu': 1640, 'Elvis': 935, 'ZheyuX': 485})
+player [Xun] gets hole card ['H6', 'H7'], current stack 935
+player [PlayerXinZhu] gets hole card ['DT', 'SK'], current stack 1630
+player [Elvis] gets hole card ['DK', 'S4'], current stack 935
+player [ZheyuX] gets hole card ['S5', 'HQ'], current stack 485
+Started the round 4
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"ZheyuX" declared "call:15"
+"Xun" declared "call:15"
+"PlayerXinZhu" declared "raise:535"
+"Elvis" declared "fold:0"
+"ZheyuX" declared "call:535"
+"Xun" declared "call:535"
+Street "flop" started. (community card = ['CJ', 'H3', 'S6'])
+"Xun" declared "call:0"
+"PlayerXinZhu" declared "raise:735"
+"Xun" declared "call:735"
+Street "turn" started. (community card = ['CJ', 'H3', 'S6', 'C4'])
+Street "river" started. (community card = ['CJ', 'H3', 'S6', 'C4', 'D3'])
+"['Xun']" won the round 4 (stack = {'Xun': 2380, 'PlayerXinZhu': 700, 'Elvis': 920, 'ZheyuX': 0})
+player [Xun] gets hole card ['H9', 'S4'], current stack 2380
+player [PlayerXinZhu] gets hole card ['D4', 'DQ'], current stack 695
+player [Elvis] gets hole card ['S2', 'H4'], current stack 910
+Started the round 5
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"PlayerXinZhu" declared "raise:15"
+"Elvis" declared "fold:0"
+"Xun" declared "call:15"
+Street "flop" started. (community card = ['DT', 'D2', 'D3'])
+"PlayerXinZhu" declared "raise:10"
+"Xun" declared "fold:0"
+"['PlayerXinZhu']" won the round 5 (stack = {'Xun': 2365, 'PlayerXinZhu': 725, 'Elvis': 910, 'ZheyuX': 0})
+player [Xun] gets hole card ['D4', 'DK'], current stack 2355
+player [PlayerXinZhu] gets hole card ['C7', 'H6'], current stack 725
+player [Elvis] gets hole card ['H7', 'S9'], current stack 905
+Started the round 6
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:273"
+"Xun" declared "call:273"
+Street "flop" started. (community card = ['S8', 'SQ', 'HT'])
+"Elvis" declared "raise:10"
+"Xun" declared "fold:0"
+"['Elvis']" won the round 6 (stack = {'Xun': 2092, 'PlayerXinZhu': 725, 'Elvis': 1183, 'ZheyuX': 0})
+player [Xun] gets hole card ['DA', 'SA'], current stack 2087
+player [PlayerXinZhu] gets hole card ['D2', 'DT'], current stack 715
+player [Elvis] gets hole card ['H8', 'H4'], current stack 1183
+Started the round 7
+Street "preflop" started. (community card = [])
+"Elvis" declared "fold:0"
+"Xun" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"['Xun']" won the round 7 (stack = {'Xun': 2102, 'PlayerXinZhu': 715, 'Elvis': 1183, 'ZheyuX': 0})
+player [Xun] gets hole card ['CQ', 'ST'], current stack 2102
+player [PlayerXinZhu] gets hole card ['S7', 'D7'], current stack 710
+player [Elvis] gets hole card ['H5', 'DQ'], current stack 1173
+Started the round 8
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "fold:0"
+"['Xun']" won the round 8 (stack = {'Xun': 2117, 'PlayerXinZhu': 710, 'Elvis': 1173, 'ZheyuX': 0})
+player [Xun] gets hole card ['D5', 'S6'], current stack 2107
+player [PlayerXinZhu] gets hole card ['H8', 'D4'], current stack 710
+player [Elvis] gets hole card ['H2', 'S3'], current stack 1168
+Started the round 9
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "fold:0"
+"['Xun']" won the round 9 (stack = {'Xun': 2122, 'PlayerXinZhu': 710, 'Elvis': 1168, 'ZheyuX': 0})
+player [Xun] gets hole card ['C8', 'DA'], current stack 2117
+player [PlayerXinZhu] gets hole card ['S7', 'CQ'], current stack 700
+player [Elvis] gets hole card ['C9', 'C6'], current stack 1168
+Started the round 10
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"Xun" declared "call:15"
+"PlayerXinZhu" declared "fold:0"
+Street "flop" started. (community card = ['HQ', 'S2', 'H5'])
+"Xun" declared "fold:0"
+"['Elvis']" won the round 10 (stack = {'Xun': 2107, 'PlayerXinZhu': 700, 'Elvis': 1193, 'ZheyuX': 0})
+player [Xun] gets hole card ['C5', 'C3'], current stack 2107
+player [PlayerXinZhu] gets hole card ['HT', 'SQ'], current stack 695
+player [Elvis] gets hole card ['S6', 'S2'], current stack 1183
+Started the round 11
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:71"
+"Xun" declared "call:71"
+Street "flop" started. (community card = ['CJ', 'H8', 'D4'])
+"Elvis" declared "raise:10"
+"Xun" declared "fold:0"
+"['Elvis']" won the round 11 (stack = {'Xun': 2036, 'PlayerXinZhu': 695, 'Elvis': 1269, 'ZheyuX': 0})
+player [Xun] gets hole card ['H2', 'CJ'], current stack 2026
+player [PlayerXinZhu] gets hole card ['H3', 'H7'], current stack 695
+player [Elvis] gets hole card ['HK', 'D6'], current stack 1264
+Started the round 12
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:88"
+"Xun" declared "call:88"
+Street "flop" started. (community card = ['DK', 'DQ', 'S9'])
+"Elvis" declared "raise:1181"
+"Xun" declared "fold:0"
+"['Elvis']" won the round 12 (stack = {'Xun': 1948, 'PlayerXinZhu': 695, 'Elvis': 1357, 'ZheyuX': 0})
+player [Xun] gets hole card ['S8', 'CT'], current stack 1943
+player [PlayerXinZhu] gets hole card ['D9', 'DA'], current stack 685
+player [Elvis] gets hole card ['HA', 'H6'], current stack 1357
+Started the round 13
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:1017"
+"Xun" declared "call:1017"
+"PlayerXinZhu" declared "fold:0"
+Street "flop" started. (community card = ['CK', 'C8', 'D7'])
+"Xun" declared "call:0"
+"Elvis" declared "raise:255"
+"Xun" declared "call:255"
+Street "turn" started. (community card = ['CK', 'C8', 'D7', 'C4'])
+"Xun" declared "call:0"
+"Elvis" declared "raise:10"
+"Xun" declared "fold:0"
+"['Elvis']" won the round 13 (stack = {'Xun': 676, 'PlayerXinZhu': 685, 'Elvis': 2639, 'ZheyuX': 0})
+player [Xun] gets hole card ['CJ', 'H9'], current stack 676
+player [PlayerXinZhu] gets hole card ['DJ', 'C9'], current stack 680
+player [Elvis] gets hole card ['H4', 'CA'], current stack 2629
+Started the round 14
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:414"
+"Xun" declared "call:414"
+Street "flop" started. (community card = ['D3', 'HT', 'H8'])
+"Elvis" declared "raise:1668"
+"Xun" declared "call:1668"
+Street "turn" started. (community card = ['D3', 'HT', 'H8', 'H6'])
+Street "river" started. (community card = ['D3', 'HT', 'H8', 'H6', 'HA'])
+"['Xun']" won the round 14 (stack = {'Xun': 1357, 'PlayerXinZhu': 680, 'Elvis': 1963, 'ZheyuX': 0})
+player [Xun] gets hole card ['DT', 'D9'], current stack 1347
+player [PlayerXinZhu] gets hole card ['DQ', 'HA'], current stack 680
+player [Elvis] gets hole card ['S3', 'S2'], current stack 1958
+Started the round 15
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:15"
+"Xun" declared "call:15"
+Street "flop" started. (community card = ['S8', 'S6', 'HJ'])
+"Elvis" declared "raise:1461"
+"Xun" declared "call:1461"
+Street "turn" started. (community card = ['S8', 'S6', 'HJ', 'CJ'])
+Street "river" started. (community card = ['S8', 'S6', 'HJ', 'CJ', 'CK'])
+"['Xun']" won the round 15 (stack = {'Xun': 2714, 'PlayerXinZhu': 680, 'Elvis': 606, 'ZheyuX': 0})
+player [Xun] gets hole card ['S7', 'S2'], current stack 2709
+player [PlayerXinZhu] gets hole card ['S5', 'SQ'], current stack 670
+player [Elvis] gets hole card ['SK', 'HJ'], current stack 606
+Started the round 16
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"Xun" declared "call:15"
+"PlayerXinZhu" declared "fold:0"
+Street "flop" started. (community card = ['HQ', 'DT', 'H7'])
+"Xun" declared "call:0"
+"Elvis" declared "raise:10"
+"Xun" declared "call:10"
+Street "turn" started. (community card = ['HQ', 'DT', 'H7', 'C4'])
+"Xun" declared "fold:0"
+"['Elvis']" won the round 16 (stack = {'Xun': 2689, 'PlayerXinZhu': 670, 'Elvis': 641, 'ZheyuX': 0})
+player [Xun] gets hole card ['D9', 'DT'], current stack 2689
+player [PlayerXinZhu] gets hole card ['D8', 'SK'], current stack 665
+player [Elvis] gets hole card ['ST', 'C3'], current stack 631
+Started the round 17
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:51"
+"Xun" declared "call:51"
+Street "flop" started. (community card = ['D2', 'S7', 'C8'])
+"Elvis" declared "raise:10"
+"Xun" declared "call:10"
+Street "turn" started. (community card = ['D2', 'S7', 'C8', 'D6'])
+"Elvis" declared "raise:10"
+Error in respond_to_ask: 'int' object is not callable
+"Xun" declared "fold:0"
+"['Elvis']" won the round 17 (stack = {'Xun': 2628, 'PlayerXinZhu': 665, 'Elvis': 707, 'ZheyuX': 0})
+player [Xun] gets hole card ['CA', 'C5'], current stack 2618
+player [PlayerXinZhu] gets hole card ['HK', 'H2'], current stack 665
+player [Elvis] gets hole card ['CK', 'ST'], current stack 702
+Started the round 18
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:62"
+"Xun" declared "call:62"
+Street "flop" started. (community card = ['S6', 'D8', 'H9'])
+"Elvis" declared "raise:10"
+"Xun" declared "call:10"
+Street "turn" started. (community card = ['S6', 'D8', 'H9', 'SJ'])
+"Elvis" declared "raise:10"
+"Xun" declared "fold:0"
+"['Elvis']" won the round 18 (stack = {'Xun': 2556, 'PlayerXinZhu': 665, 'Elvis': 779, 'ZheyuX': 0})
+player [Xun] gets hole card ['C8', 'D9'], current stack 2551
+player [PlayerXinZhu] gets hole card ['S8', 'S6'], current stack 655
+player [Elvis] gets hole card ['CK', 'DT'], current stack 779
+Started the round 19
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:23"
+"Xun" declared "call:23"
+"PlayerXinZhu" declared "fold:0"
+Street "flop" started. (community card = ['H8', 'CT', 'HJ'])
+"Xun" declared "call:0"
+"Elvis" declared "raise:10"
+"Xun" declared "call:10"
+Street "turn" started. (community card = ['H8', 'CT', 'HJ', 'C2'])
+"Xun" declared "call:0"
+"Elvis" declared "raise:10"
+"Xun" declared "fold:0"
+"['Elvis']" won the round 19 (stack = {'Xun': 2523, 'PlayerXinZhu': 655, 'Elvis': 822, 'ZheyuX': 0})
+player [Xun] gets hole card ['S4', 'D6'], current stack 2523
+player [PlayerXinZhu] gets hole card ['SK', 'CK'], current stack 650
+player [Elvis] gets hole card ['ST', 'S6'], current stack 812
+Started the round 20
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:91"
+"Xun" declared "call:91"
+Street "flop" started. (community card = ['H7', 'H4', 'SQ'])
+"Elvis" declared "raise:10"
+"Xun" declared "call:10"
+Street "turn" started. (community card = ['H7', 'H4', 'SQ', 'D9'])
+"Elvis" declared "raise:10"
+"Xun" declared "fold:0"
+"['Elvis']" won the round 20 (stack = {'Xun': 2422, 'PlayerXinZhu': 650, 'Elvis': 928, 'ZheyuX': 0})
+player [Xun] gets hole card ['SQ', 'DJ'], current stack 2412
+player [PlayerXinZhu] gets hole card ['H8', 'CT'], current stack 650
+player [Elvis] gets hole card ['CK', 'D6'], current stack 923
+Started the round 21
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:82"
+"Xun" declared "call:82"
+Street "flop" started. (community card = ['S7', 'SJ', 'D7'])
+"Elvis" declared "raise:10"
+"Xun" declared "call:10"
+Street "turn" started. (community card = ['S7', 'SJ', 'D7', 'H2'])
+"Elvis" declared "raise:10"
+"Xun" declared "fold:0"
+"['Elvis']" won the round 21 (stack = {'Xun': 2330, 'PlayerXinZhu': 650, 'Elvis': 1020, 'ZheyuX': 0})
+player [Xun] gets hole card ['SA', 'HJ'], current stack 2325
+player [PlayerXinZhu] gets hole card ['SQ', 'H9'], current stack 640
+player [Elvis] gets hole card ['H3', 'CK'], current stack 1020
+Started the round 22
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"Xun" declared "call:15"
+"PlayerXinZhu" declared "fold:0"
+Street "flop" started. (community card = ['H5', 'D8', 'DQ'])
+"Xun" declared "fold:0"
+"['Elvis']" won the round 22 (stack = {'Xun': 2315, 'PlayerXinZhu': 640, 'Elvis': 1045, 'ZheyuX': 0})
+player [Xun] gets hole card ['C3', 'D7'], current stack 2315
+player [PlayerXinZhu] gets hole card ['DJ', 'C8'], current stack 635
+player [Elvis] gets hole card ['C9', 'H2'], current stack 1035
+Started the round 23
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:71"
+"Xun" declared "call:71"
+Street "flop" started. (community card = ['DQ', 'H8', 'S9'])
+"Elvis" declared "raise:10"
+"Xun" declared "fold:0"
+"['Elvis']" won the round 23 (stack = {'Xun': 2244, 'PlayerXinZhu': 635, 'Elvis': 1121, 'ZheyuX': 0})
+player [Xun] gets hole card ['CK', 'C4'], current stack 2234
+player [PlayerXinZhu] gets hole card ['SJ', 'CA'], current stack 635
+player [Elvis] gets hole card ['D9', 'ST'], current stack 1116
+Started the round 24
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:87"
+"Xun" declared "call:87"
+Street "flop" started. (community card = ['D6', 'HT', 'H7'])
+"Elvis" declared "raise:10"
+"Xun" declared "fold:0"
+"['Elvis']" won the round 24 (stack = {'Xun': 2157, 'PlayerXinZhu': 635, 'Elvis': 1208, 'ZheyuX': 0})
+player [Xun] gets hole card ['CT', 'CJ'], current stack 2152
+player [PlayerXinZhu] gets hole card ['S5', 'H9'], current stack 625
+player [Elvis] gets hole card ['H4', 'SQ'], current stack 1208
+Started the round 25
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"Xun" declared "call:15"
+"PlayerXinZhu" declared "fold:0"
+Street "flop" started. (community card = ['HJ', 'C6', 'D8'])
+"Xun" declared "call:0"
+"Elvis" declared "raise:10"
+"Xun" declared "call:10"
+Street "turn" started. (community card = ['HJ', 'C6', 'D8', 'D5'])
+"Xun" declared "call:0"
+"Elvis" declared "raise:10"
+"Xun" declared "fold:0"
+"['Elvis']" won the round 25 (stack = {'Xun': 2132, 'PlayerXinZhu': 625, 'Elvis': 1243, 'ZheyuX': 0})
+player [Xun] gets hole card ['H3', 'SQ'], current stack 2132
+player [PlayerXinZhu] gets hole card ['D5', 'D6'], current stack 620
+player [Elvis] gets hole card ['S7', 'C3'], current stack 1233
+Started the round 26
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:69"
+"Xun" declared "call:69"
+Street "flop" started. (community card = ['ST', 'D3', 'S9'])
+"Elvis" declared "raise:10"
+"Xun" declared "call:10"
+Street "turn" started. (community card = ['ST', 'D3', 'S9', 'C9'])
+"Elvis" declared "raise:10"
+"Xun" declared "fold:0"
+"['Elvis']" won the round 26 (stack = {'Xun': 2053, 'PlayerXinZhu': 620, 'Elvis': 1327, 'ZheyuX': 0})
+player [Xun] gets hole card ['S2', 'H4'], current stack 2043
+player [PlayerXinZhu] gets hole card ['CQ', 'H2'], current stack 620
+player [Elvis] gets hole card ['DA', 'H7'], current stack 1322
+Started the round 27
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:154"
+"Xun" declared "call:154"
+Street "flop" started. (community card = ['D7', 'DT', 'CJ'])
+"Elvis" declared "raise:10"
+"Xun" declared "fold:0"
+"['Elvis']" won the round 27 (stack = {'Xun': 1899, 'PlayerXinZhu': 620, 'Elvis': 1481, 'ZheyuX': 0})
+player [Xun] gets hole card ['H8', 'D3'], current stack 1894
+player [PlayerXinZhu] gets hole card ['H6', 'S9'], current stack 610
+player [Elvis] gets hole card ['HQ', 'D7'], current stack 1481
+Started the round 28
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"Xun" declared "call:15"
+"PlayerXinZhu" declared "fold:0"
+Street "flop" started. (community card = ['S8', 'ST', 'HK'])
+"Xun" declared "call:0"
+"Elvis" declared "raise:10"
+"Xun" declared "call:10"
+Street "turn" started. (community card = ['S8', 'ST', 'HK', 'S5'])
+"Xun" declared "fold:0"
+"['Elvis']" won the round 28 (stack = {'Xun': 1874, 'PlayerXinZhu': 610, 'Elvis': 1516, 'ZheyuX': 0})
+player [Xun] gets hole card ['S2', 'H8'], current stack 1874
+player [PlayerXinZhu] gets hole card ['D6', 'ST'], current stack 605
+player [Elvis] gets hole card ['D9', 'H6'], current stack 1506
+Started the round 29
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:133"
+"Xun" declared "call:133"
+Street "flop" started. (community card = ['SQ', 'S8', 'D4'])
+"Elvis" declared "raise:10"
+"Xun" declared "call:10"
+Street "turn" started. (community card = ['SQ', 'S8', 'D4', 'C9'])
+"Elvis" declared "raise:10"
+"Xun" declared "fold:0"
+"['Elvis']" won the round 29 (stack = {'Xun': 1731, 'PlayerXinZhu': 605, 'Elvis': 1664, 'ZheyuX': 0})
+player [Xun] gets hole card ['C4', 'H7'], current stack 1721
+player [PlayerXinZhu] gets hole card ['H9', 'CQ'], current stack 605
+player [Elvis] gets hole card ['CA', 'D7'], current stack 1659
+Started the round 30
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:170"
+"Xun" declared "call:170"
+Street "flop" started. (community card = ['CK', 'DT', 'S7'])
+"Elvis" declared "raise:10"
+"Xun" declared "call:10"
+Street "turn" started. (community card = ['CK', 'DT', 'S7', 'S6'])
+"Elvis" declared "raise:10"
+"Xun" declared "fold:0"
+"['Elvis']" won the round 30 (stack = {'Xun': 1551, 'PlayerXinZhu': 605, 'Elvis': 1844, 'ZheyuX': 0})
+player [Xun] gets hole card ['D4', 'HJ'], current stack 1546
+player [PlayerXinZhu] gets hole card ['S7', 'C8'], current stack 595
+player [Elvis] gets hole card ['DQ', 'D8'], current stack 1844
+Started the round 31
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"Xun" declared "call:15"
+"PlayerXinZhu" declared "fold:0"
+Street "flop" started. (community card = ['CT', 'H8', 'H4'])
+"Xun" declared "call:0"
+"Elvis" declared "raise:10"
+"Xun" declared "call:10"
+Street "turn" started. (community card = ['CT', 'H8', 'H4', 'C3'])
+"Xun" declared "fold:0"
+"['Elvis']" won the round 31 (stack = {'Xun': 1526, 'PlayerXinZhu': 595, 'Elvis': 1879, 'ZheyuX': 0})
+player [Xun] gets hole card ['DA', 'H6'], current stack 1526
+player [PlayerXinZhu] gets hole card ['D2', 'S6'], current stack 590
+player [Elvis] gets hole card ['H2', 'CQ'], current stack 1869
+Started the round 32
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"Elvis" declared "raise:189"
+"Xun" declared "call:189"
+Street "flop" started. (community card = ['DK', 'HQ', 'HK'])
+"Elvis" declared "raise:1690"
+"Xun" declared "call:1690"
+Street "turn" started. (community card = ['DK', 'HQ', 'HK', 'H5'])
+Street "river" started. (community card = ['DK', 'HQ', 'HK', 'H5', 'CT'])
+"['Elvis']" won the round 32 (stack = {'Xun': 0, 'PlayerXinZhu': 590, 'Elvis': 3410, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['C5', 'H2'], current stack 580
+player [Elvis] gets hole card ['C9', 'C4'], current stack 3405
+Started the round 33
+Street "preflop" started. (community card = [])
+"Elvis" declared "fold:0"
+"['PlayerXinZhu']" won the round 33 (stack = {'Xun': 0, 'PlayerXinZhu': 595, 'Elvis': 3405, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['H3', 'S2'], current stack 590
+player [Elvis] gets hole card ['S5', 'H6'], current stack 3395
+Started the round 34
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 34 (stack = {'Xun': 0, 'PlayerXinZhu': 590, 'Elvis': 3410, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['CQ', 'D8'], current stack 580
+player [Elvis] gets hole card ['HA', 'DT'], current stack 3405
+Started the round 35
+Street "preflop" started. (community card = [])
+"Elvis" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 35 (stack = {'Xun': 0, 'PlayerXinZhu': 580, 'Elvis': 3420, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['CQ', 'C8'], current stack 575
+player [Elvis] gets hole card ['H2', 'D2'], current stack 3410
+Started the round 36
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 36 (stack = {'Xun': 0, 'PlayerXinZhu': 575, 'Elvis': 3425, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['C4', 'SJ'], current stack 565
+player [Elvis] gets hole card ['D3', 'S3'], current stack 3420
+Started the round 37
+Street "preflop" started. (community card = [])
+"Elvis" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 37 (stack = {'Xun': 0, 'PlayerXinZhu': 565, 'Elvis': 3435, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['DK', 'C9'], current stack 560
+player [Elvis] gets hole card ['HA', 'C8'], current stack 3425
+Started the round 38
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 38 (stack = {'Xun': 0, 'PlayerXinZhu': 560, 'Elvis': 3440, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['SQ', 'DJ'], current stack 550
+player [Elvis] gets hole card ['SA', 'HK'], current stack 3435
+Started the round 39
+Street "preflop" started. (community card = [])
+"Elvis" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 39 (stack = {'Xun': 0, 'PlayerXinZhu': 550, 'Elvis': 3450, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['H5', 'C2'], current stack 545
+player [Elvis] gets hole card ['C7', 'H6'], current stack 3440
+Started the round 40
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 40 (stack = {'Xun': 0, 'PlayerXinZhu': 545, 'Elvis': 3455, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['C6', 'D6'], current stack 535
+player [Elvis] gets hole card ['ST', 'C4'], current stack 3450
+Started the round 41
+Street "preflop" started. (community card = [])
+"Elvis" declared "fold:0"
+"['PlayerXinZhu']" won the round 41 (stack = {'Xun': 0, 'PlayerXinZhu': 550, 'Elvis': 3450, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['H2', 'D3'], current stack 545
+player [Elvis] gets hole card ['S9', 'C4'], current stack 3440
+Started the round 42
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 42 (stack = {'Xun': 0, 'PlayerXinZhu': 545, 'Elvis': 3455, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['C2', 'CJ'], current stack 535
+player [Elvis] gets hole card ['HA', 'C4'], current stack 3450
+Started the round 43
+Street "preflop" started. (community card = [])
+"Elvis" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 43 (stack = {'Xun': 0, 'PlayerXinZhu': 535, 'Elvis': 3465, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['SA', 'CA'], current stack 530
+player [Elvis] gets hole card ['D4', 'HQ'], current stack 3455
+Started the round 44
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 44 (stack = {'Xun': 0, 'PlayerXinZhu': 530, 'Elvis': 3470, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['H9', 'C5'], current stack 520
+player [Elvis] gets hole card ['DA', 'D7'], current stack 3465
+Started the round 45
+Street "preflop" started. (community card = [])
+"Elvis" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 45 (stack = {'Xun': 0, 'PlayerXinZhu': 520, 'Elvis': 3480, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['DK', 'SA'], current stack 515
+player [Elvis] gets hole card ['S4', 'DT'], current stack 3470
+Started the round 46
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 46 (stack = {'Xun': 0, 'PlayerXinZhu': 515, 'Elvis': 3485, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['HJ', 'H8'], current stack 505
+player [Elvis] gets hole card ['ST', 'CQ'], current stack 3480
+Started the round 47
+Street "preflop" started. (community card = [])
+"Elvis" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 47 (stack = {'Xun': 0, 'PlayerXinZhu': 505, 'Elvis': 3495, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['CQ', 'D3'], current stack 500
+player [Elvis] gets hole card ['DA', 'HT'], current stack 3485
+Started the round 48
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 48 (stack = {'Xun': 0, 'PlayerXinZhu': 500, 'Elvis': 3500, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['DQ', 'D2'], current stack 490
+player [Elvis] gets hole card ['SK', 'DJ'], current stack 3495
+Started the round 49
+Street "preflop" started. (community card = [])
+"Elvis" declared "call:10"
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 49 (stack = {'Xun': 0, 'PlayerXinZhu': 490, 'Elvis': 3510, 'ZheyuX': 0})
+player [PlayerXinZhu] gets hole card ['C8', 'HA'], current stack 485
+player [Elvis] gets hole card ['C6', 'S5'], current stack 3500
+Started the round 50
+Street "preflop" started. (community card = [])
+"PlayerXinZhu" declared "fold:0"
+"['Elvis']" won the round 50 (stack = {'Xun': 0, 'PlayerXinZhu': 485, 'Elvis': 3515, 'ZheyuX': 0})
+
+Game Results:
+------------------------------------------------------------
+Game 1:
+Winner: Elvis (stack: 3515)
+All players' stacks:
+  Xun: 0
+  PlayerXinZhu: 485
+  Elvis: 3515
+  ZheyuX: 0
+------------------------------------------------------------

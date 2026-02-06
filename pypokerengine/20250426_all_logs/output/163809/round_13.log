@@ -1,0 +1,1180 @@
+player [ZPlayer] gets hole card ['CT', 'C9'], current stack 1000
+player [Xun] gets hole card ['S8', 'HT'], current stack 995
+player [NitWinWin] gets hole card ['S4', 'S6'], current stack 990
+player [Finneas] gets hole card ['D8', 'C8'], current stack 1000
+player [YangZ] gets hole card ['C2', 'D7'], current stack 1000
+Started the round 1
+Street "preflop" started. (community card = [])
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['D6', 'ST', 'S3'])
+"Xun" declared "call:0"
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "turn" started. (community card = ['D6', 'ST', 'S3', 'H3'])
+"Xun" declared "call:0"
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Xun" declared "call:10"
+"Finneas" declared "call:10"
+Street "river" started. (community card = ['D6', 'ST', 'S3', 'H3', 'C7'])
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"['ZPlayer']" won the round 1 (stack = {'ZPlayer': 1060, 'Xun': 975, 'NitWinWin': 990, 'Finneas': 975, 'YangZ': 1000})
+player [ZPlayer] gets hole card ['SA', 'C2'], current stack 1060
+player [Xun] gets hole card ['S9', 'D5'], current stack 975
+player [NitWinWin] gets hole card ['D9', 'S8'], current stack 985
+player [Finneas] gets hole card ['C5', 'HQ'], current stack 965
+player [YangZ] gets hole card ['D3', 'CT'], current stack 1000
+Started the round 2
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['H4', 'D7', 'H3'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+Street "turn" started. (community card = ['H4', 'D7', 'H3', 'S5'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Finneas" declared "call:10"
+Street "river" started. (community card = ['H4', 'D7', 'H3', 'S5', 'D6'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Finneas" declared "call:10"
+"['ZPlayer', 'Finneas']" won the round 2 (stack = {'ZPlayer': 1070, 'Xun': 960, 'NitWinWin': 985, 'Finneas': 985, 'YangZ': 1000})
+player [ZPlayer] gets hole card ['C2', 'H3'], current stack 1070
+player [Xun] gets hole card ['HQ', 'H6'], current stack 960
+player [NitWinWin] gets hole card ['S2', 'ST'], current stack 985
+player [Finneas] gets hole card ['H7', 'CT'], current stack 980
+player [YangZ] gets hole card ['H2', 'SK'], current stack 990
+Started the round 3
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "call:10"
+"Xun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+Street "flop" started. (community card = ['S6', 'SJ', 'H8'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "call:0"
+Street "turn" started. (community card = ['S6', 'SJ', 'H8', 'D2'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+Street "river" started. (community card = ['S6', 'SJ', 'H8', 'D2', 'DJ'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Finneas" declared "call:10"
+"['ZPlayer']" won the round 3 (stack = {'ZPlayer': 1110, 'Xun': 950, 'NitWinWin': 985, 'Finneas': 965, 'YangZ': 990})
+player [ZPlayer] gets hole card ['C4', 'D8'], current stack 1100
+player [Xun] gets hole card ['D9', 'HJ'], current stack 950
+player [NitWinWin] gets hole card ['S5', 'HA'], current stack 985
+player [Finneas] gets hole card ['D4', 'CA'], current stack 965
+player [YangZ] gets hole card ['C7', 'D5'], current stack 985
+Started the round 4
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "call:10"
+Street "flop" started. (community card = ['CQ', 'SK', 'S9'])
+"ZPlayer" declared "call:0"
+"Xun" declared "call:0"
+"Finneas" declared "call:0"
+Street "turn" started. (community card = ['CQ', 'SK', 'S9', 'HQ'])
+"ZPlayer" declared "call:0"
+"Xun" declared "call:0"
+"Finneas" declared "call:0"
+Street "river" started. (community card = ['CQ', 'SK', 'S9', 'HQ', 'HK'])
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+"['Finneas']" won the round 4 (stack = {'ZPlayer': 1100, 'Xun': 940, 'NitWinWin': 985, 'Finneas': 990, 'YangZ': 985})
+player [ZPlayer] gets hole card ['H4', 'HK'], current stack 1095
+player [Xun] gets hole card ['H7', 'DK'], current stack 930
+player [NitWinWin] gets hole card ['CJ', 'D3'], current stack 985
+player [Finneas] gets hole card ['S3', 'C7'], current stack 990
+player [YangZ] gets hole card ['DQ', 'H5'], current stack 985
+Started the round 5
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['ST', 'D6', 'DT'])
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+Street "turn" started. (community card = ['ST', 'D6', 'DT', 'C3'])
+"ZPlayer" declared "call:0"
+"Finneas" declared "call:0"
+Street "river" started. (community card = ['ST', 'D6', 'DT', 'C3', 'D9'])
+"ZPlayer" declared "call:0"
+"Finneas" declared "call:0"
+"['Finneas']" won the round 5 (stack = {'ZPlayer': 1085, 'Xun': 925, 'NitWinWin': 985, 'Finneas': 1020, 'YangZ': 985})
+player [ZPlayer] gets hole card ['D3', 'D4'], current stack 1085
+player [Xun] gets hole card ['H3', 'HT'], current stack 920
+player [NitWinWin] gets hole card ['SA', 'DT'], current stack 975
+player [Finneas] gets hole card ['C2', 'H4'], current stack 1020
+player [YangZ] gets hole card ['S8', 'H5'], current stack 985
+Started the round 6
+Street "preflop" started. (community card = [])
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "call:10"
+"Xun" declared "call:10"
+"NitWinWin" declared "fold:0"
+Street "flop" started. (community card = ['D2', 'C6', 'S5'])
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:491"
+"Finneas" declared "fold:0"
+"['ZPlayer']" won the round 6 (stack = {'ZPlayer': 1115, 'Xun': 915, 'NitWinWin': 975, 'Finneas': 1010, 'YangZ': 985})
+player [ZPlayer] gets hole card ['SJ', 'D4'], current stack 1115
+player [Xun] gets hole card ['CK', 'C2'], current stack 915
+player [NitWinWin] gets hole card ['C6', 'CQ'], current stack 970
+player [Finneas] gets hole card ['DK', 'CJ'], current stack 1000
+player [YangZ] gets hole card ['D5', 'C5'], current stack 985
+Started the round 7
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"ZPlayer" declared "call:10"
+"Xun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+Street "flop" started. (community card = ['SQ', 'DA', 'DJ'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:17"
+"Xun" declared "fold:0"
+"Finneas" declared "call:17"
+Street "turn" started. (community card = ['SQ', 'DA', 'DJ', 'HJ'])
+"Finneas" declared "raise:496"
+"ZPlayer" declared "raise:992"
+"Finneas" declared "fold:0"
+"['ZPlayer']" won the round 7 (stack = {'ZPlayer': 1653, 'Xun': 905, 'NitWinWin': 970, 'Finneas': 487, 'YangZ': 985})
+player [ZPlayer] gets hole card ['H4', 'H8'], current stack 1653
+player [Xun] gets hole card ['S2', 'C8'], current stack 905
+player [NitWinWin] gets hole card ['CT', 'SJ'], current stack 970
+player [Finneas] gets hole card ['CA', 'H6'], current stack 482
+player [YangZ] gets hole card ['D7', 'D6'], current stack 975
+Started the round 8
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+"YangZ" declared "fold:0"
+Street "flop" started. (community card = ['H5', 'HQ', 'SQ'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Xun" declared "fold:0"
+"Finneas" declared "call:10"
+Street "turn" started. (community card = ['H5', 'HQ', 'SQ', 'S9'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['H5', 'HQ', 'SQ', 'S9', 'H2'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:618"
+"Finneas" declared "fold:0"
+"['ZPlayer']" won the round 8 (stack = {'ZPlayer': 1703, 'Xun': 890, 'NitWinWin': 970, 'Finneas': 462, 'YangZ': 975})
+player [ZPlayer] gets hole card ['HQ', 'H4'], current stack 1693
+player [Xun] gets hole card ['C7', 'H7'], current stack 890
+player [NitWinWin] gets hole card ['C4', 'S9'], current stack 970
+player [Finneas] gets hole card ['SA', 'DJ'], current stack 462
+player [YangZ] gets hole card ['HT', 'S5'], current stack 970
+Started the round 9
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "call:10"
+Street "flop" started. (community card = ['HA', 'H3', 'S6'])
+"ZPlayer" declared "raise:10"
+"Xun" declared "call:10"
+"Finneas" declared "call:10"
+Street "turn" started. (community card = ['HA', 'H3', 'S6', 'CA'])
+"ZPlayer" declared "call:0"
+"Xun" declared "call:0"
+"Finneas" declared "raise:226"
+"ZPlayer" declared "fold:0"
+"Xun" declared "fold:0"
+"['Finneas']" won the round 9 (stack = {'ZPlayer': 1683, 'Xun': 870, 'NitWinWin': 970, 'Finneas': 507, 'YangZ': 970})
+player [ZPlayer] gets hole card ['H2', 'C6'], current stack 1678
+player [Xun] gets hole card ['H7', 'S2'], current stack 860
+player [NitWinWin] gets hole card ['S3', 'H4'], current stack 970
+player [Finneas] gets hole card ['HK', 'HJ'], current stack 507
+player [YangZ] gets hole card ['H8', 'D7'], current stack 970
+Started the round 10
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['S4', 'CK', 'C5'])
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+Street "turn" started. (community card = ['S4', 'CK', 'C5', 'C7'])
+"ZPlayer" declared "call:0"
+"Finneas" declared "call:0"
+Street "river" started. (community card = ['S4', 'CK', 'C5', 'C7', 'DT'])
+"ZPlayer" declared "call:0"
+"Finneas" declared "call:0"
+"['Finneas']" won the round 10 (stack = {'ZPlayer': 1668, 'Xun': 855, 'NitWinWin': 970, 'Finneas': 537, 'YangZ': 970})
+player [ZPlayer] gets hole card ['C9', 'D6'], current stack 1668
+player [Xun] gets hole card ['H4', 'DQ'], current stack 850
+player [NitWinWin] gets hole card ['D4', 'S3'], current stack 960
+player [Finneas] gets hole card ['HA', 'SK'], current stack 537
+player [YangZ] gets hole card ['C8', 'H9'], current stack 970
+Started the round 11
+Street "preflop" started. (community card = [])
+"Finneas" declared "raise:276"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "fold:0"
+"Xun" declared "call:276"
+"NitWinWin" declared "fold:0"
+Street "flop" started. (community card = ['D7', 'H3', 'C2'])
+"Xun" declared "fold:0"
+"['Finneas']" won the round 11 (stack = {'ZPlayer': 1668, 'Xun': 579, 'NitWinWin': 960, 'Finneas': 823, 'YangZ': 970})
+player [ZPlayer] gets hole card ['H3', 'DK'], current stack 1668
+player [Xun] gets hole card ['DA', 'D4'], current stack 579
+player [NitWinWin] gets hole card ['HK', 'SK'], current stack 955
+player [Finneas] gets hole card ['SA', 'D7'], current stack 813
+player [YangZ] gets hole card ['C2', 'S8'], current stack 970
+Started the round 12
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "raise:960"
+"Finneas" declared "fold:0"
+"ZPlayer" declared "fold:0"
+"Xun" declared "call:960"
+Street "flop" started. (community card = ['D6', 'D8', 'S5'])
+Street "turn" started. (community card = ['D6', 'D8', 'S5', 'DQ'])
+Street "river" started. (community card = ['D6', 'D8', 'S5', 'DQ', 'SQ'])
+"['Xun']" won the round 12 (stack = {'ZPlayer': 1653, 'Xun': 1183, 'NitWinWin': 381, 'Finneas': 813, 'YangZ': 970})
+player [ZPlayer] gets hole card ['D8', 'D6'], current stack 1653
+player [Xun] gets hole card ['D7', 'S3'], current stack 1183
+player [NitWinWin] gets hole card ['CJ', 'SQ'], current stack 381
+player [Finneas] gets hole card ['S2', 'H9'], current stack 808
+player [YangZ] gets hole card ['C5', 'H5'], current stack 960
+Started the round 13
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+"YangZ" declared "fold:0"
+Street "flop" started. (community card = ['CK', 'S5', 'S6'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Xun" declared "fold:0"
+"Finneas" declared "call:10"
+Street "turn" started. (community card = ['CK', 'S5', 'S6', 'DQ'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Finneas" declared "call:10"
+Street "river" started. (community card = ['CK', 'S5', 'S6', 'DQ', 'CT'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"['ZPlayer']" won the round 13 (stack = {'ZPlayer': 1713, 'Xun': 1168, 'NitWinWin': 381, 'Finneas': 778, 'YangZ': 960})
+player [ZPlayer] gets hole card ['SJ', 'DJ'], current stack 1703
+player [Xun] gets hole card ['D4', 'SA'], current stack 1168
+player [NitWinWin] gets hole card ['H9', 'C6'], current stack 381
+player [Finneas] gets hole card ['D9', 'S4'], current stack 778
+player [YangZ] gets hole card ['H6', 'DT'], current stack 955
+Started the round 14
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['C9', 'S3', 'DK'])
+"ZPlayer" declared "raise:25"
+"Xun" declared "fold:0"
+"Finneas" declared "fold:0"
+"['ZPlayer']" won the round 14 (stack = {'ZPlayer': 1748, 'Xun': 1153, 'NitWinWin': 381, 'Finneas': 763, 'YangZ': 955})
+player [ZPlayer] gets hole card ['D7', 'C4'], current stack 1743
+player [Xun] gets hole card ['H8', 'H7'], current stack 1143
+player [NitWinWin] gets hole card ['D8', 'ST'], current stack 381
+player [Finneas] gets hole card ['H2', 'H9'], current stack 763
+player [YangZ] gets hole card ['C8', 'SQ'], current stack 955
+Started the round 15
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['SJ', 'S2', 'C5'])
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+Street "turn" started. (community card = ['SJ', 'S2', 'C5', 'S3'])
+"ZPlayer" declared "call:0"
+"Finneas" declared "call:0"
+Street "river" started. (community card = ['SJ', 'S2', 'C5', 'S3', 'HA'])
+"ZPlayer" declared "raise:1291"
+"Finneas" declared "fold:0"
+"['ZPlayer']" won the round 15 (stack = {'ZPlayer': 1778, 'Xun': 1138, 'NitWinWin': 381, 'Finneas': 748, 'YangZ': 955})
+player [ZPlayer] gets hole card ['D7', 'DA'], current stack 1778
+player [Xun] gets hole card ['C8', 'DT'], current stack 1133
+player [NitWinWin] gets hole card ['H8', 'HA'], current stack 371
+player [Finneas] gets hole card ['CA', 'HT'], current stack 748
+player [YangZ] gets hole card ['S9', 'D6'], current stack 955
+Started the round 16
+Street "preflop" started. (community card = [])
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['C2', 'HJ', 'D8'])
+"Xun" declared "call:0"
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "turn" started. (community card = ['C2', 'HJ', 'D8', 'C3'])
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['C2', 'HJ', 'D8', 'C3', 'D3'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"['Finneas']" won the round 16 (stack = {'ZPlayer': 1763, 'Xun': 1123, 'NitWinWin': 371, 'Finneas': 788, 'YangZ': 955})
+player [ZPlayer] gets hole card ['H4', 'DQ'], current stack 1763
+player [Xun] gets hole card ['S6', 'SJ'], current stack 1123
+player [NitWinWin] gets hole card ['C3', 'D9'], current stack 366
+player [Finneas] gets hole card ['H7', 'S8'], current stack 778
+player [YangZ] gets hole card ['C5', 'CT'], current stack 955
+Started the round 17
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['S3', 'HK', 'H6'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "call:0"
+Street "turn" started. (community card = ['S3', 'HK', 'H6', 'C9'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+Street "river" started. (community card = ['S3', 'HK', 'H6', 'C9', 'C8'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"['Finneas']" won the round 17 (stack = {'ZPlayer': 1748, 'Xun': 1108, 'NitWinWin': 366, 'Finneas': 823, 'YangZ': 955})
+player [ZPlayer] gets hole card ['SA', 'C5'], current stack 1748
+player [Xun] gets hole card ['C8', 'D7'], current stack 1108
+player [NitWinWin] gets hole card ['C7', 'H5'], current stack 366
+player [Finneas] gets hole card ['D3', 'C6'], current stack 818
+player [YangZ] gets hole card ['S2', 'DK'], current stack 945
+Started the round 18
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+"YangZ" declared "fold:0"
+Street "flop" started. (community card = ['ST', 'S5', 'CQ'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Xun" declared "fold:0"
+"Finneas" declared "call:10"
+Street "turn" started. (community card = ['ST', 'S5', 'CQ', 'H9'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['ST', 'S5', 'CQ', 'H9', 'D4'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"['ZPlayer']" won the round 18 (stack = {'ZPlayer': 1798, 'Xun': 1093, 'NitWinWin': 366, 'Finneas': 798, 'YangZ': 945})
+player [ZPlayer] gets hole card ['C5', 'HJ'], current stack 1788
+player [Xun] gets hole card ['SQ', 'CA'], current stack 1093
+player [NitWinWin] gets hole card ['H8', 'C7'], current stack 366
+player [Finneas] gets hole card ['DT', 'D7'], current stack 798
+player [YangZ] gets hole card ['H4', 'S7'], current stack 940
+Started the round 19
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "call:10"
+Street "flop" started. (community card = ['H3', 'C9', 'H2'])
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+Street "turn" started. (community card = ['H3', 'C9', 'H2', 'D2'])
+"ZPlayer" declared "call:0"
+"Finneas" declared "call:0"
+Street "river" started. (community card = ['H3', 'C9', 'H2', 'D2', 'C8'])
+"ZPlayer" declared "call:0"
+"Finneas" declared "call:0"
+"['ZPlayer']" won the round 19 (stack = {'ZPlayer': 1823, 'Xun': 1083, 'NitWinWin': 366, 'Finneas': 788, 'YangZ': 940})
+player [ZPlayer] gets hole card ['H4', 'CT'], current stack 1818
+player [Xun] gets hole card ['SJ', 'DK'], current stack 1073
+player [NitWinWin] gets hole card ['H7', 'CA'], current stack 366
+player [Finneas] gets hole card ['ST', 'CQ'], current stack 788
+player [YangZ] gets hole card ['S8', 'D3'], current stack 940
+Started the round 20
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['DT', 'D7', 'D9'])
+"ZPlayer" declared "raise:22"
+"Xun" declared "call:22"
+"Finneas" declared "fold:0"
+Street "turn" started. (community card = ['DT', 'D7', 'D9', 'H5'])
+"ZPlayer" declared "raise:10"
+"Xun" declared "fold:0"
+"['ZPlayer']" won the round 20 (stack = {'ZPlayer': 1875, 'Xun': 1046, 'NitWinWin': 366, 'Finneas': 773, 'YangZ': 940})
+player [ZPlayer] gets hole card ['D5', 'CJ'], current stack 1875
+player [Xun] gets hole card ['C7', 'D7'], current stack 1041
+player [NitWinWin] gets hole card ['S8', 'HK'], current stack 356
+player [Finneas] gets hole card ['H2', 'S9'], current stack 773
+player [YangZ] gets hole card ['DJ', 'SJ'], current stack 940
+Started the round 21
+Street "preflop" started. (community card = [])
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['D2', 'D4', 'CT'])
+"Xun" declared "call:0"
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "turn" started. (community card = ['D2', 'D4', 'CT', 'S3'])
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['D2', 'D4', 'CT', 'S3', 'H4'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"['Finneas']" won the round 21 (stack = {'ZPlayer': 1860, 'Xun': 1031, 'NitWinWin': 356, 'Finneas': 813, 'YangZ': 940})
+player [ZPlayer] gets hole card ['S4', 'DK'], current stack 1860
+player [Xun] gets hole card ['C4', 'S9'], current stack 1031
+player [NitWinWin] gets hole card ['C7', 'CT'], current stack 351
+player [Finneas] gets hole card ['D5', 'H5'], current stack 803
+player [YangZ] gets hole card ['SK', 'H6'], current stack 940
+Started the round 22
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['CA', 'S8', 'C6'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+Street "turn" started. (community card = ['CA', 'S8', 'C6', 'D9'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['CA', 'S8', 'C6', 'D9', 'HQ'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"['Finneas']" won the round 22 (stack = {'ZPlayer': 1845, 'Xun': 1016, 'NitWinWin': 351, 'Finneas': 848, 'YangZ': 940})
+player [ZPlayer] gets hole card ['C2', 'S4'], current stack 1845
+player [Xun] gets hole card ['S5', 'CA'], current stack 1016
+player [NitWinWin] gets hole card ['H8', 'C7'], current stack 351
+player [Finneas] gets hole card ['DQ', 'H9'], current stack 843
+player [YangZ] gets hole card ['C3', 'ST'], current stack 930
+Started the round 23
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+"YangZ" declared "fold:0"
+Street "flop" started. (community card = ['D7', 'D3', 'H2'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "call:0"
+Street "turn" started. (community card = ['D7', 'D3', 'H2', 'D2'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:55"
+"Xun" declared "fold:0"
+"Finneas" declared "fold:0"
+"['ZPlayer']" won the round 23 (stack = {'ZPlayer': 1885, 'Xun': 1001, 'NitWinWin': 351, 'Finneas': 833, 'YangZ': 930})
+player [ZPlayer] gets hole card ['D5', 'HT'], current stack 1875
+player [Xun] gets hole card ['HQ', 'H3'], current stack 1001
+player [NitWinWin] gets hole card ['H7', 'C7'], current stack 351
+player [Finneas] gets hole card ['ST', 'DK'], current stack 833
+player [YangZ] gets hole card ['SQ', 'DT'], current stack 925
+Started the round 24
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "call:10"
+Street "flop" started. (community card = ['D2', 'D3', 'S7'])
+"ZPlayer" declared "call:0"
+"Xun" declared "call:0"
+"Finneas" declared "call:0"
+Street "turn" started. (community card = ['D2', 'D3', 'S7', 'HJ'])
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+Street "river" started. (community card = ['D2', 'D3', 'S7', 'HJ', 'C9'])
+"ZPlayer" declared "call:0"
+"Finneas" declared "call:0"
+"['Finneas']" won the round 24 (stack = {'ZPlayer': 1875, 'Xun': 991, 'NitWinWin': 351, 'Finneas': 858, 'YangZ': 925})
+player [ZPlayer] gets hole card ['H7', 'D5'], current stack 1870
+player [Xun] gets hole card ['CT', 'H2'], current stack 981
+player [NitWinWin] gets hole card ['C2', 'D7'], current stack 351
+player [Finneas] gets hole card ['C8', 'C4'], current stack 858
+player [YangZ] gets hole card ['DA', 'S3'], current stack 925
+Started the round 25
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['S9', 'D2', 'S2'])
+"ZPlayer" declared "call:0"
+"Xun" declared "call:0"
+"Finneas" declared "call:0"
+Street "turn" started. (community card = ['S9', 'D2', 'S2', 'CQ'])
+"ZPlayer" declared "call:0"
+"Xun" declared "call:0"
+"Finneas" declared "call:0"
+Street "river" started. (community card = ['S9', 'D2', 'S2', 'CQ', 'ST'])
+"ZPlayer" declared "call:0"
+"Xun" declared "raise:976"
+"Finneas" declared "fold:0"
+"ZPlayer" declared "fold:0"
+"['Xun']" won the round 25 (stack = {'ZPlayer': 1860, 'Xun': 1021, 'NitWinWin': 351, 'Finneas': 843, 'YangZ': 925})
+player [ZPlayer] gets hole card ['DA', 'C4'], current stack 1860
+player [Xun] gets hole card ['S4', 'C8'], current stack 1016
+player [NitWinWin] gets hole card ['HJ', 'S8'], current stack 341
+player [Finneas] gets hole card ['S3', 'DQ'], current stack 843
+player [YangZ] gets hole card ['S9', 'D9'], current stack 925
+Started the round 26
+Street "preflop" started. (community card = [])
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['SJ', 'S7', 'C5'])
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "turn" started. (community card = ['SJ', 'S7', 'C5', 'HK'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['SJ', 'S7', 'C5', 'HK', 'H2'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"['ZPlayer']" won the round 26 (stack = {'ZPlayer': 1900, 'Xun': 1006, 'NitWinWin': 341, 'Finneas': 828, 'YangZ': 925})
+player [ZPlayer] gets hole card ['H2', 'SA'], current stack 1900
+player [Xun] gets hole card ['D5', 'CT'], current stack 1006
+player [NitWinWin] gets hole card ['D7', 'HA'], current stack 336
+player [Finneas] gets hole card ['H6', 'S7'], current stack 818
+player [YangZ] gets hole card ['H5', 'C8'], current stack 925
+Started the round 27
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['D2', 'D9', 'H9'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Xun" declared "fold:0"
+"Finneas" declared "call:10"
+Street "turn" started. (community card = ['D2', 'D9', 'H9', 'D8'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['D2', 'D9', 'H9', 'D8', 'HK'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"['ZPlayer']" won the round 27 (stack = {'ZPlayer': 1945, 'Xun': 991, 'NitWinWin': 336, 'Finneas': 803, 'YangZ': 925})
+player [ZPlayer] gets hole card ['D2', 'D7'], current stack 1945
+player [Xun] gets hole card ['S4', 'H5'], current stack 991
+player [NitWinWin] gets hole card ['DK', 'H6'], current stack 336
+player [Finneas] gets hole card ['SJ', 'D3'], current stack 798
+player [YangZ] gets hole card ['S2', 'H9'], current stack 915
+Started the round 28
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+"YangZ" declared "fold:0"
+Street "flop" started. (community card = ['HQ', 'DT', 'S5'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+Street "turn" started. (community card = ['HQ', 'DT', 'S5', 'C6'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['HQ', 'DT', 'S5', 'C6', 'SK'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"['Finneas']" won the round 28 (stack = {'ZPlayer': 1930, 'Xun': 976, 'NitWinWin': 336, 'Finneas': 843, 'YangZ': 915})
+player [ZPlayer] gets hole card ['H7', 'C9'], current stack 1920
+player [Xun] gets hole card ['H9', 'C7'], current stack 976
+player [NitWinWin] gets hole card ['D7', 'C2'], current stack 336
+player [Finneas] gets hole card ['DK', 'H2'], current stack 843
+player [YangZ] gets hole card ['C8', 'DT'], current stack 910
+Started the round 29
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "call:10"
+Street "flop" started. (community card = ['D4', 'H3', 'HQ'])
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+Street "turn" started. (community card = ['D4', 'H3', 'HQ', 'S7'])
+"ZPlayer" declared "raise:17"
+"Finneas" declared "call:17"
+Street "river" started. (community card = ['D4', 'H3', 'HQ', 'S7', 'D3'])
+"ZPlayer" declared "raise:10"
+"Finneas" declared "call:10"
+"['ZPlayer']" won the round 29 (stack = {'ZPlayer': 1982, 'Xun': 966, 'NitWinWin': 336, 'Finneas': 806, 'YangZ': 910})
+player [ZPlayer] gets hole card ['C7', 'H7'], current stack 1977
+player [Xun] gets hole card ['CK', 'H6'], current stack 956
+player [NitWinWin] gets hole card ['H4', 'HA'], current stack 336
+player [Finneas] gets hole card ['CJ', 'C4'], current stack 806
+player [YangZ] gets hole card ['S4', 'S2'], current stack 910
+Started the round 30
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['S9', 'DA', 'SA'])
+"ZPlayer" declared "raise:10"
+"Xun" declared "fold:0"
+"Finneas" declared "call:10"
+Street "turn" started. (community card = ['S9', 'DA', 'SA', 'H2'])
+"ZPlayer" declared "raise:10"
+"Finneas" declared "call:10"
+Street "river" started. (community card = ['S9', 'DA', 'SA', 'H2', 'SQ'])
+"ZPlayer" declared "call:0"
+"Finneas" declared "call:0"
+"['ZPlayer']" won the round 30 (stack = {'ZPlayer': 2032, 'Xun': 951, 'NitWinWin': 336, 'Finneas': 771, 'YangZ': 910})
+player [ZPlayer] gets hole card ['D6', 'CT'], current stack 2032
+player [Xun] gets hole card ['C8', 'CK'], current stack 946
+player [NitWinWin] gets hole card ['SA', 'H4'], current stack 326
+player [Finneas] gets hole card ['D5', 'DK'], current stack 771
+player [YangZ] gets hole card ['ST', 'S5'], current stack 910
+Started the round 31
+Street "preflop" started. (community card = [])
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['D4', 'C6', 'DA'])
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Finneas" declared "call:10"
+Street "turn" started. (community card = ['D4', 'C6', 'DA', 'H3'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:10"
+"Finneas" declared "call:10"
+Street "river" started. (community card = ['D4', 'C6', 'DA', 'H3', 'HT'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:95"
+"Finneas" declared "fold:0"
+"['ZPlayer']" won the round 31 (stack = {'ZPlayer': 2092, 'Xun': 936, 'NitWinWin': 326, 'Finneas': 736, 'YangZ': 910})
+player [ZPlayer] gets hole card ['S9', 'S5'], current stack 2092
+player [Xun] gets hole card ['H5', 'S2'], current stack 936
+player [NitWinWin] gets hole card ['H6', 'D9'], current stack 321
+player [Finneas] gets hole card ['D7', 'HJ'], current stack 726
+player [YangZ] gets hole card ['S8', 'H3'], current stack 910
+Started the round 32
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['C6', 'HQ', 'HA'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+Street "turn" started. (community card = ['C6', 'HQ', 'HA', 'H8'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['C6', 'HQ', 'HA', 'H8', 'H9'])
+"Finneas" declared "raise:365"
+"ZPlayer" declared "fold:0"
+"['Finneas']" won the round 32 (stack = {'ZPlayer': 2077, 'Xun': 921, 'NitWinWin': 321, 'Finneas': 771, 'YangZ': 910})
+player [ZPlayer] gets hole card ['S8', 'H2'], current stack 2077
+player [Xun] gets hole card ['DA', 'SJ'], current stack 921
+player [NitWinWin] gets hole card ['H5', 'ST'], current stack 321
+player [Finneas] gets hole card ['D3', 'S6'], current stack 766
+player [YangZ] gets hole card ['S9', 'SA'], current stack 900
+Started the round 33
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+"YangZ" declared "fold:0"
+Street "flop" started. (community card = ['DK', 'S2', 'H4'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+Street "turn" started. (community card = ['DK', 'S2', 'H4', 'H9'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['DK', 'S2', 'H4', 'H9', 'H8'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "raise:55"
+"Finneas" declared "fold:0"
+"['ZPlayer']" won the round 33 (stack = {'ZPlayer': 2117, 'Xun': 906, 'NitWinWin': 321, 'Finneas': 756, 'YangZ': 900})
+player [ZPlayer] gets hole card ['S8', 'D9'], current stack 2107
+player [Xun] gets hole card ['C3', 'C8'], current stack 906
+player [NitWinWin] gets hole card ['ST', 'H6'], current stack 321
+player [Finneas] gets hole card ['S5', 'SA'], current stack 756
+player [YangZ] gets hole card ['C5', 'D7'], current stack 895
+Started the round 34
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['DJ', 'D4', 'D5'])
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+Street "turn" started. (community card = ['DJ', 'D4', 'D5', 'S9'])
+"ZPlayer" declared "raise:10"
+"Finneas" declared "call:10"
+Street "river" started. (community card = ['DJ', 'D4', 'D5', 'S9', 'H7'])
+"ZPlayer" declared "raise:10"
+"Finneas" declared "call:10"
+"['ZPlayer']" won the round 34 (stack = {'ZPlayer': 2172, 'Xun': 891, 'NitWinWin': 321, 'Finneas': 721, 'YangZ': 895})
+player [ZPlayer] gets hole card ['S5', 'H8'], current stack 2167
+player [Xun] gets hole card ['SQ', 'C6'], current stack 881
+player [NitWinWin] gets hole card ['D4', 'SA'], current stack 321
+player [Finneas] gets hole card ['S6', 'DA'], current stack 721
+player [YangZ] gets hole card ['HK', 'D9'], current stack 895
+Started the round 35
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['DK', 'C8', 'ST'])
+"ZPlayer" declared "raise:22"
+"Xun" declared "fold:0"
+"Finneas" declared "fold:0"
+"['ZPlayer']" won the round 35 (stack = {'ZPlayer': 2202, 'Xun': 876, 'NitWinWin': 321, 'Finneas': 706, 'YangZ': 895})
+player [ZPlayer] gets hole card ['H4', 'S8'], current stack 2202
+player [Xun] gets hole card ['HA', 'D2'], current stack 871
+player [NitWinWin] gets hole card ['CT', 'SA'], current stack 311
+player [Finneas] gets hole card ['SJ', 'C6'], current stack 706
+player [YangZ] gets hole card ['H6', 'S2'], current stack 895
+Started the round 36
+Street "preflop" started. (community card = [])
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['HJ', 'DA', 'C7'])
+"Xun" declared "call:0"
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "turn" started. (community card = ['HJ', 'DA', 'C7', 'S3'])
+"Xun" declared "call:0"
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['HJ', 'DA', 'C7', 'S3', 'S7'])
+"Xun" declared "call:0"
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"['Xun']" won the round 36 (stack = {'ZPlayer': 2187, 'Xun': 916, 'NitWinWin': 311, 'Finneas': 691, 'YangZ': 895})
+player [ZPlayer] gets hole card ['H6', 'S2'], current stack 2187
+player [Xun] gets hole card ['S7', 'H5'], current stack 916
+player [NitWinWin] gets hole card ['C5', 'D3'], current stack 306
+player [Finneas] gets hole card ['D5', 'D4'], current stack 681
+player [YangZ] gets hole card ['SA', 'DQ'], current stack 895
+Started the round 37
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['C4', 'SK', 'C8'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+Street "turn" started. (community card = ['C4', 'SK', 'C8', 'CT'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['C4', 'SK', 'C8', 'CT', 'C9'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"['Finneas']" won the round 37 (stack = {'ZPlayer': 2172, 'Xun': 901, 'NitWinWin': 306, 'Finneas': 726, 'YangZ': 895})
+player [ZPlayer] gets hole card ['D2', 'H5'], current stack 2172
+player [Xun] gets hole card ['SQ', 'D7'], current stack 901
+player [NitWinWin] gets hole card ['ST', 'DT'], current stack 306
+player [Finneas] gets hole card ['S9', 'C4'], current stack 721
+player [YangZ] gets hole card ['C6', 'D3'], current stack 885
+Started the round 38
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+"YangZ" declared "fold:0"
+Street "flop" started. (community card = ['C9', 'DA', 'H6'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+Street "turn" started. (community card = ['C9', 'DA', 'H6', 'HQ'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['C9', 'DA', 'H6', 'HQ', 'CQ'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"['Finneas']" won the round 38 (stack = {'ZPlayer': 2157, 'Xun': 886, 'NitWinWin': 306, 'Finneas': 766, 'YangZ': 885})
+player [ZPlayer] gets hole card ['S5', 'DJ'], current stack 2147
+player [Xun] gets hole card ['D9', 'S2'], current stack 886
+player [NitWinWin] gets hole card ['C8', 'S7'], current stack 306
+player [Finneas] gets hole card ['S3', 'ST'], current stack 766
+player [YangZ] gets hole card ['SK', 'S9'], current stack 880
+Started the round 39
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['H2', 'HK', 'DA'])
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+Street "turn" started. (community card = ['H2', 'HK', 'DA', 'D2'])
+"ZPlayer" declared "call:0"
+"Finneas" declared "call:0"
+Street "river" started. (community card = ['H2', 'HK', 'DA', 'D2', 'C2'])
+"ZPlayer" declared "raise:10"
+"Finneas" declared "raise:385"
+"ZPlayer" declared "fold:0"
+"['Finneas']" won the round 39 (stack = {'ZPlayer': 2132, 'Xun': 871, 'NitWinWin': 306, 'Finneas': 811, 'YangZ': 880})
+player [ZPlayer] gets hole card ['D7', 'SQ'], current stack 2127
+player [Xun] gets hole card ['H7', 'CA'], current stack 861
+player [NitWinWin] gets hole card ['DJ', 'D6'], current stack 306
+player [Finneas] gets hole card ['C5', 'H4'], current stack 811
+player [YangZ] gets hole card ['SK', 'DT'], current stack 880
+Started the round 40
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['HJ', 'S4', 'H5'])
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+Street "turn" started. (community card = ['HJ', 'S4', 'H5', 'SJ'])
+"ZPlayer" declared "call:0"
+"Finneas" declared "call:0"
+Street "river" started. (community card = ['HJ', 'S4', 'H5', 'SJ', 'D8'])
+"ZPlayer" declared "call:0"
+"Finneas" declared "call:0"
+"['Finneas']" won the round 40 (stack = {'ZPlayer': 2117, 'Xun': 856, 'NitWinWin': 306, 'Finneas': 841, 'YangZ': 880})
+player [ZPlayer] gets hole card ['HJ', 'ST'], current stack 2117
+player [Xun] gets hole card ['DT', 'CQ'], current stack 851
+player [NitWinWin] gets hole card ['D7', 'D6'], current stack 296
+player [Finneas] gets hole card ['S7', 'SA'], current stack 841
+player [YangZ] gets hole card ['D3', 'C9'], current stack 880
+Started the round 41
+Street "preflop" started. (community card = [])
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['S3', 'S4', 'H7'])
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "turn" started. (community card = ['S3', 'S4', 'H7', 'D2'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['S3', 'S4', 'H7', 'D2', 'S9'])
+"Finneas" declared "raise:418"
+"ZPlayer" declared "fold:0"
+"['Finneas']" won the round 41 (stack = {'ZPlayer': 2102, 'Xun': 841, 'NitWinWin': 296, 'Finneas': 881, 'YangZ': 880})
+player [ZPlayer] gets hole card ['HJ', 'DQ'], current stack 2102
+player [Xun] gets hole card ['D4', 'CJ'], current stack 841
+player [NitWinWin] gets hole card ['S6', 'H2'], current stack 291
+player [Finneas] gets hole card ['S8', 'ST'], current stack 871
+player [YangZ] gets hole card ['S3', 'D7'], current stack 880
+Started the round 42
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['H5', 'C6', 'D6'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+Street "turn" started. (community card = ['H5', 'C6', 'D6', 'H8'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['H5', 'C6', 'D6', 'H8', 'H9'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"['Finneas']" won the round 42 (stack = {'ZPlayer': 2087, 'Xun': 826, 'NitWinWin': 291, 'Finneas': 916, 'YangZ': 880})
+player [ZPlayer] gets hole card ['C8', 'D2'], current stack 2087
+player [Xun] gets hole card ['HT', 'D9'], current stack 826
+player [NitWinWin] gets hole card ['S5', 'S8'], current stack 291
+player [Finneas] gets hole card ['SA', 'DK'], current stack 911
+player [YangZ] gets hole card ['D7', 'HJ'], current stack 870
+Started the round 43
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "raise:468"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "fold:0"
+"Xun" declared "call:468"
+Street "flop" started. (community card = ['S2', 'C4', 'C7'])
+"Finneas" declared "call:0"
+"Xun" declared "fold:0"
+"['Finneas']" won the round 43 (stack = {'ZPlayer': 2072, 'Xun': 358, 'NitWinWin': 291, 'Finneas': 1409, 'YangZ': 870})
+player [ZPlayer] gets hole card ['H2', 'H8'], current stack 2062
+player [Xun] gets hole card ['CA', 'DJ'], current stack 358
+player [NitWinWin] gets hole card ['HA', 'S3'], current stack 291
+player [Finneas] gets hole card ['H4', 'DK'], current stack 1409
+player [YangZ] gets hole card ['D4', 'C9'], current stack 865
+Started the round 44
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['H3', 'H6', 'CQ'])
+"ZPlayer" declared "raise:10"
+"Xun" declared "fold:0"
+"Finneas" declared "call:10"
+Street "turn" started. (community card = ['H3', 'H6', 'CQ', 'HK'])
+"ZPlayer" declared "raise:220"
+"Finneas" declared "fold:0"
+"['ZPlayer']" won the round 44 (stack = {'ZPlayer': 2117, 'Xun': 343, 'NitWinWin': 291, 'Finneas': 1384, 'YangZ': 865})
+player [ZPlayer] gets hole card ['C5', 'C6'], current stack 2112
+player [Xun] gets hole card ['ST', 'D4'], current stack 333
+player [NitWinWin] gets hole card ['SQ', 'DK'], current stack 291
+player [Finneas] gets hole card ['S6', 'H6'], current stack 1384
+player [YangZ] gets hole card ['CK', 'D6'], current stack 865
+Started the round 45
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['HA', 'CT', 'C8'])
+"ZPlayer" declared "raise:10"
+"Xun" declared "call:10"
+"Finneas" declared "call:10"
+Street "turn" started. (community card = ['HA', 'CT', 'C8', 'S9'])
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+Street "river" started. (community card = ['HA', 'CT', 'C8', 'S9', 'CA'])
+"ZPlayer" declared "raise:75"
+"Finneas" declared "fold:0"
+"['ZPlayer']" won the round 45 (stack = {'ZPlayer': 2167, 'Xun': 318, 'NitWinWin': 291, 'Finneas': 1359, 'YangZ': 865})
+player [ZPlayer] gets hole card ['D2', 'S6'], current stack 2167
+player [Xun] gets hole card ['H9', 'C6'], current stack 313
+player [NitWinWin] gets hole card ['CK', 'CJ'], current stack 281
+player [Finneas] gets hole card ['S4', 'DT'], current stack 1359
+player [YangZ] gets hole card ['S3', 'H7'], current stack 865
+Started the round 46
+Street "preflop" started. (community card = [])
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['CQ', 'HK', 'SA'])
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "turn" started. (community card = ['CQ', 'HK', 'SA', 'DK'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['CQ', 'HK', 'SA', 'DK', 'C4'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"['Finneas']" won the round 46 (stack = {'ZPlayer': 2152, 'Xun': 303, 'NitWinWin': 281, 'Finneas': 1399, 'YangZ': 865})
+player [ZPlayer] gets hole card ['CK', 'H2'], current stack 2152
+player [Xun] gets hole card ['C9', 'C5'], current stack 303
+player [NitWinWin] gets hole card ['SK', 'CQ'], current stack 276
+player [Finneas] gets hole card ['SJ', 'DT'], current stack 1389
+player [YangZ] gets hole card ['D8', 'D6'], current stack 865
+Started the round 47
+Street "preflop" started. (community card = [])
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['C7', 'ST', 'S7'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+Street "turn" started. (community card = ['C7', 'ST', 'S7', 'S2'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+Street "river" started. (community card = ['C7', 'ST', 'S7', 'S2', 'D7'])
+"Finneas" declared "raise:697"
+"ZPlayer" declared "fold:0"
+"['Finneas']" won the round 47 (stack = {'ZPlayer': 2137, 'Xun': 288, 'NitWinWin': 276, 'Finneas': 1434, 'YangZ': 865})
+player [ZPlayer] gets hole card ['CA', 'CJ'], current stack 2137
+player [Xun] gets hole card ['DQ', 'H3'], current stack 288
+player [NitWinWin] gets hole card ['D8', 'D3'], current stack 276
+player [Finneas] gets hole card ['S2', 'C9'], current stack 1429
+player [YangZ] gets hole card ['D6', 'S4'], current stack 855
+Started the round 48
+Street "preflop" started. (community card = [])
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:15"
+"YangZ" declared "fold:0"
+Street "flop" started. (community card = ['S5', 'H4', 'D2'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "call:0"
+Street "turn" started. (community card = ['S5', 'H4', 'D2', 'H5'])
+"Finneas" declared "call:0"
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+Street "river" started. (community card = ['S5', 'H4', 'D2', 'H5', 'C2'])
+"Finneas" declared "raise:714"
+"ZPlayer" declared "fold:0"
+"['Finneas']" won the round 48 (stack = {'ZPlayer': 2122, 'Xun': 273, 'NitWinWin': 276, 'Finneas': 1474, 'YangZ': 855})
+player [ZPlayer] gets hole card ['H6', 'H5'], current stack 2112
+player [Xun] gets hole card ['H4', 'SA'], current stack 273
+player [NitWinWin] gets hole card ['H8', 'S3'], current stack 276
+player [Finneas] gets hole card ['S5', 'HA'], current stack 1474
+player [YangZ] gets hole card ['D9', 'ST'], current stack 850
+Started the round 49
+Street "preflop" started. (community card = [])
+"Xun" declared "call:10"
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['C2', 'HT', 'DJ'])
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+Street "turn" started. (community card = ['C2', 'HT', 'DJ', 'H2'])
+"ZPlayer" declared "call:0"
+"Finneas" declared "call:0"
+Street "river" started. (community card = ['C2', 'HT', 'DJ', 'H2', 'D3'])
+"ZPlayer" declared "call:0"
+"Finneas" declared "call:0"
+"['Finneas']" won the round 49 (stack = {'ZPlayer': 2107, 'Xun': 258, 'NitWinWin': 276, 'Finneas': 1509, 'YangZ': 850})
+player [ZPlayer] gets hole card ['H6', 'DQ'], current stack 2102
+player [Xun] gets hole card ['D2', 'CK'], current stack 248
+player [NitWinWin] gets hole card ['D9', 'D6'], current stack 276
+player [Finneas] gets hole card ['H9', 'S8'], current stack 1509
+player [YangZ] gets hole card ['HJ', 'HA'], current stack 850
+Started the round 50
+Street "preflop" started. (community card = [])
+"NitWinWin" declared "fold:0"
+"Finneas" declared "call:10"
+"YangZ" declared "fold:0"
+"ZPlayer" declared "raise:15"
+"Xun" declared "call:15"
+"Finneas" declared "call:15"
+Street "flop" started. (community card = ['S7', 'H3', 'C2'])
+"ZPlayer" declared "call:0"
+"Xun" declared "call:0"
+"Finneas" declared "call:0"
+Street "turn" started. (community card = ['S7', 'H3', 'C2', 'H5'])
+"ZPlayer" declared "call:0"
+"Xun" declared "fold:0"
+"Finneas" declared "call:0"
+Street "river" started. (community card = ['S7', 'H3', 'C2', 'H5', 'ST'])
+"ZPlayer" declared "call:0"
+"Finneas" declared "call:0"
+"['ZPlayer']" won the round 50 (stack = {'ZPlayer': 2137, 'Xun': 243, 'NitWinWin': 276, 'Finneas': 1494, 'YangZ': 850})
+
+Game Results:
+------------------------------------------------------------
+Game 1:
+Winner: ZPlayer (stack: 2137)
+All players' stacks:
+  ZPlayer: 2137
+  Xun: 243
+  NitWinWin: 276
+  Finneas: 1494
+  YangZ: 850
+------------------------------------------------------------

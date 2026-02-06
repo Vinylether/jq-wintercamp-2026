@@ -1,0 +1,656 @@
+player [Yuchun] gets hole card ['HJ', 'SJ'], current stack 1000
+player [SichengZuo] gets hole card ['S4', 'DJ'], current stack 995
+player [JoyoPlayer] gets hole card ['D3', 'H4'], current stack 990
+player [ZifengFoldMan] gets hole card ['C2', 'DT'], current stack 1000
+player [Elvis] gets hole card ['S8', 'HK'], current stack 1000
+Started the round 1
+Street "preflop" started. (community card = [])
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:15"
+"Yuchun" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"JoyoPlayer" declared "raise:20"
+"Elvis" declared "call:20"
+Street "flop" started. (community card = ['SA', 'D4', 'H9'])
+"JoyoPlayer" declared "call:0"
+"Elvis" declared "call:0"
+Street "turn" started. (community card = ['SA', 'D4', 'H9', 'C8'])
+"JoyoPlayer" declared "call:0"
+"Elvis" declared "raise:10"
+"JoyoPlayer" declared "call:10"
+Street "river" started. (community card = ['SA', 'D4', 'H9', 'C8', 'H2'])
+"JoyoPlayer" declared "call:0"
+"Elvis" declared "raise:727"
+"JoyoPlayer" declared "call:727"
+"['Elvis']" won the round 1 (stack = {'Yuchun': 1000, 'SichengZuo': 995, 'JoyoPlayer': 243, 'ZifengFoldMan': 1000, 'Elvis': 1762})
+player [Yuchun] gets hole card ['D9', 'D6'], current stack 1000
+player [SichengZuo] gets hole card ['D7', 'C2'], current stack 995
+player [JoyoPlayer] gets hole card ['SK', 'CT'], current stack 238
+player [ZifengFoldMan] gets hole card ['DQ', 'H7'], current stack 990
+player [Elvis] gets hole card ['C9', 'HQ'], current stack 1762
+Started the round 2
+Street "preflop" started. (community card = [])
+"Elvis" declared "fold:0"
+"Yuchun" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"JoyoPlayer" declared "call:10"
+"ZifengFoldMan" declared "fold:0"
+"['JoyoPlayer']" won the round 2 (stack = {'Yuchun': 1000, 'SichengZuo': 995, 'JoyoPlayer': 253, 'ZifengFoldMan': 990, 'Elvis': 1762})
+player [Yuchun] gets hole card ['HJ', 'SK'], current stack 1000
+player [SichengZuo] gets hole card ['H4', 'S3'], current stack 995
+player [JoyoPlayer] gets hole card ['DT', 'D8'], current stack 253
+player [ZifengFoldMan] gets hole card ['HK', 'HQ'], current stack 985
+player [Elvis] gets hole card ['HA', 'SJ'], current stack 1752
+Started the round 3
+Street "preflop" started. (community card = [])
+"Yuchun" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"JoyoPlayer" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 3 (stack = {'Yuchun': 1000, 'SichengZuo': 995, 'JoyoPlayer': 253, 'ZifengFoldMan': 985, 'Elvis': 1767})
+player [Yuchun] gets hole card ['S4', 'HA'], current stack 990
+player [SichengZuo] gets hole card ['C3', 'DQ'], current stack 995
+player [JoyoPlayer] gets hole card ['D7', 'S6'], current stack 253
+player [ZifengFoldMan] gets hole card ['S5', 'DK'], current stack 985
+player [Elvis] gets hole card ['CQ', 'HJ'], current stack 1762
+Started the round 4
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"JoyoPlayer" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:1325"
+"Yuchun" declared "fold:0"
+"['Elvis']" won the round 4 (stack = {'Yuchun': 990, 'SichengZuo': 995, 'JoyoPlayer': 253, 'ZifengFoldMan': 985, 'Elvis': 1777})
+player [Yuchun] gets hole card ['H3', 'H4'], current stack 985
+player [SichengZuo] gets hole card ['S9', 'ST'], current stack 985
+player [JoyoPlayer] gets hole card ['HA', 'S6'], current stack 253
+player [ZifengFoldMan] gets hole card ['DQ', 'D3'], current stack 985
+player [Elvis] gets hole card ['SA', 'C6'], current stack 1777
+Started the round 5
+Street "preflop" started. (community card = [])
+"JoyoPlayer" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "fold:0"
+"Yuchun" declared "fold:0"
+"['SichengZuo']" won the round 5 (stack = {'Yuchun': 985, 'SichengZuo': 1000, 'JoyoPlayer': 253, 'ZifengFoldMan': 985, 'Elvis': 1777})
+player [Yuchun] gets hole card ['CK', 'DK'], current stack 985
+player [SichengZuo] gets hole card ['H9', 'D9'], current stack 995
+player [JoyoPlayer] gets hole card ['S8', 'C9'], current stack 243
+player [ZifengFoldMan] gets hole card ['CJ', 'CT'], current stack 985
+player [Elvis] gets hole card ['DJ', 'H3'], current stack 1777
+Started the round 6
+Street "preflop" started. (community card = [])
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "fold:0"
+"Yuchun" declared "call:10"
+"SichengZuo" declared "fold:0"
+"JoyoPlayer" declared "raise:15"
+"Yuchun" declared "call:15"
+Street "flop" started. (community card = ['C8', 'H6', 'DT'])
+"JoyoPlayer" declared "raise:20"
+"Yuchun" declared "call:20"
+Street "turn" started. (community card = ['C8', 'H6', 'DT', 'C2'])
+"JoyoPlayer" declared "raise:20"
+"Yuchun" declared "call:20"
+Street "river" started. (community card = ['C8', 'H6', 'DT', 'C2', 'SA'])
+"JoyoPlayer" declared "raise:20"
+"Yuchun" declared "call:20"
+"['Yuchun']" won the round 6 (stack = {'Yuchun': 1065, 'SichengZuo': 995, 'JoyoPlayer': 178, 'ZifengFoldMan': 985, 'Elvis': 1777})
+player [Yuchun] gets hole card ['H4', 'D7'], current stack 1065
+player [SichengZuo] gets hole card ['H6', 'D2'], current stack 995
+player [JoyoPlayer] gets hole card ['H8', 'HJ'], current stack 173
+player [ZifengFoldMan] gets hole card ['CT', 'C4'], current stack 975
+player [Elvis] gets hole card ['HK', 'D8'], current stack 1777
+Started the round 7
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"Yuchun" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"JoyoPlayer" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 7 (stack = {'Yuchun': 1065, 'SichengZuo': 995, 'JoyoPlayer': 173, 'ZifengFoldMan': 975, 'Elvis': 1792})
+player [Yuchun] gets hole card ['S7', 'H7'], current stack 1065
+player [SichengZuo] gets hole card ['H8', 'H4'], current stack 995
+player [JoyoPlayer] gets hole card ['D7', 'C9'], current stack 173
+player [ZifengFoldMan] gets hole card ['S9', 'CQ'], current stack 970
+player [Elvis] gets hole card ['HQ', 'C4'], current stack 1782
+Started the round 8
+Street "preflop" started. (community card = [])
+"Yuchun" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"JoyoPlayer" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 8 (stack = {'Yuchun': 1065, 'SichengZuo': 995, 'JoyoPlayer': 173, 'ZifengFoldMan': 970, 'Elvis': 1797})
+player [Yuchun] gets hole card ['H4', 'DT'], current stack 1055
+player [SichengZuo] gets hole card ['SQ', 'H3'], current stack 995
+player [JoyoPlayer] gets hole card ['D8', 'S3'], current stack 173
+player [ZifengFoldMan] gets hole card ['C7', 'D5'], current stack 970
+player [Elvis] gets hole card ['S5', 'C3'], current stack 1792
+Started the round 9
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"JoyoPlayer" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:15"
+"Yuchun" declared "fold:0"
+"['Elvis']" won the round 9 (stack = {'Yuchun': 1055, 'SichengZuo': 995, 'JoyoPlayer': 173, 'ZifengFoldMan': 970, 'Elvis': 1807})
+player [Yuchun] gets hole card ['D8', 'C3'], current stack 1050
+player [SichengZuo] gets hole card ['DK', 'HQ'], current stack 985
+player [JoyoPlayer] gets hole card ['D4', 'SQ'], current stack 173
+player [ZifengFoldMan] gets hole card ['D9', 'C5'], current stack 970
+player [Elvis] gets hole card ['D6', 'H7'], current stack 1807
+Started the round 10
+Street "preflop" started. (community card = [])
+"JoyoPlayer" declared "raise:15"
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:20"
+"Yuchun" declared "call:20"
+"SichengZuo" declared "fold:0"
+"JoyoPlayer" declared "fold:0"
+Street "flop" started. (community card = ['C8', 'HK', 'D7'])
+"Yuchun" declared "call:0"
+"Elvis" declared "raise:10"
+"Yuchun" declared "call:10"
+Street "turn" started. (community card = ['C8', 'HK', 'D7', 'H9'])
+"Yuchun" declared "call:0"
+"Elvis" declared "raise:10"
+"Yuchun" declared "call:10"
+Street "river" started. (community card = ['C8', 'HK', 'D7', 'H9', 'S8'])
+"Yuchun" declared "raise:1015"
+"Elvis" declared "call:1015"
+"['Yuchun']" won the round 10 (stack = {'Yuchun': 2135, 'SichengZuo': 985, 'JoyoPlayer': 158, 'ZifengFoldMan': 970, 'Elvis': 752})
+player [Yuchun] gets hole card ['SK', 'H6'], current stack 2135
+player [SichengZuo] gets hole card ['C3', 'HT'], current stack 980
+player [JoyoPlayer] gets hole card ['H9', 'H7'], current stack 148
+player [ZifengFoldMan] gets hole card ['C7', 'S9'], current stack 970
+player [Elvis] gets hole card ['S4', 'DK'], current stack 752
+Started the round 11
+Street "preflop" started. (community card = [])
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:15"
+"Yuchun" declared "call:15"
+"SichengZuo" declared "fold:0"
+"JoyoPlayer" declared "fold:0"
+Street "flop" started. (community card = ['S6', 'CA', 'D4'])
+"Elvis" declared "raise:10"
+"Yuchun" declared "raise:80"
+"Elvis" declared "raise:150"
+"Yuchun" declared "call:150"
+Street "turn" started. (community card = ['S6', 'CA', 'D4', 'DT'])
+"Elvis" declared "raise:440"
+"Yuchun" declared "fold:0"
+"['Elvis']" won the round 11 (stack = {'Yuchun': 1970, 'SichengZuo': 980, 'JoyoPlayer': 148, 'ZifengFoldMan': 970, 'Elvis': 932})
+player [Yuchun] gets hole card ['HK', 'C8'], current stack 1970
+player [SichengZuo] gets hole card ['H4', 'DA'], current stack 980
+player [JoyoPlayer] gets hole card ['SA', 'HA'], current stack 143
+player [ZifengFoldMan] gets hole card ['H8', 'D3'], current stack 960
+player [Elvis] gets hole card ['D7', 'C7'], current stack 932
+Started the round 12
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"Yuchun" declared "call:15"
+"SichengZuo" declared "fold:0"
+"JoyoPlayer" declared "call:15"
+"ZifengFoldMan" declared "fold:0"
+Street "flop" started. (community card = ['C2', 'C3', 'H7'])
+"JoyoPlayer" declared "raise:20"
+"Elvis" declared "raise:687"
+"Yuchun" declared "fold:0"
+"JoyoPlayer" declared "call:687"
+Street "turn" started. (community card = ['C2', 'C3', 'H7', 'H6'])
+Street "river" started. (community card = ['C2', 'C3', 'H7', 'H6', 'C5'])
+"['Elvis']" won the round 12 (stack = {'Yuchun': 1955, 'SichengZuo': 980, 'JoyoPlayer': 0, 'ZifengFoldMan': 960, 'Elvis': 1105})
+player [Yuchun] gets hole card ['S7', 'C4'], current stack 1945
+player [SichengZuo] gets hole card ['C3', 'H5'], current stack 980
+player [ZifengFoldMan] gets hole card ['CK', 'C8'], current stack 960
+player [Elvis] gets hole card ['S6', 'SA'], current stack 1100
+Started the round 13
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:166"
+"Yuchun" declared "call:166"
+Street "flop" started. (community card = ['CA', 'S9', 'S8'])
+"Elvis" declared "raise:939"
+"Yuchun" declared "fold:0"
+"['Elvis']" won the round 13 (stack = {'Yuchun': 1789, 'SichengZuo': 980, 'JoyoPlayer': 0, 'ZifengFoldMan': 960, 'Elvis': 1271})
+player [Yuchun] gets hole card ['H6', 'D9'], current stack 1784
+player [SichengZuo] gets hole card ['SJ', 'H3'], current stack 970
+player [ZifengFoldMan] gets hole card ['S3', 'CA'], current stack 960
+player [Elvis] gets hole card ['HA', 'ST'], current stack 1271
+Started the round 14
+Street "preflop" started. (community card = [])
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:85"
+"Yuchun" declared "call:85"
+"SichengZuo" declared "fold:0"
+Street "flop" started. (community card = ['D4', 'CT', 'CJ'])
+"Yuchun" declared "call:0"
+"Elvis" declared "raise:1186"
+"Yuchun" declared "fold:0"
+"['Elvis']" won the round 14 (stack = {'Yuchun': 1704, 'SichengZuo': 970, 'JoyoPlayer': 0, 'ZifengFoldMan': 960, 'Elvis': 1366})
+player [Yuchun] gets hole card ['H4', 'D2'], current stack 1704
+player [SichengZuo] gets hole card ['DQ', 'DK'], current stack 965
+player [ZifengFoldMan] gets hole card ['H5', 'D9'], current stack 950
+player [Elvis] gets hole card ['C7', 'D7'], current stack 1366
+Started the round 15
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"Yuchun" declared "call:15"
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+Street "flop" started. (community card = ['D8', 'H9', 'C2'])
+"Elvis" declared "raise:10"
+"Yuchun" declared "call:10"
+Street "turn" started. (community card = ['D8', 'H9', 'C2', 'S3'])
+"Elvis" declared "raise:10"
+"Yuchun" declared "call:10"
+Street "river" started. (community card = ['D8', 'H9', 'C2', 'S3', 'H7'])
+"Elvis" declared "raise:998"
+"Yuchun" declared "fold:0"
+"['Elvis']" won the round 15 (stack = {'Yuchun': 1669, 'SichengZuo': 965, 'JoyoPlayer': 0, 'ZifengFoldMan': 950, 'Elvis': 1416})
+player [Yuchun] gets hole card ['H3', 'C9'], current stack 1669
+player [SichengZuo] gets hole card ['S7', 'CJ'], current stack 965
+player [ZifengFoldMan] gets hole card ['CA', 'SA'], current stack 945
+player [Elvis] gets hole card ['CT', 'CQ'], current stack 1406
+Started the round 16
+Street "preflop" started. (community card = [])
+"Yuchun" declared "call:10"
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:283"
+"Yuchun" declared "fold:0"
+"['Elvis']" won the round 16 (stack = {'Yuchun': 1659, 'SichengZuo': 965, 'JoyoPlayer': 0, 'ZifengFoldMan': 945, 'Elvis': 1431})
+player [Yuchun] gets hole card ['S5', 'C8'], current stack 1649
+player [SichengZuo] gets hole card ['C6', 'SK'], current stack 965
+player [ZifengFoldMan] gets hole card ['C3', 'S7'], current stack 945
+player [Elvis] gets hole card ['H5', 'D6'], current stack 1426
+Started the round 17
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:58"
+"Yuchun" declared "call:58"
+Street "flop" started. (community card = ['H4', 'S2', 'HK'])
+"Elvis" declared "raise:10"
+"Yuchun" declared "call:10"
+Street "turn" started. (community card = ['H4', 'S2', 'HK', 'D2'])
+"Elvis" declared "raise:10"
+"Yuchun" declared "fold:0"
+"['Elvis']" won the round 17 (stack = {'Yuchun': 1591, 'SichengZuo': 965, 'JoyoPlayer': 0, 'ZifengFoldMan': 945, 'Elvis': 1499})
+player [Yuchun] gets hole card ['H5', 'H2'], current stack 1586
+player [SichengZuo] gets hole card ['S6', 'D3'], current stack 955
+player [ZifengFoldMan] gets hole card ['S8', 'H6'], current stack 945
+player [Elvis] gets hole card ['H7', 'D6'], current stack 1499
+Started the round 18
+Street "preflop" started. (community card = [])
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:15"
+"Yuchun" declared "call:15"
+"SichengZuo" declared "fold:0"
+Street "flop" started. (community card = ['S7', 'CT', 'S3'])
+"Yuchun" declared "call:0"
+"Elvis" declared "raise:10"
+"Yuchun" declared "fold:0"
+"['Elvis']" won the round 18 (stack = {'Yuchun': 1576, 'SichengZuo': 955, 'JoyoPlayer': 0, 'ZifengFoldMan': 945, 'Elvis': 1524})
+player [Yuchun] gets hole card ['H6', 'C7'], current stack 1576
+player [SichengZuo] gets hole card ['C9', 'CA'], current stack 950
+player [ZifengFoldMan] gets hole card ['S6', 'CT'], current stack 935
+player [Elvis] gets hole card ['SK', 'D7'], current stack 1524
+Started the round 19
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"Yuchun" declared "call:15"
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+Street "flop" started. (community card = ['SJ', 'DA', 'SQ'])
+"Elvis" declared "raise:10"
+"Yuchun" declared "call:10"
+Street "turn" started. (community card = ['SJ', 'DA', 'SQ', 'CK'])
+"Elvis" declared "raise:10"
+"Yuchun" declared "call:10"
+Street "river" started. (community card = ['SJ', 'DA', 'SQ', 'CK', 'S4'])
+"Elvis" declared "raise:10"
+"Yuchun" declared "fold:0"
+"['Elvis']" won the round 19 (stack = {'Yuchun': 1541, 'SichengZuo': 950, 'JoyoPlayer': 0, 'ZifengFoldMan': 935, 'Elvis': 1574})
+player [Yuchun] gets hole card ['D9', 'CK'], current stack 1541
+player [SichengZuo] gets hole card ['D4', 'CQ'], current stack 950
+player [ZifengFoldMan] gets hole card ['C3', 'CT'], current stack 930
+player [Elvis] gets hole card ['D3', 'C4'], current stack 1564
+Started the round 20
+Street "preflop" started. (community card = [])
+"Yuchun" declared "call:10"
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:136"
+"Yuchun" declared "call:136"
+Street "flop" started. (community card = ['S4', 'CJ', 'HA'])
+"Elvis" declared "raise:1078"
+"Yuchun" declared "fold:0"
+"['Elvis']" won the round 20 (stack = {'Yuchun': 1405, 'SichengZuo': 950, 'JoyoPlayer': 0, 'ZifengFoldMan': 930, 'Elvis': 1715})
+player [Yuchun] gets hole card ['C6', 'S7'], current stack 1395
+player [SichengZuo] gets hole card ['C8', 'D6'], current stack 950
+player [ZifengFoldMan] gets hole card ['HQ', 'HT'], current stack 930
+player [Elvis] gets hole card ['C3', 'HK'], current stack 1710
+Started the round 21
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:192"
+"Yuchun" declared "call:192"
+Street "flop" started. (community card = ['CK', 'SQ', 'S8'])
+"Elvis" declared "raise:1523"
+"Yuchun" declared "fold:0"
+"['Elvis']" won the round 21 (stack = {'Yuchun': 1213, 'SichengZuo': 950, 'JoyoPlayer': 0, 'ZifengFoldMan': 930, 'Elvis': 1907})
+player [Yuchun] gets hole card ['SQ', 'H3'], current stack 1208
+player [SichengZuo] gets hole card ['CJ', 'CA'], current stack 940
+player [ZifengFoldMan] gets hole card ['HK', 'S3'], current stack 930
+player [Elvis] gets hole card ['H6', 'HT'], current stack 1907
+Started the round 22
+Street "preflop" started. (community card = [])
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:15"
+"Yuchun" declared "call:15"
+"SichengZuo" declared "fold:0"
+Street "flop" started. (community card = ['CT', 'SK', 'C8'])
+"Yuchun" declared "call:0"
+"Elvis" declared "raise:10"
+"Yuchun" declared "call:10"
+Street "turn" started. (community card = ['CT', 'SK', 'C8', 'HJ'])
+"Yuchun" declared "call:0"
+"Elvis" declared "raise:10"
+"Yuchun" declared "call:10"
+Street "river" started. (community card = ['CT', 'SK', 'C8', 'HJ', 'H5'])
+"Yuchun" declared "call:0"
+"Elvis" declared "raise:10"
+"Yuchun" declared "call:10"
+"['Elvis']" won the round 22 (stack = {'Yuchun': 1168, 'SichengZuo': 940, 'JoyoPlayer': 0, 'ZifengFoldMan': 930, 'Elvis': 1962})
+player [Yuchun] gets hole card ['D5', 'D4'], current stack 1168
+player [SichengZuo] gets hole card ['H4', 'CT'], current stack 935
+player [ZifengFoldMan] gets hole card ['DA', 'C7'], current stack 920
+player [Elvis] gets hole card ['C5', 'HT'], current stack 1962
+Started the round 23
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"Yuchun" declared "call:15"
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+Street "flop" started. (community card = ['H7', 'C6', 'CA'])
+"Elvis" declared "raise:1460"
+"Yuchun" declared "fold:0"
+"['Elvis']" won the round 23 (stack = {'Yuchun': 1153, 'SichengZuo': 935, 'JoyoPlayer': 0, 'ZifengFoldMan': 920, 'Elvis': 1992})
+player [Yuchun] gets hole card ['DJ', 'H6'], current stack 1153
+player [SichengZuo] gets hole card ['D2', 'CT'], current stack 935
+player [ZifengFoldMan] gets hole card ['D6', 'D9'], current stack 915
+player [Elvis] gets hole card ['CJ', 'C9'], current stack 1982
+Started the round 24
+Street "preflop" started. (community card = [])
+"Yuchun" declared "call:10"
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:1494"
+"Yuchun" declared "fold:0"
+"['Elvis']" won the round 24 (stack = {'Yuchun': 1143, 'SichengZuo': 935, 'JoyoPlayer': 0, 'ZifengFoldMan': 915, 'Elvis': 2007})
+player [Yuchun] gets hole card ['H7', 'C8'], current stack 1133
+player [SichengZuo] gets hole card ['HK', 'DJ'], current stack 935
+player [ZifengFoldMan] gets hole card ['S6', 'CJ'], current stack 915
+player [Elvis] gets hole card ['HQ', 'C2'], current stack 2002
+Started the round 25
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:152"
+"Yuchun" declared "call:152"
+Street "flop" started. (community card = ['CT', 'SJ', 'H6'])
+"Elvis" declared "raise:10"
+"Yuchun" declared "call:10"
+Street "turn" started. (community card = ['CT', 'SJ', 'H6', 'HJ'])
+"Elvis" declared "raise:10"
+"Yuchun" declared "call:10"
+Street "river" started. (community card = ['CT', 'SJ', 'H6', 'HJ', 'D3'])
+"Elvis" declared "raise:10"
+"Yuchun" declared "fold:0"
+"['Elvis']" won the round 25 (stack = {'Yuchun': 971, 'SichengZuo': 935, 'JoyoPlayer': 0, 'ZifengFoldMan': 915, 'Elvis': 2179})
+player [Yuchun] gets hole card ['SA', 'S5'], current stack 966
+player [SichengZuo] gets hole card ['C7', 'D8'], current stack 925
+player [ZifengFoldMan] gets hole card ['S4', 'CJ'], current stack 915
+player [Elvis] gets hole card ['DA', 'CA'], current stack 2179
+Started the round 26
+Street "preflop" started. (community card = [])
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:2179"
+"Yuchun" declared "fold:0"
+"SichengZuo" declared "fold:0"
+"['Elvis']" won the round 26 (stack = {'Yuchun': 966, 'SichengZuo': 925, 'JoyoPlayer': 0, 'ZifengFoldMan': 915, 'Elvis': 2194})
+player [Yuchun] gets hole card ['DK', 'ST'], current stack 966
+player [SichengZuo] gets hole card ['S5', 'DJ'], current stack 920
+player [ZifengFoldMan] gets hole card ['CT', 'C7'], current stack 905
+player [Elvis] gets hole card ['D4', 'CA'], current stack 2194
+Started the round 27
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"Yuchun" declared "call:15"
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+Street "flop" started. (community card = ['C3', 'CJ', 'H3'])
+"Elvis" declared "raise:10"
+"Yuchun" declared "call:10"
+Street "turn" started. (community card = ['C3', 'CJ', 'H3', 'HK'])
+"Elvis" declared "raise:10"
+"Yuchun" declared "raise:80"
+"Elvis" declared "raise:316"
+"Yuchun" declared "raise:941"
+"Elvis" declared "raise:1566"
+Street "river" started. (community card = ['C3', 'CJ', 'H3', 'HK', 'DA'])
+"['Elvis']" won the round 27 (stack = {'Yuchun': 0, 'SichengZuo': 920, 'JoyoPlayer': 0, 'ZifengFoldMan': 905, 'Elvis': 3175})
+player [SichengZuo] gets hole card ['CJ', 'H3'], current stack 920
+player [ZifengFoldMan] gets hole card ['D4', 'H7'], current stack 900
+player [Elvis] gets hole card ['D2', 'ST'], current stack 3165
+Started the round 28
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 28 (stack = {'Yuchun': 0, 'SichengZuo': 920, 'JoyoPlayer': 0, 'ZifengFoldMan': 900, 'Elvis': 3180})
+player [SichengZuo] gets hole card ['H8', 'H7'], current stack 910
+player [ZifengFoldMan] gets hole card ['HK', 'D4'], current stack 900
+player [Elvis] gets hole card ['CJ', 'SQ'], current stack 3175
+Started the round 29
+Street "preflop" started. (community card = [])
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:442"
+"SichengZuo" declared "fold:0"
+"['Elvis']" won the round 29 (stack = {'Yuchun': 0, 'SichengZuo': 910, 'JoyoPlayer': 0, 'ZifengFoldMan': 900, 'Elvis': 3190})
+player [SichengZuo] gets hole card ['D4', 'D6'], current stack 905
+player [ZifengFoldMan] gets hole card ['H6', 'DA'], current stack 890
+player [Elvis] gets hole card ['H8', 'D3'], current stack 3190
+Started the round 30
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 30 (stack = {'Yuchun': 0, 'SichengZuo': 905, 'JoyoPlayer': 0, 'ZifengFoldMan': 890, 'Elvis': 3205})
+player [SichengZuo] gets hole card ['CQ', 'S7'], current stack 905
+player [ZifengFoldMan] gets hole card ['SA', 'SQ'], current stack 885
+player [Elvis] gets hole card ['C3', 'CT'], current stack 3195
+Started the round 31
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 31 (stack = {'Yuchun': 0, 'SichengZuo': 905, 'JoyoPlayer': 0, 'ZifengFoldMan': 885, 'Elvis': 3210})
+player [SichengZuo] gets hole card ['SQ', 'D8'], current stack 895
+player [ZifengFoldMan] gets hole card ['H2', 'HT'], current stack 885
+player [Elvis] gets hole card ['C6', 'SA'], current stack 3205
+Started the round 32
+Street "preflop" started. (community card = [])
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:437"
+"SichengZuo" declared "fold:0"
+"['Elvis']" won the round 32 (stack = {'Yuchun': 0, 'SichengZuo': 895, 'JoyoPlayer': 0, 'ZifengFoldMan': 885, 'Elvis': 3220})
+player [SichengZuo] gets hole card ['H8', 'S7'], current stack 890
+player [ZifengFoldMan] gets hole card ['CA', 'ST'], current stack 875
+player [Elvis] gets hole card ['H9', 'S8'], current stack 3220
+Started the round 33
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 33 (stack = {'Yuchun': 0, 'SichengZuo': 890, 'JoyoPlayer': 0, 'ZifengFoldMan': 875, 'Elvis': 3235})
+player [SichengZuo] gets hole card ['CJ', 'HJ'], current stack 890
+player [ZifengFoldMan] gets hole card ['D8', 'SJ'], current stack 870
+player [Elvis] gets hole card ['SA', 'D5'], current stack 3225
+Started the round 34
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 34 (stack = {'Yuchun': 0, 'SichengZuo': 890, 'JoyoPlayer': 0, 'ZifengFoldMan': 870, 'Elvis': 3240})
+player [SichengZuo] gets hole card ['D8', 'H8'], current stack 880
+player [ZifengFoldMan] gets hole card ['D9', 'S6'], current stack 870
+player [Elvis] gets hole card ['SJ', 'C2'], current stack 3235
+Started the round 35
+Street "preflop" started. (community card = [])
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:239"
+"SichengZuo" declared "fold:0"
+"['Elvis']" won the round 35 (stack = {'Yuchun': 0, 'SichengZuo': 880, 'JoyoPlayer': 0, 'ZifengFoldMan': 870, 'Elvis': 3250})
+player [SichengZuo] gets hole card ['CQ', 'H9'], current stack 875
+player [ZifengFoldMan] gets hole card ['H8', 'D5'], current stack 860
+player [Elvis] gets hole card ['S8', 'H7'], current stack 3250
+Started the round 36
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 36 (stack = {'Yuchun': 0, 'SichengZuo': 875, 'JoyoPlayer': 0, 'ZifengFoldMan': 860, 'Elvis': 3265})
+player [SichengZuo] gets hole card ['S7', 'D5'], current stack 875
+player [ZifengFoldMan] gets hole card ['H3', 'CT'], current stack 855
+player [Elvis] gets hole card ['CA', 'H8'], current stack 3255
+Started the round 37
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 37 (stack = {'Yuchun': 0, 'SichengZuo': 875, 'JoyoPlayer': 0, 'ZifengFoldMan': 855, 'Elvis': 3270})
+player [SichengZuo] gets hole card ['C4', 'S3'], current stack 865
+player [ZifengFoldMan] gets hole card ['S8', 'C9'], current stack 855
+player [Elvis] gets hole card ['DA', 'C7'], current stack 3265
+Started the round 38
+Street "preflop" started. (community card = [])
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:434"
+"SichengZuo" declared "fold:0"
+"['Elvis']" won the round 38 (stack = {'Yuchun': 0, 'SichengZuo': 865, 'JoyoPlayer': 0, 'ZifengFoldMan': 855, 'Elvis': 3280})
+player [SichengZuo] gets hole card ['D5', 'DT'], current stack 860
+player [ZifengFoldMan] gets hole card ['HA', 'DA'], current stack 845
+player [Elvis] gets hole card ['C6', 'DJ'], current stack 3280
+Started the round 39
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 39 (stack = {'Yuchun': 0, 'SichengZuo': 860, 'JoyoPlayer': 0, 'ZifengFoldMan': 845, 'Elvis': 3295})
+player [SichengZuo] gets hole card ['DT', 'C9'], current stack 860
+player [ZifengFoldMan] gets hole card ['DQ', 'D3'], current stack 840
+player [Elvis] gets hole card ['C6', 'S7'], current stack 3285
+Started the round 40
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 40 (stack = {'Yuchun': 0, 'SichengZuo': 860, 'JoyoPlayer': 0, 'ZifengFoldMan': 840, 'Elvis': 3300})
+player [SichengZuo] gets hole card ['S5', 'C4'], current stack 850
+player [ZifengFoldMan] gets hole card ['DJ', 'D6'], current stack 840
+player [Elvis] gets hole card ['H7', 'S4'], current stack 3295
+Started the round 41
+Street "preflop" started. (community card = [])
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:140"
+"SichengZuo" declared "fold:0"
+"['Elvis']" won the round 41 (stack = {'Yuchun': 0, 'SichengZuo': 850, 'JoyoPlayer': 0, 'ZifengFoldMan': 840, 'Elvis': 3310})
+player [SichengZuo] gets hole card ['CQ', 'C3'], current stack 845
+player [ZifengFoldMan] gets hole card ['CA', 'CJ'], current stack 830
+player [Elvis] gets hole card ['C4', 'SJ'], current stack 3310
+Started the round 42
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 42 (stack = {'Yuchun': 0, 'SichengZuo': 845, 'JoyoPlayer': 0, 'ZifengFoldMan': 830, 'Elvis': 3325})
+player [SichengZuo] gets hole card ['CJ', 'D2'], current stack 845
+player [ZifengFoldMan] gets hole card ['S8', 'C8'], current stack 825
+player [Elvis] gets hole card ['SK', 'SQ'], current stack 3315
+Started the round 43
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 43 (stack = {'Yuchun': 0, 'SichengZuo': 845, 'JoyoPlayer': 0, 'ZifengFoldMan': 825, 'Elvis': 3330})
+player [SichengZuo] gets hole card ['DT', 'H8'], current stack 835
+player [ZifengFoldMan] gets hole card ['S7', 'D4'], current stack 825
+player [Elvis] gets hole card ['S6', 'C6'], current stack 3325
+Started the round 44
+Street "preflop" started. (community card = [])
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:536"
+"SichengZuo" declared "fold:0"
+"['Elvis']" won the round 44 (stack = {'Yuchun': 0, 'SichengZuo': 835, 'JoyoPlayer': 0, 'ZifengFoldMan': 825, 'Elvis': 3340})
+player [SichengZuo] gets hole card ['S4', 'S7'], current stack 830
+player [ZifengFoldMan] gets hole card ['ST', 'HQ'], current stack 815
+player [Elvis] gets hole card ['S8', 'D9'], current stack 3340
+Started the round 45
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:15"
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 45 (stack = {'Yuchun': 0, 'SichengZuo': 830, 'JoyoPlayer': 0, 'ZifengFoldMan': 815, 'Elvis': 3355})
+player [SichengZuo] gets hole card ['H5', 'S3'], current stack 830
+player [ZifengFoldMan] gets hole card ['C9', 'H2'], current stack 810
+player [Elvis] gets hole card ['C4', 'D9'], current stack 3345
+Started the round 46
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 46 (stack = {'Yuchun': 0, 'SichengZuo': 830, 'JoyoPlayer': 0, 'ZifengFoldMan': 810, 'Elvis': 3360})
+player [SichengZuo] gets hole card ['SK', 'C6'], current stack 820
+player [ZifengFoldMan] gets hole card ['HA', 'SJ'], current stack 810
+player [Elvis] gets hole card ['HK', 'DQ'], current stack 3355
+Started the round 47
+Street "preflop" started. (community card = [])
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:539"
+"SichengZuo" declared "fold:0"
+"['Elvis']" won the round 47 (stack = {'Yuchun': 0, 'SichengZuo': 820, 'JoyoPlayer': 0, 'ZifengFoldMan': 810, 'Elvis': 3370})
+player [SichengZuo] gets hole card ['D4', 'HA'], current stack 815
+player [ZifengFoldMan] gets hole card ['H9', 'HJ'], current stack 800
+player [Elvis] gets hole card ['SJ', 'DA'], current stack 3370
+Started the round 48
+Street "preflop" started. (community card = [])
+"Elvis" declared "raise:257"
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 48 (stack = {'Yuchun': 0, 'SichengZuo': 815, 'JoyoPlayer': 0, 'ZifengFoldMan': 800, 'Elvis': 3385})
+player [SichengZuo] gets hole card ['H4', 'H9'], current stack 815
+player [ZifengFoldMan] gets hole card ['C4', 'HK'], current stack 795
+player [Elvis] gets hole card ['CJ', 'CK'], current stack 3375
+Started the round 49
+Street "preflop" started. (community card = [])
+"SichengZuo" declared "fold:0"
+"ZifengFoldMan" declared "fold:0"
+"['Elvis']" won the round 49 (stack = {'Yuchun': 0, 'SichengZuo': 815, 'JoyoPlayer': 0, 'ZifengFoldMan': 795, 'Elvis': 3390})
+player [SichengZuo] gets hole card ['D9', 'S7'], current stack 805
+player [ZifengFoldMan] gets hole card ['S8', 'D7'], current stack 795
+player [Elvis] gets hole card ['SJ', 'H8'], current stack 3385
+Started the round 50
+Street "preflop" started. (community card = [])
+"ZifengFoldMan" declared "fold:0"
+"Elvis" declared "raise:332"
+"SichengZuo" declared "fold:0"
+"['Elvis']" won the round 50 (stack = {'Yuchun': 0, 'SichengZuo': 805, 'JoyoPlayer': 0, 'ZifengFoldMan': 795, 'Elvis': 3400})
+
+Game Results:
+------------------------------------------------------------
+Game 1:
+Winner: Elvis (stack: 3400)
+All players' stacks:
+  Yuchun: 0
+  SichengZuo: 805
+  JoyoPlayer: 0
+  ZifengFoldMan: 795
+  Elvis: 3400
+------------------------------------------------------------

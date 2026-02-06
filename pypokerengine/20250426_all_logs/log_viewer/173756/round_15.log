@@ -1,0 +1,1976 @@
+🎲 Texas Hold'em Poker Game Log 15 🎲
+==================================================
+
+📊 Detailed Game Log:
+==================================================
+
+🔄 Round 1
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♦️ 6] [♥️ 4]        | 💰  1000
+👤 NitWinWin       | [♦️ 9] [♣️ 4]        | 💰   995
+👤 Jinkun          | [♦️ T] [♣️ T]        | 💰   990
+👤 YueShi          | [♠️ 7] [♣️ 9]        | 💰  1000
+👤 JoyoPlayer      | [♦️ A] [♠️ 5]        | 💰  1000
+👤 ZifengFoldMan   | [♥️ 6] [♦️ Q]        | 💰  1000
+👤 EvanPlayer      | [♥️ 3] [♥️ Q]        | 💰  1000
+👤 KLChen2PokerPlayer | [♦️ 5] [♥️ J]        | 💰  1000
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♠️ 7] [♣️ 9] |   13.60% | ❌ fold
+  JoyoPlayer      | [♦️ A] [♠️ 5] |   21.50% | ⬆️ raise:$15
+  ZifengFoldMan   | [♥️ 6] [♦️ Q] |   11.60% | ❌ fold
+  EvanPlayer      | [♥️ 3] [♥️ Q] |   24.00% | ⬆️ raise:$1000
+  KLChen2PokerPlayer | [♦️ 5] [♥️ J] |   13.40% | ❌ fold
+  ZPlayer         | [♦️ 6] [♥️ 4] |   10.60% | ❌ fold
+  NitWinWin       | [♦️ 9] [♣️ 4] |    9.90% | ❌ fold
+  Jinkun          | [♦️ T] [♣️ T] |   46.40% | ❌ fold:$1000
+  JoyoPlayer      | [♦️ A] [♠️ 5] |   62.80% | ✅ call:$1000
+
+🎴 FLOP
+Board: [ [♦️ 7] [♣️ Q] [♦️ 4] ]
+
+🎴 TURN
+Board: [ [♦️ 7] [♣️ Q] [♦️ 4] [♣️ K] ]
+
+🎴 RIVER
+Board: [ [♦️ 7] [♣️ Q] [♦️ 4] [♣️ K] [♠️ A] ]
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  ZPlayer        : $  1000 ➡️ (+0)
+  NitWinWin      : $   995 ➡️ (+0)
+  Jinkun         : $   990 ➡️ (+0)
+  YueShi         : $  1000 ➡️ (+0)
+  JoyoPlayer     : $  2015 📈 (+1015)
+  ZifengFoldMan  : $  1000 ➡️ (+0)
+  EvanPlayer     : $     0 📉 (-1000)
+  KLChen2PokerPlayer: $  1000 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 2
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♦️ A] [♥️ T]        | 💰  1000
+👤 NitWinWin       | [♥️ K] [♣️ A]        | 💰   995
+👤 Jinkun          | [♦️ 7] [♠️ 5]        | 💰   985
+👤 YueShi          | [♠️ 3] [♦️ T]        | 💰   990
+👤 JoyoPlayer      | [♠️ 4] [♣️ 4]        | 💰  2015
+👤 ZifengFoldMan   | [♣️ J] [♣️ Q]        | 💰  1000
+👤 KLChen2PokerPlayer | [♥️ 2] [♠️ J]        | 💰  1000
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♠️ 4] [♣️ 4] |   19.90% | ❌ fold
+  ZifengFoldMan   | [♣️ J] [♣️ Q] |   26.20% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 2] [♠️ J] |   20.60% | ✅ call:$10
+  ZPlayer         | [♦️ A] [♥️ T] |   13.80% | ⬆️ raise:$15
+  NitWinWin       | [♥️ K] [♣️ A] |   32.90% | ❌ fold
+  Jinkun          | [♦️ 7] [♠️ 5] |   29.20% | ❌ fold:$15
+  YueShi          | [♠️ 3] [♦️ T] |   19.60% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 2] [♠️ J] |   33.80% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1025 📈 (+25)
+  NitWinWin      : $   995 ➡️ (+0)
+  Jinkun         : $   985 ➡️ (+0)
+  YueShi         : $   990 ➡️ (+0)
+  JoyoPlayer     : $  2015 ➡️ (+0)
+  ZifengFoldMan  : $  1000 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   990 📉 (-10)
+----------------------------------------
+
+🔄 Round 3
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♥️ Q] [♥️ 6]        | 💰  1025
+👤 NitWinWin       | [♠️ 3] [♣️ 4]        | 💰   995
+👤 Jinkun          | [♥️ A] [♣️ 6]        | 💰   985
+👤 YueShi          | [♥️ K] [♦️ 5]        | 💰   985
+👤 JoyoPlayer      | [♦️ 3] [♦️ K]        | 💰  2005
+👤 ZifengFoldMan   | [♦️ T] [♣️ K]        | 💰  1000
+👤 KLChen2PokerPlayer | [♥️ 4] [♠️ 4]        | 💰   990
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♦️ T] [♣️ K] |   21.30% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 4] [♠️ 4] |   19.80% | ⬆️ raise:$16
+  ZPlayer         | [♥️ Q] [♥️ 6] |   22.30% | ✅ call:$16
+  NitWinWin       | [♠️ 3] [♣️ 4] |    6.00% | ❌ fold
+  Jinkun          | [♥️ A] [♣️ 6] |   27.80% | ❌ fold:$16
+  YueShi          | [♥️ K] [♦️ 5] |   24.00% | ❌ fold
+  JoyoPlayer      | [♦️ 3] [♦️ K] |   29.00% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ 9] [♥️ 3] [♣️ A] ]
+  KLChen2PokerPlayer | [♥️ 4] [♠️ 4] |   72.00% | ⬆️ raise:$10
+  ZPlayer         | [♥️ Q] [♥️ 6] |   28.00% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  ZPlayer        : $  1009 📉 (-16)
+  NitWinWin      : $   995 ➡️ (+0)
+  Jinkun         : $   985 ➡️ (+0)
+  YueShi         : $   985 ➡️ (+0)
+  JoyoPlayer     : $  2005 ➡️ (+0)
+  ZifengFoldMan  : $  1000 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $  1021 📈 (+31)
+----------------------------------------
+
+🔄 Round 4
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♠️ 9] [♠️ 6]        | 💰  1009
+👤 NitWinWin       | [♠️ T] [♠️ Q]        | 💰   995
+👤 Jinkun          | [♥️ 6] [♥️ J]        | 💰   985
+👤 YueShi          | [♥️ 9] [♠️ 8]        | 💰   985
+👤 JoyoPlayer      | [♦️ 2] [♣️ T]        | 💰  2000
+👤 ZifengFoldMan   | [♥️ 7] [♣️ 2]        | 💰   990
+👤 KLChen2PokerPlayer | [♠️ J] [♣️ K]        | 💰  1021
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♠️ J] [♣️ K] |   29.60% | ⬆️ raise:$25
+  ZPlayer         | [♠️ 9] [♠️ 6] |    8.30% | ✅ call:$25
+  NitWinWin       | [♠️ T] [♠️ Q] |   23.20% | ❌ fold
+  Jinkun          | [♥️ 6] [♥️ J] |   15.60% | ❌ fold:$25
+  YueShi          | [♥️ 9] [♠️ 8] |   20.10% | ❌ fold
+  JoyoPlayer      | [♦️ 2] [♣️ T] |   15.60% | ⬆️ raise:$40
+  ZifengFoldMan   | [♥️ 7] [♣️ 2] |   13.80% | ❌ fold
+  KLChen2PokerPlayer | [♠️ J] [♣️ K] |   48.90% | ✅ call:$40
+  ZPlayer         | [♠️ 9] [♠️ 6] |   33.20% | ✅ call:$40
+
+🎴 FLOP
+Board: [ [♣️ 5] [♠️ 4] [♥️ Q] ]
+  JoyoPlayer      | [♦️ 2] [♣️ T] |   18.00% | ⬆️ raise:$10
+  KLChen2PokerPlayer | [♠️ J] [♣️ K] |   54.40% | ❌ fold
+  ZPlayer         | [♠️ 9] [♠️ 6] |   32.60% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  ZPlayer        : $   969 📉 (-40)
+  NitWinWin      : $   995 ➡️ (+0)
+  Jinkun         : $   985 ➡️ (+0)
+  YueShi         : $   985 ➡️ (+0)
+  JoyoPlayer     : $  2095 📈 (+95)
+  ZifengFoldMan  : $   990 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   981 📉 (-40)
+----------------------------------------
+
+🔄 Round 5
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♥️ 5] [♣️ 3]        | 💰   969
+👤 NitWinWin       | [♦️ 5] [♣️ 2]        | 💰   995
+👤 Jinkun          | [♥️ A] [♠️ A]        | 💰   985
+👤 YueShi          | [♦️ 7] [♥️ 3]        | 💰   985
+👤 JoyoPlayer      | [♥️ J] [♠️ Q]        | 💰  2095
+👤 ZifengFoldMan   | [♥️ K] [♦️ J]        | 💰   985
+👤 KLChen2PokerPlayer | [♦️ 4] [♦️ Q]        | 💰   971
+
+🎴 PREFLOP
+Board: [  ]
+  ZPlayer         | [♥️ 5] [♣️ 3] |   11.20% | ✅ call:$10
+  NitWinWin       | [♦️ 5] [♣️ 2] |    9.50% | ❌ fold
+  Jinkun          | [♥️ A] [♠️ A] |   49.80% | ✅ call:$10
+  YueShi          | [♦️ 7] [♥️ 3] |    9.90% | ❌ fold
+  JoyoPlayer      | [♥️ J] [♠️ Q] |    8.50% | ❌ fold
+  ZifengFoldMan   | [♥️ K] [♦️ J] |   11.50% | ❌ fold
+  KLChen2PokerPlayer | [♦️ 4] [♦️ Q] |   18.30% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 8] [♦️ 3] [♠️ 6] ]
+  KLChen2PokerPlayer | [♦️ 4] [♦️ Q] |    8.10% | ✅ call
+  ZPlayer         | [♥️ 5] [♣️ 3] |   17.50% | ⬆️ raise:$10
+  Jinkun          | [♥️ A] [♠️ A] |   74.40% | ✅ call:$10
+  KLChen2PokerPlayer | [♦️ 4] [♦️ Q] |    8.10% | ❌ fold
+
+🎴 TURN
+Board: [ [♠️ 8] [♦️ 3] [♠️ 6] [♦️ K] ]
+  ZPlayer         | [♥️ 5] [♣️ 3] |   11.90% | ✅ call
+  Jinkun          | [♥️ A] [♠️ A] |   88.10% | ⬆️ raise:$24
+  ZPlayer         | [♥️ 5] [♣️ 3] |   11.90% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  ZPlayer        : $   949 📉 (-20)
+  NitWinWin      : $   995 ➡️ (+0)
+  Jinkun         : $  1020 📈 (+35)
+  YueShi         : $   985 ➡️ (+0)
+  JoyoPlayer     : $  2095 ➡️ (+0)
+  ZifengFoldMan  : $   985 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   971 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 6
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♦️ T] [♠️ 2]        | 💰   939
+👤 NitWinWin       | [♥️ A] [♣️ T]        | 💰   995
+👤 Jinkun          | [♣️ 7] [♠️ 8]        | 💰  1020
+👤 YueShi          | [♠️ 3] [♠️ 6]        | 💰   985
+👤 JoyoPlayer      | [♠️ 7] [♦️ 3]        | 💰  2095
+👤 ZifengFoldMan   | [♥️ 8] [♥️ J]        | 💰   985
+👤 KLChen2PokerPlayer | [♠️ K] [♥️ 9]        | 💰   966
+
+🎴 PREFLOP
+Board: [  ]
+  NitWinWin       | [♥️ A] [♣️ T] |   27.00% | ❌ fold
+  Jinkun          | [♣️ 7] [♠️ 8] |   13.90% | ❌ fold:$10
+  YueShi          | [♠️ 3] [♠️ 6] |   14.20% | ❌ fold
+  JoyoPlayer      | [♠️ 7] [♦️ 3] |   18.20% | ❌ fold
+  ZifengFoldMan   | [♥️ 8] [♥️ J] |   39.00% | ❌ fold
+  KLChen2PokerPlayer | [♠️ K] [♥️ 9] |   65.00% | ⬆️ raise:$15
+  ZPlayer         | [♦️ T] [♠️ 2] |   35.30% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♦️ 9] [♠️ Q] [♥️ 3] ]
+  KLChen2PokerPlayer | [♠️ K] [♥️ 9] |   84.20% | ⬆️ raise:$36
+  ZPlayer         | [♦️ T] [♠️ 2] |   15.80% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  ZPlayer        : $   934 📉 (-5)
+  NitWinWin      : $   995 ➡️ (+0)
+  Jinkun         : $  1020 ➡️ (+0)
+  YueShi         : $   985 ➡️ (+0)
+  JoyoPlayer     : $  2095 ➡️ (+0)
+  ZifengFoldMan  : $   985 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   986 📈 (+20)
+----------------------------------------
+
+🔄 Round 7
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♠️ Q] [♠️ 9]        | 💰   929
+👤 NitWinWin       | [♣️ 7] [♥️ J]        | 💰   985
+👤 Jinkun          | [♦️ 4] [♣️ K]        | 💰  1020
+👤 YueShi          | [♣️ 9] [♦️ 9]        | 💰   985
+👤 JoyoPlayer      | [♦️ A] [♠️ J]        | 💰  2095
+👤 ZifengFoldMan   | [♣️ A] [♦️ 2]        | 💰   985
+👤 KLChen2PokerPlayer | [♠️ 4] [♠️ 5]        | 💰   986
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♦️ 4] [♣️ K] |   15.30% | ❌ fold:$10
+  YueShi          | [♣️ 9] [♦️ 9] |   26.10% | ❌ fold
+  JoyoPlayer      | [♦️ A] [♠️ J] |   22.80% | ❌ fold
+  ZifengFoldMan   | [♣️ A] [♦️ 2] |   28.80% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 4] [♠️ 5] |   26.40% | ✅ call:$10
+  ZPlayer         | [♠️ Q] [♠️ 9] |   44.60% | ⬆️ raise:$15
+  NitWinWin       | [♣️ 7] [♥️ J] |   30.60% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 4] [♠️ 5] |   35.10% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $   954 📈 (+25)
+  NitWinWin      : $   985 ➡️ (+0)
+  Jinkun         : $  1020 ➡️ (+0)
+  YueShi         : $   985 ➡️ (+0)
+  JoyoPlayer     : $  2095 ➡️ (+0)
+  ZifengFoldMan  : $   985 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   976 📉 (-10)
+----------------------------------------
+
+🔄 Round 8
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♥️ J] [♠️ 5]        | 💰   954
+👤 NitWinWin       | [♣️ 3] [♦️ 5]        | 💰   980
+👤 Jinkun          | [♠️ 8] [♣️ 7]        | 💰  1010
+👤 YueShi          | [♦️ 6] [♠️ 4]        | 💰   985
+👤 JoyoPlayer      | [♣️ 5] [♦️ K]        | 💰  2095
+👤 ZifengFoldMan   | [♥️ T] [♥️ A]        | 💰   985
+👤 KLChen2PokerPlayer | [♦️ J] [♠️ Q]        | 💰   976
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♦️ 6] [♠️ 4] |    9.50% | ❌ fold
+  JoyoPlayer      | [♣️ 5] [♦️ K] |   15.80% | ⬆️ raise:$15
+  ZifengFoldMan   | [♥️ T] [♥️ A] |   34.00% | ❌ fold
+  KLChen2PokerPlayer | [♦️ J] [♠️ Q] |   34.70% | ⬆️ raise:$23
+  ZPlayer         | [♥️ J] [♠️ 5] |    6.80% | ✅ call:$23
+  NitWinWin       | [♣️ 3] [♦️ 5] |   14.80% | ❌ fold
+  Jinkun          | [♠️ 8] [♣️ 7] |   26.30% | ❌ fold:$23
+  JoyoPlayer      | [♣️ 5] [♦️ K] |   60.70% | ⬆️ raise:$31
+  KLChen2PokerPlayer | [♦️ J] [♠️ Q] |   36.90% | ❌ fold
+  ZPlayer         | [♥️ J] [♠️ 5] |   26.00% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  ZPlayer        : $   931 📉 (-23)
+  NitWinWin      : $   980 ➡️ (+0)
+  Jinkun         : $  1010 ➡️ (+0)
+  YueShi         : $   985 ➡️ (+0)
+  JoyoPlayer     : $  2156 📈 (+61)
+  ZifengFoldMan  : $   985 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   953 📉 (-23)
+----------------------------------------
+
+🔄 Round 9
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♦️ T] [♣️ 2]        | 💰   931
+👤 NitWinWin       | [♣️ 9] [♣️ 4]        | 💰   980
+👤 Jinkun          | [♦️ 3] [♦️ 9]        | 💰  1005
+👤 YueShi          | [♦️ A] [♦️ 7]        | 💰   975
+👤 JoyoPlayer      | [♦️ 5] [♠️ T]        | 💰  2156
+👤 ZifengFoldMan   | [♣️ 5] [♥️ 5]        | 💰   985
+👤 KLChen2PokerPlayer | [♠️ 7] [♠️ A]        | 💰   953
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♦️ 5] [♠️ T] |   10.10% | ❌ fold
+  ZifengFoldMan   | [♣️ 5] [♥️ 5] |   27.90% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 7] [♠️ A] |   37.70% | ⬆️ raise:$19
+  ZPlayer         | [♦️ T] [♣️ 2] |   25.00% | ✅ call:$19
+  NitWinWin       | [♣️ 9] [♣️ 4] |   25.60% | ❌ fold
+  Jinkun          | [♦️ 3] [♦️ 9] |   26.10% | ❌ fold:$19
+  YueShi          | [♦️ A] [♦️ 7] |   54.10% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ 9] [♥️ 2] [♠️ 8] ]
+  KLChen2PokerPlayer | [♠️ 7] [♠️ A] |   27.30% | ⬆️ raise:$19
+  ZPlayer         | [♦️ T] [♣️ 2] |   72.70% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  ZPlayer        : $   912 📉 (-19)
+  NitWinWin      : $   980 ➡️ (+0)
+  Jinkun         : $  1005 ➡️ (+0)
+  YueShi         : $   975 ➡️ (+0)
+  JoyoPlayer     : $  2156 ➡️ (+0)
+  ZifengFoldMan  : $   985 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   987 📈 (+34)
+----------------------------------------
+
+🔄 Round 10
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♦️ K] [♦️ 2]        | 💰   912
+👤 NitWinWin       | [♥️ 2] [♥️ J]        | 💰   980
+👤 Jinkun          | [♠️ 8] [♦️ A]        | 💰  1005
+👤 YueShi          | [♣️ 3] [♣️ 9]        | 💰   970
+👤 JoyoPlayer      | [♣️ 7] [♦️ 4]        | 💰  2146
+👤 ZifengFoldMan   | [♠️ T] [♦️ 6]        | 💰   985
+👤 KLChen2PokerPlayer | [♦️ 3] [♣️ 4]        | 💰   987
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♠️ T] [♦️ 6] |   13.80% | ❌ fold
+  KLChen2PokerPlayer | [♦️ 3] [♣️ 4] |    6.10% | ✅ call:$10
+  ZPlayer         | [♦️ K] [♦️ 2] |   21.10% | ✅ call:$10
+  NitWinWin       | [♥️ 2] [♥️ J] |   22.70% | ❌ fold
+  Jinkun          | [♠️ 8] [♦️ A] |   33.70% | ❌ fold:$10
+  YueShi          | [♣️ 3] [♣️ 9] |   28.60% | ❌ fold
+  JoyoPlayer      | [♣️ 7] [♦️ 4] |   33.80% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ J] [♥️ 9] [♦️ J] ]
+  KLChen2PokerPlayer | [♦️ 3] [♣️ 4] |   21.10% | ✅ call
+  ZPlayer         | [♦️ K] [♦️ 2] |   80.40% | ⬆️ raise:$10
+  KLChen2PokerPlayer | [♦️ 3] [♣️ 4] |   21.10% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $   937 📈 (+25)
+  NitWinWin      : $   980 ➡️ (+0)
+  Jinkun         : $  1005 ➡️ (+0)
+  YueShi         : $   970 ➡️ (+0)
+  JoyoPlayer     : $  2146 ➡️ (+0)
+  ZifengFoldMan  : $   985 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   977 📉 (-10)
+----------------------------------------
+
+🔄 Round 11
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♣️ 4] [♠️ 2]        | 💰   937
+👤 NitWinWin       | [♠️ 4] [♦️ T]        | 💰   980
+👤 Jinkun          | [♣️ J] [♦️ J]        | 💰  1005
+👤 YueShi          | [♠️ K] [♠️ 6]        | 💰   970
+👤 JoyoPlayer      | [♦️ A] [♠️ 9]        | 💰  2141
+👤 ZifengFoldMan   | [♠️ 7] [♦️ 7]        | 💰   975
+👤 KLChen2PokerPlayer | [♣️ 2] [♣️ T]        | 💰   977
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♣️ 2] [♣️ T] |   10.60% | ✅ call:$10
+  ZPlayer         | [♣️ 4] [♠️ 2] |    8.70% | ✅ call:$10
+  NitWinWin       | [♠️ 4] [♦️ T] |    4.50% | ❌ fold
+  Jinkun          | [♣️ J] [♦️ J] |   29.70% | ✅ call:$10
+  YueShi          | [♠️ K] [♠️ 6] |   19.00% | ❌ fold
+  JoyoPlayer      | [♦️ A] [♠️ 9] |   19.30% | ❌ fold
+  ZifengFoldMan   | [♠️ 7] [♦️ 7] |   20.40% | ❌ fold
+
+🎴 FLOP
+Board: [ [♠️ Q] [♦️ 8] [♦️ 9] ]
+  KLChen2PokerPlayer | [♣️ 2] [♣️ T] |    8.10% | ✅ call
+  ZPlayer         | [♣️ 4] [♠️ 2] |    1.20% | ✅ call
+  Jinkun          | [♣️ J] [♦️ J] |   91.70% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ Q] [♦️ 8] [♦️ 9] [♦️ K] ]
+  KLChen2PokerPlayer | [♣️ 2] [♣️ T] |    3.90% | ✅ call
+  ZPlayer         | [♣️ 4] [♠️ 2] |    0.00% | ✅ call
+  Jinkun          | [♣️ J] [♦️ J] |   96.10% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ Q] [♦️ 8] [♦️ 9] [♦️ K] [♣️ 6] ]
+  KLChen2PokerPlayer | [♣️ 2] [♣️ T] |    0.00% | ✅ call
+  ZPlayer         | [♣️ 4] [♠️ 2] |    0.00% | ✅ call
+  Jinkun          | [♣️ J] [♦️ J] |  100.00% | ✅ call
+
+🏆 Winner: Jinkun
+Final Stacks:
+  ZPlayer        : $   927 📉 (-10)
+  NitWinWin      : $   980 ➡️ (+0)
+  Jinkun         : $  1040 📈 (+35)
+  YueShi         : $   970 ➡️ (+0)
+  JoyoPlayer     : $  2141 ➡️ (+0)
+  ZifengFoldMan  : $   975 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   967 📉 (-10)
+----------------------------------------
+
+🔄 Round 12
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♠️ A] [♠️ 4]        | 💰   927
+👤 NitWinWin       | [♥️ Q] [♦️ K]        | 💰   980
+👤 Jinkun          | [♣️ K] [♠️ J]        | 💰  1040
+👤 YueShi          | [♥️ 8] [♥️ T]        | 💰   970
+👤 JoyoPlayer      | [♣️ 2] [♦️ Q]        | 💰  2141
+👤 ZifengFoldMan   | [♠️ Q] [♥️ 5]        | 💰   970
+👤 KLChen2PokerPlayer | [♦️ 2] [♣️ J]        | 💰   957
+
+🎴 PREFLOP
+Board: [  ]
+  ZPlayer         | [♠️ A] [♠️ 4] |   33.30% | ⬆️ raise:$15
+  NitWinWin       | [♥️ Q] [♦️ K] |   13.50% | ❌ fold
+  Jinkun          | [♣️ K] [♠️ J] |   21.70% | ❌ fold:$15
+  YueShi          | [♥️ 8] [♥️ T] |   32.40% | ❌ fold
+  JoyoPlayer      | [♣️ 2] [♦️ Q] |   15.50% | ⬆️ raise:$20
+  ZifengFoldMan   | [♠️ Q] [♥️ 5] |   27.70% | ❌ fold
+  KLChen2PokerPlayer | [♦️ 2] [♣️ J] |   19.90% | ❌ fold
+  ZPlayer         | [♠️ A] [♠️ 4] |   69.30% | ✅ call:$20
+
+🎴 FLOP
+Board: [ [♠️ 8] [♦️ T] [♣️ 5] ]
+  ZPlayer         | [♠️ A] [♠️ 4] |   77.10% | ✅ call
+  JoyoPlayer      | [♣️ 2] [♦️ Q] |   22.90% | ⬆️ raise:$10
+  ZPlayer         | [♠️ A] [♠️ 4] |   77.10% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  ZPlayer        : $   907 📉 (-20)
+  NitWinWin      : $   980 ➡️ (+0)
+  Jinkun         : $  1040 ➡️ (+0)
+  YueShi         : $   970 ➡️ (+0)
+  JoyoPlayer     : $  2176 📈 (+35)
+  ZifengFoldMan  : $   970 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   957 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 13
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♦️ 3] [♠️ T]        | 💰   897
+👤 NitWinWin       | [♣️ 5] [♥️ 4]        | 💰   980
+👤 Jinkun          | [♠️ 7] [♣️ Q]        | 💰  1040
+👤 YueShi          | [♥️ 6] [♦️ 5]        | 💰   970
+👤 JoyoPlayer      | [♠️ 3] [♦️ T]        | 💰  2176
+👤 ZifengFoldMan   | [♣️ 2] [♥️ 9]        | 💰   970
+👤 KLChen2PokerPlayer | [♣️ A] [♠️ 5]        | 💰   952
+
+🎴 PREFLOP
+Board: [  ]
+  NitWinWin       | [♣️ 5] [♥️ 4] |   10.40% | ❌ fold
+  Jinkun          | [♠️ 7] [♣️ Q] |   25.90% | ❌ fold:$10
+  YueShi          | [♥️ 6] [♦️ 5] |   22.90% | ❌ fold
+  JoyoPlayer      | [♠️ 3] [♦️ T] |   22.10% | ❌ fold
+  ZifengFoldMan   | [♣️ 2] [♥️ 9] |   25.50% | ❌ fold
+  KLChen2PokerPlayer | [♣️ A] [♠️ 5] |   66.20% | ⬆️ raise:$15
+  ZPlayer         | [♦️ 3] [♠️ T] |   34.80% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♣️ 3] [♥️ 3] [♦️ A] ]
+  KLChen2PokerPlayer | [♣️ A] [♠️ 5] |   11.20% | ⬆️ raise:$23
+  ZPlayer         | [♦️ 3] [♠️ T] |   88.80% | ⬆️ raise:$53
+  KLChen2PokerPlayer | [♣️ A] [♠️ 5] |   11.20% | ✅ call:$53
+
+🎴 TURN
+Board: [ [♣️ 3] [♥️ 3] [♦️ A] [♣️ T] ]
+  KLChen2PokerPlayer | [♣️ A] [♠️ 5] |    4.50% | ⬆️ raise:$429
+  ZPlayer         | [♦️ 3] [♠️ T] |   95.50% | ✅ call:$429
+
+🎴 RIVER
+Board: [ [♣️ 3] [♥️ 3] [♦️ A] [♣️ T] [♣️ 8] ]
+  KLChen2PokerPlayer | [♣️ A] [♠️ 5] |    0.00% | ⬆️ raise:$78
+  ZPlayer         | [♦️ 3] [♠️ T] |  100.00% | ⬆️ raise:$210
+  KLChen2PokerPlayer | [♣️ A] [♠️ 5] |    0.00% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1482 📈 (+585)
+  NitWinWin      : $   980 ➡️ (+0)
+  Jinkun         : $  1040 ➡️ (+0)
+  YueShi         : $   970 ➡️ (+0)
+  JoyoPlayer     : $  2176 ➡️ (+0)
+  ZifengFoldMan  : $   970 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   382 📉 (-570)
+----------------------------------------
+
+🔄 Round 14
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♠️ 9] [♣️ 8]        | 💰  1477
+👤 NitWinWin       | [♥️ T] [♥️ 6]        | 💰   970
+👤 Jinkun          | [♣️ 9] [♦️ Q]        | 💰  1040
+👤 YueShi          | [♦️ A] [♥️ K]        | 💰   970
+👤 JoyoPlayer      | [♦️ 2] [♣️ J]        | 💰  2176
+👤 ZifengFoldMan   | [♦️ J] [♣️ T]        | 💰   970
+👤 KLChen2PokerPlayer | [♠️ 2] [♦️ 3]        | 💰   382
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♣️ 9] [♦️ Q] |   13.60% | ❌ fold:$10
+  YueShi          | [♦️ A] [♥️ K] |   34.00% | ❌ fold
+  JoyoPlayer      | [♦️ 2] [♣️ J] |   12.20% | ⬆️ raise:$15
+  ZifengFoldMan   | [♦️ J] [♣️ T] |   33.10% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 2] [♦️ 3] |   14.10% | ❌ fold
+  ZPlayer         | [♠️ 9] [♣️ 8] |   31.50% | ❌ fold
+  NitWinWin       | [♥️ T] [♥️ 6] |   46.30% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  ZPlayer        : $  1477 ➡️ (+0)
+  NitWinWin      : $   970 ➡️ (+0)
+  Jinkun         : $  1040 ➡️ (+0)
+  YueShi         : $   970 ➡️ (+0)
+  JoyoPlayer     : $  2191 📈 (+15)
+  ZifengFoldMan  : $   970 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   382 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 15
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♠️ Q] [♣️ 5]        | 💰  1477
+👤 NitWinWin       | [♣️ 7] [♥️ 5]        | 💰   965
+👤 Jinkun          | [♣️ A] [♦️ J]        | 💰  1030
+👤 YueShi          | [♥️ 2] [♥️ 6]        | 💰   970
+👤 JoyoPlayer      | [♣️ T] [♣️ 4]        | 💰  2191
+👤 ZifengFoldMan   | [♥️ T] [♦️ 9]        | 💰   970
+👤 KLChen2PokerPlayer | [♣️ 9] [♣️ 6]        | 💰   382
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♥️ 2] [♥️ 6] |   14.90% | ❌ fold
+  JoyoPlayer      | [♣️ T] [♣️ 4] |   11.00% | ⬆️ raise:$15
+  ZifengFoldMan   | [♥️ T] [♦️ 9] |   18.70% | ❌ fold
+  KLChen2PokerPlayer | [♣️ 9] [♣️ 6] |   17.10% | ❌ fold
+  ZPlayer         | [♠️ Q] [♣️ 5] |   21.70% | ✅ call:$15
+  NitWinWin       | [♣️ 7] [♥️ 5] |   19.70% | ❌ fold
+  Jinkun          | [♣️ A] [♦️ J] |   46.40% | ✅ call:$15
+
+🎴 FLOP
+Board: [ [♦️ 2] [♦️ A] [♥️ Q] ]
+  Jinkun          | [♣️ A] [♦️ J] |   78.90% | ✅ call
+  JoyoPlayer      | [♣️ T] [♣️ 4] |    3.80% | ❌ fold
+  ZPlayer         | [♠️ Q] [♣️ 5] |   19.00% | ⬆️ raise:$10
+  Jinkun          | [♣️ A] [♦️ J] |   81.00% | ⬆️ raise:$26
+  ZPlayer         | [♠️ Q] [♣️ 5] |   19.00% | ✅ call:$26
+
+🎴 TURN
+Board: [ [♦️ 2] [♦️ A] [♥️ Q] [♠️ 5] ]
+  Jinkun          | [♣️ A] [♦️ J] |   16.40% | ⬆️ raise:$43
+  ZPlayer         | [♠️ Q] [♣️ 5] |   83.60% | ✅ call:$43
+
+🎴 RIVER
+Board: [ [♦️ 2] [♦️ A] [♥️ Q] [♠️ 5] [♦️ 4] ]
+  Jinkun          | [♣️ A] [♦️ J] |    0.00% | ✅ call
+  ZPlayer         | [♠️ Q] [♣️ 5] |  100.00% | ⬆️ raise:$10
+  Jinkun          | [♣️ A] [♦️ J] |    0.00% | ✅ call:$10
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1591 📈 (+114)
+  NitWinWin      : $   965 ➡️ (+0)
+  Jinkun         : $   946 📉 (-84)
+  YueShi         : $   970 ➡️ (+0)
+  JoyoPlayer     : $  2176 📉 (-15)
+  ZifengFoldMan  : $   970 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   382 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 16
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♦️ A] [♣️ 2]        | 💰  1591
+👤 NitWinWin       | [♣️ T] [♠️ J]        | 💰   965
+👤 Jinkun          | [♠️ K] [♥️ T]        | 💰   941
+👤 YueShi          | [♠️ 9] [♠️ Q]        | 💰   960
+👤 JoyoPlayer      | [♥️ K] [♦️ 8]        | 💰  2176
+👤 ZifengFoldMan   | [♦️ 9] [♥️ 7]        | 💰   970
+👤 KLChen2PokerPlayer | [♥️ 3] [♣️ 5]        | 💰   382
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♥️ K] [♦️ 8] |   11.00% | ❌ fold
+  ZifengFoldMan   | [♦️ 9] [♥️ 7] |   12.90% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 3] [♣️ 5] |   18.20% | ❌ fold
+  ZPlayer         | [♦️ A] [♣️ 2] |   29.20% | ⬆️ raise:$15
+  NitWinWin       | [♣️ T] [♠️ J] |   19.70% | ❌ fold
+  Jinkun          | [♠️ K] [♥️ T] |   29.90% | ❌ fold:$15
+  YueShi          | [♠️ 9] [♠️ Q] |   46.90% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1606 📈 (+15)
+  NitWinWin      : $   965 ➡️ (+0)
+  Jinkun         : $   941 ➡️ (+0)
+  YueShi         : $   960 ➡️ (+0)
+  JoyoPlayer     : $  2176 ➡️ (+0)
+  ZifengFoldMan  : $   970 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   382 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 17
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♥️ 9] [♦️ A]        | 💰  1606
+👤 NitWinWin       | [♣️ 2] [♣️ 5]        | 💰   965
+👤 Jinkun          | [♥️ 6] [♣️ T]        | 💰   941
+👤 YueShi          | [♦️ T] [♠️ 2]        | 💰   955
+👤 JoyoPlayer      | [♦️ K] [♦️ J]        | 💰  2166
+👤 ZifengFoldMan   | [♥️ Q] [♠️ 4]        | 💰   970
+👤 KLChen2PokerPlayer | [♠️ 8] [♠️ 5]        | 💰   382
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♥️ Q] [♠️ 4] |   14.70% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 8] [♠️ 5] |   20.30% | ⬆️ raise:$15
+  ZPlayer         | [♥️ 9] [♦️ A] |   22.70% | ⬆️ raise:$20
+  NitWinWin       | [♣️ 2] [♣️ 5] |   13.80% | ❌ fold
+  Jinkun          | [♥️ 6] [♣️ T] |   14.70% | ❌ fold:$20
+  YueShi          | [♦️ T] [♠️ 2] |   15.90% | ❌ fold
+  JoyoPlayer      | [♦️ K] [♦️ J] |   36.80% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 8] [♠️ 5] |   42.10% | ✅ call:$20
+
+🎴 FLOP
+Board: [ [♥️ 8] [♦️ 5] [♥️ 3] ]
+  KLChen2PokerPlayer | [♠️ 8] [♠️ 5] |   91.60% | ⬆️ raise:$34
+  ZPlayer         | [♥️ 9] [♦️ A] |    8.40% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  ZPlayer        : $  1586 📉 (-20)
+  NitWinWin      : $   965 ➡️ (+0)
+  Jinkun         : $   941 ➡️ (+0)
+  YueShi         : $   955 ➡️ (+0)
+  JoyoPlayer     : $  2166 ➡️ (+0)
+  ZifengFoldMan  : $   970 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   417 📈 (+35)
+----------------------------------------
+
+🔄 Round 18
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♥️ 3] [♣️ 5]        | 💰  1586
+👤 NitWinWin       | [♣️ T] [♦️ 5]        | 💰   965
+👤 Jinkun          | [♥️ 4] [♦️ 2]        | 💰   941
+👤 YueShi          | [♥️ J] [♦️ 8]        | 💰   955
+👤 JoyoPlayer      | [♣️ 3] [♦️ K]        | 💰  2161
+👤 ZifengFoldMan   | [♥️ Q] [♠️ 4]        | 💰   960
+👤 KLChen2PokerPlayer | [♣️ 9] [♣️ A]        | 💰   417
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♣️ 9] [♣️ A] |   26.90% | ⬆️ raise:$22
+  ZPlayer         | [♥️ 3] [♣️ 5] |    5.90% | ⬆️ raise:$34
+  NitWinWin       | [♣️ T] [♦️ 5] |   11.60% | ❌ fold
+  Jinkun          | [♥️ 4] [♦️ 2] |    8.10% | ❌ fold:$34
+  YueShi          | [♥️ J] [♦️ 8] |   21.10% | ❌ fold
+  JoyoPlayer      | [♣️ 3] [♦️ K] |   26.30% | ⬆️ raise:$46
+  ZifengFoldMan   | [♥️ Q] [♠️ 4] |   20.50% | ❌ fold
+  KLChen2PokerPlayer | [♣️ 9] [♣️ A] |   56.40% | ❌ fold
+  ZPlayer         | [♥️ 3] [♣️ 5] |   30.80% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  ZPlayer        : $  1552 📉 (-34)
+  NitWinWin      : $   965 ➡️ (+0)
+  Jinkun         : $   941 ➡️ (+0)
+  YueShi         : $   955 ➡️ (+0)
+  JoyoPlayer     : $  2232 📈 (+71)
+  ZifengFoldMan  : $   960 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   395 📉 (-22)
+----------------------------------------
+
+🔄 Round 19
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♣️ 4] [♥️ 5]        | 💰  1552
+👤 NitWinWin       | [♠️ 3] [♠️ 6]        | 💰   965
+👤 Jinkun          | [♥️ Q] [♣️ K]        | 💰   941
+👤 YueShi          | [♥️ 9] [♦️ Q]        | 💰   955
+👤 JoyoPlayer      | [♣️ 9] [♥️ 4]        | 💰  2232
+👤 ZifengFoldMan   | [♥️ J] [♥️ 6]        | 💰   955
+👤 KLChen2PokerPlayer | [♣️ T] [♦️ 3]        | 💰   385
+
+🎴 PREFLOP
+Board: [  ]
+  ZPlayer         | [♣️ 4] [♥️ 5] |   11.90% | ⬆️ raise:$15
+  NitWinWin       | [♠️ 3] [♠️ 6] |   17.60% | ❌ fold
+  Jinkun          | [♥️ Q] [♣️ K] |   30.80% | ❌ fold:$15
+  YueShi          | [♥️ 9] [♦️ Q] |   33.80% | ❌ fold
+  JoyoPlayer      | [♣️ 9] [♥️ 4] |   19.80% | ❌ fold
+  ZifengFoldMan   | [♥️ J] [♥️ 6] |   45.60% | ❌ fold
+  KLChen2PokerPlayer | [♣️ T] [♦️ 3] |   59.10% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1567 📈 (+15)
+  NitWinWin      : $   965 ➡️ (+0)
+  Jinkun         : $   941 ➡️ (+0)
+  YueShi         : $   955 ➡️ (+0)
+  JoyoPlayer     : $  2232 ➡️ (+0)
+  ZifengFoldMan  : $   955 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   385 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 20
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♠️ 9] [♣️ K]        | 💰  1557
+👤 NitWinWin       | [♠️ Q] [♦️ 5]        | 💰   965
+👤 Jinkun          | [♥️ 4] [♠️ T]        | 💰   941
+👤 YueShi          | [♦️ Q] [♣️ 8]        | 💰   955
+👤 JoyoPlayer      | [♣️ 7] [♣️ 5]        | 💰  2232
+👤 ZifengFoldMan   | [♣️ T] [♠️ 7]        | 💰   955
+👤 KLChen2PokerPlayer | [♣️ A] [♥️ 3]        | 💰   380
+
+🎴 PREFLOP
+Board: [  ]
+  NitWinWin       | [♠️ Q] [♦️ 5] |    5.70% | ❌ fold
+  Jinkun          | [♥️ 4] [♠️ T] |   12.20% | ❌ fold:$10
+  YueShi          | [♦️ Q] [♣️ 8] |   19.60% | ❌ fold
+  JoyoPlayer      | [♣️ 7] [♣️ 5] |   17.40% | ❌ fold
+  ZifengFoldMan   | [♣️ T] [♠️ 7] |   26.90% | ❌ fold
+  KLChen2PokerPlayer | [♣️ A] [♥️ 3] |   59.80% | ⬆️ raise:$28
+  ZPlayer         | [♠️ 9] [♣️ K] |   40.80% | ✅ call:$28
+
+🎴 FLOP
+Board: [ [♥️ 2] [♥️ 9] [♦️ 7] ]
+  KLChen2PokerPlayer | [♣️ A] [♥️ 3] |   20.00% | ✅ call
+  ZPlayer         | [♠️ 9] [♣️ K] |   80.00% | ⬆️ raise:$10
+  KLChen2PokerPlayer | [♣️ A] [♥️ 3] |   20.00% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1595 📈 (+38)
+  NitWinWin      : $   965 ➡️ (+0)
+  Jinkun         : $   941 ➡️ (+0)
+  YueShi         : $   955 ➡️ (+0)
+  JoyoPlayer     : $  2232 ➡️ (+0)
+  ZifengFoldMan  : $   955 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   357 📉 (-23)
+----------------------------------------
+
+🔄 Round 21
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♦️ 8] [♣️ 3]        | 💰  1590
+👤 NitWinWin       | [♣️ Q] [♦️ 5]        | 💰   955
+👤 Jinkun          | [♠️ 6] [♥️ 8]        | 💰   941
+👤 YueShi          | [♥️ 2] [♠️ 9]        | 💰   955
+👤 JoyoPlayer      | [♣️ 5] [♣️ 2]        | 💰  2232
+👤 ZifengFoldMan   | [♣️ 9] [♦️ A]        | 💰   955
+👤 KLChen2PokerPlayer | [♦️ 3] [♥️ 9]        | 💰   357
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♠️ 6] [♥️ 8] |   22.70% | ❌ fold:$10
+  YueShi          | [♥️ 2] [♠️ 9] |    9.10% | ❌ fold
+  JoyoPlayer      | [♣️ 5] [♣️ 2] |   17.90% | ❌ fold
+  ZifengFoldMan   | [♣️ 9] [♦️ A] |   46.00% | ❌ fold
+  KLChen2PokerPlayer | [♦️ 3] [♥️ 9] |   28.00% | ⬆️ raise:$15
+  ZPlayer         | [♦️ 8] [♣️ 3] |   22.50% | ❌ fold
+  NitWinWin       | [♣️ Q] [♦️ 5] |   64.10% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  ZPlayer        : $  1590 ➡️ (+0)
+  NitWinWin      : $   955 ➡️ (+0)
+  Jinkun         : $   941 ➡️ (+0)
+  YueShi         : $   955 ➡️ (+0)
+  JoyoPlayer     : $  2232 ➡️ (+0)
+  ZifengFoldMan  : $   955 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   372 📈 (+15)
+----------------------------------------
+
+🔄 Round 22
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♣️ 9] [♣️ 4]        | 💰  1590
+👤 NitWinWin       | [♠️ 2] [♣️ 5]        | 💰   950
+👤 Jinkun          | [♠️ T] [♣️ 7]        | 💰   931
+👤 YueShi          | [♠️ J] [♦️ J]        | 💰   955
+👤 JoyoPlayer      | [♦️ A] [♥️ 3]        | 💰  2232
+👤 ZifengFoldMan   | [♥️ J] [♥️ 7]        | 💰   955
+👤 KLChen2PokerPlayer | [♠️ 9] [♣️ 3]        | 💰   372
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♠️ J] [♦️ J] |   34.70% | ❌ fold
+  JoyoPlayer      | [♦️ A] [♥️ 3] |   24.00% | ❌ fold
+  ZifengFoldMan   | [♥️ J] [♥️ 7] |   36.50% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 9] [♣️ 3] |   19.50% | ❌ fold
+  ZPlayer         | [♣️ 9] [♣️ 4] |   31.80% | ⬆️ raise:$15
+  NitWinWin       | [♠️ 2] [♣️ 5] |   21.00% | ❌ fold
+  Jinkun          | [♠️ T] [♣️ 7] |   62.40% | ❌ fold:$15
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1605 📈 (+15)
+  NitWinWin      : $   950 ➡️ (+0)
+  Jinkun         : $   931 ➡️ (+0)
+  YueShi         : $   955 ➡️ (+0)
+  JoyoPlayer     : $  2232 ➡️ (+0)
+  ZifengFoldMan  : $   955 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   372 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 23
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♣️ 6] [♦️ 2]        | 💰  1605
+👤 NitWinWin       | [♠️ 8] [♥️ J]        | 💰   950
+👤 Jinkun          | [♥️ A] [♠️ 9]        | 💰   926
+👤 YueShi          | [♣️ K] [♠️ 3]        | 💰   945
+👤 JoyoPlayer      | [♠️ 4] [♥️ T]        | 💰  2232
+👤 ZifengFoldMan   | [♠️ 6] [♦️ 7]        | 💰   955
+👤 KLChen2PokerPlayer | [♥️ K] [♠️ J]        | 💰   372
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♠️ 4] [♥️ T] |   14.10% | ❌ fold
+  ZifengFoldMan   | [♠️ 6] [♦️ 7] |   20.30% | ❌ fold
+  KLChen2PokerPlayer | [♥️ K] [♠️ J] |   22.00% | ⬆️ raise:$29
+  ZPlayer         | [♣️ 6] [♦️ 2] |   18.60% | ⬆️ raise:$48
+  NitWinWin       | [♠️ 8] [♥️ J] |   17.80% | ❌ fold
+  Jinkun          | [♥️ A] [♠️ 9] |   37.20% | ❌ fold:$48
+  YueShi          | [♣️ K] [♠️ 3] |   20.80% | ❌ fold
+  KLChen2PokerPlayer | [♥️ K] [♠️ J] |   67.50% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1649 📈 (+44)
+  NitWinWin      : $   950 ➡️ (+0)
+  Jinkun         : $   926 ➡️ (+0)
+  YueShi         : $   945 ➡️ (+0)
+  JoyoPlayer     : $  2232 ➡️ (+0)
+  ZifengFoldMan  : $   955 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   343 📉 (-29)
+----------------------------------------
+
+🔄 Round 24
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♥️ 7] [♥️ A]        | 💰  1649
+👤 NitWinWin       | [♥️ 8] [♦️ 6]        | 💰   950
+👤 Jinkun          | [♠️ 2] [♣️ 7]        | 💰   926
+👤 YueShi          | [♠️ 9] [♠️ 4]        | 💰   940
+👤 JoyoPlayer      | [♦️ Q] [♥️ Q]        | 💰  2222
+👤 ZifengFoldMan   | [♦️ J] [♠️ 5]        | 💰   955
+👤 KLChen2PokerPlayer | [♣️ Q] [♦️ 7]        | 💰   343
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♦️ J] [♠️ 5] |   12.00% | ❌ fold
+  KLChen2PokerPlayer | [♣️ Q] [♦️ 7] |    5.00% | ⬆️ raise:$15
+  ZPlayer         | [♥️ 7] [♥️ A] |   24.90% | ⬆️ raise:$20
+  NitWinWin       | [♥️ 8] [♦️ 6] |   12.20% | ❌ fold
+  Jinkun          | [♠️ 2] [♣️ 7] |    5.10% | ❌ fold:$20
+  YueShi          | [♠️ 9] [♠️ 4] |   19.60% | ❌ fold
+  JoyoPlayer      | [♦️ Q] [♥️ Q] |   66.30% | ⬆️ raise:$25
+  KLChen2PokerPlayer | [♣️ Q] [♦️ 7] |    6.80% | ❌ fold
+  ZPlayer         | [♥️ 7] [♥️ A] |   30.40% | ✅ call:$25
+
+🎴 FLOP
+Board: [ [♥️ 2] [♠️ T] [♣️ J] ]
+  JoyoPlayer      | [♦️ Q] [♥️ Q] |   82.90% | ⬆️ raise:$2189
+  ZPlayer         | [♥️ 7] [♥️ A] |   17.10% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  ZPlayer        : $  1624 📉 (-25)
+  NitWinWin      : $   950 ➡️ (+0)
+  Jinkun         : $   926 ➡️ (+0)
+  YueShi         : $   940 ➡️ (+0)
+  JoyoPlayer     : $  2277 📈 (+55)
+  ZifengFoldMan  : $   955 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   328 📉 (-15)
+----------------------------------------
+
+🔄 Round 25
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♥️ 9] [♠️ 7]        | 💰  1624
+👤 NitWinWin       | [♠️ 8] [♠️ 5]        | 💰   950
+👤 Jinkun          | [♣️ Q] [♣️ 8]        | 💰   926
+👤 YueShi          | [♥️ 6] [♥️ J]        | 💰   940
+👤 JoyoPlayer      | [♣️ K] [♣️ 5]        | 💰  2272
+👤 ZifengFoldMan   | [♥️ 7] [♠️ A]        | 💰   945
+👤 KLChen2PokerPlayer | [♠️ 6] [♦️ 4]        | 💰   328
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♠️ 6] [♦️ 4] |   11.20% | ❌ fold
+  ZPlayer         | [♥️ 9] [♠️ 7] |   11.80% | ⬆️ raise:$15
+  NitWinWin       | [♠️ 8] [♠️ 5] |   10.50% | ❌ fold
+  Jinkun          | [♣️ Q] [♣️ 8] |   20.70% | ❌ fold:$15
+  YueShi          | [♥️ 6] [♥️ J] |   27.40% | ❌ fold
+  JoyoPlayer      | [♣️ K] [♣️ 5] |   35.00% | ❌ fold
+  ZifengFoldMan   | [♥️ 7] [♠️ A] |   73.90% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1639 📈 (+15)
+  NitWinWin      : $   950 ➡️ (+0)
+  Jinkun         : $   926 ➡️ (+0)
+  YueShi         : $   940 ➡️ (+0)
+  JoyoPlayer     : $  2272 ➡️ (+0)
+  ZifengFoldMan  : $   945 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   328 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 26
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♦️ 4] [♦️ A]        | 💰  1639
+👤 NitWinWin       | [♣️ 8] [♣️ 3]        | 💰   950
+👤 Jinkun          | [♣️ 5] [♣️ 9]        | 💰   926
+👤 YueShi          | [♠️ 3] [♦️ 7]        | 💰   940
+👤 JoyoPlayer      | [♠️ 7] [♦️ Q]        | 💰  2272
+👤 ZifengFoldMan   | [♦️ K] [♠️ 9]        | 💰   940
+👤 KLChen2PokerPlayer | [♠️ T] [♥️ K]        | 💰   318
+
+🎴 PREFLOP
+Board: [  ]
+  ZPlayer         | [♦️ 4] [♦️ A] |   29.20% | ⬆️ raise:$15
+  NitWinWin       | [♣️ 8] [♣️ 3] |    9.70% | ❌ fold
+  Jinkun          | [♣️ 5] [♣️ 9] |   19.70% | ❌ fold:$15
+  YueShi          | [♠️ 3] [♦️ 7] |   12.10% | ❌ fold
+  JoyoPlayer      | [♠️ 7] [♦️ Q] |   22.60% | ⬆️ raise:$20
+  ZifengFoldMan   | [♦️ K] [♠️ 9] |   15.10% | ❌ fold
+  KLChen2PokerPlayer | [♠️ T] [♥️ K] |   35.00% | ✅ call:$20
+  ZPlayer         | [♦️ 4] [♦️ A] |   42.10% | ✅ call:$20
+
+🎴 FLOP
+Board: [ [♥️ T] [♠️ 2] [♣️ T] ]
+  KLChen2PokerPlayer | [♠️ T] [♥️ K] |   98.20% | ⬆️ raise:$20
+  ZPlayer         | [♦️ 4] [♦️ A] |    1.50% | ❌ fold
+  JoyoPlayer      | [♠️ 7] [♦️ Q] |    0.50% | ⬆️ raise:$40
+  KLChen2PokerPlayer | [♠️ T] [♥️ K] |   99.50% | ✅ call:$40
+
+🎴 TURN
+Board: [ [♥️ T] [♠️ 2] [♣️ T] [♣️ 7] ]
+  KLChen2PokerPlayer | [♠️ T] [♥️ K] |  100.00% | ⬆️ raise:$100
+  JoyoPlayer      | [♠️ 7] [♦️ Q] |    0.00% | ✅ call:$100
+
+🎴 RIVER
+Board: [ [♥️ T] [♠️ 2] [♣️ T] [♣️ 7] [♣️ A] ]
+  KLChen2PokerPlayer | [♠️ T] [♥️ K] |  100.00% | ⬆️ raise:$74
+  JoyoPlayer      | [♠️ 7] [♦️ Q] |    0.00% | ⬆️ raise:$296
+  KLChen2PokerPlayer | [♠️ T] [♥️ K] |  100.00% | ✅ call:$296
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  ZPlayer        : $  1619 📉 (-20)
+  NitWinWin      : $   950 ➡️ (+0)
+  Jinkun         : $   926 ➡️ (+0)
+  YueShi         : $   940 ➡️ (+0)
+  JoyoPlayer     : $  1944 📉 (-328)
+  ZifengFoldMan  : $   940 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   681 📈 (+363)
+----------------------------------------
+
+🔄 Round 27
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♣️ A] [♠️ 2]        | 💰  1609
+👤 NitWinWin       | [♠️ J] [♠️ 9]        | 💰   950
+👤 Jinkun          | [♣️ J] [♠️ 8]        | 💰   926
+👤 YueShi          | [♥️ K] [♦️ Q]        | 💰   940
+👤 JoyoPlayer      | [♠️ 6] [♥️ 9]        | 💰  1944
+👤 ZifengFoldMan   | [♥️ 7] [♥️ 8]        | 💰   940
+👤 KLChen2PokerPlayer | [♥️ 5] [♦️ 2]        | 💰   676
+
+🎴 PREFLOP
+Board: [  ]
+  NitWinWin       | [♠️ J] [♠️ 9] |   15.10% | ❌ fold
+  Jinkun          | [♣️ J] [♠️ 8] |   14.70% | ❌ fold:$10
+  YueShi          | [♥️ K] [♦️ Q] |   33.40% | ❌ fold
+  JoyoPlayer      | [♠️ 6] [♥️ 9] |   24.60% | ❌ fold
+  ZifengFoldMan   | [♥️ 7] [♥️ 8] |   44.70% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 5] [♦️ 2] |   27.60% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1624 📈 (+15)
+  NitWinWin      : $   950 ➡️ (+0)
+  Jinkun         : $   926 ➡️ (+0)
+  YueShi         : $   940 ➡️ (+0)
+  JoyoPlayer     : $  1944 ➡️ (+0)
+  ZifengFoldMan  : $   940 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   676 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 28
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♣️ 5] [♣️ A]        | 💰  1619
+👤 NitWinWin       | [♦️ K] [♠️ 4]        | 💰   940
+👤 Jinkun          | [♣️ J] [♦️ J]        | 💰   926
+👤 YueShi          | [♦️ Q] [♠️ K]        | 💰   940
+👤 JoyoPlayer      | [♣️ Q] [♣️ 4]        | 💰  1944
+👤 ZifengFoldMan   | [♣️ 2] [♦️ 8]        | 💰   940
+👤 KLChen2PokerPlayer | [♠️ 2] [♣️ 3]        | 💰   676
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♣️ J] [♦️ J] |   34.00% | ❌ fold:$10
+  YueShi          | [♦️ Q] [♠️ K] |   28.30% | ❌ fold
+  JoyoPlayer      | [♣️ Q] [♣️ 4] |   14.90% | ❌ fold
+  ZifengFoldMan   | [♣️ 2] [♦️ 8] |   19.70% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 2] [♣️ 3] |   20.80% | ❌ fold
+  ZPlayer         | [♣️ 5] [♣️ A] |   68.20% | ⬆️ raise:$15
+  NitWinWin       | [♦️ K] [♠️ 4] |   32.20% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1634 📈 (+15)
+  NitWinWin      : $   940 ➡️ (+0)
+  Jinkun         : $   926 ➡️ (+0)
+  YueShi         : $   940 ➡️ (+0)
+  JoyoPlayer     : $  1944 ➡️ (+0)
+  ZifengFoldMan  : $   940 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   676 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 29
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♣️ K] [♣️ 3]        | 💰  1634
+👤 NitWinWin       | [♥️ 3] [♠️ Q]        | 💰   935
+👤 Jinkun          | [♥️ 8] [♥️ J]        | 💰   916
+👤 YueShi          | [♣️ A] [♠️ 4]        | 💰   940
+👤 JoyoPlayer      | [♠️ 8] [♥️ 9]        | 💰  1944
+👤 ZifengFoldMan   | [♣️ 5] [♣️ 7]        | 💰   940
+👤 KLChen2PokerPlayer | [♥️ T] [♦️ 8]        | 💰   676
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♣️ A] [♠️ 4] |   22.30% | ❌ fold
+  JoyoPlayer      | [♠️ 8] [♥️ 9] |   12.40% | ❌ fold
+  ZifengFoldMan   | [♣️ 5] [♣️ 7] |   17.50% | ❌ fold
+  KLChen2PokerPlayer | [♥️ T] [♦️ 8] |   18.60% | ⬆️ raise:$20
+  ZPlayer         | [♣️ K] [♣️ 3] |   39.90% | ⬆️ raise:$30
+  NitWinWin       | [♥️ 3] [♠️ Q] |   16.60% | ❌ fold
+  Jinkun          | [♥️ 8] [♥️ J] |   28.30% | ❌ fold:$30
+  KLChen2PokerPlayer | [♥️ T] [♦️ 8] |   42.40% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1669 📈 (+35)
+  NitWinWin      : $   935 ➡️ (+0)
+  Jinkun         : $   916 ➡️ (+0)
+  YueShi         : $   940 ➡️ (+0)
+  JoyoPlayer     : $  1944 ➡️ (+0)
+  ZifengFoldMan  : $   940 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   656 📉 (-20)
+----------------------------------------
+
+🔄 Round 30
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♠️ 8] [♠️ T]        | 💰  1669
+👤 NitWinWin       | [♠️ 2] [♣️ 9]        | 💰   935
+👤 Jinkun          | [♦️ Q] [♣️ 2]        | 💰   911
+👤 YueShi          | [♣️ 3] [♥️ 6]        | 💰   930
+👤 JoyoPlayer      | [♠️ K] [♣️ T]        | 💰  1944
+👤 ZifengFoldMan   | [♦️ 6] [♦️ 4]        | 💰   940
+👤 KLChen2PokerPlayer | [♠️ 4] [♠️ 5]        | 💰   656
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♠️ K] [♣️ T] |   28.60% | ⬆️ raise:$15
+  ZifengFoldMan   | [♦️ 6] [♦️ 4] |   19.60% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 4] [♠️ 5] |   14.80% | ❌ fold
+  ZPlayer         | [♠️ 8] [♠️ T] |   19.60% | ⬆️ raise:$20
+  NitWinWin       | [♠️ 2] [♣️ 9] |   13.00% | ❌ fold
+  Jinkun          | [♦️ Q] [♣️ 2] |   21.00% | ❌ fold:$20
+  YueShi          | [♣️ 3] [♥️ 6] |   27.40% | ❌ fold
+  JoyoPlayer      | [♠️ K] [♣️ T] |   71.90% | ⬆️ raise:$25
+  ZPlayer         | [♠️ 8] [♠️ T] |   31.80% | ✅ call:$25
+
+🎴 FLOP
+Board: [ [♣️ 4] [♦️ 9] [♠️ Q] ]
+  JoyoPlayer      | [♠️ K] [♣️ T] |   83.70% | ✅ call
+  ZPlayer         | [♠️ 8] [♠️ T] |   17.40% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 4] [♦️ 9] [♠️ Q] [♠️ 9] ]
+  JoyoPlayer      | [♠️ K] [♣️ T] |   75.20% | ✅ call
+  ZPlayer         | [♠️ 8] [♠️ T] |   24.80% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 4] [♦️ 9] [♠️ Q] [♠️ 9] [♣️ K] ]
+  JoyoPlayer      | [♠️ K] [♣️ T] |  100.00% | ⬆️ raise:$1314
+  ZPlayer         | [♠️ 8] [♠️ T] |    0.00% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  ZPlayer        : $  1644 📉 (-25)
+  NitWinWin      : $   935 ➡️ (+0)
+  Jinkun         : $   911 ➡️ (+0)
+  YueShi         : $   930 ➡️ (+0)
+  JoyoPlayer     : $  1984 📈 (+40)
+  ZifengFoldMan  : $   940 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   656 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 31
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♥️ 9] [♣️ T]        | 💰  1644
+👤 NitWinWin       | [♥️ Q] [♦️ 9]        | 💰   935
+👤 Jinkun          | [♦️ J] [♣️ J]        | 💰   911
+👤 YueShi          | [♦️ 5] [♥️ 3]        | 💰   925
+👤 JoyoPlayer      | [♣️ K] [♣️ A]        | 💰  1974
+👤 ZifengFoldMan   | [♦️ A] [♣️ Q]        | 💰   940
+👤 KLChen2PokerPlayer | [♥️ 7] [♣️ 6]        | 💰   656
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♦️ A] [♣️ Q] |   10.30% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 7] [♣️ 6] |   15.20% | ✅ call:$10
+  ZPlayer         | [♥️ 9] [♣️ T] |   10.10% | ⬆️ raise:$15
+  NitWinWin       | [♥️ Q] [♦️ 9] |   11.80% | ❌ fold
+  Jinkun          | [♦️ J] [♣️ J] |   29.10% | ✅ call:$15
+  YueShi          | [♦️ 5] [♥️ 3] |   13.50% | ❌ fold
+  JoyoPlayer      | [♣️ K] [♣️ A] |   33.90% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 7] [♣️ 6] |   16.40% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ 8] [♥️ 4] [♥️ K] ]
+  ZPlayer         | [♥️ 9] [♣️ T] |    8.80% | ✅ call
+  Jinkun          | [♦️ J] [♣️ J] |   91.20% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 8] [♥️ 4] [♥️ K] [♥️ J] ]
+  ZPlayer         | [♥️ 9] [♣️ T] |   33.30% | ✅ call
+  Jinkun          | [♦️ J] [♣️ J] |   66.70% | ⬆️ raise:$24
+  ZPlayer         | [♥️ 9] [♣️ T] |   33.30% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  ZPlayer        : $  1629 📉 (-15)
+  NitWinWin      : $   935 ➡️ (+0)
+  Jinkun         : $   951 📈 (+40)
+  YueShi         : $   925 ➡️ (+0)
+  JoyoPlayer     : $  1974 ➡️ (+0)
+  ZifengFoldMan  : $   940 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   646 📉 (-10)
+----------------------------------------
+
+🔄 Round 32
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♣️ 2] [♠️ 4]        | 💰  1629
+👤 NitWinWin       | [♥️ 5] [♥️ J]        | 💰   935
+👤 Jinkun          | [♣️ 3] [♥️ 3]        | 💰   951
+👤 YueShi          | [♦️ Q] [♠️ K]        | 💰   925
+👤 JoyoPlayer      | [♠️ Q] [♠️ 8]        | 💰  1969
+👤 ZifengFoldMan   | [♠️ 3] [♣️ 5]        | 💰   930
+👤 KLChen2PokerPlayer | [♥️ 6] [♥️ K]        | 💰   646
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♥️ 6] [♥️ K] |   16.20% | ⬆️ raise:$19
+  ZPlayer         | [♣️ 2] [♠️ 4] |    8.80% | ⬆️ raise:$28
+  NitWinWin       | [♥️ 5] [♥️ J] |   16.60% | ❌ fold
+  Jinkun          | [♣️ 3] [♥️ 3] |   13.50% | ❌ fold:$28
+  YueShi          | [♦️ Q] [♠️ K] |   30.60% | ❌ fold
+  JoyoPlayer      | [♠️ Q] [♠️ 8] |   34.10% | ❌ fold
+  ZifengFoldMan   | [♠️ 3] [♣️ 5] |   27.30% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 6] [♥️ K] |   65.00% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1663 📈 (+34)
+  NitWinWin      : $   935 ➡️ (+0)
+  Jinkun         : $   951 ➡️ (+0)
+  YueShi         : $   925 ➡️ (+0)
+  JoyoPlayer     : $  1969 ➡️ (+0)
+  ZifengFoldMan  : $   930 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   627 📉 (-19)
+----------------------------------------
+
+🔄 Round 33
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♥️ 8] [♦️ K]        | 💰  1663
+👤 NitWinWin       | [♦️ 4] [♣️ 9]        | 💰   935
+👤 Jinkun          | [♥️ A] [♦️ J]        | 💰   951
+👤 YueShi          | [♦️ 5] [♥️ Q]        | 💰   925
+👤 JoyoPlayer      | [♦️ Q] [♠️ Q]        | 💰  1969
+👤 ZifengFoldMan   | [♠️ 5] [♥️ 2]        | 💰   925
+👤 KLChen2PokerPlayer | [♥️ 3] [♦️ A]        | 💰   617
+
+🎴 PREFLOP
+Board: [  ]
+  ZPlayer         | [♥️ 8] [♦️ K] |   20.10% | ⬆️ raise:$15
+  NitWinWin       | [♦️ 4] [♣️ 9] |   16.70% | ❌ fold
+  Jinkun          | [♥️ A] [♦️ J] |   17.30% | ❌ fold:$15
+  YueShi          | [♦️ 5] [♥️ Q] |    6.50% | ❌ fold
+  JoyoPlayer      | [♦️ Q] [♠️ Q] |   42.80% | ✅ call:$15
+  ZifengFoldMan   | [♠️ 5] [♥️ 2] |   14.00% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 3] [♦️ A] |   27.90% | ⬆️ raise:$20
+  ZPlayer         | [♥️ 8] [♦️ K] |   24.90% | ✅ call:$20
+  JoyoPlayer      | [♦️ Q] [♠️ Q] |   47.40% | ⬆️ raise:$50
+  KLChen2PokerPlayer | [♥️ 3] [♦️ A] |   27.90% | ❌ fold
+  ZPlayer         | [♥️ 8] [♦️ K] |   28.60% | ✅ call:$50
+
+🎴 FLOP
+Board: [ [♠️ 3] [♥️ 6] [♠️ T] ]
+  ZPlayer         | [♥️ 8] [♦️ K] |   12.80% | ✅ call
+  JoyoPlayer      | [♦️ Q] [♠️ Q] |   87.20% | ⬆️ raise:$1464
+  ZPlayer         | [♥️ 8] [♦️ K] |   12.80% | ❌ fold
+
+🏆 Winner: JoyoPlayer
+Final Stacks:
+  ZPlayer        : $  1613 📉 (-50)
+  NitWinWin      : $   935 ➡️ (+0)
+  Jinkun         : $   951 ➡️ (+0)
+  YueShi         : $   925 ➡️ (+0)
+  JoyoPlayer     : $  2044 📈 (+75)
+  ZifengFoldMan  : $   925 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   607 📉 (-10)
+----------------------------------------
+
+🔄 Round 34
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♣️ A] [♣️ 2]        | 💰  1603
+👤 NitWinWin       | [♦️ K] [♠️ 7]        | 💰   935
+👤 Jinkun          | [♠️ T] [♦️ T]        | 💰   951
+👤 YueShi          | [♥️ Q] [♥️ 4]        | 💰   925
+👤 JoyoPlayer      | [♠️ 3] [♥️ A]        | 💰  2044
+👤 ZifengFoldMan   | [♣️ 3] [♣️ 6]        | 💰   925
+👤 KLChen2PokerPlayer | [♦️ Q] [♥️ 9]        | 💰   602
+
+🎴 PREFLOP
+Board: [  ]
+  NitWinWin       | [♦️ K] [♠️ 7] |   20.90% | ❌ fold
+  Jinkun          | [♠️ T] [♦️ T] |   39.80% | ❌ fold:$10
+  YueShi          | [♥️ Q] [♥️ 4] |   16.60% | ❌ fold
+  JoyoPlayer      | [♠️ 3] [♥️ A] |   29.50% | ⬆️ raise:$15
+  ZifengFoldMan   | [♣️ 3] [♣️ 6] |   19.10% | ❌ fold
+  KLChen2PokerPlayer | [♦️ Q] [♥️ 9] |   41.40% | ⬆️ raise:$20
+  ZPlayer         | [♣️ A] [♣️ 2] |   42.80% | ✅ call:$20
+  JoyoPlayer      | [♠️ 3] [♥️ A] |   38.30% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ 4] [♠️ 6] [♦️ 5] ]
+  KLChen2PokerPlayer | [♦️ Q] [♥️ 9] |   25.70% | ✅ call
+  ZPlayer         | [♣️ A] [♣️ 2] |   77.10% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 4] [♠️ 6] [♦️ 5] [♠️ J] ]
+  KLChen2PokerPlayer | [♦️ Q] [♥️ 9] |   15.90% | ✅ call
+  ZPlayer         | [♣️ A] [♣️ 2] |   84.10% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 4] [♠️ 6] [♦️ 5] [♠️ J] [♥️ T] ]
+  KLChen2PokerPlayer | [♦️ Q] [♥️ 9] |    0.00% | ✅ call
+  ZPlayer         | [♣️ A] [♣️ 2] |  100.00% | ✅ call
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1648 📈 (+45)
+  NitWinWin      : $   935 ➡️ (+0)
+  Jinkun         : $   951 ➡️ (+0)
+  YueShi         : $   925 ➡️ (+0)
+  JoyoPlayer     : $  2029 📉 (-15)
+  ZifengFoldMan  : $   925 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   587 📉 (-15)
+----------------------------------------
+
+🔄 Round 35
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♥️ Q] [♥️ 7]        | 💰  1643
+👤 NitWinWin       | [♣️ 2] [♣️ 8]        | 💰   925
+👤 Jinkun          | [♣️ 5] [♥️ A]        | 💰   951
+👤 YueShi          | [♥️ 5] [♥️ 6]        | 💰   925
+👤 JoyoPlayer      | [♦️ A] [♣️ A]        | 💰  2029
+👤 ZifengFoldMan   | [♦️ 2] [♠️ 5]        | 💰   925
+👤 KLChen2PokerPlayer | [♥️ J] [♣️ 4]        | 💰   587
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♣️ 5] [♥️ A] |    2.10% | ❌ fold:$10
+  YueShi          | [♥️ 5] [♥️ 6] |   11.50% | ❌ fold
+  JoyoPlayer      | [♦️ A] [♣️ A] |   53.60% | ✅ call:$10
+  ZifengFoldMan   | [♦️ 2] [♠️ 5] |    9.00% | ❌ fold
+  KLChen2PokerPlayer | [♥️ J] [♣️ 4] |   11.60% | ❌ fold
+  ZPlayer         | [♥️ Q] [♥️ 7] |   18.50% | ⬆️ raise:$15
+  NitWinWin       | [♣️ 2] [♣️ 8] |   12.80% | ❌ fold
+  JoyoPlayer      | [♦️ A] [♣️ A] |   82.40% | ⬆️ raise:$40
+  ZPlayer         | [♥️ Q] [♥️ 7] |   18.20% | ✅ call:$40
+
+🎴 FLOP
+Board: [ [♣️ Q] [♦️ K] [♣️ J] ]
+  ZPlayer         | [♥️ Q] [♥️ 7] |   17.10% | ⬆️ raise:$10
+  JoyoPlayer      | [♦️ A] [♣️ A] |   83.40% | ⬆️ raise:$40
+  ZPlayer         | [♥️ Q] [♥️ 7] |   17.10% | ✅ call:$40
+
+🎴 TURN
+Board: [ [♣️ Q] [♦️ K] [♣️ J] [♦️ 4] ]
+  ZPlayer         | [♥️ Q] [♥️ 7] |   13.20% | ⬆️ raise:$10
+  JoyoPlayer      | [♦️ A] [♣️ A] |   86.80% | ⬆️ raise:$40
+  ZPlayer         | [♥️ Q] [♥️ 7] |   13.20% | ✅ call:$40
+
+🎴 RIVER
+Board: [ [♣️ Q] [♦️ K] [♣️ J] [♦️ 4] [♠️ Q] ]
+  ZPlayer         | [♥️ Q] [♥️ 7] |  100.00% | ⬆️ raise:$501
+  JoyoPlayer      | [♦️ A] [♣️ A] |    0.00% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1778 📈 (+135)
+  NitWinWin      : $   925 ➡️ (+0)
+  Jinkun         : $   951 ➡️ (+0)
+  YueShi         : $   925 ➡️ (+0)
+  JoyoPlayer     : $  1909 📉 (-120)
+  ZifengFoldMan  : $   925 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   587 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 36
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♦️ Q] [♥️ T]        | 💰  1778
+👤 NitWinWin       | [♥️ 2] [♠️ 2]        | 💰   920
+👤 Jinkun          | [♦️ 5] [♥️ A]        | 💰   941
+👤 YueShi          | [♠️ J] [♠️ 6]        | 💰   925
+👤 JoyoPlayer      | [♣️ J] [♦️ 2]        | 💰  1909
+👤 ZifengFoldMan   | [♦️ 8] [♥️ K]        | 💰   925
+👤 KLChen2PokerPlayer | [♥️ J] [♣️ 2]        | 💰   587
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♠️ J] [♠️ 6] |   19.00% | ❌ fold
+  JoyoPlayer      | [♣️ J] [♦️ 2] |   10.10% | ⬆️ raise:$15
+  ZifengFoldMan   | [♦️ 8] [♥️ K] |   26.80% | ❌ fold
+  KLChen2PokerPlayer | [♥️ J] [♣️ 2] |   11.00% | ❌ fold
+  ZPlayer         | [♦️ Q] [♥️ T] |   35.90% | ⬆️ raise:$20
+  NitWinWin       | [♥️ 2] [♠️ 2] |   18.00% | ❌ fold
+  Jinkun          | [♦️ 5] [♥️ A] |   39.50% | ✅ call:$20
+  JoyoPlayer      | [♣️ J] [♦️ 2] |   23.50% | ⬆️ raise:$25
+  ZPlayer         | [♦️ Q] [♥️ T] |   37.80% | ✅ call:$25
+  Jinkun          | [♦️ 5] [♥️ A] |   39.50% | ✅ call:$25
+
+🎴 FLOP
+Board: [ [♠️ K] [♥️ 6] [♠️ 3] ]
+  Jinkun          | [♦️ 5] [♥️ A] |   54.00% | ✅ call
+  JoyoPlayer      | [♣️ J] [♦️ 2] |   20.70% | ❌ fold
+  ZPlayer         | [♦️ Q] [♥️ T] |   25.80% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ K] [♥️ 6] [♠️ 3] [♣️ 5] ]
+  Jinkun          | [♦️ 5] [♥️ A] |   85.10% | ✅ call
+  ZPlayer         | [♦️ Q] [♥️ T] |   14.90% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ K] [♥️ 6] [♠️ 3] [♣️ 5] [♠️ 5] ]
+  Jinkun          | [♦️ 5] [♥️ A] |  100.00% | ⬆️ raise:$35
+  ZPlayer         | [♦️ Q] [♥️ T] |    0.00% | ❌ fold
+
+🏆 Winner: Jinkun
+Final Stacks:
+  ZPlayer        : $  1753 📉 (-25)
+  NitWinWin      : $   920 ➡️ (+0)
+  Jinkun         : $  1006 📈 (+65)
+  YueShi         : $   925 ➡️ (+0)
+  JoyoPlayer     : $  1884 📉 (-25)
+  ZifengFoldMan  : $   925 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   587 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 37
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♦️ 4] [♦️ 2]        | 💰  1753
+👤 NitWinWin       | [♦️ 9] [♠️ Q]        | 💰   920
+👤 Jinkun          | [♠️ J] [♣️ A]        | 💰  1001
+👤 YueShi          | [♠️ 6] [♠️ T]        | 💰   915
+👤 JoyoPlayer      | [♥️ 6] [♣️ 7]        | 💰  1884
+👤 ZifengFoldMan   | [♣️ 2] [♥️ 8]        | 💰   925
+👤 KLChen2PokerPlayer | [♦️ Q] [♣️ J]        | 💰   587
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♥️ 6] [♣️ 7] |   14.20% | ❌ fold
+  ZifengFoldMan   | [♣️ 2] [♥️ 8] |   14.90% | ❌ fold
+  KLChen2PokerPlayer | [♦️ Q] [♣️ J] |   13.10% | ⬆️ raise:$15
+  ZPlayer         | [♦️ 4] [♦️ 2] |   22.30% | ⬆️ raise:$20
+  NitWinWin       | [♦️ 9] [♠️ Q] |   14.10% | ❌ fold
+  Jinkun          | [♠️ J] [♣️ A] |   30.90% | ❌ fold:$20
+  YueShi          | [♠️ 6] [♠️ T] |   29.60% | ❌ fold
+  KLChen2PokerPlayer | [♦️ Q] [♣️ J] |   64.10% | ✅ call:$20
+
+🎴 FLOP
+Board: [ [♥️ 3] [♣️ 3] [♥️ K] ]
+  KLChen2PokerPlayer | [♦️ Q] [♣️ J] |   75.60% | ⬆️ raise:$12
+  ZPlayer         | [♦️ 4] [♦️ 2] |   31.60% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  ZPlayer        : $  1733 📉 (-20)
+  NitWinWin      : $   920 ➡️ (+0)
+  Jinkun         : $  1001 ➡️ (+0)
+  YueShi         : $   915 ➡️ (+0)
+  JoyoPlayer     : $  1884 ➡️ (+0)
+  ZifengFoldMan  : $   925 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   622 📈 (+35)
+----------------------------------------
+
+🔄 Round 38
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♥️ 7] [♥️ T]        | 💰  1733
+👤 NitWinWin       | [♥️ 9] [♠️ 9]        | 💰   920
+👤 Jinkun          | [♣️ 2] [♠️ 7]        | 💰  1001
+👤 YueShi          | [♣️ 6] [♦️ T]        | 💰   910
+👤 JoyoPlayer      | [♥️ Q] [♦️ 2]        | 💰  1874
+👤 ZifengFoldMan   | [♠️ 4] [♣️ J]        | 💰   925
+👤 KLChen2PokerPlayer | [♦️ 7] [♣️ Q]        | 💰   622
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♠️ 4] [♣️ J] |   21.80% | ❌ fold
+  KLChen2PokerPlayer | [♦️ 7] [♣️ Q] |   15.30% | ⬆️ raise:$19
+  ZPlayer         | [♥️ 7] [♥️ T] |   19.10% | ⬆️ raise:$28
+  NitWinWin       | [♥️ 9] [♠️ 9] |   53.30% | ❌ fold
+  Jinkun          | [♣️ 2] [♠️ 7] |    8.60% | ❌ fold:$28
+  YueShi          | [♣️ 6] [♦️ T] |   26.30% | ❌ fold
+  JoyoPlayer      | [♥️ Q] [♦️ 2] |   37.00% | ⬆️ raise:$37
+  KLChen2PokerPlayer | [♦️ 7] [♣️ Q] |   50.10% | ❌ fold
+  ZPlayer         | [♥️ 7] [♥️ T] |   47.00% | ✅ call:$37
+
+🎴 FLOP
+Board: [ [♣️ 3] [♣️ A] [♣️ 5] ]
+  JoyoPlayer      | [♥️ Q] [♦️ 2] |   79.20% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1794 📈 (+61)
+  NitWinWin      : $   920 ➡️ (+0)
+  Jinkun         : $  1001 ➡️ (+0)
+  YueShi         : $   910 ➡️ (+0)
+  JoyoPlayer     : $  1847 📉 (-27)
+  ZifengFoldMan  : $   925 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   603 📉 (-19)
+----------------------------------------
+
+🔄 Round 39
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♣️ 6] [♦️ 9]        | 💰  1794
+👤 NitWinWin       | [♣️ T] [♠️ 3]        | 💰   920
+👤 Jinkun          | [♠️ 2] [♠️ 6]        | 💰  1001
+👤 YueShi          | [♣️ 2] [♥️ A]        | 💰   910
+👤 JoyoPlayer      | [♥️ 6] [♥️ 9]        | 💰  1842
+👤 ZifengFoldMan   | [♦️ Q] [♦️ 3]        | 💰   915
+👤 KLChen2PokerPlayer | [♥️ Q] [♣️ 3]        | 💰   603
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♥️ Q] [♣️ 3] |   13.10% | ❌ fold
+  ZPlayer         | [♣️ 6] [♦️ 9] |   14.60% | ⬆️ raise:$15
+  NitWinWin       | [♣️ T] [♠️ 3] |   15.00% | ❌ fold
+  Jinkun          | [♠️ 2] [♠️ 6] |   15.00% | ❌ fold:$15
+  YueShi          | [♣️ 2] [♥️ A] |   36.60% | ❌ fold
+  JoyoPlayer      | [♥️ 6] [♥️ 9] |   37.70% | ⬆️ raise:$20
+  ZifengFoldMan   | [♦️ Q] [♦️ 3] |   61.80% | ❌ fold
+  ZPlayer         | [♣️ 6] [♦️ 9] |   94.20% | ✅ call:$20
+
+🎴 FLOP
+Board: [ [♣️ J] [♦️ 2] [♠️ Q] ]
+  JoyoPlayer      | [♥️ 6] [♥️ 9] |  100.00% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1824 📈 (+30)
+  NitWinWin      : $   920 ➡️ (+0)
+  Jinkun         : $  1001 ➡️ (+0)
+  YueShi         : $   910 ➡️ (+0)
+  JoyoPlayer     : $  1827 📉 (-15)
+  ZifengFoldMan  : $   915 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   603 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 40
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♠️ J] [♠️ K]        | 💰  1824
+👤 NitWinWin       | [♠️ 9] [♦️ J]        | 💰   920
+👤 Jinkun          | [♣️ 6] [♥️ A]        | 💰  1001
+👤 YueShi          | [♥️ 7] [♦️ T]        | 💰   910
+👤 JoyoPlayer      | [♣️ 8] [♦️ Q]        | 💰  1827
+👤 ZifengFoldMan   | [♣️ Q] [♦️ 7]        | 💰   910
+👤 KLChen2PokerPlayer | [♦️ 4] [♥️ 6]        | 💰   593
+
+🎴 PREFLOP
+Board: [  ]
+  ZPlayer         | [♠️ J] [♠️ K] |   30.10% | ⬆️ raise:$15
+  NitWinWin       | [♠️ 9] [♦️ J] |   11.90% | ❌ fold
+  Jinkun          | [♣️ 6] [♥️ A] |   21.40% | ❌ fold:$15
+  YueShi          | [♥️ 7] [♦️ T] |   16.30% | ❌ fold
+  JoyoPlayer      | [♣️ 8] [♦️ Q] |   20.40% | ❌ fold
+  ZifengFoldMan   | [♣️ Q] [♦️ 7] |   26.60% | ❌ fold
+  KLChen2PokerPlayer | [♦️ 4] [♥️ 6] |   31.80% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1839 📈 (+15)
+  NitWinWin      : $   920 ➡️ (+0)
+  Jinkun         : $  1001 ➡️ (+0)
+  YueShi         : $   910 ➡️ (+0)
+  JoyoPlayer     : $  1827 ➡️ (+0)
+  ZifengFoldMan  : $   910 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   593 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 41
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♣️ 5] [♣️ T]        | 💰  1829
+👤 NitWinWin       | [♠️ 2] [♦️ T]        | 💰   920
+👤 Jinkun          | [♣️ 9] [♠️ 5]        | 💰  1001
+👤 YueShi          | [♦️ J] [♦️ 2]        | 💰   910
+👤 JoyoPlayer      | [♥️ 7] [♣️ 8]        | 💰  1827
+👤 ZifengFoldMan   | [♠️ 7] [♠️ J]        | 💰   910
+👤 KLChen2PokerPlayer | [♣️ A] [♥️ 5]        | 💰   588
+
+🎴 PREFLOP
+Board: [  ]
+  NitWinWin       | [♠️ 2] [♦️ T] |   10.10% | ❌ fold
+  Jinkun          | [♣️ 9] [♠️ 5] |   10.10% | ❌ fold:$10
+  YueShi          | [♦️ J] [♦️ 2] |   20.80% | ❌ fold
+  JoyoPlayer      | [♥️ 7] [♣️ 8] |   20.60% | ❌ fold
+  ZifengFoldMan   | [♠️ 7] [♠️ J] |   37.20% | ❌ fold
+  KLChen2PokerPlayer | [♣️ A] [♥️ 5] |   73.50% | ⬆️ raise:$29
+  ZPlayer         | [♣️ 5] [♣️ T] |   29.80% | ✅ call:$29
+
+🎴 FLOP
+Board: [ [♥️ 8] [♥️ J] [♦️ 3] ]
+  KLChen2PokerPlayer | [♣️ A] [♥️ 5] |   86.80% | ✅ call
+  ZPlayer         | [♣️ 5] [♣️ T] |   13.20% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 8] [♥️ J] [♦️ 3] [♥️ 9] ]
+  KLChen2PokerPlayer | [♣️ A] [♥️ 5] |   84.70% | ✅ call
+  ZPlayer         | [♣️ 5] [♣️ T] |   15.30% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ 8] [♥️ J] [♦️ 3] [♥️ 9] [♠️ 9] ]
+  KLChen2PokerPlayer | [♣️ A] [♥️ 5] |  100.00% | ✅ call
+  ZPlayer         | [♣️ 5] [♣️ T] |    0.00% | ✅ call
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  ZPlayer        : $  1810 📉 (-19)
+  NitWinWin      : $   920 ➡️ (+0)
+  Jinkun         : $  1001 ➡️ (+0)
+  YueShi         : $   910 ➡️ (+0)
+  JoyoPlayer     : $  1827 ➡️ (+0)
+  ZifengFoldMan  : $   910 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   622 📈 (+34)
+----------------------------------------
+
+🔄 Round 42
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♥️ 3] [♠️ J]        | 💰  1805
+👤 NitWinWin       | [♠️ 7] [♥️ A]        | 💰   910
+👤 Jinkun          | [♣️ 5] [♥️ Q]        | 💰  1001
+👤 YueShi          | [♦️ K] [♠️ 5]        | 💰   910
+👤 JoyoPlayer      | [♦️ 6] [♦️ Q]        | 💰  1827
+👤 ZifengFoldMan   | [♠️ A] [♣️ A]        | 💰   910
+👤 KLChen2PokerPlayer | [♠️ 2] [♦️ T]        | 💰   622
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♣️ 5] [♥️ Q] |    5.10% | ❌ fold:$10
+  YueShi          | [♦️ K] [♠️ 5] |   11.70% | ❌ fold
+  JoyoPlayer      | [♦️ 6] [♦️ Q] |   20.00% | ❌ fold
+  ZifengFoldMan   | [♠️ A] [♣️ A] |   70.50% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 2] [♦️ T] |   26.80% | ❌ fold
+  ZPlayer         | [♥️ 3] [♠️ J] |   37.80% | ⬆️ raise:$15
+  NitWinWin       | [♠️ 7] [♥️ A] |   62.70% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1820 📈 (+15)
+  NitWinWin      : $   910 ➡️ (+0)
+  Jinkun         : $  1001 ➡️ (+0)
+  YueShi         : $   910 ➡️ (+0)
+  JoyoPlayer     : $  1827 ➡️ (+0)
+  ZifengFoldMan  : $   910 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   622 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 43
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♠️ K] [♣️ T]        | 💰  1820
+👤 NitWinWin       | [♥️ K] [♥️ 8]        | 💰   905
+👤 Jinkun          | [♦️ T] [♥️ 5]        | 💰   991
+👤 YueShi          | [♣️ Q] [♠️ Q]        | 💰   910
+👤 JoyoPlayer      | [♦️ 8] [♠️ A]        | 💰  1827
+👤 ZifengFoldMan   | [♠️ 4] [♦️ Q]        | 💰   910
+👤 KLChen2PokerPlayer | [♦️ 4] [♦️ 9]        | 💰   622
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♣️ Q] [♠️ Q] |   31.60% | ❌ fold
+  JoyoPlayer      | [♦️ 8] [♠️ A] |   27.40% | ❌ fold
+  ZifengFoldMan   | [♠️ 4] [♦️ Q] |   21.00% | ❌ fold
+  KLChen2PokerPlayer | [♦️ 4] [♦️ 9] |   30.00% | ❌ fold
+  ZPlayer         | [♠️ K] [♣️ T] |   53.00% | ⬆️ raise:$15
+  NitWinWin       | [♥️ K] [♥️ 8] |   35.80% | ❌ fold
+  Jinkun          | [♦️ T] [♥️ 5] |   24.70% | ❌ fold:$15
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1835 📈 (+15)
+  NitWinWin      : $   905 ➡️ (+0)
+  Jinkun         : $   991 ➡️ (+0)
+  YueShi         : $   910 ➡️ (+0)
+  JoyoPlayer     : $  1827 ➡️ (+0)
+  ZifengFoldMan  : $   910 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   622 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 44
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♥️ 4] [♠️ Q]        | 💰  1835
+👤 NitWinWin       | [♥️ J] [♣️ A]        | 💰   905
+👤 Jinkun          | [♥️ 7] [♣️ 8]        | 💰   986
+👤 YueShi          | [♦️ A] [♠️ J]        | 💰   900
+👤 JoyoPlayer      | [♥️ 5] [♦️ 2]        | 💰  1827
+👤 ZifengFoldMan   | [♥️ A] [♥️ Q]        | 💰   910
+👤 KLChen2PokerPlayer | [♣️ 3] [♣️ 5]        | 💰   622
+
+🎴 PREFLOP
+Board: [  ]
+  JoyoPlayer      | [♥️ 5] [♦️ 2] |   12.70% | ❌ fold
+  ZifengFoldMan   | [♥️ A] [♥️ Q] |   21.90% | ❌ fold
+  KLChen2PokerPlayer | [♣️ 3] [♣️ 5] |   20.60% | ❌ fold
+  ZPlayer         | [♥️ 4] [♠️ Q] |   26.10% | ⬆️ raise:$15
+  NitWinWin       | [♥️ J] [♣️ A] |   39.20% | ❌ fold
+  Jinkun          | [♥️ 7] [♣️ 8] |   32.60% | ❌ fold:$15
+  YueShi          | [♦️ A] [♠️ J] |   64.50% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1850 📈 (+15)
+  NitWinWin      : $   905 ➡️ (+0)
+  Jinkun         : $   986 ➡️ (+0)
+  YueShi         : $   900 ➡️ (+0)
+  JoyoPlayer     : $  1827 ➡️ (+0)
+  ZifengFoldMan  : $   910 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   622 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 45
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♣️ 5] [♣️ 6]        | 💰  1850
+👤 NitWinWin       | [♦️ 9] [♥️ Q]        | 💰   905
+👤 Jinkun          | [♦️ 8] [♦️ A]        | 💰   986
+👤 YueShi          | [♦️ K] [♥️ 5]        | 💰   895
+👤 JoyoPlayer      | [♦️ 7] [♦️ 5]        | 💰  1817
+👤 ZifengFoldMan   | [♦️ 2] [♣️ J]        | 💰   910
+👤 KLChen2PokerPlayer | [♠️ 4] [♥️ 3]        | 💰   622
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♦️ 2] [♣️ J] |   14.70% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 4] [♥️ 3] |    9.10% | ❌ fold
+  ZPlayer         | [♣️ 5] [♣️ 6] |   21.90% | ⬆️ raise:$15
+  NitWinWin       | [♦️ 9] [♥️ Q] |   23.80% | ❌ fold
+  Jinkun          | [♦️ 8] [♦️ A] |   40.20% | ❌ fold:$15
+  YueShi          | [♦️ K] [♥️ 5] |   51.80% | ❌ fold
+  JoyoPlayer      | [♦️ 7] [♦️ 5] |   73.50% | ⬆️ raise:$20
+  ZPlayer         | [♣️ 5] [♣️ 6] |   44.50% | ✅ call:$20
+
+🎴 FLOP
+Board: [ [♣️ 3] [♣️ Q] [♦️ 4] ]
+  JoyoPlayer      | [♦️ 7] [♦️ 5] |   50.00% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1875 📈 (+25)
+  NitWinWin      : $   905 ➡️ (+0)
+  Jinkun         : $   986 ➡️ (+0)
+  YueShi         : $   895 ➡️ (+0)
+  JoyoPlayer     : $  1807 📉 (-10)
+  ZifengFoldMan  : $   910 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   622 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 46
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♥️ 6] [♥️ T]        | 💰  1875
+👤 NitWinWin       | [♦️ K] [♥️ 5]        | 💰   905
+👤 Jinkun          | [♥️ 9] [♠️ 8]        | 💰   986
+👤 YueShi          | [♠️ Q] [♥️ 3]        | 💰   895
+👤 JoyoPlayer      | [♥️ 7] [♥️ K]        | 💰  1802
+👤 ZifengFoldMan   | [♣️ Q] [♠️ 6]        | 💰   900
+👤 KLChen2PokerPlayer | [♦️ A] [♣️ 9]        | 💰   622
+
+🎴 PREFLOP
+Board: [  ]
+  KLChen2PokerPlayer | [♦️ A] [♣️ 9] |   23.80% | ⬆️ raise:$15
+  ZPlayer         | [♥️ 6] [♥️ T] |   15.20% | ⬆️ raise:$20
+  NitWinWin       | [♦️ K] [♥️ 5] |   11.80% | ❌ fold
+  Jinkun          | [♥️ 9] [♠️ 8] |   18.10% | ❌ fold:$20
+  YueShi          | [♠️ Q] [♥️ 3] |   13.70% | ❌ fold
+  JoyoPlayer      | [♥️ 7] [♥️ K] |   33.60% | ⬆️ raise:$25
+  ZifengFoldMan   | [♣️ Q] [♠️ 6] |   20.20% | ❌ fold
+  KLChen2PokerPlayer | [♦️ A] [♣️ 9] |   45.80% | ❌ fold
+  ZPlayer         | [♥️ 6] [♥️ T] |   37.80% | ✅ call:$25
+
+🎴 FLOP
+Board: [ [♣️ J] [♣️ 4] [♦️ Q] ]
+  JoyoPlayer      | [♥️ 7] [♥️ K] |   75.90% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1925 📈 (+50)
+  NitWinWin      : $   905 ➡️ (+0)
+  Jinkun         : $   986 ➡️ (+0)
+  YueShi         : $   895 ➡️ (+0)
+  JoyoPlayer     : $  1782 📉 (-20)
+  ZifengFoldMan  : $   900 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   607 📉 (-15)
+----------------------------------------
+
+🔄 Round 47
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♣️ 4] [♣️ A]        | 💰  1925
+👤 NitWinWin       | [♣️ Q] [♥️ J]        | 💰   905
+👤 Jinkun          | [♠️ 3] [♣️ 5]        | 💰   986
+👤 YueShi          | [♠️ K] [♥️ 5]        | 💰   895
+👤 JoyoPlayer      | [♠️ Q] [♠️ 5]        | 💰  1782
+👤 ZifengFoldMan   | [♥️ Q] [♣️ 2]        | 💰   895
+👤 KLChen2PokerPlayer | [♠️ 9] [♦️ 9]        | 💰   597
+
+🎴 PREFLOP
+Board: [  ]
+  ZPlayer         | [♣️ 4] [♣️ A] |   22.20% | ⬆️ raise:$15
+  NitWinWin       | [♣️ Q] [♥️ J] |   14.50% | ❌ fold
+  Jinkun          | [♠️ 3] [♣️ 5] |    9.80% | ❌ fold:$15
+  YueShi          | [♠️ K] [♥️ 5] |   17.10% | ❌ fold
+  JoyoPlayer      | [♠️ Q] [♠️ 5] |   19.70% | ⬆️ raise:$20
+  ZifengFoldMan   | [♥️ Q] [♣️ 2] |   12.80% | ❌ fold
+  KLChen2PokerPlayer | [♠️ 9] [♦️ 9] |   45.60% | ⬆️ raise:$27
+  ZPlayer         | [♣️ 4] [♣️ A] |   31.50% | ✅ call:$27
+  JoyoPlayer      | [♠️ Q] [♠️ 5] |   23.30% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ 7] [♦️ K] [♦️ Q] ]
+  KLChen2PokerPlayer | [♠️ 9] [♦️ 9] |   86.10% | ⬆️ raise:$38
+  ZPlayer         | [♣️ 4] [♣️ A] |   13.90% | ❌ fold
+
+🏆 Winner: KLChen2PokerPlayer
+Final Stacks:
+  ZPlayer        : $  1898 📉 (-27)
+  NitWinWin      : $   905 ➡️ (+0)
+  Jinkun         : $   986 ➡️ (+0)
+  YueShi         : $   895 ➡️ (+0)
+  JoyoPlayer     : $  1762 📉 (-20)
+  ZifengFoldMan  : $   895 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   659 📈 (+62)
+----------------------------------------
+
+🔄 Round 48
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♥️ K] [♥️ 9]        | 💰  1888
+👤 NitWinWin       | [♠️ Q] [♠️ 4]        | 💰   905
+👤 Jinkun          | [♠️ T] [♦️ K]        | 💰   986
+👤 YueShi          | [♦️ T] [♥️ A]        | 💰   895
+👤 JoyoPlayer      | [♠️ J] [♠️ K]        | 💰  1762
+👤 ZifengFoldMan   | [♦️ 9] [♥️ 7]        | 💰   895
+👤 KLChen2PokerPlayer | [♣️ 2] [♥️ 8]        | 💰   654
+
+🎴 PREFLOP
+Board: [  ]
+  NitWinWin       | [♠️ Q] [♠️ 4] |   20.10% | ❌ fold
+  Jinkun          | [♠️ T] [♦️ K] |    6.80% | ❌ fold:$10
+  YueShi          | [♦️ T] [♥️ A] |   28.90% | ❌ fold
+  JoyoPlayer      | [♠️ J] [♠️ K] |   48.00% | ❌ fold
+  ZifengFoldMan   | [♦️ 9] [♥️ 7] |   22.70% | ❌ fold
+  KLChen2PokerPlayer | [♣️ 2] [♥️ 8] |   29.60% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1903 📈 (+15)
+  NitWinWin      : $   905 ➡️ (+0)
+  Jinkun         : $   986 ➡️ (+0)
+  YueShi         : $   895 ➡️ (+0)
+  JoyoPlayer     : $  1762 ➡️ (+0)
+  ZifengFoldMan  : $   895 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   654 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 49
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♣️ 6] [♣️ 8]        | 💰  1898
+👤 NitWinWin       | [♥️ 8] [♦️ 3]        | 💰   895
+👤 Jinkun          | [♠️ 6] [♣️ T]        | 💰   986
+👤 YueShi          | [♣️ 5] [♣️ Q]        | 💰   895
+👤 JoyoPlayer      | [♣️ K] [♠️ 7]        | 💰  1762
+👤 ZifengFoldMan   | [♣️ A] [♠️ T]        | 💰   895
+👤 KLChen2PokerPlayer | [♥️ 3] [♠️ 4]        | 💰   654
+
+🎴 PREFLOP
+Board: [  ]
+  Jinkun          | [♠️ 6] [♣️ T] |    7.80% | ❌ fold:$10
+  YueShi          | [♣️ 5] [♣️ Q] |   19.80% | ❌ fold
+  JoyoPlayer      | [♣️ K] [♠️ 7] |   23.90% | ❌ fold
+  ZifengFoldMan   | [♣️ A] [♠️ T] |   42.50% | ❌ fold
+  KLChen2PokerPlayer | [♥️ 3] [♠️ 4] |   32.50% | ❌ fold
+  ZPlayer         | [♣️ 6] [♣️ 8] |   80.20% | ⬆️ raise:$15
+  NitWinWin       | [♥️ 8] [♦️ 3] |   54.50% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1913 📈 (+15)
+  NitWinWin      : $   895 ➡️ (+0)
+  Jinkun         : $   986 ➡️ (+0)
+  YueShi         : $   895 ➡️ (+0)
+  JoyoPlayer     : $  1762 ➡️ (+0)
+  ZifengFoldMan  : $   895 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   654 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 50
+----------------------------------------
+Initial State:
+👤 ZPlayer         | [♦️ K] [♣️ K]        | 💰  1913
+👤 NitWinWin       | [♠️ 8] [♣️ 5]        | 💰   890
+👤 Jinkun          | [♣️ Q] [♠️ 6]        | 💰   976
+👤 YueShi          | [♠️ 4] [♣️ 3]        | 💰   895
+👤 JoyoPlayer      | [♣️ 2] [♥️ 8]        | 💰  1762
+👤 ZifengFoldMan   | [♠️ 9] [♥️ A]        | 💰   895
+👤 KLChen2PokerPlayer | [♣️ 4] [♦️ 9]        | 💰   654
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♠️ 4] [♣️ 3] |   11.30% | ❌ fold
+  JoyoPlayer      | [♣️ 2] [♥️ 8] |    7.30% | ⬆️ raise:$15
+  ZifengFoldMan   | [♠️ 9] [♥️ A] |   23.90% | ❌ fold
+  KLChen2PokerPlayer | [♣️ 4] [♦️ 9] |   10.20% | ⬆️ raise:$20
+  ZPlayer         | [♦️ K] [♣️ K] |   61.30% | ⬆️ raise:$25
+  NitWinWin       | [♠️ 8] [♣️ 5] |   12.70% | ❌ fold
+  Jinkun          | [♣️ Q] [♠️ 6] |   12.60% | ❌ fold:$25
+  JoyoPlayer      | [♣️ 2] [♥️ 8] |   12.00% | ❌ fold
+  KLChen2PokerPlayer | [♣️ 4] [♦️ 9] |   12.10% | ❌ fold
+
+🏆 Winner: ZPlayer
+Final Stacks:
+  ZPlayer        : $  1963 📈 (+50)
+  NitWinWin      : $   890 ➡️ (+0)
+  Jinkun         : $   976 ➡️ (+0)
+  YueShi         : $   895 ➡️ (+0)
+  JoyoPlayer     : $  1747 📉 (-15)
+  ZifengFoldMan  : $   895 ➡️ (+0)
+  EvanPlayer     : $     0 ➡️ (+0)
+  KLChen2PokerPlayer: $   634 📉 (-20)
+----------------------------------------
+
+🏁 Final Rankings:
+--------------------------------------------------
+
+🎮 Active Players:
+1. 🏆 ZPlayer         | Stack:       1963 | Status: active
+2. 👥 JoyoPlayer      | Stack:       1747 | Status: active
+3. 👥 Jinkun          | Stack:        976 | Status: active
+4. 👥 YueShi          | Stack:        895 | Status: active
+5. 👥 ZifengFoldMan   | Stack:        895 | Status: active
+6. 👥 NitWinWin       | Stack:        890 | Status: active
+7. 👥 KLChen2PokerPlayer | Stack:        634 | Status: active
+
+💀 Eliminated Players:
+8. 💀 EvanPlayer      | Stack: 0 (Max: 1000) | Status: eliminated (Round 1)

@@ -1,0 +1,2345 @@
+🎲 Texas Hold'em Poker Game Log 1 🎲
+==================================================
+
+📊 Detailed Game Log:
+==================================================
+
+🔄 Round 1
+----------------------------------------
+Initial State:
+👤 EvanPlayer      | [♦️ J] [♣️ T]        | 💰  1000
+👤 ZifengFoldMan   | [♣️ 8] [♥️ 3]        | 💰   995
+👤 JoyoPlayer      | [♣️ Q] [♥️ A]        | 💰   990
+👤 YueShi          | [♣️ 2] [♦️ 9]        | 💰  1000
+👤 Finneas         | [♦️ Q] [♥️ 9]        | 💰  1000
+👤 Yuchun          | [♦️ 2] [♦️ 5]        | 💰  1000
+👤 Zheng           | [♦️ 4] [♠️ 7]        | 💰  1000
+👤 RaphaelPlayer   | [♣️ K] [♥️ 8]        | 💰  1000
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♣️ 2] [♦️ 9] |    4.90% | ❌ fold
+  Finneas         | [♦️ Q] [♥️ 9] |    7.20% | ✅ call:$10
+  Yuchun          | [♦️ 2] [♦️ 5] |   17.70% | ❌ fold
+  Zheng           | [♦️ 4] [♠️ 7] |   19.30% | ✅ call:$10
+  RaphaelPlayer   | [♣️ K] [♥️ 8] |   19.70% | ✅ call:$10
+  EvanPlayer      | [♦️ J] [♣️ T] |   19.30% | ⬆️ raise:$1000
+  ZifengFoldMan   | [♣️ 8] [♥️ 3] |    8.30% | ❌ fold
+  JoyoPlayer      | [♣️ Q] [♥️ A] |   25.10% | ❌ fold
+  Finneas         | [♦️ Q] [♥️ 9] |   26.70% | ❌ fold
+  Zheng           | [♦️ 4] [♠️ 7] |   24.80% | ❌ fold
+  RaphaelPlayer   | [♣️ K] [♥️ 8] |   55.60% | ❌ fold
+
+🏆 Winner: EvanPlayer
+Final Stacks:
+  EvanPlayer     : $  1045 📈 (+45)
+  ZifengFoldMan  : $   995 ➡️ (+0)
+  JoyoPlayer     : $   990 ➡️ (+0)
+  YueShi         : $  1000 ➡️ (+0)
+  Finneas        : $   990 📉 (-10)
+  Yuchun         : $  1000 ➡️ (+0)
+  Zheng          : $   990 📉 (-10)
+  RaphaelPlayer  : $   990 📉 (-10)
+----------------------------------------
+
+🔄 Round 2
+----------------------------------------
+Initial State:
+👤 EvanPlayer      | [♥️ K] [♣️ T]        | 💰  1045
+👤 ZifengFoldMan   | [♦️ 6] [♠️ 4]        | 💰   995
+👤 JoyoPlayer      | [♥️ Q] [♣️ 2]        | 💰   985
+👤 YueShi          | [♥️ 5] [♦️ 4]        | 💰   990
+👤 Finneas         | [♣️ A] [♦️ 8]        | 💰   990
+👤 Yuchun          | [♠️ 8] [♠️ J]        | 💰  1000
+👤 Zheng           | [♣️ 5] [♦️ T]        | 💰   990
+👤 RaphaelPlayer   | [♣️ K] [♥️ A]        | 💰   990
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♣️ A] [♦️ 8] |    6.30% | ✅ call:$10
+  Yuchun          | [♠️ 8] [♠️ J] |   28.40% | ❌ fold
+  Zheng           | [♣️ 5] [♦️ T] |    7.40% | ✅ call:$10
+  RaphaelPlayer   | [♣️ K] [♥️ A] |   21.00% | ⬆️ raise:$30
+  EvanPlayer      | [♥️ K] [♣️ T] |   14.00% | ⬆️ raise:$1045
+  ZifengFoldMan   | [♦️ 6] [♠️ 4] |   19.10% | ❌ fold
+  JoyoPlayer      | [♥️ Q] [♣️ 2] |   20.30% | ❌ fold
+  YueShi          | [♥️ 5] [♦️ 4] |   24.20% | ❌ fold
+  Finneas         | [♣️ A] [♦️ 8] |   26.40% | ❌ fold
+  Zheng           | [♣️ 5] [♦️ T] |   23.90% | ❌ fold
+  RaphaelPlayer   | [♣️ K] [♥️ A] |   75.00% | ❌ fold
+
+🏆 Winner: EvanPlayer
+Final Stacks:
+  EvanPlayer     : $  1110 📈 (+65)
+  ZifengFoldMan  : $   995 ➡️ (+0)
+  JoyoPlayer     : $   985 ➡️ (+0)
+  YueShi         : $   990 ➡️ (+0)
+  Finneas        : $   980 📉 (-10)
+  Yuchun         : $  1000 ➡️ (+0)
+  Zheng          : $   980 📉 (-10)
+  RaphaelPlayer  : $   960 📉 (-30)
+----------------------------------------
+
+🔄 Round 3
+----------------------------------------
+Initial State:
+👤 EvanPlayer      | [♠️ 5] [♥️ T]        | 💰  1110
+👤 ZifengFoldMan   | [♦️ 6] [♣️ 6]        | 💰   995
+👤 JoyoPlayer      | [♥️ J] [♣️ T]        | 💰   985
+👤 YueShi          | [♣️ 2] [♦️ 4]        | 💰   985
+👤 Finneas         | [♣️ Q] [♦️ 8]        | 💰   970
+👤 Yuchun          | [♠️ 6] [♦️ 3]        | 💰  1000
+👤 Zheng           | [♣️ 7] [♠️ 4]        | 💰   980
+👤 RaphaelPlayer   | [♣️ A] [♥️ A]        | 💰   960
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♠️ 6] [♦️ 3] |    7.20% | ❌ fold
+  Zheng           | [♣️ 7] [♠️ 4] |    7.60% | ✅ call:$10
+  RaphaelPlayer   | [♣️ A] [♥️ A] |   39.00% | ⬆️ raise:$40
+  EvanPlayer      | [♠️ 5] [♥️ T] |    8.40% | ✅ call:$40
+  ZifengFoldMan   | [♦️ 6] [♣️ 6] |   16.10% | ❌ fold
+  JoyoPlayer      | [♥️ J] [♣️ T] |   14.60% | ⬆️ raise:$70
+  YueShi          | [♣️ 2] [♦️ 4] |    7.10% | ❌ fold
+  Finneas         | [♣️ Q] [♦️ 8] |   11.40% | ❌ fold
+  Zheng           | [♣️ 7] [♠️ 4] |   13.10% | ❌ fold
+  RaphaelPlayer   | [♣️ A] [♥️ A] |   76.80% | ✅ call:$70
+  EvanPlayer      | [♠️ 5] [♥️ T] |    9.70% | ⬆️ raise:$1110
+  JoyoPlayer      | [♥️ J] [♣️ T] |   15.10% | ✅ call:$1110
+  RaphaelPlayer   | [♣️ A] [♥️ A] |   76.80% | ✅ call:$1110
+
+🎴 FLOP
+Board: [ [♦️ 5] [♦️ 2] [♥️ 9] ]
+
+🎴 TURN
+Board: [ [♦️ 5] [♦️ 2] [♥️ 9] [♠️ A] ]
+
+🎴 RIVER
+Board: [ [♦️ 5] [♦️ 2] [♥️ 9] [♠️ A] [♠️ 3] ]
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  EvanPlayer     : $   175 📉 (-935)
+  ZifengFoldMan  : $   995 ➡️ (+0)
+  JoyoPlayer     : $     0 📉 (-985)
+  YueShi         : $   985 ➡️ (+0)
+  Finneas        : $   970 ➡️ (+0)
+  Yuchun         : $  1000 ➡️ (+0)
+  Zheng          : $   970 📉 (-10)
+  RaphaelPlayer  : $  2905 📈 (+1945)
+----------------------------------------
+
+🔄 Round 4
+----------------------------------------
+Initial State:
+👤 EvanPlayer      | [♥️ 6] [♠️ J]        | 💰   175
+👤 ZifengFoldMan   | [♥️ Q] [♦️ 9]        | 💰   995
+👤 YueShi          | [♣️ 5] [♦️ 8]        | 💰   985
+👤 Finneas         | [♣️ Q] [♠️ 5]        | 💰   965
+👤 Yuchun          | [♥️ A] [♣️ T]        | 💰   990
+👤 Zheng           | [♦️ J] [♦️ 2]        | 💰   970
+👤 RaphaelPlayer   | [♦️ 7] [♦️ 6]        | 💰  2905
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♦️ J] [♦️ 2] |   12.70% | ✅ call:$10
+  RaphaelPlayer   | [♦️ 7] [♦️ 6] |   11.70% | ❌ fold
+  EvanPlayer      | [♥️ 6] [♠️ J] |   13.20% | ✅ call:$10
+  ZifengFoldMan   | [♥️ Q] [♦️ 9] |   19.80% | ❌ fold
+  YueShi          | [♣️ 5] [♦️ 8] |   13.90% | ❌ fold
+  Finneas         | [♣️ Q] [♠️ 5] |   24.70% | ✅ call:$10
+  Yuchun          | [♥️ A] [♣️ T] |   40.40% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ 8] [♦️ Q] [♠️ K] ]
+  Finneas         | [♣️ Q] [♠️ 5] |   89.80% | ✅ call
+  Zheng           | [♦️ J] [♦️ 2] |    9.40% | ✅ call
+  EvanPlayer      | [♥️ 6] [♠️ J] |    3.40% | ⬆️ raise:$165
+  Finneas         | [♣️ Q] [♠️ 5] |   89.80% | ❌ fold
+  Zheng           | [♦️ J] [♦️ 2] |   82.40% | ❌ fold
+
+🏆 Winner: EvanPlayer
+Final Stacks:
+  EvanPlayer     : $   205 📈 (+30)
+  ZifengFoldMan  : $   995 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   985 ➡️ (+0)
+  Finneas        : $   960 📉 (-5)
+  Yuchun         : $   990 ➡️ (+0)
+  Zheng          : $   960 📉 (-10)
+  RaphaelPlayer  : $  2905 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 5
+----------------------------------------
+Initial State:
+👤 EvanPlayer      | [♥️ 3] [♠️ K]        | 💰   205
+👤 ZifengFoldMan   | [♥️ 4] [♠️ 3]        | 💰   995
+👤 YueShi          | [♣️ 9] [♠️ J]        | 💰   985
+👤 Finneas         | [♦️ 9] [♠️ 8]        | 💰   960
+👤 Yuchun          | [♦️ 2] [♠️ 9]        | 💰   985
+👤 Zheng           | [♣️ A] [♦️ A]        | 💰   950
+👤 RaphaelPlayer   | [♠️ 7] [♠️ 5]        | 💰  2905
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♠️ 7] [♠️ 5] |   14.00% | ❌ fold
+  EvanPlayer      | [♥️ 3] [♠️ K] |    7.50% | ⬆️ raise:$205
+  ZifengFoldMan   | [♥️ 4] [♠️ 3] |   10.20% | ❌ fold
+  YueShi          | [♣️ 9] [♠️ J] |   12.80% | ❌ fold
+  Finneas         | [♦️ 9] [♠️ 8] |   17.00% | ❌ fold
+  Yuchun          | [♦️ 2] [♠️ 9] |   13.10% | ❌ fold
+  Zheng           | [♣️ A] [♦️ A] |   88.10% | ❌ fold
+
+🏆 Winner: EvanPlayer
+Final Stacks:
+  EvanPlayer     : $   220 📈 (+15)
+  ZifengFoldMan  : $   995 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   985 ➡️ (+0)
+  Finneas        : $   960 ➡️ (+0)
+  Yuchun         : $   985 ➡️ (+0)
+  Zheng          : $   950 ➡️ (+0)
+  RaphaelPlayer  : $  2905 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 6
+----------------------------------------
+Initial State:
+👤 EvanPlayer      | [♣️ 4] [♦️ T]        | 💰   220
+👤 ZifengFoldMan   | [♠️ 7] [♠️ T]        | 💰   995
+👤 YueShi          | [♣️ J] [♥️ 8]        | 💰   985
+👤 Finneas         | [♦️ A] [♠️ Q]        | 💰   960
+👤 Yuchun          | [♠️ 8] [♣️ A]        | 💰   985
+👤 Zheng           | [♠️ 2] [♥️ 9]        | 💰   945
+👤 RaphaelPlayer   | [♥️ 2] [♣️ 6]        | 💰  2895
+
+🎴 PREFLOP
+Board: [  ]
+  EvanPlayer      | [♣️ 4] [♦️ T] |   11.00% | ✅ call:$10
+  ZifengFoldMan   | [♠️ 7] [♠️ T] |   19.70% | ❌ fold
+  YueShi          | [♣️ J] [♥️ 8] |   17.40% | ❌ fold
+  Finneas         | [♦️ A] [♠️ Q] |   37.80% | ⬆️ raise:$487
+  Yuchun          | [♠️ 8] [♣️ A] |   17.10% | ❌ fold
+  Zheng           | [♠️ 2] [♥️ 9] |   17.40% | ❌ fold
+  RaphaelPlayer   | [♥️ 2] [♣️ 6] |   24.90% | ❌ fold
+  EvanPlayer      | [♣️ 4] [♦️ T] |   31.00% | ❌ fold:$487
+
+🏆 Winner: Finneas
+Final Stacks:
+  EvanPlayer     : $   210 📉 (-10)
+  ZifengFoldMan  : $   995 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   985 ➡️ (+0)
+  Finneas        : $   985 📈 (+25)
+  Yuchun         : $   985 ➡️ (+0)
+  Zheng          : $   945 ➡️ (+0)
+  RaphaelPlayer  : $  2895 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 7
+----------------------------------------
+Initial State:
+👤 EvanPlayer      | [♦️ 2] [♣️ 7]        | 💰   200
+👤 ZifengFoldMan   | [♥️ A] [♠️ J]        | 💰   995
+👤 YueShi          | [♥️ K] [♣️ 9]        | 💰   985
+👤 Finneas         | [♦️ K] [♦️ 9]        | 💰   985
+👤 Yuchun          | [♦️ 8] [♦️ Q]        | 💰   985
+👤 Zheng           | [♠️ Q] [♥️ 3]        | 💰   945
+👤 RaphaelPlayer   | [♥️ 6] [♥️ 4]        | 💰  2890
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♥️ A] [♠️ J] |   25.00% | ❌ fold
+  YueShi          | [♥️ K] [♣️ 9] |   25.60% | ❌ fold
+  Finneas         | [♦️ K] [♦️ 9] |   34.80% | ✅ call:$10
+  Yuchun          | [♦️ 8] [♦️ Q] |   18.50% | ❌ fold
+  Zheng           | [♠️ Q] [♥️ 3] |   18.60% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 6] [♥️ 4] |   27.10% | ❌ fold
+  EvanPlayer      | [♦️ 2] [♣️ 7] |   19.80% | ⬆️ raise:$210
+  Finneas         | [♦️ K] [♦️ 9] |   51.90% | ❌ fold
+  Zheng           | [♠️ Q] [♥️ 3] |   64.80% | ❌ fold
+
+🏆 Winner: EvanPlayer
+Final Stacks:
+  EvanPlayer     : $   235 📈 (+35)
+  ZifengFoldMan  : $   995 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   985 ➡️ (+0)
+  Finneas        : $   975 📉 (-10)
+  Yuchun         : $   985 ➡️ (+0)
+  Zheng          : $   935 📉 (-10)
+  RaphaelPlayer  : $  2890 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 8
+----------------------------------------
+Initial State:
+👤 EvanPlayer      | [♣️ A] [♠️ Q]        | 💰   230
+👤 ZifengFoldMan   | [♦️ 8] [♦️ J]        | 💰   985
+👤 YueShi          | [♥️ K] [♦️ 6]        | 💰   985
+👤 Finneas         | [♠️ J] [♦️ 9]        | 💰   975
+👤 Yuchun          | [♦️ T] [♦️ 4]        | 💰   985
+👤 Zheng           | [♠️ A] [♥️ 7]        | 💰   935
+👤 RaphaelPlayer   | [♥️ 6] [♠️ 9]        | 💰  2890
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♥️ K] [♦️ 6] |   22.30% | ❌ fold
+  Finneas         | [♠️ J] [♦️ 9] |   14.20% | ✅ call:$10
+  Yuchun          | [♦️ T] [♦️ 4] |   18.60% | ❌ fold
+  Zheng           | [♠️ A] [♥️ 7] |   13.90% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 6] [♠️ 9] |   14.30% | ❌ fold
+  EvanPlayer      | [♣️ A] [♠️ Q] |   37.70% | ⬆️ raise:$235
+  ZifengFoldMan   | [♦️ 8] [♦️ J] |   23.80% | ❌ fold
+  Finneas         | [♠️ J] [♦️ 9] |   37.00% | ❌ fold
+  Zheng           | [♠️ A] [♥️ 7] |   29.10% | ❌ fold
+
+🏆 Winner: EvanPlayer
+Final Stacks:
+  EvanPlayer     : $   265 📈 (+35)
+  ZifengFoldMan  : $   985 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   985 ➡️ (+0)
+  Finneas        : $   965 📉 (-10)
+  Yuchun         : $   985 ➡️ (+0)
+  Zheng          : $   925 📉 (-10)
+  RaphaelPlayer  : $  2890 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 9
+----------------------------------------
+Initial State:
+👤 EvanPlayer      | [♦️ Q] [♠️ 2]        | 💰   265
+👤 ZifengFoldMan   | [♠️ K] [♣️ 2]        | 💰   980
+👤 YueShi          | [♦️ T] [♦️ 4]        | 💰   975
+👤 Finneas         | [♥️ 6] [♦️ 8]        | 💰   965
+👤 Yuchun          | [♣️ K] [♥️ 2]        | 💰   985
+👤 Zheng           | [♠️ 7] [♠️ Q]        | 💰   925
+👤 RaphaelPlayer   | [♣️ 5] [♠️ 3]        | 💰  2890
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♥️ 6] [♦️ 8] |   25.70% | ✅ call:$10
+  Yuchun          | [♣️ K] [♥️ 2] |   12.00% | ❌ fold
+  Zheng           | [♠️ 7] [♠️ Q] |   19.50% | ✅ call:$10
+  RaphaelPlayer   | [♣️ 5] [♠️ 3] |   17.10% | ❌ fold
+  EvanPlayer      | [♦️ Q] [♠️ 2] |    7.50% | ⬆️ raise:$265
+  ZifengFoldMan   | [♠️ K] [♣️ 2] |   24.00% | ❌ fold
+  YueShi          | [♦️ T] [♦️ 4] |   31.70% | ❌ fold
+  Finneas         | [♥️ 6] [♦️ 8] |   38.10% | ❌ fold
+  Zheng           | [♠️ 7] [♠️ Q] |   81.20% | ❌ fold
+
+🏆 Winner: EvanPlayer
+Final Stacks:
+  EvanPlayer     : $   300 📈 (+35)
+  ZifengFoldMan  : $   980 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   975 ➡️ (+0)
+  Finneas        : $   955 📉 (-10)
+  Yuchun         : $   985 ➡️ (+0)
+  Zheng          : $   915 📉 (-10)
+  RaphaelPlayer  : $  2890 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 10
+----------------------------------------
+Initial State:
+👤 EvanPlayer      | [♦️ 7] [♥️ 3]        | 💰   300
+👤 ZifengFoldMan   | [♣️ 7] [♣️ 2]        | 💰   980
+👤 YueShi          | [♣️ 3] [♥️ 8]        | 💰   970
+👤 Finneas         | [♣️ J] [♠️ 6]        | 💰   945
+👤 Yuchun          | [♠️ 8] [♥️ 7]        | 💰   985
+👤 Zheng           | [♥️ T] [♦️ 5]        | 💰   915
+👤 RaphaelPlayer   | [♥️ Q] [♠️ 3]        | 💰  2890
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♠️ 8] [♥️ 7] |   18.00% | ✅ call:$10
+  Zheng           | [♥️ T] [♦️ 5] |   22.20% | ✅ call:$10
+  RaphaelPlayer   | [♥️ Q] [♠️ 3] |   20.90% | ❌ fold
+  EvanPlayer      | [♦️ 7] [♥️ 3] |    9.70% | ✅ call:$10
+  ZifengFoldMan   | [♣️ 7] [♣️ 2] |   16.00% | ❌ fold
+  YueShi          | [♣️ 3] [♥️ 8] |   12.30% | ❌ fold
+  Finneas         | [♣️ J] [♠️ 6] |   37.00% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ 6] [♥️ 2] [♥️ J] ]
+  Finneas         | [♣️ J] [♠️ 6] |   88.90% | ✅ call
+  Yuchun          | [♠️ 8] [♥️ 7] |    5.80% | ✅ call
+  Zheng           | [♥️ T] [♦️ 5] |    5.00% | ✅ call
+  EvanPlayer      | [♦️ 7] [♥️ 3] |    0.30% | ❌ fold
+
+🎴 TURN
+Board: [ [♦️ 6] [♥️ 2] [♥️ J] [♠️ J] ]
+  Finneas         | [♣️ J] [♠️ 6] |  100.00% | ⬆️ raise:$477
+  Yuchun          | [♠️ 8] [♥️ 7] |    0.00% | ❌ fold
+  Zheng           | [♥️ T] [♦️ 5] |    0.00% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  EvanPlayer     : $   290 📉 (-10)
+  ZifengFoldMan  : $   980 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   970 ➡️ (+0)
+  Finneas        : $   990 📈 (+45)
+  Yuchun         : $   975 📉 (-10)
+  Zheng          : $   905 📉 (-10)
+  RaphaelPlayer  : $  2890 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 11
+----------------------------------------
+Initial State:
+👤 EvanPlayer      | [♣️ 2] [♦️ 3]        | 💰   290
+👤 ZifengFoldMan   | [♥️ Q] [♥️ 8]        | 💰   980
+👤 YueShi          | [♦️ 4] [♦️ 7]        | 💰   970
+👤 Finneas         | [♥️ J] [♥️ 5]        | 💰   985
+👤 Yuchun          | [♥️ 4] [♥️ 2]        | 💰   965
+👤 Zheng           | [♦️ 9] [♥️ T]        | 💰   905
+👤 RaphaelPlayer   | [♠️ J] [♥️ K]        | 💰  2890
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♦️ 9] [♥️ T] |   19.90% | ✅ call:$10
+  RaphaelPlayer   | [♠️ J] [♥️ K] |   24.10% | ⬆️ raise:$30
+  EvanPlayer      | [♣️ 2] [♦️ 3] |   12.10% | ✅ call:$30
+  ZifengFoldMan   | [♥️ Q] [♥️ 8] |   16.90% | ❌ fold
+  YueShi          | [♦️ 4] [♦️ 7] |   20.70% | ❌ fold
+  Finneas         | [♥️ J] [♥️ 5] |   12.40% | ❌ fold
+  Yuchun          | [♥️ 4] [♥️ 2] |   18.70% | ✅ call:$30
+  Zheng           | [♦️ 9] [♥️ T] |   29.80% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ T] [♣️ 8] [♥️ 6] ]
+  Yuchun          | [♥️ 4] [♥️ 2] |   25.40% | ✅ call
+  RaphaelPlayer   | [♠️ J] [♥️ K] |   64.00% | ✅ call
+  EvanPlayer      | [♣️ 2] [♦️ 3] |   18.00% | ❌ fold
+
+🎴 TURN
+Board: [ [♦️ T] [♣️ 8] [♥️ 6] [♦️ J] ]
+  Yuchun          | [♥️ 4] [♥️ 2] |    0.00% | ✅ call
+  RaphaelPlayer   | [♠️ J] [♥️ K] |  100.00% | ⬆️ raise:$115
+  Yuchun          | [♥️ 4] [♥️ 2] |    0.00% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  EvanPlayer     : $   260 📉 (-30)
+  ZifengFoldMan  : $   980 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   970 ➡️ (+0)
+  Finneas        : $   985 ➡️ (+0)
+  Yuchun         : $   945 📉 (-20)
+  Zheng          : $   895 📉 (-10)
+  RaphaelPlayer  : $  2965 📈 (+75)
+----------------------------------------
+
+🔄 Round 12
+----------------------------------------
+Initial State:
+👤 EvanPlayer      | [♥️ T] [♠️ 7]        | 💰   260
+👤 ZifengFoldMan   | [♠️ K] [♣️ J]        | 💰   980
+👤 YueShi          | [♣️ A] [♥️ A]        | 💰   970
+👤 Finneas         | [♦️ 8] [♣️ 3]        | 💰   985
+👤 Yuchun          | [♥️ 4] [♥️ K]        | 💰   940
+👤 Zheng           | [♣️ T] [♥️ 7]        | 💰   885
+👤 RaphaelPlayer   | [♦️ Q] [♣️ K]        | 💰  2965
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♦️ Q] [♣️ K] |    8.20% | ✅ call:$10
+  EvanPlayer      | [♥️ T] [♠️ 7] |   10.20% | ⬆️ raise:$260
+  ZifengFoldMan   | [♠️ K] [♣️ J] |    9.90% | ❌ fold
+  YueShi          | [♣️ A] [♥️ A] |   54.10% | ❌ fold
+  Finneas         | [♦️ 8] [♣️ 3] |   21.50% | ❌ fold
+  Yuchun          | [♥️ 4] [♥️ K] |   22.60% | ❌ fold
+  Zheng           | [♣️ T] [♥️ 7] |   26.00% | ❌ fold
+  RaphaelPlayer   | [♦️ Q] [♣️ K] |   64.80% | ❌ fold
+
+🏆 Winner: EvanPlayer
+Final Stacks:
+  EvanPlayer     : $   285 📈 (+25)
+  ZifengFoldMan  : $   980 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   970 ➡️ (+0)
+  Finneas        : $   985 ➡️ (+0)
+  Yuchun         : $   940 ➡️ (+0)
+  Zheng          : $   885 ➡️ (+0)
+  RaphaelPlayer  : $  2955 📉 (-10)
+----------------------------------------
+
+🔄 Round 13
+----------------------------------------
+Initial State:
+👤 EvanPlayer      | [♦️ 3] [♥️ 9]        | 💰   285
+👤 ZifengFoldMan   | [♣️ J] [♥️ J]        | 💰   980
+👤 YueShi          | [♦️ 7] [♥️ 6]        | 💰   970
+👤 Finneas         | [♣️ A] [♦️ 9]        | 💰   985
+👤 Yuchun          | [♣️ 9] [♥️ T]        | 💰   940
+👤 Zheng           | [♥️ K] [♦️ Q]        | 💰   880
+👤 RaphaelPlayer   | [♠️ A] [♦️ J]        | 💰  2945
+
+🎴 PREFLOP
+Board: [  ]
+  EvanPlayer      | [♦️ 3] [♥️ 9] |    7.30% | ✅ call:$10
+  ZifengFoldMan   | [♣️ J] [♥️ J] |   18.30% | ❌ fold
+  YueShi          | [♦️ 7] [♥️ 6] |   18.20% | ❌ fold
+  Finneas         | [♣️ A] [♦️ 9] |    8.90% | ✅ call:$10
+  Yuchun          | [♣️ 9] [♥️ T] |   18.80% | ✅ call:$10
+  Zheng           | [♥️ K] [♦️ Q] |   37.00% | ✅ call:$10
+  RaphaelPlayer   | [♠️ A] [♦️ J] |   31.90% | ⬆️ raise:$30
+  EvanPlayer      | [♦️ 3] [♥️ 9] |   11.50% | ❌ fold:$30
+  Finneas         | [♣️ A] [♦️ 9] |   11.10% | ❌ fold
+  Yuchun          | [♣️ 9] [♥️ T] |   22.90% | ✅ call:$30
+  Zheng           | [♥️ K] [♦️ Q] |   36.20% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ T] [♠️ T] [♦️ 2] ]
+  RaphaelPlayer   | [♠️ A] [♦️ J] |    7.20% | ✅ call
+  Yuchun          | [♣️ 9] [♥️ T] |   92.80% | ⬆️ raise:$910
+  RaphaelPlayer   | [♠️ A] [♦️ J] |    7.20% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  EvanPlayer     : $   275 📉 (-10)
+  ZifengFoldMan  : $   980 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   970 ➡️ (+0)
+  Finneas        : $   975 📉 (-10)
+  Yuchun         : $  1000 📈 (+60)
+  Zheng          : $   875 📉 (-5)
+  RaphaelPlayer  : $  2925 📉 (-20)
+----------------------------------------
+
+🔄 Round 14
+----------------------------------------
+Initial State:
+👤 EvanPlayer      | [♣️ 9] [♣️ J]        | 💰   265
+👤 ZifengFoldMan   | [♠️ K] [♠️ J]        | 💰   980
+👤 YueShi          | [♠️ 6] [♥️ 2]        | 💰   970
+👤 Finneas         | [♣️ 3] [♦️ 3]        | 💰   975
+👤 Yuchun          | [♦️ K] [♥️ Q]        | 💰  1000
+👤 Zheng           | [♥️ 6] [♥️ 5]        | 💰   875
+👤 RaphaelPlayer   | [♠️ 8] [♣️ 7]        | 💰  2920
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♠️ K] [♠️ J] |   14.70% | ❌ fold
+  YueShi          | [♠️ 6] [♥️ 2] |    7.30% | ❌ fold
+  Finneas         | [♣️ 3] [♦️ 3] |   17.40% | ✅ call:$10
+  Yuchun          | [♦️ K] [♥️ Q] |   28.60% | ✅ call:$10
+  Zheng           | [♥️ 6] [♥️ 5] |   16.00% | ✅ call:$10
+  RaphaelPlayer   | [♠️ 8] [♣️ 7] |   13.40% | ❌ fold
+  EvanPlayer      | [♣️ 9] [♣️ J] |   28.30% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ 2] [♠️ Q] [♣️ K] ]
+  EvanPlayer      | [♣️ 9] [♣️ J] |   21.30% | ⬆️ raise:$265
+  Finneas         | [♣️ 3] [♦️ 3] |    7.40% | ❌ fold
+  Yuchun          | [♦️ K] [♥️ Q] |   77.40% | ⬆️ raise:$990
+  Zheng           | [♥️ 6] [♥️ 5] |    2.10% | ❌ fold
+
+🎴 TURN
+Board: [ [♦️ 2] [♠️ Q] [♣️ K] [♦️ A] ]
+
+🎴 RIVER
+Board: [ [♦️ 2] [♠️ Q] [♣️ K] [♦️ A] [♦️ 9] ]
+
+🏆 Winner: Yuchun
+Final Stacks:
+  EvanPlayer     : $     0 📉 (-265)
+  ZifengFoldMan  : $   980 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   970 ➡️ (+0)
+  Finneas        : $   965 📉 (-10)
+  Yuchun         : $  1300 📈 (+300)
+  Zheng          : $   865 📉 (-10)
+  RaphaelPlayer  : $  2920 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 15
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♠️ K] [♠️ 9]        | 💰   975
+👤 YueShi          | [♠️ A] [♥️ 4]        | 💰   960
+👤 Finneas         | [♦️ 2] [♦️ 5]        | 💰   965
+👤 Yuchun          | [♠️ 2] [♠️ 5]        | 💰  1300
+👤 Zheng           | [♥️ Q] [♦️ 9]        | 💰   865
+👤 RaphaelPlayer   | [♦️ 3] [♣️ 7]        | 💰  2920
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♦️ 2] [♦️ 5] |   14.00% | ✅ call:$10
+  Yuchun          | [♠️ 2] [♠️ 5] |    8.90% | ✅ call:$10
+  Zheng           | [♥️ Q] [♦️ 9] |   18.90% | ✅ call:$10
+  RaphaelPlayer   | [♦️ 3] [♣️ 7] |   16.80% | ❌ fold
+  ZifengFoldMan   | [♠️ K] [♠️ 9] |   31.30% | ❌ fold
+  YueShi          | [♠️ A] [♥️ 4] |   35.00% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ 8] [♥️ 2] [♣️ Q] ]
+  Finneas         | [♦️ 2] [♦️ 5] |   12.40% | ✅ call
+  Yuchun          | [♠️ 2] [♠️ 5] |   12.40% | ✅ call
+  Zheng           | [♥️ Q] [♦️ 9] |   87.60% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 8] [♥️ 2] [♣️ Q] [♠️ J] ]
+  Finneas         | [♦️ 2] [♦️ 5] |    9.30% | ✅ call
+  Yuchun          | [♠️ 2] [♠️ 5] |    9.30% | ✅ call
+  Zheng           | [♥️ Q] [♦️ 9] |   90.70% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 8] [♥️ 2] [♣️ Q] [♠️ J] [♦️ J] ]
+  Finneas         | [♦️ 2] [♦️ 5] |    0.00% | ✅ call
+  Yuchun          | [♠️ 2] [♠️ 5] |    0.00% | ✅ call
+  Zheng           | [♥️ Q] [♦️ 9] |  100.00% | ✅ call
+
+🏆 Winner: Zheng
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   975 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   960 ➡️ (+0)
+  Finneas        : $   955 📉 (-10)
+  Yuchun         : $  1290 📉 (-10)
+  Zheng          : $   900 📈 (+35)
+  RaphaelPlayer  : $  2920 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 16
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♠️ 9] [♥️ 7]        | 💰   975
+👤 YueShi          | [♥️ A] [♦️ 5]        | 💰   955
+👤 Finneas         | [♣️ J] [♣️ T]        | 💰   945
+👤 Yuchun          | [♥️ 6] [♠️ Q]        | 💰  1290
+👤 Zheng           | [♣️ 2] [♥️ 2]        | 💰   900
+👤 RaphaelPlayer   | [♠️ A] [♦️ J]        | 💰  2920
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♥️ 6] [♠️ Q] |   15.60% | ✅ call:$10
+  Zheng           | [♣️ 2] [♥️ 2] |   18.40% | ✅ call:$10
+  RaphaelPlayer   | [♠️ A] [♦️ J] |   18.80% | ⬆️ raise:$30
+  ZifengFoldMan   | [♠️ 9] [♥️ 7] |   16.10% | ❌ fold
+  YueShi          | [♥️ A] [♦️ 5] |   11.80% | ❌ fold
+  Finneas         | [♣️ J] [♣️ T] |   26.50% | ❌ fold
+  Yuchun          | [♥️ 6] [♠️ Q] |   30.30% | ✅ call:$30
+  Zheng           | [♣️ 2] [♥️ 2] |   32.60% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ T] [♦️ 6] [♠️ 7] ]
+  Yuchun          | [♥️ 6] [♠️ Q] |   74.40% | ✅ call
+  RaphaelPlayer   | [♠️ A] [♦️ J] |   25.60% | ⬆️ raise:$95
+  Yuchun          | [♥️ 6] [♠️ Q] |   74.40% | ✅ call:$95
+
+🎴 TURN
+Board: [ [♥️ T] [♦️ 6] [♠️ 7] [♦️ A] ]
+  Yuchun          | [♥️ 6] [♠️ Q] |    9.70% | ✅ call
+  RaphaelPlayer   | [♠️ A] [♦️ J] |   90.30% | ⬆️ raise:$285
+  Yuchun          | [♥️ 6] [♠️ Q] |    9.70% | ✅ call:$285
+
+🎴 RIVER
+Board: [ [♥️ T] [♦️ 6] [♠️ 7] [♦️ A] [♠️ 5] ]
+  Yuchun          | [♥️ 6] [♠️ Q] |    0.00% | ✅ call
+  RaphaelPlayer   | [♠️ A] [♦️ J] |  100.00% | ⬆️ raise:$855
+  Yuchun          | [♥️ 6] [♠️ Q] |    0.00% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   975 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   955 ➡️ (+0)
+  Finneas        : $   945 ➡️ (+0)
+  Yuchun         : $   880 📉 (-410)
+  Zheng          : $   890 📉 (-10)
+  RaphaelPlayer  : $  3355 📈 (+435)
+----------------------------------------
+
+🔄 Round 17
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♠️ 3] [♠️ J]        | 💰   975
+👤 YueShi          | [♣️ 7] [♦️ 6]        | 💰   955
+👤 Finneas         | [♦️ 3] [♣️ 2]        | 💰   940
+👤 Yuchun          | [♣️ 6] [♦️ 8]        | 💰   870
+👤 Zheng           | [♠️ 2] [♠️ 6]        | 💰   890
+👤 RaphaelPlayer   | [♥️ 8] [♣️ J]        | 💰  3355
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♠️ 2] [♠️ 6] |   12.70% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 8] [♣️ J] |   45.30% | ✅ call:$10
+  ZifengFoldMan   | [♠️ 3] [♠️ J] |   33.90% | ❌ fold
+  YueShi          | [♣️ 7] [♦️ 6] |   19.70% | ❌ fold
+  Finneas         | [♦️ 3] [♣️ 2] |   21.10% | ✅ call:$10
+  Yuchun          | [♣️ 6] [♦️ 8] |   20.20% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 9] [♣️ 9] [♣️ K] ]
+  Finneas         | [♦️ 3] [♣️ 2] |   25.90% | ✅ call
+  Yuchun          | [♣️ 6] [♦️ 8] |   26.70% | ✅ call
+  Zheng           | [♠️ 2] [♠️ 6] |   31.00% | ✅ call
+  RaphaelPlayer   | [♥️ 8] [♣️ J] |   69.30% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 9] [♣️ 9] [♣️ K] [♣️ 8] ]
+  Finneas         | [♦️ 3] [♣️ 2] |    0.00% | ✅ call
+  Yuchun          | [♣️ 6] [♦️ 8] |   67.50% | ✅ call
+  Zheng           | [♠️ 2] [♠️ 6] |    0.00% | ✅ call
+  RaphaelPlayer   | [♥️ 8] [♣️ J] |  100.00% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ 9] [♣️ 9] [♣️ K] [♣️ 8] [♥️ 9] ]
+  Finneas         | [♦️ 3] [♣️ 2] |    0.00% | ⬆️ raise:$472
+  Yuchun          | [♣️ 6] [♦️ 8] |  100.00% | ❌ fold
+  Zheng           | [♠️ 2] [♠️ 6] |    0.00% | ❌ fold
+  RaphaelPlayer   | [♥️ 8] [♣️ J] |  100.00% | ⬆️ raise:$1456
+  Finneas         | [♦️ 3] [♣️ 2] |    0.00% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   975 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   955 ➡️ (+0)
+  Finneas        : $   463 📉 (-477)
+  Yuchun         : $   870 ➡️ (+0)
+  Zheng          : $   880 📉 (-10)
+  RaphaelPlayer  : $  3857 📈 (+502)
+----------------------------------------
+
+🔄 Round 18
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♠️ 7] [♠️ K]        | 💰   975
+👤 YueShi          | [♣️ 6] [♦️ 3]        | 💰   955
+👤 Finneas         | [♦️ 9] [♠️ 8]        | 💰   463
+👤 Yuchun          | [♦️ 2] [♥️ Q]        | 💰   865
+👤 Zheng           | [♦️ 6] [♣️ 5]        | 💰   870
+👤 RaphaelPlayer   | [♣️ 2] [♥️ 2]        | 💰  3857
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♣️ 2] [♥️ 2] |    9.90% | ❌ fold
+  ZifengFoldMan   | [♠️ 7] [♠️ K] |   30.60% | ❌ fold
+  YueShi          | [♣️ 6] [♦️ 3] |   15.70% | ❌ fold
+  Finneas         | [♦️ 9] [♠️ 8] |   38.10% | ✅ call:$10
+  Yuchun          | [♦️ 2] [♥️ Q] |   36.20% | ✅ call:$10
+  Zheng           | [♦️ 6] [♣️ 5] |   27.10% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♣️ 4] [♥️ 5] [♣️ 8] ]
+  Yuchun          | [♦️ 2] [♥️ Q] |   11.30% | ✅ call
+  Zheng           | [♦️ 6] [♣️ 5] |   35.70% | ✅ call
+  Finneas         | [♦️ 9] [♠️ 8] |   53.00% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 4] [♥️ 5] [♣️ 8] [♦️ 5] ]
+  Yuchun          | [♦️ 2] [♥️ Q] |    0.00% | ✅ call
+  Zheng           | [♦️ 6] [♣️ 5] |   95.00% | ⬆️ raise:$440
+  Finneas         | [♦️ 9] [♠️ 8] |    5.00% | ❌ fold
+  Yuchun          | [♦️ 2] [♥️ Q] |    0.00% | ❌ fold
+
+🏆 Winner: Zheng
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   975 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   955 ➡️ (+0)
+  Finneas        : $   453 📉 (-10)
+  Yuchun         : $   860 📉 (-5)
+  Zheng          : $   900 📈 (+30)
+  RaphaelPlayer  : $  3857 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 19
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♦️ 7] [♣️ 3]        | 💰   975
+👤 YueShi          | [♠️ K] [♣️ 9]        | 💰   955
+👤 Finneas         | [♠️ Q] [♦️ 8]        | 💰   453
+👤 Yuchun          | [♥️ Q] [♦️ 2]        | 💰   860
+👤 Zheng           | [♣️ A] [♦️ Q]        | 💰   895
+👤 RaphaelPlayer   | [♥️ T] [♠️ 7]        | 💰  3847
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♦️ 7] [♣️ 3] |   12.50% | ❌ fold
+  YueShi          | [♠️ K] [♣️ 9] |   28.70% | ❌ fold
+  Finneas         | [♠️ Q] [♦️ 8] |   15.40% | ✅ call:$10
+  Yuchun          | [♥️ Q] [♦️ 2] |   13.00% | ✅ call:$10
+  Zheng           | [♣️ A] [♦️ Q] |   42.60% | ✅ call:$10
+  RaphaelPlayer   | [♥️ T] [♠️ 7] |   31.00% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ 9] [♥️ 4] [♠️ 8] ]
+  Zheng           | [♣️ A] [♦️ Q] |   13.40% | ✅ call
+  Finneas         | [♠️ Q] [♦️ 8] |   88.10% | ✅ call
+  Yuchun          | [♥️ Q] [♦️ 2] |    2.10% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 9] [♥️ 4] [♠️ 8] [♥️ 9] ]
+  Zheng           | [♣️ A] [♦️ Q] |   10.40% | ✅ call
+  Finneas         | [♠️ Q] [♦️ 8] |   89.60% | ✅ call
+  Yuchun          | [♥️ Q] [♦️ 2] |    0.00% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ 9] [♥️ 4] [♠️ 8] [♥️ 9] [♥️ 5] ]
+  Zheng           | [♣️ A] [♦️ Q] |    0.00% | ✅ call
+  Finneas         | [♠️ Q] [♦️ 8] |  100.00% | ✅ call
+  Yuchun          | [♥️ Q] [♦️ 2] |    0.00% | ✅ call
+
+🏆 Winner: Finneas
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   975 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   955 ➡️ (+0)
+  Finneas        : $   483 📈 (+30)
+  Yuchun         : $   850 📉 (-10)
+  Zheng          : $   890 📉 (-5)
+  RaphaelPlayer  : $  3847 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 20
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♦️ 8] [♣️ 6]        | 💰   965
+👤 YueShi          | [♣️ 3] [♦️ 9]        | 💰   955
+👤 Finneas         | [♦️ 5] [♣️ K]        | 💰   483
+👤 Yuchun          | [♣️ Q] [♦️ 4]        | 💰   850
+👤 Zheng           | [♠️ 6] [♥️ 3]        | 💰   890
+👤 RaphaelPlayer   | [♠️ 2] [♦️ 3]        | 💰  3842
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♣️ 3] [♦️ 9] |   13.30% | ❌ fold
+  Finneas         | [♦️ 5] [♣️ K] |   31.90% | ✅ call:$10
+  Yuchun          | [♣️ Q] [♦️ 4] |   24.00% | ✅ call:$10
+  Zheng           | [♠️ 6] [♥️ 3] |   13.30% | ✅ call:$10
+  RaphaelPlayer   | [♠️ 2] [♦️ 3] |   11.50% | ❌ fold
+  ZifengFoldMan   | [♦️ 8] [♣️ 6] |   29.60% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ 7] [♣️ 9] [♥️ 7] ]
+  Finneas         | [♦️ 5] [♣️ K] |   63.10% | ✅ call
+  Yuchun          | [♣️ Q] [♦️ 4] |   20.60% | ✅ call
+  Zheng           | [♠️ 6] [♥️ 3] |   20.70% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 7] [♣️ 9] [♥️ 7] [♥️ 2] ]
+  Finneas         | [♦️ 5] [♣️ K] |   68.60% | ✅ call
+  Yuchun          | [♣️ Q] [♦️ 4] |   15.90% | ✅ call
+  Zheng           | [♠️ 6] [♥️ 3] |   15.50% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 7] [♣️ 9] [♥️ 7] [♥️ 2] [♠️ J] ]
+  Finneas         | [♦️ 5] [♣️ K] |  100.00% | ✅ call
+  Yuchun          | [♣️ Q] [♦️ 4] |    0.00% | ✅ call
+  Zheng           | [♠️ 6] [♥️ 3] |    0.00% | ✅ call
+
+🏆 Winner: Finneas
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   965 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   955 ➡️ (+0)
+  Finneas        : $   518 📈 (+35)
+  Yuchun         : $   840 📉 (-10)
+  Zheng          : $   880 📉 (-10)
+  RaphaelPlayer  : $  3842 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 21
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♣️ Q] [♦️ 4]        | 💰   960
+👤 YueShi          | [♦️ T] [♥️ 5]        | 💰   945
+👤 Finneas         | [♣️ J] [♠️ 5]        | 💰   518
+👤 Yuchun          | [♣️ 5] [♠️ 4]        | 💰   840
+👤 Zheng           | [♥️ 9] [♠️ Q]        | 💰   880
+👤 RaphaelPlayer   | [♠️ J] [♣️ 2]        | 💰  3842
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♣️ J] [♠️ 5] |   16.20% | ✅ call:$10
+  Yuchun          | [♣️ 5] [♠️ 4] |   16.20% | ✅ call:$10
+  Zheng           | [♥️ 9] [♠️ Q] |   37.50% | ✅ call:$10
+  RaphaelPlayer   | [♠️ J] [♣️ 2] |   17.20% | ❌ fold
+  ZifengFoldMan   | [♣️ Q] [♦️ 4] |   16.40% | ❌ fold
+  YueShi          | [♦️ T] [♥️ 5] |   19.50% | ❌ fold
+
+🎴 FLOP
+Board: [ [♠️ 8] [♣️ 9] [♠️ 7] ]
+  Finneas         | [♣️ J] [♠️ 5] |   39.60% | ✅ call
+  Yuchun          | [♣️ 5] [♠️ 4] |   15.30% | ✅ call
+  Zheng           | [♥️ 9] [♠️ Q] |   60.10% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 8] [♣️ 9] [♠️ 7] [♦️ K] ]
+  Finneas         | [♣️ J] [♠️ 5] |   27.00% | ✅ call
+  Yuchun          | [♣️ 5] [♠️ 4] |   10.40% | ✅ call
+  Zheng           | [♥️ 9] [♠️ Q] |   73.00% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ 8] [♣️ 9] [♠️ 7] [♦️ K] [♣️ 8] ]
+  Finneas         | [♣️ J] [♠️ 5] |    0.00% | ✅ call
+  Yuchun          | [♣️ 5] [♠️ 4] |    0.00% | ✅ call
+  Zheng           | [♥️ 9] [♠️ Q] |  100.00% | ✅ call
+
+🏆 Winner: Zheng
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   960 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   945 ➡️ (+0)
+  Finneas        : $   508 📉 (-10)
+  Yuchun         : $   830 📉 (-10)
+  Zheng          : $   915 📈 (+35)
+  RaphaelPlayer  : $  3842 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 22
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♥️ 3] [♠️ 2]        | 💰   960
+👤 YueShi          | [♠️ 6] [♦️ J]        | 💰   940
+👤 Finneas         | [♠️ J] [♠️ 7]        | 💰   498
+👤 Yuchun          | [♦️ 9] [♦️ 5]        | 💰   830
+👤 Zheng           | [♠️ T] [♣️ 3]        | 💰   915
+👤 RaphaelPlayer   | [♦️ Q] [♣️ 8]        | 💰  3842
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♦️ 9] [♦️ 5] |   23.00% | ✅ call:$10
+  Zheng           | [♠️ T] [♣️ 3] |   15.00% | ✅ call:$10
+  RaphaelPlayer   | [♦️ Q] [♣️ 8] |   26.30% | ✅ call:$10
+  ZifengFoldMan   | [♥️ 3] [♠️ 2] |   11.50% | ❌ fold
+  YueShi          | [♠️ 6] [♦️ J] |   12.80% | ❌ fold
+  Finneas         | [♠️ J] [♠️ 7] |   30.30% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♥️ T] [♥️ 6] [♣️ 2] ]
+  Finneas         | [♠️ J] [♠️ 7] |   10.30% | ✅ call
+  Yuchun          | [♦️ 9] [♦️ 5] |    4.70% | ✅ call
+  Zheng           | [♠️ T] [♣️ 3] |   68.00% | ✅ call
+  RaphaelPlayer   | [♦️ Q] [♣️ 8] |   17.00% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ T] [♥️ 6] [♣️ 2] [♥️ 8] ]
+  Finneas         | [♠️ J] [♠️ 7] |   12.90% | ✅ call
+  Yuchun          | [♦️ 9] [♦️ 5] |    8.70% | ✅ call
+  Zheng           | [♠️ T] [♣️ 3] |   65.50% | ✅ call
+  RaphaelPlayer   | [♦️ Q] [♣️ 8] |   12.90% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ T] [♥️ 6] [♣️ 2] [♥️ 8] [♣️ 9] ]
+  Finneas         | [♠️ J] [♠️ 7] |  100.00% | ✅ call
+  Yuchun          | [♦️ 9] [♦️ 5] |    0.00% | ✅ call
+  Zheng           | [♠️ T] [♣️ 3] |    0.00% | ✅ call
+  RaphaelPlayer   | [♦️ Q] [♣️ 8] |    0.00% | ✅ call
+
+🏆 Winner: Finneas
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   960 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   940 ➡️ (+0)
+  Finneas        : $   543 📈 (+45)
+  Yuchun         : $   820 📉 (-10)
+  Zheng          : $   905 📉 (-10)
+  RaphaelPlayer  : $  3832 📉 (-10)
+----------------------------------------
+
+🔄 Round 23
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♦️ 7] [♦️ 2]        | 💰   960
+👤 YueShi          | [♠️ 3] [♠️ 4]        | 💰   940
+👤 Finneas         | [♥️ 3] [♥️ 6]        | 💰   538
+👤 Yuchun          | [♥️ 9] [♦️ J]        | 💰   810
+👤 Zheng           | [♣️ A] [♠️ T]        | 💰   905
+👤 RaphaelPlayer   | [♠️ J] [♠️ 5]        | 💰  3832
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♣️ A] [♠️ T] |   24.80% | ✅ call:$10
+  RaphaelPlayer   | [♠️ J] [♠️ 5] |   12.30% | ✅ call:$10
+  ZifengFoldMan   | [♦️ 7] [♦️ 2] |   17.80% | ❌ fold
+  YueShi          | [♠️ 3] [♠️ 4] |   15.20% | ❌ fold
+  Finneas         | [♥️ 3] [♥️ 6] |   24.00% | ✅ call:$10
+  Yuchun          | [♥️ 9] [♦️ J] |   24.90% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 9] [♥️ 5] [♣️ K] ]
+  Finneas         | [♥️ 3] [♥️ 6] |   12.30% | ✅ call
+  Yuchun          | [♥️ 9] [♦️ J] |   55.00% | ✅ call
+  Zheng           | [♣️ A] [♠️ T] |   17.60% | ✅ call
+  RaphaelPlayer   | [♠️ J] [♠️ 5] |   18.20% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 9] [♥️ 5] [♣️ K] [♦️ 6] ]
+  Finneas         | [♥️ 3] [♥️ 6] |   13.10% | ✅ call
+  Yuchun          | [♥️ 9] [♦️ J] |   66.10% | ✅ call
+  Zheng           | [♣️ A] [♠️ T] |   15.00% | ✅ call
+  RaphaelPlayer   | [♠️ J] [♠️ 5] |    5.80% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ 9] [♥️ 5] [♣️ K] [♦️ 6] [♥️ A] ]
+  Finneas         | [♥️ 3] [♥️ 6] |    0.00% | ✅ call
+  Yuchun          | [♥️ 9] [♦️ J] |    0.00% | ✅ call
+  Zheng           | [♣️ A] [♠️ T] |  100.00% | ✅ call
+  RaphaelPlayer   | [♠️ J] [♠️ 5] |    0.00% | ✅ call
+
+🏆 Winner: Zheng
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   960 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   940 ➡️ (+0)
+  Finneas        : $   533 📉 (-5)
+  Yuchun         : $   810 ➡️ (+0)
+  Zheng          : $   935 📈 (+30)
+  RaphaelPlayer  : $  3822 📉 (-10)
+----------------------------------------
+
+🔄 Round 24
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♠️ 6] [♥️ Q]        | 💰   960
+👤 YueShi          | [♣️ 3] [♣️ 5]        | 💰   940
+👤 Finneas         | [♠️ 8] [♠️ 5]        | 💰   533
+👤 Yuchun          | [♦️ 8] [♦️ 4]        | 💰   805
+👤 Zheng           | [♣️ 9] [♣️ 8]        | 💰   925
+👤 RaphaelPlayer   | [♣️ J] [♥️ 6]        | 💰  3822
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♣️ J] [♥️ 6] |   16.10% | ❌ fold
+  ZifengFoldMan   | [♠️ 6] [♥️ Q] |   32.00% | ❌ fold
+  YueShi          | [♣️ 3] [♣️ 5] |   23.00% | ❌ fold
+  Finneas         | [♠️ 8] [♠️ 5] |   30.50% | ✅ call:$10
+  Yuchun          | [♦️ 8] [♦️ 4] |   25.40% | ✅ call:$10
+  Zheng           | [♣️ 9] [♣️ 8] |   56.50% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ A] [♠️ J] [♦️ Q] ]
+  Yuchun          | [♦️ 8] [♦️ 4] |   55.20% | ✅ call
+  Zheng           | [♣️ 9] [♣️ 8] |   43.50% | ✅ call
+  Finneas         | [♠️ 8] [♠️ 5] |   22.70% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ A] [♠️ J] [♦️ Q] [♣️ K] ]
+  Yuchun          | [♦️ 8] [♦️ 4] |   62.40% | ✅ call
+  Zheng           | [♣️ 9] [♣️ 8] |   66.60% | ✅ call
+  Finneas         | [♠️ 8] [♠️ 5] |   38.20% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ A] [♠️ J] [♦️ Q] [♣️ K] [♦️ 6] ]
+  Yuchun          | [♦️ 8] [♦️ 4] |  100.00% | ⬆️ raise:$800
+  Zheng           | [♣️ 9] [♣️ 8] |    0.00% | ❌ fold
+  Finneas         | [♠️ 8] [♠️ 5] |    0.00% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   960 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   940 ➡️ (+0)
+  Finneas        : $   523 📉 (-10)
+  Yuchun         : $   830 📈 (+25)
+  Zheng          : $   925 ➡️ (+0)
+  RaphaelPlayer  : $  3822 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 25
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♠️ Q] [♣️ 9]        | 💰   960
+👤 YueShi          | [♠️ 2] [♣️ 8]        | 💰   940
+👤 Finneas         | [♦️ 9] [♠️ T]        | 💰   523
+👤 Yuchun          | [♣️ J] [♥️ 2]        | 💰   830
+👤 Zheng           | [♠️ 7] [♣️ 6]        | 💰   920
+👤 RaphaelPlayer   | [♥️ J] [♣️ 4]        | 💰  3812
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♠️ Q] [♣️ 9] |   30.30% | ❌ fold
+  YueShi          | [♠️ 2] [♣️ 8] |   14.70% | ❌ fold
+  Finneas         | [♦️ 9] [♠️ T] |   39.40% | ✅ call:$10
+  Yuchun          | [♣️ J] [♥️ 2] |   20.60% | ✅ call:$10
+  Zheng           | [♠️ 7] [♣️ 6] |   31.20% | ✅ call:$10
+  RaphaelPlayer   | [♥️ J] [♣️ 4] |   22.30% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ J] [♥️ K] [♥️ 5] ]
+  Zheng           | [♠️ 7] [♣️ 6] |    5.60% | ✅ call
+  Finneas         | [♦️ 9] [♠️ T] |   19.70% | ✅ call
+  Yuchun          | [♣️ J] [♥️ 2] |   74.70% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ J] [♥️ K] [♥️ 5] [♠️ 6] ]
+  Zheng           | [♠️ 7] [♣️ 6] |   12.40% | ✅ call
+  Finneas         | [♦️ 9] [♠️ T] |    8.70% | ✅ call
+  Yuchun          | [♣️ J] [♥️ 2] |   78.90% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ J] [♥️ K] [♥️ 5] [♠️ 6] [♠️ 4] ]
+  Zheng           | [♠️ 7] [♣️ 6] |    0.00% | ✅ call
+  Finneas         | [♦️ 9] [♠️ T] |    0.00% | ✅ call
+  Yuchun          | [♣️ J] [♥️ 2] |  100.00% | ✅ call
+
+🏆 Winner: Yuchun
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   960 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   940 ➡️ (+0)
+  Finneas        : $   513 📉 (-10)
+  Yuchun         : $   860 📈 (+30)
+  Zheng          : $   915 📉 (-5)
+  RaphaelPlayer  : $  3812 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 26
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♠️ 8] [♦️ 8]        | 💰   950
+👤 YueShi          | [♠️ T] [♦️ 2]        | 💰   940
+👤 Finneas         | [♠️ 5] [♠️ 7]        | 💰   513
+👤 Yuchun          | [♣️ T] [♣️ 3]        | 💰   860
+👤 Zheng           | [♦️ 7] [♦️ K]        | 💰   915
+👤 RaphaelPlayer   | [♥️ 6] [♥️ K]        | 💰  3807
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♠️ T] [♦️ 2] |   10.40% | ❌ fold
+  Finneas         | [♠️ 5] [♠️ 7] |   13.50% | ✅ call:$10
+  Yuchun          | [♣️ T] [♣️ 3] |   23.70% | ✅ call:$10
+  Zheng           | [♦️ 7] [♦️ K] |   18.00% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 6] [♥️ K] |   18.00% | ✅ call:$10
+  ZifengFoldMan   | [♠️ 8] [♦️ 8] |   34.40% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ J] [♣️ A] [♠️ Q] ]
+  RaphaelPlayer   | [♥️ 6] [♥️ K] |   52.30% | ✅ call
+  Finneas         | [♠️ 5] [♠️ 7] |   16.90% | ✅ call
+  Yuchun          | [♣️ T] [♣️ 3] |   21.30% | ✅ call
+  Zheng           | [♦️ 7] [♦️ K] |   57.90% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ J] [♣️ A] [♠️ Q] [♠️ 4] ]
+  RaphaelPlayer   | [♥️ 6] [♥️ K] |   51.40% | ✅ call
+  Finneas         | [♠️ 5] [♠️ 7] |   30.60% | ✅ call
+  Yuchun          | [♣️ T] [♣️ 3] |    6.60% | ✅ call
+  Zheng           | [♦️ 7] [♦️ K] |   58.50% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ J] [♣️ A] [♠️ Q] [♠️ 4] [♥️ Q] ]
+  RaphaelPlayer   | [♥️ 6] [♥️ K] |  100.00% | ✅ call
+  Finneas         | [♠️ 5] [♠️ 7] |    0.00% | ✅ call
+  Yuchun          | [♣️ T] [♣️ 3] |    0.00% | ✅ call
+  Zheng           | [♦️ 7] [♦️ K] |  100.00% | ✅ call
+
+🏆 Winner: Zheng', 'RaphaelPlayer
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   950 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   940 ➡️ (+0)
+  Finneas        : $   503 📉 (-10)
+  Yuchun         : $   850 📉 (-10)
+  Zheng          : $   930 📈 (+15)
+  RaphaelPlayer  : $  3827 📈 (+20)
+----------------------------------------
+
+🔄 Round 27
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♠️ 7] [♠️ 6]        | 💰   945
+👤 YueShi          | [♦️ J] [♦️ 4]        | 💰   930
+👤 Finneas         | [♦️ 6] [♣️ A]        | 💰   503
+👤 Yuchun          | [♠️ J] [♠️ 4]        | 💰   850
+👤 Zheng           | [♦️ 3] [♠️ 3]        | 💰   930
+👤 RaphaelPlayer   | [♥️ 2] [♥️ A]        | 💰  3827
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♦️ 6] [♣️ A] |   19.10% | ✅ call:$10
+  Yuchun          | [♠️ J] [♠️ 4] |   18.10% | ✅ call:$10
+  Zheng           | [♦️ 3] [♠️ 3] |   23.40% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 2] [♥️ A] |   22.00% | ✅ call:$10
+  ZifengFoldMan   | [♠️ 7] [♠️ 6] |   21.50% | ❌ fold
+  YueShi          | [♦️ J] [♦️ 4] |   23.90% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ 4] [♣️ 5] [♦️ Q] ]
+  Finneas         | [♦️ 6] [♣️ A] |   21.10% | ✅ call
+  Yuchun          | [♠️ J] [♠️ 4] |   63.20% | ✅ call
+  Zheng           | [♦️ 3] [♠️ 3] |    5.00% | ✅ call
+  RaphaelPlayer   | [♥️ 2] [♥️ A] |   12.80% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 4] [♣️ 5] [♦️ Q] [♥️ 5] ]
+  Finneas         | [♦️ 6] [♣️ A] |   15.50% | ✅ call
+  Yuchun          | [♠️ J] [♠️ 4] |   61.30% | ✅ call
+  Zheng           | [♦️ 3] [♠️ 3] |    2.60% | ✅ call
+  RaphaelPlayer   | [♥️ 2] [♥️ A] |   30.60% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ 4] [♣️ 5] [♦️ Q] [♥️ 5] [♥️ T] ]
+  Finneas         | [♦️ 6] [♣️ A] |    0.00% | ✅ call
+  Yuchun          | [♠️ J] [♠️ 4] |    0.00% | ✅ call
+  Zheng           | [♦️ 3] [♠️ 3] |    0.00% | ✅ call
+  RaphaelPlayer   | [♥️ 2] [♥️ A] |  100.00% | ⬆️ raise:$65
+  Finneas         | [♦️ 6] [♣️ A] |    0.00% | ❌ fold
+  Yuchun          | [♠️ J] [♠️ 4] |    0.00% | ✅ call:$65
+  Zheng           | [♦️ 3] [♠️ 3] |    0.00% | ✅ call:$65
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   945 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   930 ➡️ (+0)
+  Finneas        : $   493 📉 (-10)
+  Yuchun         : $   775 📉 (-75)
+  Zheng          : $   855 📉 (-75)
+  RaphaelPlayer  : $  4002 📈 (+175)
+----------------------------------------
+
+🔄 Round 28
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♦️ 2] [♥️ 7]        | 💰   945
+👤 YueShi          | [♣️ K] [♠️ 4]        | 💰   925
+👤 Finneas         | [♣️ T] [♣️ J]        | 💰   483
+👤 Yuchun          | [♣️ 9] [♠️ 7]        | 💰   775
+👤 Zheng           | [♦️ 9] [♦️ A]        | 💰   855
+👤 RaphaelPlayer   | [♥️ 4] [♥️ Q]        | 💰  4002
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♣️ 9] [♠️ 7] |   11.80% | ✅ call:$10
+  Zheng           | [♦️ 9] [♦️ A] |   28.30% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 4] [♥️ Q] |   18.50% | ✅ call:$10
+  ZifengFoldMan   | [♦️ 2] [♥️ 7] |    7.60% | ❌ fold
+  YueShi          | [♣️ K] [♠️ 4] |   16.00% | ❌ fold
+  Finneas         | [♣️ T] [♣️ J] |   28.40% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ K] [♠️ J] [♣️ 3] ]
+  Finneas         | [♣️ T] [♣️ J] |   71.40% | ✅ call
+  Yuchun          | [♣️ 9] [♠️ 7] |    2.20% | ✅ call
+  Zheng           | [♦️ 9] [♦️ A] |   17.00% | ✅ call
+  RaphaelPlayer   | [♥️ 4] [♥️ Q] |    9.40% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ K] [♠️ J] [♣️ 3] [♦️ J] ]
+  Finneas         | [♣️ T] [♣️ J] |   83.80% | ⬆️ raise:$246
+  Yuchun          | [♣️ 9] [♠️ 7] |    0.00% | ❌ fold
+  Zheng           | [♦️ 9] [♦️ A] |   14.10% | ❌ fold
+  RaphaelPlayer   | [♥️ 4] [♥️ Q] |    0.00% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   945 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   925 ➡️ (+0)
+  Finneas        : $   528 📈 (+45)
+  Yuchun         : $   765 📉 (-10)
+  Zheng          : $   845 📉 (-10)
+  RaphaelPlayer  : $  3992 📉 (-10)
+----------------------------------------
+
+🔄 Round 29
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♣️ A] [♣️ 6]        | 💰   945
+👤 YueShi          | [♣️ Q] [♠️ 9]        | 💰   925
+👤 Finneas         | [♣️ 8] [♥️ T]        | 💰   523
+👤 Yuchun          | [♠️ 6] [♠️ Q]        | 💰   755
+👤 Zheng           | [♦️ 4] [♦️ K]        | 💰   845
+👤 RaphaelPlayer   | [♥️ 6] [♦️ 5]        | 💰  3992
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♦️ 4] [♦️ K] |   25.10% | ✅ call:$10
+  RaphaelPlayer   | [♥️ 6] [♦️ 5] |   11.30% | ❌ fold
+  ZifengFoldMan   | [♣️ A] [♣️ 6] |   28.30% | ❌ fold
+  YueShi          | [♣️ Q] [♠️ 9] |   19.30% | ❌ fold
+  Finneas         | [♣️ 8] [♥️ T] |   30.30% | ✅ call:$10
+  Yuchun          | [♠️ 6] [♠️ Q] |   32.30% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 4] [♦️ 2] [♣️ T] ]
+  Finneas         | [♣️ 8] [♥️ T] |   57.80% | ✅ call
+  Yuchun          | [♠️ 6] [♠️ Q] |   16.90% | ✅ call
+  Zheng           | [♦️ 4] [♦️ K] |   25.30% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 4] [♦️ 2] [♣️ T] [♠️ J] ]
+  Finneas         | [♣️ 8] [♥️ T] |   64.30% | ✅ call
+  Yuchun          | [♠️ 6] [♠️ Q] |   26.50% | ✅ call
+  Zheng           | [♦️ 4] [♦️ K] |    9.20% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ 4] [♦️ 2] [♣️ T] [♠️ J] [♠️ A] ]
+  Finneas         | [♣️ 8] [♥️ T] |    0.00% | ✅ call
+  Yuchun          | [♠️ 6] [♠️ Q] |  100.00% | ⬆️ raise:$755
+  Zheng           | [♦️ 4] [♦️ K] |    0.00% | ❌ fold
+  Finneas         | [♣️ 8] [♥️ T] |    0.00% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   945 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   925 ➡️ (+0)
+  Finneas        : $   518 📉 (-5)
+  Yuchun         : $   785 📈 (+30)
+  Zheng          : $   835 📉 (-10)
+  RaphaelPlayer  : $  3992 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 30
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♣️ 4] [♣️ 8]        | 💰   945
+👤 YueShi          | [♦️ Q] [♥️ 8]        | 💰   925
+👤 Finneas         | [♦️ 2] [♣️ T]        | 💰   518
+👤 Yuchun          | [♥️ 6] [♣️ 3]        | 💰   780
+👤 Zheng           | [♣️ 6] [♦️ J]        | 💰   825
+👤 RaphaelPlayer   | [♠️ Q] [♥️ 4]        | 💰  3992
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♠️ Q] [♥️ 4] |   17.10% | ❌ fold
+  ZifengFoldMan   | [♣️ 4] [♣️ 8] |   16.20% | ❌ fold
+  YueShi          | [♦️ Q] [♥️ 8] |   41.30% | ❌ fold
+  Finneas         | [♦️ 2] [♣️ T] |   34.80% | ✅ call:$10
+  Yuchun          | [♥️ 6] [♣️ 3] |   24.90% | ✅ call:$10
+  Zheng           | [♣️ 6] [♦️ J] |   46.10% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♥️ A] [♦️ 9] [♥️ 2] ]
+  Yuchun          | [♥️ 6] [♣️ 3] |   19.00% | ✅ call
+  Zheng           | [♣️ 6] [♦️ J] |   18.60% | ✅ call
+  Finneas         | [♦️ 2] [♣️ T] |   63.00% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ A] [♦️ 9] [♥️ 2] [♣️ 2] ]
+  Yuchun          | [♥️ 6] [♣️ 3] |    0.00% | ✅ call
+  Zheng           | [♣️ 6] [♦️ J] |    0.00% | ✅ call
+  Finneas         | [♦️ 2] [♣️ T] |  100.00% | ⬆️ raise:$259
+  Yuchun          | [♥️ 6] [♣️ 3] |    0.00% | ❌ fold
+  Zheng           | [♣️ 6] [♦️ J] |    0.00% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   945 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   925 ➡️ (+0)
+  Finneas        : $   538 📈 (+20)
+  Yuchun         : $   775 📉 (-5)
+  Zheng          : $   825 ➡️ (+0)
+  RaphaelPlayer  : $  3992 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 31
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♦️ Q] [♣️ 4]        | 💰   945
+👤 YueShi          | [♣️ 3] [♦️ 4]        | 💰   925
+👤 Finneas         | [♥️ 8] [♥️ 5]        | 💰   538
+👤 Yuchun          | [♦️ T] [♣️ 8]        | 💰   775
+👤 Zheng           | [♥️ Q] [♠️ J]        | 💰   820
+👤 RaphaelPlayer   | [♣️ K] [♥️ 7]        | 💰  3982
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♦️ Q] [♣️ 4] |    6.90% | ❌ fold
+  YueShi          | [♣️ 3] [♦️ 4] |   15.30% | ❌ fold
+  Finneas         | [♥️ 8] [♥️ 5] |   18.50% | ✅ call:$10
+  Yuchun          | [♦️ T] [♣️ 8] |   22.90% | ✅ call:$10
+  Zheng           | [♥️ Q] [♠️ J] |   34.70% | ✅ call:$10
+  RaphaelPlayer   | [♣️ K] [♥️ 7] |   27.40% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ T] [♣️ 5] [♣️ 9] ]
+  Zheng           | [♥️ Q] [♠️ J] |   41.10% | ✅ call
+  RaphaelPlayer   | [♣️ K] [♥️ 7] |    4.60% | ✅ call
+  Finneas         | [♥️ 8] [♥️ 5] |   10.10% | ✅ call
+  Yuchun          | [♦️ T] [♣️ 8] |   45.90% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ T] [♣️ 5] [♣️ 9] [♥️ 9] ]
+  Zheng           | [♥️ Q] [♠️ J] |   28.30% | ✅ call
+  RaphaelPlayer   | [♣️ K] [♥️ 7] |    0.00% | ✅ call
+  Finneas         | [♥️ 8] [♥️ 5] |    5.20% | ✅ call
+  Yuchun          | [♦️ T] [♣️ 8] |   66.50% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ T] [♣️ 5] [♣️ 9] [♥️ 9] [♥️ 2] ]
+  Zheng           | [♥️ Q] [♠️ J] |    0.00% | ✅ call
+  RaphaelPlayer   | [♣️ K] [♥️ 7] |    0.00% | ✅ call
+  Finneas         | [♥️ 8] [♥️ 5] |    0.00% | ✅ call
+  Yuchun          | [♦️ T] [♣️ 8] |  100.00% | ✅ call
+
+🏆 Winner: Yuchun
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   945 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   925 ➡️ (+0)
+  Finneas        : $   528 📉 (-10)
+  Yuchun         : $   805 📈 (+30)
+  Zheng          : $   815 📉 (-5)
+  RaphaelPlayer  : $  3982 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 32
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♠️ 6] [♠️ 2]        | 💰   935
+👤 YueShi          | [♦️ Q] [♥️ 5]        | 💰   925
+👤 Finneas         | [♣️ 9] [♦️ 8]        | 💰   528
+👤 Yuchun          | [♥️ T] [♥️ 2]        | 💰   805
+👤 Zheng           | [♥️ 6] [♣️ J]        | 💰   815
+👤 RaphaelPlayer   | [♣️ 7] [♣️ 8]        | 💰  3977
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♦️ Q] [♥️ 5] |   22.00% | ❌ fold
+  Finneas         | [♣️ 9] [♦️ 8] |   22.90% | ✅ call:$10
+  Yuchun          | [♥️ T] [♥️ 2] |   24.70% | ✅ call:$10
+  Zheng           | [♥️ 6] [♣️ J] |   24.50% | ✅ call:$10
+  RaphaelPlayer   | [♣️ 7] [♣️ 8] |   21.00% | ✅ call:$10
+  ZifengFoldMan   | [♠️ 6] [♠️ 2] |   15.70% | ❌ fold
+
+🎴 FLOP
+Board: [ [♠️ J] [♦️ J] [♦️ T] ]
+  RaphaelPlayer   | [♣️ 7] [♣️ 8] |   11.70% | ✅ call
+  Finneas         | [♣️ 9] [♦️ 8] |   26.00% | ✅ call
+  Yuchun          | [♥️ T] [♥️ 2] |    0.10% | ✅ call
+  Zheng           | [♥️ 6] [♣️ J] |   64.20% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ J] [♦️ J] [♦️ T] [♥️ Q] ]
+  RaphaelPlayer   | [♣️ 7] [♣️ 8] |    8.10% | ✅ call
+  Finneas         | [♣️ 9] [♦️ 8] |   76.80% | ✅ call
+  Yuchun          | [♥️ T] [♥️ 2] |    0.00% | ✅ call
+  Zheng           | [♥️ 6] [♣️ J] |   23.20% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ J] [♦️ J] [♦️ T] [♥️ Q] [♠️ 3] ]
+  RaphaelPlayer   | [♣️ 7] [♣️ 8] |    0.00% | ✅ call
+  Finneas         | [♣️ 9] [♦️ 8] |  100.00% | ✅ call
+  Yuchun          | [♥️ T] [♥️ 2] |    0.00% | ✅ call
+  Zheng           | [♥️ 6] [♣️ J] |    0.00% | ✅ call
+
+🏆 Winner: Finneas
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   935 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   925 ➡️ (+0)
+  Finneas        : $   568 📈 (+40)
+  Yuchun         : $   795 📉 (-10)
+  Zheng          : $   805 📉 (-10)
+  RaphaelPlayer  : $  3972 📉 (-5)
+----------------------------------------
+
+🔄 Round 33
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♣️ 2] [♥️ 6]        | 💰   930
+👤 YueShi          | [♥️ Q] [♥️ 9]        | 💰   915
+👤 Finneas         | [♦️ 2] [♠️ A]        | 💰   568
+👤 Yuchun          | [♥️ A] [♣️ 5]        | 💰   795
+👤 Zheng           | [♥️ 4] [♦️ 3]        | 💰   805
+👤 RaphaelPlayer   | [♥️ J] [♦️ 4]        | 💰  3972
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♦️ 2] [♠️ A] |   16.20% | ✅ call:$10
+  Yuchun          | [♥️ A] [♣️ 5] |   22.00% | ✅ call:$10
+  Zheng           | [♥️ 4] [♦️ 3] |   11.80% | ✅ call:$10
+  RaphaelPlayer   | [♥️ J] [♦️ 4] |   17.10% | ❌ fold
+  ZifengFoldMan   | [♣️ 2] [♥️ 6] |   12.20% | ❌ fold
+  YueShi          | [♥️ Q] [♥️ 9] |   44.30% | ❌ fold
+
+🎴 FLOP
+Board: [ [♠️ Q] [♣️ A] [♣️ 7] ]
+  Finneas         | [♦️ 2] [♠️ A] |   81.90% | ✅ call
+  Yuchun          | [♥️ A] [♣️ 5] |   86.50% | ⬆️ raise:$40
+  Zheng           | [♥️ 4] [♦️ 3] |    3.50% | ✅ call:$40
+  Finneas         | [♦️ 2] [♠️ A] |   81.90% | ❌ fold
+
+🎴 TURN
+Board: [ [♠️ Q] [♣️ A] [♣️ 7] [♦️ Q] ]
+  Yuchun          | [♥️ A] [♣️ 5] |  100.00% | ⬆️ raise:$745
+  Zheng           | [♥️ 4] [♦️ 3] |    0.00% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   930 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   915 ➡️ (+0)
+  Finneas        : $   558 📉 (-10)
+  Yuchun         : $   870 📈 (+75)
+  Zheng          : $   755 📉 (-50)
+  RaphaelPlayer  : $  3972 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 34
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♠️ J] [♣️ T]        | 💰   930
+👤 YueShi          | [♣️ 8] [♣️ 3]        | 💰   910
+👤 Finneas         | [♥️ 2] [♥️ A]        | 💰   548
+👤 Yuchun          | [♦️ 7] [♥️ 5]        | 💰   870
+👤 Zheng           | [♣️ 5] [♣️ 4]        | 💰   755
+👤 RaphaelPlayer   | [♠️ 2] [♠️ 7]        | 💰  3972
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♦️ 7] [♥️ 5] |   15.10% | ✅ call:$10
+  Zheng           | [♣️ 5] [♣️ 4] |   11.80% | ✅ call:$10
+  RaphaelPlayer   | [♠️ 2] [♠️ 7] |   12.00% | ❌ fold
+  ZifengFoldMan   | [♠️ J] [♣️ T] |   30.00% | ❌ fold
+  YueShi          | [♣️ 8] [♣️ 3] |   26.00% | ❌ fold
+  Finneas         | [♥️ 2] [♥️ A] |   46.10% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 9] [♣️ 2] [♣️ 6] ]
+  Finneas         | [♥️ 2] [♥️ A] |   27.00% | ✅ call
+  Yuchun          | [♦️ 7] [♥️ 5] |   20.50% | ✅ call
+  Zheng           | [♣️ 5] [♣️ 4] |   53.90% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 9] [♣️ 2] [♣️ 6] [♥️ 3] ]
+  Finneas         | [♥️ 2] [♥️ A] |    0.00% | ✅ call
+  Yuchun          | [♦️ 7] [♥️ 5] |   16.90% | ✅ call
+  Zheng           | [♣️ 5] [♣️ 4] |   83.10% | ⬆️ raise:$745
+  Finneas         | [♥️ 2] [♥️ A] |    0.00% | ❌ fold
+  Yuchun          | [♦️ 7] [♥️ 5] |   12.80% | ❌ fold
+
+🏆 Winner: Zheng
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   930 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   910 ➡️ (+0)
+  Finneas        : $   548 ➡️ (+0)
+  Yuchun         : $   860 📉 (-10)
+  Zheng          : $   780 📈 (+25)
+  RaphaelPlayer  : $  3972 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 35
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♥️ K] [♣️ K]        | 💰   930
+👤 YueShi          | [♦️ J] [♠️ Q]        | 💰   910
+👤 Finneas         | [♥️ 6] [♦️ 7]        | 💰   543
+👤 Yuchun          | [♣️ T] [♠️ 7]        | 💰   850
+👤 Zheng           | [♠️ 2] [♥️ J]        | 💰   780
+👤 RaphaelPlayer   | [♣️ 3] [♠️ 4]        | 💰  3972
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♠️ 2] [♥️ J] |    5.50% | ✅ call:$10
+  RaphaelPlayer   | [♣️ 3] [♠️ 4] |   13.00% | ❌ fold
+  ZifengFoldMan   | [♥️ K] [♣️ K] |   57.90% | ❌ fold
+  YueShi          | [♦️ J] [♠️ Q] |   44.10% | ❌ fold
+  Finneas         | [♥️ 6] [♦️ 7] |   25.90% | ✅ call:$10
+  Yuchun          | [♣️ T] [♠️ 7] |   34.70% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♣️ Q] [♦️ 2] [♣️ 5] ]
+  Finneas         | [♥️ 6] [♦️ 7] |   14.10% | ✅ call
+  Yuchun          | [♣️ T] [♠️ 7] |   22.10% | ✅ call
+  Zheng           | [♠️ 2] [♥️ J] |   64.20% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ Q] [♦️ 2] [♣️ 5] [♠️ 9] ]
+  Finneas         | [♥️ 6] [♦️ 7] |   17.00% | ✅ call
+  Yuchun          | [♣️ T] [♠️ 7] |   12.20% | ✅ call
+  Zheng           | [♠️ 2] [♥️ J] |   70.80% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ Q] [♦️ 2] [♣️ 5] [♠️ 9] [♦️ Q] ]
+  Finneas         | [♥️ 6] [♦️ 7] |    0.00% | ✅ call
+  Yuchun          | [♣️ T] [♠️ 7] |    0.00% | ✅ call
+  Zheng           | [♠️ 2] [♥️ J] |  100.00% | ✅ call
+
+🏆 Winner: Zheng
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   930 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   910 ➡️ (+0)
+  Finneas        : $   538 📉 (-5)
+  Yuchun         : $   850 ➡️ (+0)
+  Zheng          : $   800 📈 (+20)
+  RaphaelPlayer  : $  3972 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 36
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♠️ 5] [♠️ T]        | 💰   930
+👤 YueShi          | [♦️ J] [♥️ J]        | 💰   910
+👤 Finneas         | [♣️ Q] [♦️ 3]        | 💰   538
+👤 Yuchun          | [♦️ 9] [♥️ 9]        | 💰   845
+👤 Zheng           | [♣️ A] [♦️ Q]        | 💰   790
+👤 RaphaelPlayer   | [♠️ 7] [♠️ 4]        | 💰  3972
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♠️ 7] [♠️ 4] |   11.20% | ❌ fold
+  ZifengFoldMan   | [♠️ 5] [♠️ T] |   17.90% | ❌ fold
+  YueShi          | [♦️ J] [♥️ J] |   46.90% | ❌ fold
+  Finneas         | [♣️ Q] [♦️ 3] |    7.80% | ✅ call:$10
+  Yuchun          | [♦️ 9] [♥️ 9] |   57.40% | ✅ call:$10
+  Zheng           | [♣️ A] [♦️ Q] |   37.40% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♥️ A] [♣️ 8] [♥️ 4] ]
+  Yuchun          | [♦️ 9] [♥️ 9] |   14.90% | ✅ call
+  Zheng           | [♣️ A] [♦️ Q] |   83.20% | ✅ call
+  Finneas         | [♣️ Q] [♦️ 3] |    1.90% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ A] [♣️ 8] [♥️ 4] [♣️ K] ]
+  Yuchun          | [♦️ 9] [♥️ 9] |    3.60% | ✅ call
+  Zheng           | [♣️ A] [♦️ Q] |   96.40% | ✅ call
+  Finneas         | [♣️ Q] [♦️ 3] |    0.00% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ A] [♣️ 8] [♥️ 4] [♣️ K] [♣️ 9] ]
+  Yuchun          | [♦️ 9] [♥️ 9] |  100.00% | ⬆️ raise:$840
+  Zheng           | [♣️ A] [♦️ Q] |    0.00% | ❌ fold
+  Finneas         | [♣️ Q] [♦️ 3] |    0.00% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   930 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   910 ➡️ (+0)
+  Finneas        : $   528 📉 (-10)
+  Yuchun         : $   870 📈 (+25)
+  Zheng          : $   790 ➡️ (+0)
+  RaphaelPlayer  : $  3972 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 37
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♦️ 3] [♥️ A]        | 💰   930
+👤 YueShi          | [♥️ K] [♣️ A]        | 💰   910
+👤 Finneas         | [♦️ 9] [♣️ 5]        | 💰   528
+👤 Yuchun          | [♠️ 4] [♥️ Q]        | 💰   870
+👤 Zheng           | [♠️ 8] [♥️ 5]        | 💰   785
+👤 RaphaelPlayer   | [♠️ J] [♦️ 6]        | 💰  3962
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♦️ 3] [♥️ A] |    8.60% | ❌ fold
+  YueShi          | [♥️ K] [♣️ A] |   37.40% | ❌ fold
+  Finneas         | [♦️ 9] [♣️ 5] |   26.50% | ✅ call:$10
+  Yuchun          | [♠️ 4] [♥️ Q] |   34.20% | ✅ call:$10
+  Zheng           | [♠️ 8] [♥️ 5] |   15.70% | ✅ call:$10
+  RaphaelPlayer   | [♠️ J] [♦️ 6] |   28.10% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ 6] [♦️ Q] [♦️ K] ]
+  Zheng           | [♠️ 8] [♥️ 5] |    4.40% | ✅ call
+  Finneas         | [♦️ 9] [♣️ 5] |    9.20% | ✅ call
+  Yuchun          | [♠️ 4] [♥️ Q] |   86.40% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 6] [♦️ Q] [♦️ K] [♣️ 2] ]
+  Zheng           | [♠️ 8] [♥️ 5] |    0.00% | ✅ call
+  Finneas         | [♦️ 9] [♣️ 5] |    0.00% | ✅ call
+  Yuchun          | [♠️ 4] [♥️ Q] |  100.00% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ 6] [♦️ Q] [♦️ K] [♣️ 2] [♣️ 8] ]
+  Zheng           | [♠️ 8] [♥️ 5] |    0.00% | ✅ call
+  Finneas         | [♦️ 9] [♣️ 5] |    0.00% | ✅ call
+  Yuchun          | [♠️ 4] [♥️ Q] |  100.00% | ✅ call
+
+🏆 Winner: Yuchun
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   930 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   910 ➡️ (+0)
+  Finneas        : $   518 📉 (-10)
+  Yuchun         : $   900 📈 (+30)
+  Zheng          : $   780 📉 (-5)
+  RaphaelPlayer  : $  3962 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 38
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♦️ 8] [♣️ 4]        | 💰   920
+👤 YueShi          | [♣️ 3] [♠️ 6]        | 💰   910
+👤 Finneas         | [♥️ K] [♠️ 9]        | 💰   518
+👤 Yuchun          | [♥️ 8] [♣️ T]        | 💰   900
+👤 Zheng           | [♣️ 9] [♠️ 3]        | 💰   780
+👤 RaphaelPlayer   | [♦️ 6] [♦️ 3]        | 💰  3957
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♣️ 3] [♠️ 6] |   12.10% | ❌ fold
+  Finneas         | [♥️ K] [♠️ 9] |   37.70% | ✅ call:$10
+  Yuchun          | [♥️ 8] [♣️ T] |   27.60% | ✅ call:$10
+  Zheng           | [♣️ 9] [♠️ 3] |    6.80% | ✅ call:$10
+  RaphaelPlayer   | [♦️ 6] [♦️ 3] |   22.20% | ❌ fold
+  ZifengFoldMan   | [♦️ 8] [♣️ 4] |   20.50% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ J] [♥️ 3] [♣️ 6] ]
+  Finneas         | [♥️ K] [♠️ 9] |   15.80% | ✅ call
+  Yuchun          | [♥️ 8] [♣️ T] |   21.10% | ✅ call
+  Zheng           | [♣️ 9] [♠️ 3] |   63.10% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ J] [♥️ 3] [♣️ 6] [♠️ 4] ]
+  Finneas         | [♥️ K] [♠️ 9] |    7.90% | ✅ call
+  Yuchun          | [♥️ 8] [♣️ T] |   14.00% | ✅ call
+  Zheng           | [♣️ 9] [♠️ 3] |   78.10% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ J] [♥️ 3] [♣️ 6] [♠️ 4] [♥️ 2] ]
+  Finneas         | [♥️ K] [♠️ 9] |    0.00% | ✅ call
+  Yuchun          | [♥️ 8] [♣️ T] |    0.00% | ✅ call
+  Zheng           | [♣️ 9] [♠️ 3] |  100.00% | ✅ call
+
+🏆 Winner: Zheng
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   920 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   910 ➡️ (+0)
+  Finneas        : $   508 📉 (-10)
+  Yuchun         : $   890 📉 (-10)
+  Zheng          : $   815 📈 (+35)
+  RaphaelPlayer  : $  3957 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 39
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♣️ 2] [♥️ 6]        | 💰   915
+👤 YueShi          | [♣️ 3] [♣️ J]        | 💰   900
+👤 Finneas         | [♠️ Q] [♣️ 5]        | 💰   508
+👤 Yuchun          | [♦️ 4] [♥️ 8]        | 💰   890
+👤 Zheng           | [♠️ 9] [♠️ 4]        | 💰   815
+👤 RaphaelPlayer   | [♦️ 9] [♦️ 6]        | 💰  3957
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♠️ Q] [♣️ 5] |   23.60% | ✅ call:$10
+  Yuchun          | [♦️ 4] [♥️ 8] |   11.40% | ✅ call:$10
+  Zheng           | [♠️ 9] [♠️ 4] |   20.30% | ✅ call:$10
+  RaphaelPlayer   | [♦️ 9] [♦️ 6] |   24.00% | ✅ call:$10
+  ZifengFoldMan   | [♣️ 2] [♥️ 6] |    7.70% | ❌ fold
+  YueShi          | [♣️ 3] [♣️ J] |   27.00% | ❌ fold
+
+🎴 FLOP
+Board: [ [♠️ 6] [♥️ 2] [♣️ K] ]
+  Finneas         | [♠️ Q] [♣️ 5] |   15.10% | ✅ call
+  Yuchun          | [♦️ 4] [♥️ 8] |   14.20% | ✅ call
+  Zheng           | [♠️ 9] [♠️ 4] |    6.90% | ✅ call
+  RaphaelPlayer   | [♦️ 9] [♦️ 6] |   66.60% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 6] [♥️ 2] [♣️ K] [♦️ 5] ]
+  Finneas         | [♠️ Q] [♣️ 5] |   16.00% | ✅ call
+  Yuchun          | [♦️ 4] [♥️ 8] |   27.20% | ✅ call
+  Zheng           | [♠️ 9] [♠️ 4] |   10.10% | ✅ call
+  RaphaelPlayer   | [♦️ 9] [♦️ 6] |   56.80% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ 6] [♥️ 2] [♣️ K] [♦️ 5] [♠️ 7] ]
+  Finneas         | [♠️ Q] [♣️ 5] |    0.00% | ✅ call
+  Yuchun          | [♦️ 4] [♥️ 8] |  100.00% | ⬆️ raise:$880
+  Zheng           | [♠️ 9] [♠️ 4] |    0.00% | ❌ fold
+  RaphaelPlayer   | [♦️ 9] [♦️ 6] |    0.00% | ❌ fold
+  Finneas         | [♠️ Q] [♣️ 5] |    0.00% | ❌ fold
+
+🏆 Winner: Yuchun
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   915 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   900 ➡️ (+0)
+  Finneas        : $   498 📉 (-10)
+  Yuchun         : $   935 📈 (+45)
+  Zheng          : $   805 📉 (-10)
+  RaphaelPlayer  : $  3947 📉 (-10)
+----------------------------------------
+
+🔄 Round 40
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♥️ 7] [♣️ 6]        | 💰   915
+👤 YueShi          | [♣️ 7] [♥️ K]        | 💰   895
+👤 Finneas         | [♥️ Q] [♥️ 4]        | 💰   488
+👤 Yuchun          | [♦️ 6] [♣️ K]        | 💰   935
+👤 Zheng           | [♥️ 5] [♦️ 9]        | 💰   805
+👤 RaphaelPlayer   | [♣️ J] [♥️ 8]        | 💰  3947
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♦️ 6] [♣️ K] |   12.50% | ✅ call:$10
+  Zheng           | [♥️ 5] [♦️ 9] |   18.80% | ✅ call:$10
+  RaphaelPlayer   | [♣️ J] [♥️ 8] |   28.60% | ✅ call:$10
+  ZifengFoldMan   | [♥️ 7] [♣️ 6] |    9.70% | ❌ fold
+  YueShi          | [♣️ 7] [♥️ K] |   16.60% | ❌ fold
+  Finneas         | [♥️ Q] [♥️ 4] |   27.60% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♣️ 9] [♠️ K] [♠️ T] ]
+  Finneas         | [♥️ Q] [♥️ 4] |   13.60% | ✅ call
+  Yuchun          | [♦️ 6] [♣️ K] |   43.80% | ✅ call
+  Zheng           | [♥️ 5] [♦️ 9] |   14.90% | ✅ call
+  RaphaelPlayer   | [♣️ J] [♥️ 8] |   31.00% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 9] [♠️ K] [♠️ T] [♠️ 9] ]
+  Finneas         | [♥️ Q] [♥️ 4] |    6.20% | ✅ call
+  Yuchun          | [♦️ 6] [♣️ K] |    5.20% | ✅ call
+  Zheng           | [♥️ 5] [♦️ 9] |   70.50% | ✅ call
+  RaphaelPlayer   | [♣️ J] [♥️ 8] |   18.10% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 9] [♠️ K] [♠️ T] [♠️ 9] [♣️ Q] ]
+  Finneas         | [♥️ Q] [♥️ 4] |    0.00% | ✅ call
+  Yuchun          | [♦️ 6] [♣️ K] |    0.00% | ✅ call
+  Zheng           | [♥️ 5] [♦️ 9] |    0.00% | ✅ call
+  RaphaelPlayer   | [♣️ J] [♥️ 8] |  100.00% | ⬆️ raise:$55
+  Finneas         | [♥️ Q] [♥️ 4] |    0.00% | ❌ fold
+  Yuchun          | [♦️ 6] [♣️ K] |    0.00% | ✅ call:$55
+  Zheng           | [♥️ 5] [♦️ 9] |    0.00% | ✅ call:$55
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   915 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   895 ➡️ (+0)
+  Finneas        : $   488 ➡️ (+0)
+  Yuchun         : $   870 📉 (-65)
+  Zheng          : $   740 📉 (-65)
+  RaphaelPlayer  : $  4092 📈 (+145)
+----------------------------------------
+
+🔄 Round 41
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♥️ 3] [♣️ Q]        | 💰   915
+👤 YueShi          | [♥️ 2] [♣️ 8]        | 💰   895
+👤 Finneas         | [♠️ 9] [♦️ K]        | 💰   483
+👤 Yuchun          | [♠️ A] [♦️ J]        | 💰   860
+👤 Zheng           | [♣️ J] [♥️ 8]        | 💰   740
+👤 RaphaelPlayer   | [♥️ J] [♥️ 5]        | 💰  4092
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♣️ J] [♥️ 8] |   10.80% | ✅ call:$10
+  RaphaelPlayer   | [♥️ J] [♥️ 5] |   14.00% | ❌ fold
+  ZifengFoldMan   | [♥️ 3] [♣️ Q] |   19.40% | ❌ fold
+  YueShi          | [♥️ 2] [♣️ 8] |   12.80% | ❌ fold
+  Finneas         | [♠️ 9] [♦️ K] |   33.10% | ✅ call:$10
+  Yuchun          | [♠️ A] [♦️ J] |   49.70% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ 4] [♠️ 7] [♠️ J] ]
+  Finneas         | [♠️ 9] [♦️ K] |   18.40% | ✅ call
+  Zheng           | [♣️ J] [♥️ 8] |   81.60% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 4] [♠️ 7] [♠️ J] [♦️ 7] ]
+  Finneas         | [♠️ 9] [♦️ K] |    8.20% | ✅ call
+  Zheng           | [♣️ J] [♥️ 8] |   91.80% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ 4] [♠️ 7] [♠️ J] [♦️ 7] [♣️ 7] ]
+  Finneas         | [♠️ 9] [♦️ K] |    0.00% | ⬆️ raise:$244
+  Zheng           | [♣️ J] [♥️ 8] |  100.00% | ⬆️ raise:$609
+  Finneas         | [♠️ 9] [♦️ K] |    0.00% | ❌ fold
+
+🏆 Winner: Zheng
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   915 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   895 ➡️ (+0)
+  Finneas        : $   234 📉 (-249)
+  Yuchun         : $   860 ➡️ (+0)
+  Zheng          : $  1004 📈 (+264)
+  RaphaelPlayer  : $  4092 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 42
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♦️ 7] [♣️ J]        | 💰   915
+👤 YueShi          | [♥️ T] [♣️ 3]        | 💰   895
+👤 Finneas         | [♣️ K] [♠️ 4]        | 💰   234
+👤 Yuchun          | [♠️ 5] [♣️ 8]        | 💰   855
+👤 Zheng           | [♥️ K] [♠️ 8]        | 💰   994
+👤 RaphaelPlayer   | [♥️ 7] [♥️ 4]        | 💰  4092
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♥️ 7] [♥️ 4] |   15.00% | ❌ fold
+  ZifengFoldMan   | [♦️ 7] [♣️ J] |   30.90% | ❌ fold
+  YueShi          | [♥️ T] [♣️ 3] |   31.20% | ❌ fold
+  Finneas         | [♣️ K] [♠️ 4] |   38.20% | ✅ call:$10
+  Yuchun          | [♠️ 5] [♣️ 8] |   28.20% | ❌ fold
+  Zheng           | [♥️ K] [♠️ 8] |   78.10% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♥️ 2] [♦️ 9] [♦️ 4] ]
+  Zheng           | [♥️ K] [♠️ 8] |   12.30% | ✅ call
+  Finneas         | [♣️ K] [♠️ 4] |   87.70% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 2] [♦️ 9] [♦️ 4] [♠️ K] ]
+  Zheng           | [♥️ K] [♠️ 8] |   12.30% | ✅ call
+  Finneas         | [♣️ K] [♠️ 4] |   87.70% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ 2] [♦️ 9] [♦️ 4] [♠️ K] [♣️ 7] ]
+  Zheng           | [♥️ K] [♠️ 8] |    0.00% | ✅ call
+  Finneas         | [♣️ K] [♠️ 4] |  100.00% | ✅ call
+
+🏆 Winner: Finneas
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   915 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   895 ➡️ (+0)
+  Finneas        : $   249 📈 (+15)
+  Yuchun         : $   855 ➡️ (+0)
+  Zheng          : $   994 ➡️ (+0)
+  RaphaelPlayer  : $  4092 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 43
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♥️ 4] [♦️ 5]        | 💰   915
+👤 YueShi          | [♣️ 6] [♠️ K]        | 💰   895
+👤 Finneas         | [♠️ T] [♥️ Q]        | 💰   249
+👤 Yuchun          | [♥️ 9] [♦️ J]        | 💰   855
+👤 Zheng           | [♣️ 7] [♦️ 4]        | 💰   989
+👤 RaphaelPlayer   | [♥️ T] [♠️ 3]        | 💰  4082
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♥️ 4] [♦️ 5] |   14.40% | ❌ fold
+  YueShi          | [♣️ 6] [♠️ K] |   25.10% | ❌ fold
+  Finneas         | [♠️ T] [♥️ Q] |   35.90% | ✅ call:$10
+  Yuchun          | [♥️ 9] [♦️ J] |   31.60% | ❌ fold
+  Zheng           | [♣️ 7] [♦️ 4] |   35.30% | ✅ call:$10
+  RaphaelPlayer   | [♥️ T] [♠️ 3] |   15.50% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ Q] [♣️ 2] [♣️ 9] ]
+  Zheng           | [♣️ 7] [♦️ 4] |   37.80% | ✅ call
+  Finneas         | [♠️ T] [♥️ Q] |   62.20% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ Q] [♣️ 2] [♣️ 9] [♥️ 6] ]
+  Zheng           | [♣️ 7] [♦️ 4] |   18.20% | ✅ call
+  Finneas         | [♠️ T] [♥️ Q] |   81.80% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ Q] [♣️ 2] [♣️ 9] [♥️ 6] [♠️ Q] ]
+  Zheng           | [♣️ 7] [♦️ 4] |    0.00% | ✅ call
+  Finneas         | [♠️ T] [♥️ Q] |  100.00% | ⬆️ raise:$124
+  Zheng           | [♣️ 7] [♦️ 4] |    0.00% | ✅ call:$124
+
+🏆 Winner: Finneas
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   915 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   895 ➡️ (+0)
+  Finneas        : $   393 📈 (+144)
+  Yuchun         : $   855 ➡️ (+0)
+  Zheng          : $   860 📉 (-129)
+  RaphaelPlayer  : $  4082 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 44
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♦️ Q] [♠️ A]        | 💰   905
+👤 YueShi          | [♥️ 8] [♦️ K]        | 💰   895
+👤 Finneas         | [♦️ A] [♦️ T]        | 💰   393
+👤 Yuchun          | [♥️ 3] [♦️ 3]        | 💰   855
+👤 Zheng           | [♣️ A] [♦️ 8]        | 💰   860
+👤 RaphaelPlayer   | [♥️ T] [♥️ J]        | 💰  4077
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♥️ 8] [♦️ K] |   17.70% | ❌ fold
+  Finneas         | [♦️ A] [♦️ T] |   18.60% | ✅ call:$10
+  Yuchun          | [♥️ 3] [♦️ 3] |   27.30% | ❌ fold
+  Zheng           | [♣️ A] [♦️ 8] |   15.80% | ✅ call:$10
+  RaphaelPlayer   | [♥️ T] [♥️ J] |   33.40% | ✅ call:$10
+  ZifengFoldMan   | [♦️ Q] [♠️ A] |   38.60% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ 2] [♣️ 9] [♦️ 4] ]
+  RaphaelPlayer   | [♥️ T] [♥️ J] |   14.10% | ✅ call
+  Finneas         | [♦️ A] [♦️ T] |   71.60% | ✅ call
+  Zheng           | [♣️ A] [♦️ 8] |   18.30% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 2] [♣️ 9] [♦️ 4] [♠️ K] ]
+  RaphaelPlayer   | [♥️ T] [♥️ J] |   17.40% | ✅ call
+  Finneas         | [♦️ A] [♦️ T] |   75.70% | ✅ call
+  Zheng           | [♣️ A] [♦️ 8] |    6.90% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 2] [♣️ 9] [♦️ 4] [♠️ K] [♣️ 6] ]
+  RaphaelPlayer   | [♥️ T] [♥️ J] |    0.00% | ✅ call
+  Finneas         | [♦️ A] [♦️ T] |  100.00% | ✅ call
+  Zheng           | [♣️ A] [♦️ 8] |    0.00% | ✅ call
+
+🏆 Winner: Finneas
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   905 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   895 ➡️ (+0)
+  Finneas        : $   423 📈 (+30)
+  Yuchun         : $   855 ➡️ (+0)
+  Zheng          : $   850 📉 (-10)
+  RaphaelPlayer  : $  4072 📉 (-5)
+----------------------------------------
+
+🔄 Round 45
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♣️ 9] [♥️ 9]        | 💰   900
+👤 YueShi          | [♣️ 7] [♦️ A]        | 💰   885
+👤 Finneas         | [♦️ 9] [♦️ K]        | 💰   423
+👤 Yuchun          | [♦️ 2] [♦️ 8]        | 💰   855
+👤 Zheng           | [♠️ 3] [♥️ A]        | 💰   850
+👤 RaphaelPlayer   | [♣️ 8] [♥️ 2]        | 💰  4072
+
+🎴 PREFLOP
+Board: [  ]
+  Finneas         | [♦️ 9] [♦️ K] |   28.60% | ✅ call:$10
+  Yuchun          | [♦️ 2] [♦️ 8] |    6.20% | ❌ fold
+  Zheng           | [♠️ 3] [♥️ A] |   14.90% | ✅ call:$10
+  RaphaelPlayer   | [♣️ 8] [♥️ 2] |   10.90% | ❌ fold
+  ZifengFoldMan   | [♣️ 9] [♥️ 9] |   41.20% | ❌ fold
+  YueShi          | [♣️ 7] [♦️ A] |   37.30% | ❌ fold
+
+🎴 FLOP
+Board: [ [♣️ 2] [♣️ 3] [♣️ A] ]
+  Finneas         | [♦️ 9] [♦️ K] |    7.80% | ✅ call
+  Zheng           | [♠️ 3] [♥️ A] |   99.00% | ✅ call
+
+🎴 TURN
+Board: [ [♣️ 2] [♣️ 3] [♣️ A] [♦️ J] ]
+  Finneas         | [♦️ 9] [♦️ K] |    0.00% | ✅ call
+  Zheng           | [♠️ 3] [♥️ A] |  100.00% | ✅ call
+
+🎴 RIVER
+Board: [ [♣️ 2] [♣️ 3] [♣️ A] [♦️ J] [♥️ 8] ]
+  Finneas         | [♦️ 9] [♦️ K] |    0.00% | ✅ call
+  Zheng           | [♠️ 3] [♥️ A] |  100.00% | ⬆️ raise:$425
+  Finneas         | [♦️ 9] [♦️ K] |    0.00% | ❌ fold
+
+🏆 Winner: Zheng
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   900 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   885 ➡️ (+0)
+  Finneas        : $   413 📉 (-10)
+  Yuchun         : $   855 ➡️ (+0)
+  Zheng          : $   875 📈 (+25)
+  RaphaelPlayer  : $  4072 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 46
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♥️ 5] [♠️ T]        | 💰   900
+👤 YueShi          | [♦️ 7] [♣️ 8]        | 💰   880
+👤 Finneas         | [♣️ 6] [♦️ K]        | 💰   403
+👤 Yuchun          | [♥️ 4] [♣️ 5]        | 💰   855
+👤 Zheng           | [♠️ 6] [♣️ 4]        | 💰   875
+👤 RaphaelPlayer   | [♣️ 3] [♥️ 6]        | 💰  4072
+
+🎴 PREFLOP
+Board: [  ]
+  Yuchun          | [♥️ 4] [♣️ 5] |   10.50% | ❌ fold
+  Zheng           | [♠️ 6] [♣️ 4] |   11.50% | ✅ call:$10
+  RaphaelPlayer   | [♣️ 3] [♥️ 6] |    9.80% | ❌ fold
+  ZifengFoldMan   | [♥️ 5] [♠️ T] |   25.70% | ❌ fold
+  YueShi          | [♦️ 7] [♣️ 8] |   38.70% | ❌ fold
+  Finneas         | [♣️ 6] [♦️ K] |   72.70% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♠️ 8] [♥️ 2] [♣️ 2] ]
+  Finneas         | [♣️ 6] [♦️ K] |   85.00% | ✅ call
+  Zheng           | [♠️ 6] [♣️ 4] |   18.10% | ✅ call
+
+🎴 TURN
+Board: [ [♠️ 8] [♥️ 2] [♣️ 2] [♦️ Q] ]
+  Finneas         | [♣️ 6] [♦️ K] |   94.50% | ✅ call
+  Zheng           | [♠️ 6] [♣️ 4] |    5.50% | ✅ call
+
+🎴 RIVER
+Board: [ [♠️ 8] [♥️ 2] [♣️ 2] [♦️ Q] [♦️ 2] ]
+  Finneas         | [♣️ 6] [♦️ K] |  100.00% | ⬆️ raise:$206
+  Zheng           | [♠️ 6] [♣️ 4] |    0.00% | ❌ fold
+
+🏆 Winner: Finneas
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   900 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   880 ➡️ (+0)
+  Finneas        : $   428 📈 (+25)
+  Yuchun         : $   855 ➡️ (+0)
+  Zheng          : $   865 📉 (-10)
+  RaphaelPlayer  : $  4072 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 47
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♥️ 3] [♠️ J]        | 💰   900
+👤 YueShi          | [♣️ T] [♦️ 6]        | 💰   880
+👤 Finneas         | [♦️ K] [♣️ 4]        | 💰   423
+👤 Yuchun          | [♥️ 9] [♦️ 7]        | 💰   845
+👤 Zheng           | [♦️ 8] [♦️ 2]        | 💰   865
+👤 RaphaelPlayer   | [♥️ A] [♦️ 9]        | 💰  4072
+
+🎴 PREFLOP
+Board: [  ]
+  Zheng           | [♦️ 8] [♦️ 2] |   14.20% | ✅ call:$10
+  RaphaelPlayer   | [♥️ A] [♦️ 9] |   21.00% | ✅ call:$10
+  ZifengFoldMan   | [♥️ 3] [♠️ J] |   18.30% | ❌ fold
+  YueShi          | [♣️ T] [♦️ 6] |   22.50% | ❌ fold
+  Finneas         | [♦️ K] [♣️ 4] |   26.60% | ✅ call:$10
+  Yuchun          | [♥️ 9] [♦️ 7] |   16.80% | ❌ fold
+
+🎴 FLOP
+Board: [ [♦️ 3] [♣️ J] [♥️ 2] ]
+  Finneas         | [♦️ K] [♣️ 4] |   21.30% | ✅ call
+  Zheng           | [♦️ 8] [♦️ 2] |   57.00% | ✅ call
+  RaphaelPlayer   | [♥️ A] [♦️ 9] |   21.70% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ 3] [♣️ J] [♥️ 2] [♣️ 6] ]
+  Finneas         | [♦️ K] [♣️ 4] |   25.10% | ✅ call
+  Zheng           | [♦️ 8] [♦️ 2] |   60.60% | ✅ call
+  RaphaelPlayer   | [♥️ A] [♦️ 9] |   14.30% | ✅ call
+
+🎴 RIVER
+Board: [ [♦️ 3] [♣️ J] [♥️ 2] [♣️ 6] [♥️ T] ]
+  Finneas         | [♦️ K] [♣️ 4] |    0.00% | ✅ call
+  Zheng           | [♦️ 8] [♦️ 2] |  100.00% | ✅ call
+  RaphaelPlayer   | [♥️ A] [♦️ 9] |    0.00% | ✅ call
+
+🏆 Winner: Zheng
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   900 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   880 ➡️ (+0)
+  Finneas        : $   418 📉 (-5)
+  Yuchun         : $   845 ➡️ (+0)
+  Zheng          : $   895 📈 (+30)
+  RaphaelPlayer  : $  4062 📉 (-10)
+----------------------------------------
+
+🔄 Round 48
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♣️ K] [♦️ 4]        | 💰   900
+👤 YueShi          | [♠️ 8] [♦️ T]        | 💰   880
+👤 Finneas         | [♥️ 4] [♣️ T]        | 💰   418
+👤 Yuchun          | [♣️ A] [♠️ A]        | 💰   840
+👤 Zheng           | [♦️ Q] [♣️ 5]        | 💰   885
+👤 RaphaelPlayer   | [♥️ Q] [♦️ 9]        | 💰  4062
+
+🎴 PREFLOP
+Board: [  ]
+  RaphaelPlayer   | [♥️ Q] [♦️ 9] |   11.90% | ✅ call:$10
+  ZifengFoldMan   | [♣️ K] [♦️ 4] |    7.70% | ❌ fold
+  YueShi          | [♠️ 8] [♦️ T] |   11.60% | ❌ fold
+  Finneas         | [♥️ 4] [♣️ T] |   11.40% | ✅ call:$10
+  Yuchun          | [♣️ A] [♠️ A] |   68.80% | ✅ call:$10
+  Zheng           | [♦️ Q] [♣️ 5] |    9.90% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♦️ J] [♥️ 9] [♣️ 8] ]
+  Yuchun          | [♣️ A] [♠️ A] |   51.80% | ✅ call
+  Zheng           | [♦️ Q] [♣️ 5] |   15.40% | ✅ call
+  RaphaelPlayer   | [♥️ Q] [♦️ 9] |   22.60% | ✅ call
+  Finneas         | [♥️ 4] [♣️ T] |   25.70% | ✅ call
+
+🎴 TURN
+Board: [ [♦️ J] [♥️ 9] [♣️ 8] [♥️ J] ]
+  Yuchun          | [♣️ A] [♠️ A] |   75.10% | ✅ call
+  Zheng           | [♦️ Q] [♣️ 5] |    7.10% | ✅ call
+  RaphaelPlayer   | [♥️ Q] [♦️ 9] |   11.80% | ⬆️ raise:$50
+  Finneas         | [♥️ 4] [♣️ T] |   13.10% | ❌ fold
+  Yuchun          | [♣️ A] [♠️ A] |   85.80% | ✅ call:$50
+  Zheng           | [♦️ Q] [♣️ 5] |    8.70% | ✅ call:$50
+
+🎴 RIVER
+Board: [ [♦️ J] [♥️ 9] [♣️ 8] [♥️ J] [♣️ 9] ]
+  Yuchun          | [♣️ A] [♠️ A] |    0.00% | ✅ call
+  Zheng           | [♦️ Q] [♣️ 5] |    0.00% | ✅ call
+  RaphaelPlayer   | [♥️ Q] [♦️ 9] |  100.00% | ⬆️ raise:$200
+  Yuchun          | [♣️ A] [♠️ A] |    0.00% | ❌ fold
+  Zheng           | [♦️ Q] [♣️ 5] |    0.00% | ❌ fold
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   900 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   880 ➡️ (+0)
+  Finneas        : $   408 📉 (-10)
+  Yuchun         : $   785 📉 (-55)
+  Zheng          : $   835 📉 (-50)
+  RaphaelPlayer  : $  4192 📈 (+130)
+----------------------------------------
+
+🔄 Round 49
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♠️ T] [♣️ A]        | 💰   900
+👤 YueShi          | [♦️ Q] [♠️ 5]        | 💰   880
+👤 Finneas         | [♠️ 8] [♣️ Q]        | 💰   408
+👤 Yuchun          | [♦️ 3] [♣️ K]        | 💰   785
+👤 Zheng           | [♦️ 9] [♣️ 7]        | 💰   830
+👤 RaphaelPlayer   | [♥️ K] [♥️ 5]        | 💰  4182
+
+🎴 PREFLOP
+Board: [  ]
+  ZifengFoldMan   | [♠️ T] [♣️ A] |   31.00% | ❌ fold
+  YueShi          | [♦️ Q] [♠️ 5] |   11.80% | ❌ fold
+  Finneas         | [♠️ 8] [♣️ Q] |   26.60% | ✅ call:$10
+  Yuchun          | [♦️ 3] [♣️ K] |   20.60% | ❌ fold
+  Zheng           | [♦️ 9] [♣️ 7] |   26.80% | ✅ call:$10
+  RaphaelPlayer   | [♥️ K] [♥️ 5] |   40.50% | ✅ call:$10
+
+🎴 FLOP
+Board: [ [♥️ A] [♣️ 9] [♠️ J] ]
+  Zheng           | [♦️ 9] [♣️ 7] |   58.20% | ✅ call
+  RaphaelPlayer   | [♥️ K] [♥️ 5] |   15.80% | ✅ call
+  Finneas         | [♠️ 8] [♣️ Q] |   26.00% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ A] [♣️ 9] [♠️ J] [♦️ 8] ]
+  Zheng           | [♦️ 9] [♣️ 7] |   70.30% | ✅ call
+  RaphaelPlayer   | [♥️ K] [♥️ 5] |    7.40% | ✅ call
+  Finneas         | [♠️ 8] [♣️ Q] |   22.30% | ✅ call
+
+🎴 RIVER
+Board: [ [♥️ A] [♣️ 9] [♠️ J] [♦️ 8] [♥️ 6] ]
+  Zheng           | [♦️ 9] [♣️ 7] |  100.00% | ✅ call
+  RaphaelPlayer   | [♥️ K] [♥️ 5] |    0.00% | ✅ call
+  Finneas         | [♠️ 8] [♣️ Q] |    0.00% | ✅ call
+
+🏆 Winner: Zheng
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   900 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   880 ➡️ (+0)
+  Finneas        : $   398 📉 (-10)
+  Yuchun         : $   785 ➡️ (+0)
+  Zheng          : $   855 📈 (+25)
+  RaphaelPlayer  : $  4182 ➡️ (+0)
+----------------------------------------
+
+🔄 Round 50
+----------------------------------------
+Initial State:
+👤 ZifengFoldMan   | [♠️ 8] [♠️ 3]        | 💰   890
+👤 YueShi          | [♠️ 6] [♠️ T]        | 💰   880
+👤 Finneas         | [♦️ 9] [♥️ Q]        | 💰   398
+👤 Yuchun          | [♠️ 2] [♣️ T]        | 💰   785
+👤 Zheng           | [♠️ 9] [♦️ 7]        | 💰   855
+👤 RaphaelPlayer   | [♠️ A] [♠️ 5]        | 💰  4177
+
+🎴 PREFLOP
+Board: [  ]
+  YueShi          | [♠️ 6] [♠️ T] |   14.80% | ❌ fold
+  Finneas         | [♦️ 9] [♥️ Q] |   25.30% | ✅ call:$10
+  Yuchun          | [♠️ 2] [♣️ T] |   17.60% | ❌ fold
+  Zheng           | [♠️ 9] [♦️ 7] |   16.80% | ✅ call:$10
+  RaphaelPlayer   | [♠️ A] [♠️ 5] |   37.80% | ✅ call:$10
+  ZifengFoldMan   | [♠️ 8] [♠️ 3] |   16.60% | ❌ fold
+
+🎴 FLOP
+Board: [ [♥️ 5] [♣️ 2] [♦️ K] ]
+  RaphaelPlayer   | [♠️ A] [♠️ 5] |   66.30% | ✅ call
+  Finneas         | [♦️ 9] [♥️ Q] |   19.40% | ✅ call
+  Zheng           | [♠️ 9] [♦️ 7] |   14.90% | ✅ call
+
+🎴 TURN
+Board: [ [♥️ 5] [♣️ 2] [♦️ K] [♥️ K] ]
+  RaphaelPlayer   | [♠️ A] [♠️ 5] |   80.60% | ⬆️ raise:$50
+  Finneas         | [♦️ 9] [♥️ Q] |   11.70% | ❌ fold
+  Zheng           | [♠️ 9] [♦️ 7] |   13.90% | ✅ call:$50
+
+🎴 RIVER
+Board: [ [♥️ 5] [♣️ 2] [♦️ K] [♥️ K] [♦️ J] ]
+  RaphaelPlayer   | [♠️ A] [♠️ 5] |  100.00% | ⬆️ raise:$150
+  Zheng           | [♠️ 9] [♦️ 7] |    0.00% | ✅ call:$150
+
+🏆 Winner: RaphaelPlayer
+Final Stacks:
+  EvanPlayer     : $     0 ➡️ (+0)
+  ZifengFoldMan  : $   890 ➡️ (+0)
+  JoyoPlayer     : $     0 ➡️ (+0)
+  YueShi         : $   880 ➡️ (+0)
+  Finneas        : $   388 📉 (-10)
+  Yuchun         : $   785 ➡️ (+0)
+  Zheng          : $   645 📉 (-210)
+  RaphaelPlayer  : $  4412 📈 (+235)
+----------------------------------------
+
+🏁 Final Rankings:
+--------------------------------------------------
+
+🎮 Active Players:
+1. 🏆 RaphaelPlayer   | Stack:       4412 | Status: active
+2. 👥 ZifengFoldMan   | Stack:        890 | Status: active
+3. 👥 YueShi          | Stack:        880 | Status: active
+4. 👥 Yuchun          | Stack:        785 | Status: active
+5. 👥 Zheng           | Stack:        645 | Status: active
+6. 👥 Finneas         | Stack:        388 | Status: active
+
+💀 Eliminated Players:
+7. 💀 EvanPlayer      | Stack: 0 (Max: 1110) | Status: eliminated (Round 14)
+8. 💀 JoyoPlayer      | Stack: 0 (Max: 990) | Status: eliminated (Round 3)
