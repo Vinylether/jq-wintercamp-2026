@@ -4,6 +4,7 @@ import argparse
 import multiprocessing as mp
 import os
 import importlib.util
+import random
 
 from pypokerengine.api.game import setup_config, start_poker
 from pypokerengine.players import BasePokerPlayer
@@ -23,6 +24,19 @@ def load_sub_classes(directory, base_class):
             if isinstance(obj, type) and issubclass(obj, base_class) and obj != base_class:
                 classes.append(obj)
     return classes
+
+
+def _unique_name(base, used):
+    if base not in used:
+        used.add(base)
+        return base
+    idx = 2
+    while True:
+        name = f"{base}_{idx}"
+        if name not in used:
+            used.add(name)
+            return name
+        idx += 1
 
 
 class CallBot(BasePokerPlayer):
@@ -46,26 +60,37 @@ class CallBot(BasePokerPlayer):
         pass
 
 
-def start_one_game(rounds, player_dir, table_size):
+def start_one_game(rounds, player_dir, opponent_dir, opponent_max, table_size, seed):
     config = setup_config(max_round=rounds, initial_stack=1000, small_blind_amount=5)
     player_constructors = load_sub_classes(player_dir, BasePokerPlayer)
+    opponent_constructors = []
+    if opponent_dir and os.path.isdir(opponent_dir):
+        opponent_constructors = load_sub_classes(opponent_dir, BasePokerPlayer)
 
-    names = set([ctor.__name__ for ctor in player_constructors])
-    if len(names) != len(player_constructors):
-        raise ValueError("Found duplicated player name in bot directory")
+    random.seed(seed)
+    random.shuffle(opponent_constructors)
+    opponent_constructors = opponent_constructors[: max(0, opponent_max)]
 
+    used_names = set()
     for ctor in player_constructors:
-        config.register_player(name=ctor.__name__, algorithm=ctor())
+        name = _unique_name(ctor.__name__, used_names)
+        config.register_player(name=name, algorithm=ctor())
 
-    missing = max(0, table_size - len(player_constructors))
+    for ctor in opponent_constructors:
+        if len(used_names) >= table_size:
+            break
+        name = _unique_name(ctor.__name__, used_names)
+        config.register_player(name=name, algorithm=ctor())
+
+    missing = max(0, table_size - len(used_names))
     for idx in range(missing):
         config.register_player(name=f"CallBot{idx}", algorithm=CallBot())
 
     return start_poker(config, verbose=0)
 
 
-def get_result(game_index, rounds, player_dir, table_size):
-    game_result = start_one_game(rounds, player_dir, table_size)
+def get_result(game_index, rounds, player_dir, opponent_dir, opponent_max, table_size, seed):
+    game_result = start_one_game(rounds, player_dir, opponent_dir, opponent_max, table_size, seed + game_index)
     winner_name = ""
     winner_stack = 0
 
@@ -89,10 +114,29 @@ def main():
     parser.add_argument("-c", "--cores", type=int, default=1, help="use how many cores")
     parser.add_argument("-d", "--dir", default=".", help="bot directory to load")
     parser.add_argument("-t", "--table-size", type=int, default=8, help="players per table")
+    parser.add_argument(
+        "-o",
+        "--opponents-dir",
+        default="pypokerengine/jq_player_examples",
+        help="opponent directory to load",
+    )
+    parser.add_argument("-m", "--opponents-max", type=int, default=6, help="max opponents to load")
+    parser.add_argument("-s", "--seed", type=int, default=17, help="random seed")
     args = parser.parse_args()
 
     with mp.Pool(args.cores) as pool:
-        game_params = [(i, args.rounds, args.dir, args.table_size) for i in range(args.games)]
+        game_params = [
+            (
+                i,
+                args.rounds,
+                args.dir,
+                args.opponents_dir,
+                args.opponents_max,
+                args.table_size,
+                args.seed,
+            )
+            for i in range(args.games)
+        ]
         results = pool.starmap(get_result, game_params)
 
     results.sort(key=lambda x: x["game"])
